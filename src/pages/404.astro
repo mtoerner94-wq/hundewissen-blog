@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Seite nicht gefunden"
+  description="Die gesuchte Seite existiert leider nicht."
+>
+  <div class="min-h-[60vh] flex items-center justify-center px-4 py-16">
+    <div class="text-center max-w-lg">
+      <div class="text-8xl mb-6">🐕</div>
+      <h1 class="text-4xl font-bold text-slate-900 mb-4">
+        Seite nicht gefunden
+      </h1>
+      <p class="text-lg text-slate-600 mb-8">
+        Hier hat sich wohl jemand verlaufen! Die Seite, die du suchst, gibt es leider nicht (mehr).
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a
+          href="/"
+          class="inline-flex items-center justify-center px-6 py-3 bg-[var(--color-primary)] text-white font-semibold rounded-xl hover:opacity-90 transition-opacity"
+        >
+          Zur Startseite
+        </a>
+        <a
+          href="/hundeernaehrung/"
+          class="inline-flex items-center justify-center px-6 py-3 border-2 border-slate-200 text-slate-700 font-semibold rounded-xl hover:border-[var(--color-primary)] hover:text-[var(--color-primary)] transition-colors"
+        >
+          Alle Artikel entdecken
+        </a>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
