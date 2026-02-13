@@ -16,22 +16,64 @@ faqs:
     answer: "Zu den giftigen Lebensmitteln zählen Schokolade, Weintrauben und Rosinen, Zwiebeln und Knoblauch, Avocado, Macadamianüsse, Alkohol, Xylit (Birkenzucker) sowie koffeinhaltige Getränke. Bereits kleine Mengen können schwere Vergiftungen auslösen."
   - question: "Wie erkennt man eine schleichende Vergiftung beim Hund?"
     answer: "Typische Anzeichen sind zunehmende Mattigkeit, Appetitlosigkeit, blasses oder weißliches Zahnfleisch, spontane Blutungen und allgemeine Schwäche. Rattengift ist der häufigste Auslöser – die Symptome treten erst 3–5 Tage nach der Aufnahme auf."
+  - question: "Wie hoch sind die Überlebenschancen bei einer Vergiftung beim Hund?"
+    answer: "Die Überlebenschancen hängen vom Giftstoff, der aufgenommenen Menge und der Schnelligkeit der Behandlung ab. Bei rechtzeitiger tierärztlicher Versorgung innerhalb der ersten 2 Stunden liegen die Chancen deutlich höher. Rattengift hat bei später Behandlung eine schlechte Prognose, während Schneckenkorn-Vergiftungen nach Überstehen der ersten 24 Stunden meist gut ausgehen."
   - question: "Soll man den Hund bei Vergiftung zum Erbrechen bringen?"
     answer: "Nein, in den meisten Fällen ist das eigenständige Auslösen von Erbrechen kontraproduktiv und gefährlich. Bei ätzenden Substanzen würde Erbrechen die Speiseröhre zusätzlich schädigen. Das Auslösen von Erbrechen sollte ausschließlich dem Tierarzt überlassen werden."
+  - question: "Wie schützt man seinen Hund vor Giftködern?"
+    answer: "Die wirksamste Maßnahme ist ein professionelles Anti-Giftköder-Training. Zusätzlich hilft es, den Hund beim Spaziergang aufmerksam zu beobachten, lokale Warngruppen in sozialen Medien zu verfolgen und bekannte Giftköder-Gebiete zu meiden. Ein Maulkorb kann sinnvoll sein, wenn der Hund zum unkontrollierten Fressen neigt."
 sources:
-  - name: "Bundestierärztekammer – Vergiftung beim Hund"
+  - name: "Bundestierärztekammer – Vergiftung beim Hund: Richtig helfen"
     url: "https://www.bundestieraerztekammer.de/"
   - name: "AniCura – Vergiftungen des Hundes"
     url: "https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/vergiftungen-des-hundes/"
-  - name: "Universität Zürich – CliniTox Datenbank"
+  - name: "Institut für Veterinärpharmakologie und -toxikologie, Universität Zürich – CliniTox Datenbank"
     url: "https://www.vetpharm.uzh.ch/clinitox/"
-  - name: "AGILA Tierversicherung – Vergiftung bei Hunden"
+  - name: "ADAC – Vergiftung beim Hund: Symptome und Erste Hilfe"
+    url: "https://www.adac.de/rund-ums-fahrzeug/ratgeber/reisen/vergiftung-hund/"
+  - name: "SantéVet – Vergiftung beim Hund: Symptome und Erste Hilfe"
+    url: "https://www.santevet.de/artikel/vergiftung-beim-hund"
+  - name: "AGILA – Vergiftung bei Hunden erkennen, behandeln und vorbeugen"
     url: "https://www.agila.de/tiergesundheit/hundegesundheit/krankheiten/1746-vergiftung-beim-hund"
-  - name: "Giftnotrufzentrale Berlin"
+  - name: "Giftnotrufzentrale Berlin (030 19240)"
     url: "https://giftnotruf.charite.de/"
+  - name: "Giftnotruf München (089 19240)"
+    url: "https://www.toxinfo.med.tum.de/"
 ---
 
 Eine Vergiftung beim Hund ist ein lebensbedrohlicher Notfall, der innerhalb weniger Stunden tödlich enden kann. Vergiftungen zählen zu den häufigsten Notfällen in deutschen Tierarztpraxen – ausgelöst durch Giftköder, giftige Lebensmittel, Haushaltschemikalien oder Pflanzen. Die Symptome reichen von Erbrechen und Durchfall über Zittern und Krämpfe bis hin zu Bewusstlosigkeit und Organversagen. Entscheidend ist die Geschwindigkeit: Je schneller die Vergiftungserscheinungen erkannt und behandelt werden, desto höher sind die Überlebenschancen.
+
+![Vergiftung beim Hund – Symptome erkennen und richtig handeln](/images/vergiftung-hund.webp)
+
+<div class="not-prose tldr-box">
+<h4>⚡ Das Wichtigste in Kürze</h4>
+<ul>
+<li>Vergiftungssymptome treten je nach Giftstoff innerhalb von <strong>30 Minuten bis 5 Tagen</strong> auf</li>
+<li>Häufigste Ursachen: Giftköder, Schokolade, Rattengift, Schneckenkorn und Medikamente</li>
+<li><strong>Niemals eigenständig Erbrechen auslösen</strong> – kann die Vergiftung verschlimmern</li>
+<li>Aktivkohle (1 g/kg) nur nach <strong>Rücksprache mit dem Tierarzt</strong> verabreichen</li>
+<li>Bei Verdacht <strong>sofort zum Tierarzt</strong> – auch ohne sichtbare Symptome</li>
+</ul>
+</div>
+
+<div class="not-prose stat-grid">
+<div class="stat-item stat-item--danger">
+<div class="stat-number">24h</div>
+<div class="stat-label">Kritisches Zeitfenster bei den meisten Giftstoffen</div>
+</div>
+<div class="stat-item stat-item--primary">
+<div class="stat-number">1 g/kg</div>
+<div class="stat-label">Aktivkohle-Dosierung als Richtwert</div>
+</div>
+<div class="stat-item stat-item--petrol">
+<div class="stat-number">30 Min</div>
+<div class="stat-label">Schnellste Symptome (Schneckenkorn)</div>
+</div>
+<div class="stat-item stat-item--beige">
+<div class="stat-number">3–5 Tage</div>
+<div class="stat-label">Verzögerte Symptome bei Rattengift</div>
+</div>
+</div>
 
 <div class="not-prose info-box info-box-danger">
 <span class="info-box-icon">🚨</span>
@@ -44,6 +86,24 @@ Eine Vergiftung beim Hund ist ein lebensbedrohlicher Notfall, der innerhalb weni
 ## Vergiftung beim Hund: Symptome erkennen
 
 Die Symptome einer Vergiftung beim Hund lassen sich in drei Hauptkategorien einteilen: Magen-Darm-Symptome, neurologische Symptome und Herz-Kreislauf-Symptome. Welche Vergiftungserscheinungen auftreten, hängt von der Art des aufgenommenen Giftstoffs und der Menge ab.
+
+<div class="not-prose card-grid">
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🤢</span>
+<h4>Magen-Darm</h4>
+<p>Erbrechen, Durchfall, Speicheln, Bauchschmerzen, blutiger Stuhl</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">🧠</span>
+<h4>Neurologisch</h4>
+<p>Zittern, Krämpfe, Taumeln, Koordinationsverlust, Bewusstlosigkeit</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">❤️</span>
+<h4>Herz-Kreislauf</h4>
+<p>Herzrasen, Atemnot, blasses Zahnfleisch, Kreislaufversagen</p>
+</div>
+</div>
 
 ### Magen-Darm-Symptome
 
@@ -74,7 +134,13 @@ Eine schleichende Vergiftung ist besonders gefährlich, weil die Symptome erst T
 
 Blasses oder weißliches Zahnfleisch ist eines der frühesten Anzeichen einer Rattengiftvergiftung. Der Zahnfleisch-Check funktioniert so: Auf das Zahnfleisch drücken und loslassen – färbt es sich nicht innerhalb von 2 Sekunden wieder rosa, liegt möglicherweise eine Gerinnungsstörung vor. Weitere Symptome sind unerklärliche Blutergüsse, Nasenbluten, blutiger Stuhl oder Urin sowie zunehmende Schwäche.
 
-**Wichtig:** Rattengift hemmt die Vitamin-K-abhängige Blutgerinnung. Vergiftungserscheinungen zeigen sich erst nach 3 bis 5 Tagen durch innere Blutungen. Ohne Behandlung mit Vitamin K kann die Vergiftung tödlich verlaufen. Bei Verdacht sofort den Tierarzt aufsuchen – auch wenn der Hund noch keine Symptome zeigt.
+<div class="not-prose info-box info-box-danger">
+<span class="info-box-icon">🚫</span>
+<div>
+<strong>Achtung Rattengift!</strong>
+<p>Rattengift hemmt die Vitamin-K-abhängige Blutgerinnung. Vergiftungserscheinungen zeigen sich <strong>erst nach 3 bis 5 Tagen</strong> durch innere Blutungen. Ohne Behandlung mit Vitamin K kann die Vergiftung tödlich verlaufen. Bei Verdacht sofort den Tierarzt aufsuchen – auch wenn der Hund noch keine Symptome zeigt.</p>
+</div>
+</div>
 
 ## Wann treten Vergiftungssymptome auf?
 
@@ -82,10 +148,28 @@ Der Zeitpunkt variiert zwischen 30 Minuten und mehreren Tagen – abhängig vom 
 
 ### Zeitlicher Verlauf
 
-- **30 Minuten – 3 Stunden (Schneckenkorn):** Zentralnervöse Symptome wie Krämpfe, Zittern und Fieber über 41 °C. Metaldehyd passiert die Blut-Hirn-Schranke und verursacht schnell schwere neurologische Schäden.
-- **2–12 Stunden (Schokolade, Xylit, Frostschutzmittel):** Erbrechen, Durchfall, Herzrasen. Bei Xylit setzt bereits nach 30–60 Minuten ein lebensbedrohlicher Blutzuckerabfall ein.
-- **6–24 Stunden (Weintrauben, Rosinen, Zwiebeln):** Weintrauben können innerhalb von 24 Stunden akutes Nierenversagen auslösen. Zwiebeln zerstören rote Blutkörperchen – eine Blutarmut zeigt sich oft erst nach 1–5 Tagen.
-- **3–5 Tage (Rattengift):** Schleichende Vergiftung durch Hemmung der Blutgerinnung. Symptome: blasses Zahnfleisch, Nasenbluten, blutiger Urin, plötzliche Schwäche.
+<div class="not-prose steps-grid">
+<div class="step-item">
+<div class="step-number">⚡</div>
+<h4>30 Min – 3 Std</h4>
+<p><strong>Schneckenkorn:</strong> Krämpfe, Zittern, Fieber über 41 °C. Metaldehyd passiert die Blut-Hirn-Schranke schnell.</p>
+</div>
+<div class="step-item">
+<div class="step-number step-number--primary">⏱️</div>
+<h4>2–12 Stunden</h4>
+<p><strong>Schokolade, Xylit, Frostschutzmittel:</strong> Erbrechen, Durchfall, Herzrasen. Bei Xylit Blutzuckerabfall nach 30–60 Min.</p>
+</div>
+<div class="step-item">
+<div class="step-number step-number--petrol">🕐</div>
+<h4>6–24 Stunden</h4>
+<p><strong>Weintrauben, Rosinen, Zwiebeln:</strong> Akutes Nierenversagen möglich. Blutarmut zeigt sich oft erst nach 1–5 Tagen.</p>
+</div>
+<div class="step-item">
+<div class="step-number step-number--done">📅</div>
+<h4>3–5 Tage</h4>
+<p><strong>Rattengift:</strong> Schleichende Vergiftung durch Hemmung der Blutgerinnung. Blasses Zahnfleisch, Nasenbluten, Schwäche.</p>
+</div>
+</div>
 
 ## Häufigste Ursachen einer Vergiftung beim Hund
 
@@ -113,9 +197,9 @@ Der Zeitpunkt variiert zwischen 30 Minuten und mehreren Tagen – abhängig vom 
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🐀</span>
 <h4>Rattengift</h4>
-<p>Verhindert Blutgerinnung – Symptome erst nach 2–5 Tagen</p>
+<p>Verhindert Blutgerinnung – Symptome erst nach 3–5 Tagen</p>
 </div>
-<div class="card-grid-item">
+<div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">💊</span>
 <h4>Medikamente</h4>
 <p>Ibuprofen, Paracetamol – für Hunde hochgiftig</p>
@@ -157,6 +241,8 @@ Zu den besonders gefährlichen Pflanzen gehören:
 
 Humanmedikamente wie Ibuprofen, Diclofenac und Paracetamol können bei Hunden schon in geringen Dosen Nieren- und Leberschäden verursachen. Paracetamol ist bereits ab 150 mg pro Kilogramm potenziell tödlich. Medikamente sollten grundsätzlich für Hunde unzugänglich aufbewahrt werden.
 
+![Erste Hilfe bei Vergiftung beim Hund](/images/vergiftung-hund-erste-hilfe.webp)
+
 ## Erste Hilfe bei Vergiftung: Sofortmaßnahmen
 
 Bei Verdacht auf eine Vergiftung zählt jede Minute. Die folgenden Sofortmaßnahmen können die Überlebenschancen entscheidend verbessern – ersetzen aber nicht die tierärztliche Behandlung.
@@ -165,31 +251,24 @@ Bei Verdacht auf eine Vergiftung zählt jede Minute. Die folgenden Sofortmaßnah
 <div class="step-item">
 <div class="step-number">1</div>
 <h4>Ruhe bewahren</h4>
-<p>Situation erfassen, Giftstoff und Menge notieren</p>
+<p>Situation erfassen, Giftstoff und Menge notieren, Giftreste aus dem Maul entfernen</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
 <h4>Tierarzt anrufen</h4>
-<p>Sofort kontaktieren – auch ohne Symptome</p>
+<p>Sofort Tierklinik oder Notdienst kontaktieren – auch ohne Symptome</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Hund beobachten</h4>
-<p>Symptome und Zeitpunkt dokumentieren</p>
+<h4>Erste Hilfe leisten</h4>
+<p>Bei Bewusstlosigkeit stabile Seitenlage. Aktivkohle nur nach Rücksprache</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">4</div>
 <h4>Zum Tierarzt fahren</h4>
-<p>Giftprobe und Verpackung mitnehmen</p>
+<p>Giftreste, Verpackung und Erbrochenes mitnehmen. Zweite Person einplanen</p>
 </div>
 </div>
-
-### Notfall-Ablauf
-
-1. **Ruhe bewahren:** Hund beruhigen, Giftreste aus dem Maul entfernen (Handschuhe tragen), Reste sichern
-2. **Tierarzt anrufen:** Tierklinik oder Notdienst kontaktieren, Giftstoff, Menge und Zeitpunkt mitteilen
-3. **Erste Hilfe leisten:** Bei Bewusstlosigkeit stabile Seitenlage, Aktivkohle nur nach Rücksprache geben
-4. **Transport zum Tierarzt:** Giftreste und Erbrochenes mitnehmen, zweite Person für Betreuung einplanen
 
 <div class="not-prose info-box info-box-warning">
 <span class="info-box-icon">⚠️</span>
@@ -209,7 +288,13 @@ Auch die Verabreichung von Milch oder Speiseöl ist kontraindiziert. Milch kann 
 
 Aktivkohle kann Giftstoffe im Magen-Darm-Trakt binden und deren Aufnahme in den Blutkreislauf reduzieren. Die empfohlene Dosierung beträgt 1 Gramm pro Kilogramm Körpergewicht. Die Verabreichung sollte innerhalb der ersten 2 Stunden nach Giftaufnahme erfolgen.
 
-**Wichtig:** Aktivkohle ist unwirksam bei Säuren, Laugen, Alkoholen, bestimmten Metallen und Petroleumprodukten. Aktivkohle nur nach telefonischer Rücksprache mit dem Tierarzt verabreichen – niemals bei Schluckbeschwerden, Bewusstlosigkeit oder Verdacht auf Darmverschluss.
+<div class="not-prose info-box info-box-info">
+<span class="info-box-icon">ℹ️</span>
+<div>
+<strong>Aktivkohle nicht bei jedem Gift wirksam</strong>
+<p>Aktivkohle ist unwirksam bei Säuren, Laugen, Alkoholen, bestimmten Metallen und Petroleumprodukten. Nur nach telefonischer Rücksprache mit dem Tierarzt verabreichen – niemals bei Schluckbeschwerden, Bewusstlosigkeit oder Verdacht auf Darmverschluss.</p>
+</div>
+</div>
 
 ## Tierärztliche Behandlung
 
@@ -233,7 +318,26 @@ Bei Rattengiftvergiftungen besteht die Therapie in der Verabreichung von Vitamin
 
 Die Überlebenschancen hängen von drei Faktoren ab: Art des Giftstoffs, aufgenommene Menge und Zeitspanne zwischen Giftaufnahme und Behandlungsbeginn. Hat ein Hund die ersten 24 Stunden mit tierärztlicher Unterstützung überstanden, bestehen in vielen Fällen gute Prognosen.
 
-Bei Rattengiftvergiftungen verschlechtert sich die Prognose drastisch, wenn die Behandlung erst nach dem Auftreten der Symptome beginnt. Bei Schneckenkornvergiftungen gilt: Wer die ersten 24 Stunden überlebt, hat gute Chancen. Frostschutzmittelvergiftungen haben die schlechteste Prognose, wenn die Behandlung später als 8 Stunden nach Aufnahme beginnt.
+<div class="not-prose comparison-grid">
+<div class="comparison-pro">
+<h4>✅ Gute Prognose bei…</h4>
+<ul>
+<li>Behandlungsbeginn innerhalb von <strong>2 Stunden</strong></li>
+<li>Schneckenkorn – nach Überstehen der <strong>ersten 24 Stunden</strong></li>
+<li>Schokolade – bei rechtzeitiger Dekontamination</li>
+<li>Rattengift – bei Vitamin-K-Therapie <strong>vor</strong> Symptombeginn</li>
+</ul>
+</div>
+<div class="comparison-contra">
+<h4>❌ Schlechte Prognose bei…</h4>
+<ul>
+<li>Rattengift – Behandlung <strong>erst nach Symptomen</strong></li>
+<li>Frostschutzmittel – Behandlung <strong>später als 8 Stunden</strong></li>
+<li>Organversagen bereits eingetreten</li>
+<li>Unbekannter Giftstoff in großer Menge</li>
+</ul>
+</div>
+</div>
 
 ## Vergiftung vorbeugen
 
@@ -252,7 +356,17 @@ Medikamente, Reinigungsmittel, Pflanzenschutzmittel und Frostschutzmittel gehör
 
 ### Notfallnummern bereithalten
 
-Die Nummer der nächsten Tierklinik mit Notdienst sollte im Handy gespeichert sein. Bei Vergiftungsverdacht können zudem die Giftnotrufzentrale Berlin (030 19240) oder der Giftnotruf München (089 19240) kontaktiert werden.
+<div class="not-prose info-box info-box-tip">
+<span class="info-box-icon">📞</span>
+<div>
+<strong>Giftnotruf-Nummern für den Notfall</strong>
+<p>Die Nummer der nächsten Tierklinik mit Notdienst sollte im Handy gespeichert sein. Zusätzliche Hilfe bieten:</p>
+<ul>
+<li><strong>Giftnotrufzentrale Berlin:</strong> 030 19240</li>
+<li><strong>Giftnotruf München:</strong> 089 19240</li>
+</ul>
+</div>
+</div>
 
 ## Erste-Hilfe-Set für den Vergiftungsnotfall
 
@@ -266,32 +380,29 @@ Ein gut ausgestattetes Notfall-Set kann wertvolle Zeit sparen:
 </div>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
-<span>Aktivkohle-Tabletten (nur nach Rücksprache mit Tierarzt)</span>
+<span>Aktivkohle-Tabletten (Dosierung: 1 g/kg – nur nach Rücksprache mit Tierarzt)</span>
 </div>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
-<span>Maulschlinge oder Verband</span>
+<span>Einmalhandschuhe zum Schutz beim Entfernen von Giftresten</span>
 </div>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
-<span>Einmalhandschuhe</span>
+<span>Plastikbeutel zum Sichern von Giftresten oder Erbrochenem</span>
 </div>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
-<span>Transportbox für Erbrochenes/Giftproben</span>
+<span>Maulschlinge oder Verband (Schutz vor Bissen bei schmerzgeplagtem Hund)</span>
 </div>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
-<span>Aktuelles Körpergewicht des Hundes notiert</span>
+<span>Decke zum Warmhalten und Transport des Hundes</span>
+</div>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Aktuelles Körpergewicht des Hundes notiert (für Dosierungsberechnung)</span>
 </div>
 </div>
-
-- **Aktivkohle** (Pulver oder Suspension) – 1 g pro kg Körpergewicht vorberechnen
-- **Einmalhandschuhe** – Schutz beim Entfernen von Giftresten
-- **Plastikbeutel** – zum Sichern von Giftresten oder Erbrochenem
-- **Maulschlinge** – Schutz vor Bissen bei schmerzgeplagtem Hund
-- **Notfallnummern** – Tierarzt, Tierklinik, Giftnotruf
-- **Decke** – zum Warmhalten und Transport des Hundes
 
 ## Fazit
 
