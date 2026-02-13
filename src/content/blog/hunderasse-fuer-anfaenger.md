@@ -1,6 +1,6 @@
 ---
 title: "Hunderasse für Anfänger: Die besten Einsteiger-Hunde"
-description: "Welche Hunderasse für Anfänger? 15 Rassen im Vergleich -- klein bis groß, mit Tabelle zu Pflege, Bewegung und Erziehbarkeit plus Checkliste für den Hundekauf."
+description: "Welche Hunderasse für Anfänger? 15 Rassen im Vergleich -- klein bis groß, mit Tabelle, Bewegung und Erziehbarkeit plus Checkliste."
 category: "Hunderassen"
 categorySlug: "hunderassen"
 tags: ["Hunderasse für Anfänger", "Anfängerhund", "Hunde für Anfänger", "Familienhund", "leicht erziehbare Hunde", "pflegeleichte Hunderassen", "Ersthund"]
