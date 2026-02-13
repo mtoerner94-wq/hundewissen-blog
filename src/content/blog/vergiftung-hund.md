@@ -43,7 +43,6 @@ sources:
 
 Eine Vergiftung beim Hund ist ein lebensbedrohlicher Notfall, der innerhalb weniger Stunden tödlich enden kann. Vergiftungen zählen zu den häufigsten Notfällen in deutschen Tierarztpraxen – ausgelöst durch Giftköder, giftige Lebensmittel, Haushaltschemikalien oder Pflanzen. Die Symptome reichen von Erbrechen und Durchfall über Zittern und Krämpfe bis hin zu Bewusstlosigkeit und Organversagen. Entscheidend ist die Geschwindigkeit: Je schneller die Vergiftungserscheinungen erkannt und behandelt werden, desto höher sind die Überlebenschancen.
 
-![Vergiftung beim Hund – Symptome erkennen und richtig handeln](/images/vergiftung-hund.webp)
 
 <div class="not-prose tldr-box">
 <h4>⚡ Das Wichtigste in Kürze</h4>

@@ -39,7 +39,7 @@ Hund baden gehört zur Fellpflege, ist aber deutlich seltener nötig als viele H
 
 Doch wann ist ein Bad tatsächlich notwendig? Welches Shampoo eignet sich für Hunde? Und wie funktioniert das Hund baden stressfrei für Tier und Mensch? Dieser Ratgeber liefert tierärztlich fundierte Antworten zu Häufigkeit, Wassertemperatur, richtigen Pflegeprodukten und einer bewährten Schritt-für-Schritt-Anleitung – von der Vorbereitung bis zum Trocknen.
 
-![Hund baden – Wie oft und womit waschen?](/images/hund-baden.webp)
+![Hund baden – Wie oft und womit waschen?](/images/hund_baden.webp)
 
 <div class="not-prose tldr-box">
 <h4>✅ Zusammenfassung: Hund baden</h4>
