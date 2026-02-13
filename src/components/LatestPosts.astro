@@ -1,0 +1,69 @@
+---
+import { getCollection } from 'astro:content';
+import BlogCard from './BlogCard.astro';
+
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+const sortedPosts = allPosts.sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+const featuredPosts = sortedPosts.slice(0, 3);
+const remainingPosts = sortedPosts.slice(3);
+---
+
+<section id="beitraege" class="py-24 px-4">
+  <div class="max-w-7xl mx-auto">
+    <!-- Section Heading -->
+    <div class="text-center mb-16">
+      <span class="text-sm font-medium text-primary uppercase tracking-widest">
+        Blog
+      </span>
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mt-2">
+        Neuste Beitr&auml;ge
+      </h2>
+    </div>
+
+    {sortedPosts.length > 0 ? (
+      <>
+        {/* Featured Posts Grid */}
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+          {featuredPosts.map((post) => (
+            <BlogCard
+              title={post.data.title}
+              description={post.data.description}
+              category={post.data.category}
+              categorySlug={post.data.categorySlug}
+              date={post.data.date}
+              href={`/${post.data.categorySlug}/${post.id}/`}
+              featured={true}
+            />
+          ))}
+        </div>
+
+        {/* Remaining Posts Grid */}
+        {remainingPosts.length > 0 && (
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+            {remainingPosts.map((post) => (
+              <BlogCard
+                title={post.data.title}
+                description={post.data.description}
+                category={post.data.category}
+                categorySlug={post.data.categorySlug}
+                date={post.data.date}
+                href={`/${post.data.categorySlug}/${post.id}/`}
+                featured={false}
+              />
+            ))}
+          </div>
+        )}
+      </>
+    ) : (
+      <div class="text-center py-16">
+        <p class="text-slate-500 text-lg">
+          Bald gibt es hier spannende Artikel!
+        </p>
+      </div>
+    )}
+  </div>
+</section>

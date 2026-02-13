@@ -1,0 +1,241 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import FAQ from '../../components/FAQ.astro';
+
+const categoriesMap: Record<string, { name: string; emoji: string }> = {
+  hundeernaehrung: { name: 'Hundeernaehrung', emoji: '\uD83C\uDF56' },
+  hundegesundheit: { name: 'Hundegesundheit', emoji: '\uD83C\uDFE5' },
+  'erziehung-verhalten': { name: 'Erziehung & Verhalten', emoji: '\uD83C\uDF93' },
+  hundeausstattung: { name: 'Hundeausstattung', emoji: '\uD83E\uDDB4' },
+  hunderassen: { name: 'Hunderassen', emoji: '\uD83D\uDC15' },
+  hundepflege: { name: 'Hundepflege', emoji: '\uD83D\uDEC1' },
+};
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+  return allPosts.map((entry) => ({
+    params: {
+      category: entry.data.categorySlug,
+      id: entry.id,
+    },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+
+const { title, description, category, categorySlug, date, updated, tags, faqs, sources, image, imageAlt } = entry.data;
+
+const categoryInfo = categoriesMap[categorySlug] || { name: category, emoji: '' };
+
+const formattedDate = new Date(date).toLocaleDateString('de-DE', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+
+const formattedUpdated = updated
+  ? new Date(updated).toLocaleDateString('de-DE', {
+      day: 'numeric',
+      month: 'long',
+      year: 'numeric',
+    })
+  : null;
+
+const canonicalURL = `https://hundewissen-mit-kopf.de/${categorySlug}/${entry.id}/`;
+
+// Schema.org: Article
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": title,
+  "description": description,
+  "datePublished": new Date(date).toISOString(),
+  ...(updated && { "dateModified": new Date(updated).toISOString() }),
+  "author": {
+    "@type": "Organization",
+    "name": "Hundewissen mit Kopf",
+    "url": "https://hundewissen-mit-kopf.de"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hundewissen mit Kopf",
+    "url": "https://hundewissen-mit-kopf.de"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": canonicalURL
+  },
+  ...(image && { "image": image }),
+};
+
+// Schema.org: BreadcrumbList
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Startseite",
+      "item": "https://hundewissen-mit-kopf.de/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": categoryInfo.name,
+      "item": `https://hundewissen-mit-kopf.de/${categorySlug}/`
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": title,
+      "item": canonicalURL
+    }
+  ]
+};
+
+// Schema.org: FAQPage (only if FAQs exist)
+const faqSchema = faqs && faqs.length > 0
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqs.map((faq) => ({
+        "@type": "Question",
+        "name": faq.question,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": faq.answer,
+        },
+      })),
+    }
+  : null;
+
+const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : [])];
+---
+
+<BaseLayout
+  title={`${title} – Hundewissen mit Kopf`}
+  description={description}
+  type="article"
+  image={image}
+  schemas={schemas}
+>
+  <article class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <!-- Breadcrumbs -->
+    <nav class="mb-8" aria-label="Breadcrumb">
+      <ol class="flex items-center gap-2 text-sm text-slate-500 flex-wrap">
+        <li>
+          <a href="/" class="hover:text-primary transition-colors">Startseite</a>
+        </li>
+        <li aria-hidden="true">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </li>
+        <li>
+          <a href={`/${categorySlug}/`} class="hover:text-primary transition-colors">{categoryInfo.name}</a>
+        </li>
+        <li aria-hidden="true">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </li>
+        <li>
+          <span class="text-slate-900 font-medium line-clamp-1">{title}</span>
+        </li>
+      </ol>
+    </nav>
+
+    <!-- Article Header -->
+    <header class="mb-10">
+      <!-- Category Badge -->
+      <a
+        href={`/${categorySlug}/`}
+        class="inline-flex items-center gap-1.5 text-sm font-medium text-primary bg-primary/10 rounded-full px-3 py-1 hover:bg-primary/20 transition-colors"
+      >
+        <span>{categoryInfo.emoji}</span>
+        <span>{categoryInfo.name}</span>
+      </a>
+
+      <!-- Title -->
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mt-4 leading-tight">
+        {title}
+      </h1>
+
+      <!-- Meta -->
+      <div class="flex items-center gap-4 mt-4 text-sm text-slate-500">
+        <time datetime={new Date(date).toISOString()}>
+          {formattedDate}
+        </time>
+        {formattedUpdated && (
+          <span class="flex items-center gap-1">
+            <span>(aktualisiert: {formattedUpdated})</span>
+          </span>
+        )}
+      </div>
+    </header>
+
+    <!-- Article Content -->
+    <div class="prose prose-lg max-w-none prose-headings:text-slate-900 prose-p:text-slate-700 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-slate-900 prose-img:rounded-xl">
+      <Content />
+    </div>
+
+    <!-- Tags -->
+    {tags && tags.length > 0 && (
+      <div class="mt-12 pt-8 border-t border-slate-200">
+        <h2 class="text-sm font-semibold text-slate-900 uppercase tracking-wider mb-3">Tags</h2>
+        <div class="flex flex-wrap gap-2">
+          {tags.map((tag) => (
+            <span class="inline-block bg-slate-100 text-slate-700 text-sm font-medium rounded-full px-3 py-1">
+              {tag}
+            </span>
+          ))}
+        </div>
+      </div>
+    )}
+
+    <!-- FAQ Section -->
+    {faqs && faqs.length > 0 && (
+      <FAQ faqs={faqs} />
+    )}
+
+    <!-- Sources Section -->
+    {sources && sources.length > 0 && (
+      <section class="mt-12 pt-8 border-t border-slate-200">
+        <h2 class="text-sm font-semibold text-slate-900 uppercase tracking-wider mb-4">Quellen</h2>
+        <ul class="space-y-2">
+          {sources.map((source, index) => (
+            <li class="text-sm text-slate-600">
+              <span class="text-slate-400 mr-2">[{index + 1}]</span>
+              <a
+                href={source.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="text-primary hover:underline"
+              >
+                {source.name}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <!-- Back Link -->
+    <div class="mt-16 pt-8 border-t border-slate-200">
+      <a
+        href={`/${categorySlug}/`}
+        class="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+      >
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+        Alle Artikel in {categoryInfo.name}
+      </a>
+    </div>
+  </article>
+</BaseLayout>

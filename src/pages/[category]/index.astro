@@ -1,0 +1,109 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogCard from '../../components/BlogCard.astro';
+
+const categories = [
+  { name: 'Hundeernaehrung', slug: 'hundeernaehrung', emoji: '\uD83C\uDF56', description: 'Alles ueber die richtige Ernaehrung deines Hundes' },
+  { name: 'Hundegesundheit', slug: 'hundegesundheit', emoji: '\uD83C\uDFE5', description: 'Gesundheitstipps und Vorsorge fuer deinen Hund' },
+  { name: 'Erziehung & Verhalten', slug: 'erziehung-verhalten', emoji: '\uD83C\uDF93', description: 'Training, Erziehung und Verhaltenstipps' },
+  { name: 'Hundeausstattung', slug: 'hundeausstattung', emoji: '\uD83E\uDDB4', description: 'Die beste Ausstattung fuer deinen Vierbeiner' },
+  { name: 'Hunderassen', slug: 'hunderassen', emoji: '\uD83D\uDC15', description: 'Rasseportraets und Rassenvergleiche' },
+  { name: 'Hundepflege', slug: 'hundepflege', emoji: '\uD83D\uDEC1', description: 'Pflege, Baden und Fellpflege' },
+];
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+
+  const categories = [
+    { name: 'Hundeernaehrung', slug: 'hundeernaehrung', emoji: '\uD83C\uDF56', description: 'Alles ueber die richtige Ernaehrung deines Hundes' },
+    { name: 'Hundegesundheit', slug: 'hundegesundheit', emoji: '\uD83C\uDFE5', description: 'Gesundheitstipps und Vorsorge fuer deinen Hund' },
+    { name: 'Erziehung & Verhalten', slug: 'erziehung-verhalten', emoji: '\uD83C\uDF93', description: 'Training, Erziehung und Verhaltenstipps' },
+    { name: 'Hundeausstattung', slug: 'hundeausstattung', emoji: '\uD83E\uDDB4', description: 'Die beste Ausstattung fuer deinen Vierbeiner' },
+    { name: 'Hunderassen', slug: 'hunderassen', emoji: '\uD83D\uDC15', description: 'Rasseportraets und Rassenvergleiche' },
+    { name: 'Hundepflege', slug: 'hundepflege', emoji: '\uD83D\uDEC1', description: 'Pflege, Baden und Fellpflege' },
+  ];
+
+  return categories.map((cat) => {
+    const filteredPosts = allPosts
+      .filter((post) => post.data.categorySlug === cat.slug)
+      .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+    return {
+      params: { category: cat.slug },
+      props: {
+        categoryName: cat.name,
+        categoryEmoji: cat.emoji,
+        categoryDescription: cat.description,
+        posts: filteredPosts,
+      },
+    };
+  });
+}
+
+const { category } = Astro.params;
+const { categoryName, categoryEmoji, categoryDescription, posts } = Astro.props;
+
+const pageTitle = `${categoryEmoji} ${categoryName} – Hundewissen mit Kopf`;
+const pageDescription = categoryDescription;
+---
+
+<BaseLayout title={pageTitle} description={pageDescription}>
+  <!-- Breadcrumbs -->
+  <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-4" aria-label="Breadcrumb">
+    <ol class="flex items-center gap-2 text-sm text-slate-500">
+      <li>
+        <a href="/" class="hover:text-primary transition-colors">Startseite</a>
+      </li>
+      <li aria-hidden="true">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </li>
+      <li>
+        <span class="text-slate-900 font-medium">{categoryName}</span>
+      </li>
+    </ol>
+  </nav>
+
+  <!-- Category Header -->
+  <header class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-12">
+    <div class="text-center">
+      <span class="text-5xl mb-4 block">{categoryEmoji}</span>
+      <h1 class="text-3xl md:text-4xl font-bold text-slate-900 mt-2">
+        {categoryName}
+      </h1>
+      <p class="text-lg text-slate-500 mt-3 max-w-2xl mx-auto">
+        {categoryDescription}
+      </p>
+    </div>
+  </header>
+
+  <!-- Posts Grid -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-24">
+    {posts.length > 0 ? (
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map((post) => (
+          <BlogCard
+            title={post.data.title}
+            description={post.data.description}
+            category={post.data.category}
+            categorySlug={post.data.categorySlug}
+            date={post.data.date}
+            href={`/${post.data.categorySlug}/${post.id}/`}
+            featured={true}
+          />
+        ))}
+      </div>
+    ) : (
+      <div class="text-center py-16">
+        <p class="text-slate-500 text-lg">
+          In dieser Kategorie gibt es noch keine Artikel. Schau bald wieder vorbei!
+        </p>
+        <a href="/" class="inline-block mt-6 text-primary font-semibold hover:underline">
+          Zur Startseite
+        </a>
+      </div>
+    )}
+  </section>
+</BaseLayout>

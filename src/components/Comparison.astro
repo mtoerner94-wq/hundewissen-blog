@@ -1,0 +1,46 @@
+---
+const comparisons = [
+  {
+    myth: 'Hunde dürfen keine Knochen fressen',
+    fact: 'Rohe Knochen sind erlaubt \u2013 gekochte splittern und sind gefährlich',
+  },
+  {
+    myth: 'Ein warmer Nase = kranker Hund',
+    fact: 'Die Nasentemperatur schwankt natürlich \u2013 kein Krankheitsindikator',
+  },
+  {
+    myth: 'Hunde brauchen Getreide im Futter',
+    fact: 'Hunde sind fakultative Karnivoren \u2013 Getreide ist kein Muss, aber auch nicht schädlich',
+  },
+];
+---
+
+<section class="py-24 bg-bg-light">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <h2 class="text-3xl md:text-4xl font-bold text-slate-900 text-center mb-16">
+      Mythen vs. Fakten
+    </h2>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      {comparisons.map((pair) => (
+        <div class="flex flex-col gap-4">
+          {/* Myth Card */}
+          <div class="bg-white rounded-xl p-6 border-l-4 border-accent-red shadow-sm">
+            <div class="flex items-start gap-3">
+              <span class="text-accent-red text-lg font-bold shrink-0" aria-hidden="true">&#10060;</span>
+              <p class="text-slate-700 text-sm leading-relaxed">{pair.myth}</p>
+            </div>
+          </div>
+
+          {/* Fact Card */}
+          <div class="bg-white rounded-xl p-6 border-l-4 border-accent-green shadow-sm">
+            <div class="flex items-start gap-3">
+              <span class="text-accent-green text-lg font-bold shrink-0" aria-hidden="true">&#10004;</span>
+              <p class="text-slate-700 text-sm leading-relaxed">{pair.fact}</p>
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

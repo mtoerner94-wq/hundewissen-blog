@@ -1,0 +1,73 @@
+---
+import CategoryCard from './CategoryCard.astro';
+
+const categories = [
+  {
+    icon: '\uD83E\uDD69',
+    title: 'Hundeern\u00e4hrung',
+    description: 'Gesunde Ern\u00e4hrung, Futtertipps und was dein Hund wirklich braucht.',
+    tags: ['BARF', 'Trockenfutter'],
+    href: '/hundeernaehrung/',
+  },
+  {
+    icon: '\uD83E\uDE7A',
+    title: 'Hundegesundheit',
+    description: 'Symptome erkennen, Vorsorge und wann du zum Tierarzt solltest.',
+    tags: ['Vorsorge', 'Notfall'],
+    href: '/hundegesundheit/',
+  },
+  {
+    icon: '\uD83C\uDF93',
+    title: 'Erziehung & Verhalten',
+    description: 'Vom Welpen bis zum Erwachsenen \u2013 positive Erziehung, die wirkt.',
+    tags: ['Training', 'Verhalten'],
+    href: '/erziehung-verhalten/',
+  },
+  {
+    icon: '\uD83E\uDDAE',
+    title: 'Hundeausstattung',
+    description: 'Geschirr, Leinen, K\u00f6rbchen \u2013 was dein Hund wirklich braucht.',
+    tags: ['Geschirr', 'Zubeh\u00f6r'],
+    href: '/hundeausstattung/',
+  },
+  {
+    icon: '\uD83D\uDC15',
+    title: 'Hunderassen',
+    description: 'Rassenportr\u00e4ts, Charakter und was du vor dem Kauf wissen solltest.',
+    tags: ['Rassenportr\u00e4t', 'Charakter'],
+    href: '/hunderassen/',
+  },
+  {
+    icon: '\u2702\uFE0F',
+    title: 'Hundepflege',
+    description: 'Fell, Z\u00e4hne, Krallen \u2013 so pflegst du deinen Hund richtig.',
+    tags: ['Fellpflege', 'Baden'],
+    href: '/hundepflege/',
+  },
+];
+---
+
+<section id="kategorien" class="py-24 bg-bg-light">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="text-center mb-16">
+      <span class="inline-block text-sm font-semibold text-primary uppercase tracking-wider mb-2">
+        Themenbereiche
+      </span>
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900">
+        Alle Themenbereiche
+      </h2>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {categories.map((cat) => (
+        <CategoryCard
+          icon={cat.icon}
+          title={cat.title}
+          description={cat.description}
+          tags={cat.tags}
+          href={cat.href}
+        />
+      ))}
+    </div>
+  </div>
+</section>

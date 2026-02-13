@@ -1,0 +1,62 @@
+---
+// Hero section for Hundewissen mit Kopf homepage
+---
+
+<section class="relative min-h-[85vh] flex items-center overflow-hidden bg-gradient-to-b from-amber-50 via-secondary to-white">
+  <!-- Decorative Blur Blobs -->
+  <div class="absolute inset-0 pointer-events-none overflow-hidden" aria-hidden="true">
+    <!-- Top-left warm blob -->
+    <div class="absolute -top-32 -left-32 w-[500px] h-[500px] rounded-full bg-amber-300 opacity-20 blur-3xl"></div>
+    <!-- Top-right orange blob -->
+    <div class="absolute -top-16 right-0 w-[400px] h-[400px] rounded-full bg-orange-200 opacity-20 blur-3xl"></div>
+    <!-- Center-left subtle blob -->
+    <div class="absolute top-1/2 -left-24 w-[350px] h-[350px] rounded-full bg-amber-200 opacity-15 blur-3xl"></div>
+    <!-- Bottom-right warm accent -->
+    <div class="absolute bottom-0 right-1/4 w-[450px] h-[450px] rounded-full bg-orange-100 opacity-20 blur-3xl"></div>
+  </div>
+
+  <!-- Content -->
+  <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
+    <div class="max-w-3xl">
+      <!-- Tagline -->
+      <p class="animate-fade-in-up text-sm md:text-base font-semibold tracking-[0.25em] uppercase text-primary mb-6">
+        Hunde &middot; Wissen &middot; Verstand
+      </p>
+
+      <!-- Heading -->
+      <h1 class="animate-fade-in-up delay-100 text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 leading-tight">
+        Fundiertes Wissen statt
+        <span class="text-primary"> Halbwahrheiten.</span>
+      </h1>
+
+      <!-- Subtext -->
+      <p class="animate-fade-in-up delay-200 mt-6 text-lg md:text-xl text-slate-600 leading-relaxed max-w-2xl">
+        Evidenzbasierte Inhalte rund um Ernährung, Gesundheit, Erziehung und
+        Pflege deines Hundes &ndash; verständlich aufbereitet und frei von
+        Panikmache.
+      </p>
+
+      <!-- CTA Buttons -->
+      <div class="animate-fade-in-up delay-300 mt-10 flex flex-col sm:flex-row gap-4">
+        <a
+          href="#beitraege"
+          class="inline-flex items-center justify-center px-7 py-3.5 rounded-xl bg-primary text-white font-semibold text-base shadow-lg shadow-primary/25 hover:bg-primary-dark transition-colors duration-200"
+        >
+          Neuste Beiträge
+          <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </a>
+        <a
+          href="#kategorien"
+          class="inline-flex items-center justify-center px-7 py-3.5 rounded-xl border-2 border-primary text-primary font-semibold text-base hover:bg-primary hover:text-white transition-colors duration-200"
+        >
+          Themen entdecken
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom fade into page -->
+  <div class="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-white to-transparent pointer-events-none"></div>
+</section>

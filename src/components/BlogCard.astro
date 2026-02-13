@@ -1,0 +1,60 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  category: string;
+  categorySlug: string;
+  date: Date;
+  href: string;
+  featured?: boolean;
+}
+
+const { title, description, category, categorySlug, date, href, featured = false } = Astro.props;
+
+const gradientMap: Record<string, string> = {
+  hundeernaehrung: 'from-orange-100 to-amber-50',
+  hundegesundheit: 'from-red-100 to-rose-50',
+  'erziehung-verhalten': 'from-blue-100 to-indigo-50',
+  hundeausstattung: 'from-teal-100 to-cyan-50',
+  hunderassen: 'from-purple-100 to-violet-50',
+  hundepflege: 'from-pink-100 to-fuchsia-50',
+};
+
+const gradient = gradientMap[categorySlug] || 'from-slate-100 to-slate-50';
+
+const formattedDate = new Date(date).toLocaleDateString('de-DE', {
+  day: 'numeric',
+  month: 'long',
+  year: 'numeric',
+});
+---
+
+<a
+  href={href}
+  class:list={[
+    'group block bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-300 overflow-hidden',
+    featured ? '' : 'flex flex-col',
+  ]}
+>
+  {featured && (
+    <div class={`h-48 rounded-t-xl bg-gradient-to-br ${gradient}`} />
+  )}
+
+  <div class="p-6 flex flex-col flex-1">
+    <span class="text-xs uppercase font-medium text-primary tracking-wide">
+      {category}
+    </span>
+
+    <h3 class="font-semibold text-lg text-slate-900 mt-2 group-hover:text-primary transition-colors duration-200">
+      {title}
+    </h3>
+
+    <p class="text-sm text-slate-500 mt-2 line-clamp-2">
+      {description}
+    </p>
+
+    <time class="text-xs text-slate-400 mt-4 block" datetime={new Date(date).toISOString()}>
+      {formattedDate}
+    </time>
+  </div>
+</a>

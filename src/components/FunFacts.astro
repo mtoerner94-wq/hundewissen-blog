@@ -1,0 +1,59 @@
+---
+const facts = [
+  {
+    emoji: '\u{1F443}',
+    title: '300 Millionen Riechzellen',
+    description: 'Hunde haben bis zu 300 Millionen Riechzellen \u2013 Menschen nur etwa 5 Millionen.',
+  },
+  {
+    emoji: '\u{1F634}',
+    title: '12\u201314 Stunden Schlaf',
+    description: 'Hunde schlafen durchschnittlich 12\u201314 Stunden pro Tag \u2013 Welpen sogar bis zu 20.',
+  },
+  {
+    emoji: '\u{1F9E0}',
+    title: 'Bis zu 250 W\u00F6rter',
+    description: 'Intelligente Hunderassen k\u00F6nnen bis zu 250 W\u00F6rter und Gesten verstehen.',
+  },
+  {
+    emoji: '\u{1F443}',
+    title: 'Einzigartiger Nasenabdruck',
+    description: 'Jeder Hund hat einen einzigartigen Nasenabdruck \u2013 \u00E4hnlich wie ein menschlicher Fingerabdruck.',
+  },
+  {
+    emoji: '\u2764\uFE0F',
+    title: '60\u2013140 Schl\u00E4ge/Min.',
+    description: 'Das Herz eines Hundes schl\u00E4gt je nach Gr\u00F6\u00DFe zwischen 60 und 140 Mal pro Minute.',
+  },
+  {
+    emoji: '\u{1F3C3}',
+    title: 'Bis zu 72 km/h',
+    description: 'Greyhounds k\u00F6nnen Geschwindigkeiten von bis zu 72 km/h erreichen \u2013 schneller als die meisten Autos in der Stadt.',
+  },
+];
+---
+
+<section class="py-24 bg-bg-light">
+  <div class="max-w-7xl mx-auto px-4">
+    <!-- Section Heading -->
+    <div class="text-center mb-16">
+      <span class="text-sm font-medium text-primary uppercase tracking-widest">
+        Fun Facts
+      </span>
+      <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mt-2">
+        Wusstest du schon?
+      </h2>
+    </div>
+
+    <!-- Facts Grid -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {facts.map((fact) => (
+        <div class="bg-white rounded-xl p-6 shadow-sm hover:shadow-md transition-shadow duration-300">
+          <span class="text-3xl mb-3 block">{fact.emoji}</span>
+          <h3 class="font-semibold text-slate-900">{fact.title}</h3>
+          <p class="text-sm text-slate-500 mt-2">{fact.description}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

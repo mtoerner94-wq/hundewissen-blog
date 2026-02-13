@@ -1,0 +1,76 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: 'website' | 'article';
+  schemas?: object[];
+}
+
+const {
+  title = 'Hundewissen mit Kopf – Dein Blog rund um unseren vierbeinigen Freund',
+  description = 'Fundiertes Wissen statt Halbwahrheiten. Alles rund um Hundeernährung, Gesundheit, Erziehung und Pflege.',
+  image = '/og-image.jpg',
+  type = 'website',
+  schemas = [],
+} = Astro.props;
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://hundewissen-mit-kopf.de');
+
+const defaultSchema = {
+  "@context": "https://schema.org",
+  "@type": type === 'article' ? 'Article' : 'WebSite',
+  "name": title,
+  "description": description,
+  "url": canonicalURL,
+};
+
+const allSchemas = schemas.length > 0 ? schemas : [defaultSchema];
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+
+    <!-- SEO -->
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="canonical" href={canonicalURL} />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+    <meta property="og:type" content={type} />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:url" content={canonicalURL} />
+    <meta property="og:site_name" content="Hundewissen mit Kopf" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={image} />
+
+    <!-- Schema.org -->
+    {allSchemas.map((schema) => (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    ))}
+  </head>
+  <body class="bg-white text-slate-900 font-sans antialiased overflow-x-hidden">
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

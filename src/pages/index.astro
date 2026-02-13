@@ -1,0 +1,39 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import LatestPosts from '../components/LatestPosts.astro';
+import Philosophy from '../components/Philosophy.astro';
+import Comparison from '../components/Comparison.astro';
+import Stats from '../components/Stats.astro';
+import Categories from '../components/Categories.astro';
+import FunFacts from '../components/FunFacts.astro';
+import CallToAction from '../components/CallToAction.astro';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Hundewissen mit Kopf",
+  "url": "https://hundewissen-mit-kopf.de",
+  "description": "Fundiertes Wissen statt Halbwahrheiten. Alles rund um Hundeernaehrung, Gesundheit, Erziehung und Pflege.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Hundewissen mit Kopf",
+    "url": "https://hundewissen-mit-kopf.de"
+  }
+};
+---
+
+<BaseLayout
+  title="Hundewissen mit Kopf – Dein Blog rund um unseren vierbeinigen Freund"
+  description="Fundiertes Wissen statt Halbwahrheiten. Alles rund um Hundeernaehrung, Gesundheit, Erziehung und Pflege."
+  schemas={[schema]}
+>
+  <Hero />
+  <LatestPosts />
+  <Philosophy />
+  <Comparison />
+  <Stats />
+  <Categories />
+  <FunFacts />
+  <CallToAction />
+</BaseLayout>
