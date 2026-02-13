@@ -59,30 +59,48 @@ const currentPath = Astro.url.pathname;
       </button>
     </div>
   </div>
-
-  <!-- Mobile Fullscreen Overlay Menu -->
-  <div
-    id="mobile-menu"
-    class="fixed inset-0 z-50 bg-white/95 backdrop-blur-xl flex flex-col items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 lg:hidden"
-    aria-hidden="true"
-  >
-    <nav class="flex flex-col items-center gap-2" aria-label="Mobile Navigation">
-      {navItems.map((item) => (
-        <a
-          href={item.href}
-          class:list={[
-            'text-lg font-medium px-6 py-3 rounded-xl transition-colors duration-200',
-            currentPath.startsWith(item.href)
-              ? 'text-primary bg-primary/10'
-              : 'text-slate-700 hover:text-primary hover:bg-primary/5',
-          ]}
-        >
-          {item.label}
-        </a>
-      ))}
-    </nav>
-  </div>
 </header>
+
+<!-- Mobile Fullscreen Overlay Menu (outside header to avoid stacking context issues) -->
+<div
+  id="mobile-menu"
+  class="fixed inset-0 z-[60] bg-white flex flex-col items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 lg:hidden"
+  aria-hidden="true"
+>
+  <!-- Close button top-right -->
+  <button
+    id="menu-close"
+    class="absolute top-4 right-4 w-10 h-10 flex items-center justify-center rounded-lg hover:bg-slate-100 transition-colors"
+    aria-label="Menü schließen"
+  >
+    <svg class="w-6 h-6 text-slate-700" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+    </svg>
+  </button>
+
+  <!-- Logo in overlay -->
+  <div class="absolute top-4 left-4 flex items-center gap-1">
+    <span class="text-xl font-bold text-primary-dark tracking-tight">Hundewissen</span>
+    <span class="text-xl font-semibold text-slate-500">mit Kopf</span>
+    <span class="text-primary text-2xl leading-none font-bold -ml-0.5">.</span>
+  </div>
+
+  <nav class="flex flex-col items-center gap-3" aria-label="Mobile Navigation">
+    {navItems.map((item) => (
+      <a
+        href={item.href}
+        class:list={[
+          'text-xl font-medium px-8 py-3 rounded-xl transition-colors duration-200',
+          currentPath.startsWith(item.href)
+            ? 'text-primary bg-primary/10'
+            : 'text-slate-700 hover:text-primary hover:bg-primary/5',
+        ]}
+      >
+        {item.label}
+      </a>
+    ))}
+  </nav>
+</div>
 
 <!-- Spacer to offset fixed header -->
 <div class="h-16 md:h-18"></div>
@@ -90,11 +108,9 @@ const currentPath = Astro.url.pathname;
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const toggle = document.getElementById('menu-toggle');
+    const closeBtn = document.getElementById('menu-close');
     const menu = document.getElementById('mobile-menu');
     const header = document.getElementById('site-header');
-    const topBar = document.getElementById('hamburger-top');
-    const midBar = document.getElementById('hamburger-mid');
-    const botBar = document.getElementById('hamburger-bot');
     let isOpen = false;
 
     if (!toggle || !menu) return;
@@ -105,15 +121,7 @@ const currentPath = Astro.url.pathname;
       menu.classList.add('opacity-100', 'pointer-events-auto');
       menu.setAttribute('aria-hidden', 'false');
       toggle.setAttribute('aria-expanded', 'true');
-      toggle.setAttribute('aria-label', 'Menü schließen');
       document.body.style.overflow = 'hidden';
-
-      // Animate hamburger to X
-      if (topBar && midBar && botBar) {
-        topBar.style.transform = 'translateY(8px) rotate(45deg)';
-        midBar.style.opacity = '0';
-        botBar.style.transform = 'translateY(-8px) rotate(-45deg)';
-      }
     }
 
     function closeMenu() {
@@ -122,17 +130,10 @@ const currentPath = Astro.url.pathname;
       menu.classList.remove('opacity-100', 'pointer-events-auto');
       menu.setAttribute('aria-hidden', 'true');
       toggle.setAttribute('aria-expanded', 'false');
-      toggle.setAttribute('aria-label', 'Menü öffnen');
       document.body.style.overflow = '';
-
-      // Reset hamburger
-      if (topBar && midBar && botBar) {
-        topBar.style.transform = '';
-        midBar.style.opacity = '1';
-        botBar.style.transform = '';
-      }
     }
 
+    // Open on hamburger click
     toggle.addEventListener('click', () => {
       if (isOpen) {
         closeMenu();
@@ -140,6 +141,11 @@ const currentPath = Astro.url.pathname;
         openMenu();
       }
     });
+
+    // Close on X button click
+    if (closeBtn) {
+      closeBtn.addEventListener('click', closeMenu);
+    }
 
     // Close menu on link click
     menu.querySelectorAll('a').forEach((link) => {
@@ -154,7 +160,6 @@ const currentPath = Astro.url.pathname;
     });
 
     // Add shadow on scroll
-    let lastScrollY = 0;
     window.addEventListener('scroll', () => {
       const scrollY = window.scrollY;
       if (header) {
@@ -164,7 +169,6 @@ const currentPath = Astro.url.pathname;
           header.classList.remove('shadow-md');
         }
       }
-      lastScrollY = scrollY;
     }, { passive: true });
   });
 </script>
