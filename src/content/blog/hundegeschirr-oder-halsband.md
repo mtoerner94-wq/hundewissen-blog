@@ -33,9 +33,41 @@ Die Frage, ob ein Hundegeschirr oder ein Halsband die richtige Wahl für den eig
 
 In diesem Ratgeber erfährst du alles, was du über beide Optionen wissen musst -- von den gesundheitlichen Aspekten über die verschiedenen Geschirrtypen bis hin zur richtigen Passform.
 
+<div class="not-prose tldr-box">
+<h4>✅ Zusammenfassung</h4>
+<ul>
+<li>Ein gut sitzendes Geschirr ist für die meisten Hunde die gesündere Wahl als ein Halsband</li>
+<li>Halsbänder können bei Zug Halswirbelsäule, Kehlkopf und Schilddrüse belasten</li>
+<li>Y-Geschirre verteilen den Druck am besten und lassen die Schultern frei</li>
+<li>Für Welpen empfiehlt sich ein mitwachsendes Geschirr mit Verstellmöglichkeiten</li>
+<li>Die Zwei-Finger-Regel: Zwischen Geschirr und Hund sollten 2 Finger passen</li>
+</ul>
+</div>
+
 ## Geschirr vs. Halsband: Die wichtigsten Unterschiede
 
 Der wesentliche Unterschied zwischen Geschirr und Halsband liegt in der Druckverteilung. Ein Halsband konzentriert die gesamte Zugkraft auf den empfindlichen Halsbereich, wo sich Luftröhre, Kehlkopf, Schilddrüse und Halswirbelsäule befinden. Ein Geschirr verteilt den Druck dagegen auf Brust und Rücken -- eine Fläche, die je nach Modell fünf- bis zehnmal größer ist als die Auflagefläche eines Halsbands.
+
+<div class="not-prose comparison-grid">
+<div class="comparison-pro">
+<h4>✅ Geschirr</h4>
+<ul>
+<li>Druckverteilung auf Brust und Rücken</li>
+<li>Kein Druck auf Halswirbelsäule und Kehlkopf</li>
+<li>Bessere Kontrolle bei großen/kräftigen Hunden</li>
+<li>Ideal für Welpen, Senioren und Hunde mit Atemwegsproblemen</li>
+</ul>
+</div>
+<div class="comparison-contra">
+<h4>⚠️ Halsband</h4>
+<ul>
+<li>Gefahr für Halswirbelsäule bei Leinenzug</li>
+<li>Druck auf Kehlkopf und Schilddrüse möglich</li>
+<li>Risiko bei brachyzephalen Rassen (Mops, Bulldogge)</li>
+<li>Nur für leinenführige Hunde ohne Zugverhalten geeignet</li>
+</ul>
+</div>
+</div>
 
 ### Vorteile des Hundegeschirrs
 
@@ -80,6 +112,29 @@ Das Norwegische Geschirr zeichnet sich durch einen breiten Bruststeg und einfach
 - **Sicherheitsgeschirr:** Mit zusätzlichem Bauchgurt für ängstliche Hunde, die in Paniksituationen versuchen könnten, sich zu befreien
 - **Trainingsgeschirr:** Mit vorderem Befestigungspunkt an der Brust, geeignet für stark ziehende Hunde
 
+<div class="not-prose card-grid">
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🏆</span>
+<h4>Y-Geschirr</h4>
+<p>Optimale Druckverteilung, Schultern bleiben frei – die beste Wahl für die meisten Hunde</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">🇳🇴</span>
+<h4>Norwegisches Geschirr</h4>
+<p>Einfaches Anlegen durch Frontsteg – schränkt aber die Schulterfreiheit ein</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">🔒</span>
+<h4>Sicherheitsgeschirr</h4>
+<p>Mit zwei Verschlüssen – ideal für ängstliche Hunde und Ausbruchskünstler</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🐕‍🦺</span>
+<h4>Zuggeschirr</h4>
+<p>Speziell für Zugsportarten – Druck auf Brustbein verteilt</p>
+</div>
+</div>
+
 ## Das richtige Halsband wählen
 
 Ein gutes Hundehalsband sollte mindestens so breit sein wie die Nasenspitze des Hundes -- bei mittelgroßen Hunden entspricht das etwa 3 bis 4 Zentimetern. Zwischen Halsband und Hals sollten bequem zwei Finger passen. So wird einerseits Würgen vermieden, andererseits ein Herausschlüpfen verhindert.
@@ -89,6 +144,14 @@ Ein gutes Hundehalsband sollte mindestens so breit sein wie die Nasenspitze des 
 - **Biothane:** Wasserbeständig, langlebig und pflegeleicht -- ideal für aktive Hunde
 - **Nylon:** Leicht, schnell trocknend und in vielen Farben erhältlich
 - **Leder mit Neoprenfutter:** Hochwertig und komfortabel, aber pflegeintensiver
+
+<div class="not-prose info-box info-box-tip">
+<span class="info-box-icon">💡</span>
+<div>
+<strong>Die Zwei-Finger-Regel</strong>
+<p>Zwischen Geschirr und Hundekörper sollten an jeder Stelle bequem zwei Finger passen. Zu eng = Scheuerstellen und Bewegungseinschränkung. Zu locker = Hund kann sich herauswinden.</p>
+</div>
+</div>
 
 ## Das Geschirr richtig anpassen: 4 Schritte
 
@@ -111,6 +174,14 @@ Die richtige Wahl hängt stark von der jeweiligen Situation ab:
 - **Schleppleinentraining und Rückruf:** Geschirr wegen der hohen Stoppkräfte
 - **Senioren:** Geschirr für Unterstützung und Sicherheit
 - **Autofahrten:** Geschirr mit Sicherheitsgurtadapter -- niemals nur mit Halsband sichern
+
+<div class="not-prose info-box info-box-info">
+<span class="info-box-icon">ℹ️</span>
+<div>
+<strong>Geschirr für Welpen</strong>
+<p>Welpen wachsen schnell – ein mitwachsendes Geschirr mit vielen Verstellmöglichkeiten ist sinnvoller als ein günstiges Modell. Regelmäßig den Sitz prüfen und bei Bedarf nachjustieren, da Welpen in den ersten 12 Monaten stark an Umfang zunehmen.</p>
+</div>
+</div>
 
 ## Besonderheiten bei Welpen
 

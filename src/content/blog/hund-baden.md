@@ -33,6 +33,17 @@ Hund baden gehört zur Fellpflege, ist aber deutlich seltener nötig als viele H
 
 Doch wann ist ein Bad tatsächlich notwendig? Welches Shampoo eignet sich? Und wie funktioniert das Hund baden stressfrei? Dieser Ratgeber liefert tierärztlich fundierte Antworten zu Häufigkeit, Wassertemperatur, richtigen Pflegeprodukten und einer bewährten Schritt-für-Schritt-Anleitung.
 
+<div class="not-prose tldr-box">
+<h4>✅ Zusammenfassung</h4>
+<ul>
+<li>Gesunde Hunde brauchen maximal 4–6 Vollbäder pro Jahr mit Shampoo</li>
+<li>Faustregel: So selten wie möglich, so oft wie nötig</li>
+<li>Ausschließlich spezielles Hundeshampoo verwenden (pH 6,5–7,5)</li>
+<li>Ideale Wassertemperatur: 28–30 Grad Celsius (lauwarm)</li>
+<li>Welpen unter 12 Wochen nicht baden – feuchtes Tuch genügt</li>
+</ul>
+</div>
+
 ## Muss man Hunde baden? Was Tierärzte empfehlen
 
 Hunde müssen in den meisten Fällen nicht regelmäßig gebadet werden. Das Hundefell besitzt einen mehrschichtigen Aufbau aus Unterwolle und Deckhaar sowie einen natürlichen Fettfilm, der als selbstreinigender Schutzschild funktioniert. Laut tierärztlicher Empfehlung reicht es bei gesunden Hunden völlig aus, das Fell regelmäßig zu bürsten und nur bei tatsächlicher Notwendigkeit ein Bad zu geben.
@@ -78,6 +89,37 @@ Ein spezielles Hundeshampoo ist die einzige geeignete Option beim Hund baden. Hu
 - **Medizinisches Shampoo:** Gegen Milben, Pilze oder Schuppen – nur nach tierärztlicher Verordnung
 - **Welpen-Shampoo:** Extra mild und tränenfrei – für empfindliche Welpenhaut
 
+<div class="not-prose info-box info-box-danger">
+<span class="info-box-icon">🚫</span>
+<div>
+<strong>Kein Menschenshampoo für Hunde verwenden!</strong>
+<p>Der pH-Wert der Hundehaut (6,5–7,5) unterscheidet sich deutlich von der menschlichen Haut (5,5). Menschenshampoos – auch Babyshampoos – zerstören den natürlichen Säureschutzmantel und können Juckreiz, Rötungen und Hautentzündungen verursachen.</p>
+</div>
+</div>
+
+<div class="not-prose card-grid">
+<div class="card-grid-item">
+<span class="card-grid-icon">🧴</span>
+<h4>Mildes Shampoo</h4>
+<p>pH-neutral und rückfettend – die sicherste Wahl für die meisten Hunde</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🌿</span>
+<h4>Naturshampoo</h4>
+<p>Mit Aloe Vera oder Hafer – schonende, biologisch abbaubare Alternative</p>
+</div>
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🩺</span>
+<h4>Medizinisches Shampoo</h4>
+<p>Gegen Milben, Pilze oder Schuppen – nur nach tierärztlicher Verordnung</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">🐕</span>
+<h4>Welpen-Shampoo</h4>
+<p>Extra mild und tränenfrei – für empfindliche Welpenhaut ab 12 Wochen</p>
+</div>
+</div>
+
 ### Hausmittel als Alternative
 
 Kokosöl kann als natürliches Hausmittel die Hundehaut pflegen und ist in kleinen Mengen als Fellkur geeignet. Es wirkt rückfettend und hat leicht antibakterielle Eigenschaften, reicht aber als alleiniger Ersatz nicht aus. Apfelessig verdünnt mit Wasser (Verhältnis 1:10) kann als natürlicher Conditioner nach dem Waschen das Fell zum Glänzen bringen.
@@ -118,6 +160,14 @@ Nach der 12. Lebenswoche kann ein Welpe behutsam an das Wasser gewöhnt werden. 
 
 **Tipp:** Wird ein Welpe unter 12 Wochen schmutzig, reicht ein feuchtes, warmes Tuch zur Reinigung völlig aus.
 
+<div class="not-prose info-box info-box-info">
+<span class="info-box-icon">ℹ️</span>
+<div>
+<strong>Welpen unter 12 Wochen nicht baden!</strong>
+<p>Die Haut- und Fellschutzschicht von Welpen ist in diesem Alter noch nicht vollständig ausgebildet. Ein Bad kann die empfindliche Barriere zerstören und zu Austrocknung, Schuppen und Pilzinfektionen führen.</p>
+</div>
+</div>
+
 ## Hund baden im Winter und Sommer
 
 ### Saisonale Besonderheiten im Winter
@@ -143,6 +193,14 @@ Viele Hunde zeigen Angst oder Stress beim Baden, oft ausgelöst durch negative V
 5. **Positive Verknüpfung:** Nach jedem erfolgreichen Teilschritt mit Leckerli und Lob belohnen; Training über mehrere Tage verteilen
 
 Geduld ist entscheidend – die Gewöhnung kann je nach Hund mehrere Wochen dauern. Jede Übungseinheit sollte positiv enden.
+
+<div class="not-prose info-box info-box-tip">
+<span class="info-box-icon">💡</span>
+<div>
+<strong>Schleckmatte gegen Badeangst</strong>
+<p>Eine Schleckmatte mit Erdnussbutter oder Leberwurst am Wannenrand befestigt lenkt den Hund zuverlässig ab und schafft eine positive Verknüpfung mit dem Baden. Kombiniert mit einer rutschfesten Gummimatte ist das die effektivste Methode gegen Badeangst.</p>
+</div>
+</div>
 
 ## Bürsten statt Baden: Die schonende Alternative
 

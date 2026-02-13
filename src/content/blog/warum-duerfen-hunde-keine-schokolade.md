@@ -33,6 +33,17 @@ sources:
 
 Warum dürfen Hunde keine Schokolade essen? Die Antwort liegt im Inhaltsstoff Theobromin, einem Alkaloid aus der Kakaobohne, das Hunde im Gegensatz zum Menschen nur extrem langsam abbauen können. Während der menschliche Körper Theobromin innerhalb von 6–10 Stunden verstoffwechselt, beträgt die Halbwertszeit beim Hund etwa 17,5 Stunden. Schon ab 20 mg Theobromin pro Kilogramm Körpergewicht können erste Vergiftungssymptome auftreten – besonders dunkle Schokolade mit hohem Kakaoanteil stellt eine erhebliche Gefahr dar.
 
+<div class="not-prose tldr-box">
+<h4>✅ Zusammenfassung</h4>
+<ul>
+<li>Schokolade ist wegen des Inhaltsstoffs Theobromin giftig für Hunde</li>
+<li>Bereits ab 20 mg Theobromin pro kg Körpergewicht treten erste Symptome auf</li>
+<li>Je dunkler die Schokolade, desto gefährlicher – Zartbitterschokolade enthält 5–8 mg/g</li>
+<li>Symptome: Erbrechen, Durchfall, Herzrasen, Krämpfe (nach 2–4 Stunden)</li>
+<li>Bei Verdacht: Sofort den Tierarzt kontaktieren – auch ohne sichtbare Symptome</li>
+</ul>
+</div>
+
 ## Warum dürfen Hunde keine Schokolade? Die Rolle von Theobromin
 
 Schokolade enthält Theobromin, ein Methylxanthin aus der Kakaobohne, das chemisch mit Koffein verwandt ist. Menschen verfügen über spezifische Leberenzyme, die diesen Stoff zügig abbauen. Hunden fehlt dieses Enzym weitgehend, weshalb sich Theobromin im Körper anreichert und toxisch wirkt.
@@ -46,6 +57,25 @@ Neben Theobromin enthält Schokolade auch geringe Mengen Koffein. Die Kombinatio
 Theobromin wirkt gleichzeitig auf mehrere Organsysteme. Es stimuliert das zentrale Nervensystem, erhöht die Herzfrequenz, erweitert die Blutgefäße und wirkt harntreibend. Die langsame Verstoffwechselung beim Hund führt dazu, dass sich Theobromin auf toxische Konzentrationen anreichern kann.
 
 Die Giftstoffe werden im Magen-Darm-Trakt nahezu vollständig resorbiert – ein Prozess, der bis zu 10 Stunden dauern kann. Die Ausscheidung erfolgt über die Nieren, was bei hohen Dosen zu einer zusätzlichen Belastung der Nierenfunktion führt. Wissenschaftliche Untersuchungen zeigen zudem, dass auch regelmäßiger Konsum kleiner Schokoladenmengen chronische Herzmuskelschäden bei Hunden verursachen kann.
+
+<div class="not-prose stat-grid">
+<div class="stat-item">
+<p class="stat-value">17,5 h</p>
+<p class="stat-label">Halbwertszeit beim Hund</p>
+</div>
+<div class="stat-item stat-item--petrol">
+<p class="stat-value">20 mg/kg</p>
+<p class="stat-label">Erste Symptome</p>
+</div>
+<div class="stat-item stat-item--danger">
+<p class="stat-value">100–200 mg/kg</p>
+<p class="stat-label">Tödliche Dosis</p>
+</div>
+<div class="stat-item stat-item--dark">
+<p class="stat-value">2–4 h</p>
+<p class="stat-label">Bis erste Symptome</p>
+</div>
+</div>
 
 ## Wie viel Schokolade ist giftig für Hunde?
 
@@ -92,6 +122,14 @@ Bei mittelschweren Vergiftungen treten Herzrasen (Tachykardie), Hecheln und Hype
 
 Schwere Vergiftungen äußern sich durch Krampfanfälle, Herzrhythmusstörungen und Bewusstseinsstörungen bis hin zum Koma. In schwerwiegenden Fällen können innere Blutungen und Atemstillstand auftreten. Ohne tierärztliche Behandlung kann eine schwere Schokoladenvergiftung innerhalb von 12–24 Stunden zum Tod führen.
 
+<div class="not-prose info-box info-box-danger">
+<span class="info-box-icon">🚨</span>
+<div>
+<strong>Notfall: Hund hat Schokolade gefressen!</strong>
+<p>Sofort den Tierarzt oder die nächste Tierklinik kontaktieren – auch wenn der Hund noch keine Symptome zeigt. Art und Menge der Schokolade sowie das Körpergewicht des Hundes bereithalten. Niemals selbstständig Erbrechen auslösen!</p>
+</div>
+</div>
+
 ## Hund hat Schokolade gefressen: Was tun?
 
 Sofort den Tierarzt oder die nächste Tierklinik kontaktieren – das ist die wichtigste Maßnahme. Je schneller die Behandlung beginnt, desto besser sind die Heilungschancen. Auch wenn der Hund zunächst keine Symptome zeigt, ist ärztlicher Rat unverzichtbar.
@@ -110,6 +148,14 @@ Nach dem Verzehr von Schokolade sollte ein Hund mindestens 24 Stunden engmaschig
 ### Warum Hausmittel gefährlich sind
 
 Tierärzte warnen ausdrücklich vor dem Einsatz von Hausmitteln. Das früher empfohlene Salzwasser zum Auslösen von Erbrechen kann eine gefährliche Natriumvergiftung verursachen. Milch bindet Theobromin nicht und verzögert im schlimmsten Fall die professionelle Behandlung. Das Auslösen von Erbrechen sollte ausschließlich durch einen Tierarzt mit geeigneten Medikamenten erfolgen. Bei bereits eingetretener Bewusstseinstrübung besteht zudem die Gefahr des Erstickens an Erbrochenem.
+
+<div class="not-prose info-box info-box-warning">
+<span class="info-box-icon">⚠️</span>
+<div>
+<strong>Hausmittel sind gefährlich!</strong>
+<p>Salzwasser zum Erbrechen kann eine Natriumvergiftung verursachen. Milch bindet Theobromin nicht. Das Auslösen von Erbrechen darf ausschließlich durch den Tierarzt erfolgen.</p>
+</div>
+</div>
 
 ## Welche Schokolade ist besonders gefährlich?
 

@@ -31,6 +31,17 @@ sources:
 
 Fellpflege beim Hund ist weit mehr als eine Schönheitsfrage – sie ist ein wesentlicher Bestandteil der Gesundheitsvorsorge. Ein gepflegtes Fell schützt vor Hautinfektionen, reguliert die Körpertemperatur und stärkt die Bindung zwischen Mensch und Tier. Regelmäßiges Bürsten, bedarfsgerechtes Baden und das fachgerechte Entfernen der Unterwolle bilden die drei Grundpfeiler einer artgerechten Fellpflege. Rund 15 % aller Hunde in Deutschland leiden an Hautproblemen, die durch mangelnde Fellpflege begünstigt oder verschlimmert werden.
 
+<div class="not-prose tldr-box">
+<h4>✅ Zusammenfassung</h4>
+<ul>
+<li>Regelmäßiges Bürsten (1–2x pro Woche) ist wichtiger als häufiges Baden</li>
+<li>Die richtige Bürste hängt vom Felltyp ab – Kurzhaar, Langhaar und Drahthaar brauchen unterschiedliche Werkzeuge</li>
+<li>Unterwolle im Fellwechsel mit FURminator oder Unterwollharke entfernen</li>
+<li>Nur spezielles Hundeshampoo verwenden – Menschenshampoo zerstört den Säureschutzmantel</li>
+<li>Fellpflege von Anfang an üben – positive Verknüpfung mit Leckerlis schaffen</li>
+</ul>
+</div>
+
 ## Warum ist Fellpflege beim Hund so wichtig?
 
 Das Hundefell erfüllt lebenswichtige Schutzfunktionen: Das Deckhaar wehrt Nässe, UV-Strahlung und mechanische Verletzungen ab, während die Unterwolle als Isolationsschicht die Körpertemperatur reguliert. Wird diese Schutzbarriere durch fehlende Pflege beeinträchtigt, steigt das Risiko für Hautinfektionen, Parasitenbefall und allergische Reaktionen erheblich.
@@ -123,6 +134,27 @@ Den Hund zunächst am Körper nass machen, den Kopf zuletzt. Shampoo gründlich 
 | Duftstoffe | Seifen- und parfümfrei | Enthält oft Parfüm |
 | Hautverträglichkeit | Schont den Säureschutzmantel | Kann Juckreiz und Allergien auslösen |
 
+<div class="not-prose comparison-grid">
+<div class="comparison-pro">
+<h4>✅ Hundeshampoo</h4>
+<ul>
+<li>pH-Wert 6,5–7,5 (passend für Hundehaut)</li>
+<li>Rückfettende Substanzen schonen den Schutzfilm</li>
+<li>Speziell für empfindliche Hundehaut entwickelt</li>
+<li>Oft mit pflegenden Inhaltsstoffen wie Aloe Vera</li>
+</ul>
+</div>
+<div class="comparison-contra">
+<h4>❌ Menschenshampoo</h4>
+<ul>
+<li>pH-Wert 5,5 (zu sauer für Hundehaut)</li>
+<li>Zerstört den natürlichen Säureschutzmantel</li>
+<li>Kann Juckreiz, Rötungen und Entzündungen verursachen</li>
+<li>Auch Babyshampoo ist nicht geeignet</li>
+</ul>
+</div>
+</div>
+
 ### Welpen baden
 
 Welpen können ab einem Alter von 3 Monaten gebadet werden. In den ersten Lebensmonaten sollte das Baden auf absolute Ausnahmen beschränkt bleiben. Bei Verschmutzung reicht ein feuchtes Tuch. Das erste Bad sollte in stressfreier Umgebung mit lauwarmem Wasser und rutschfester Unterlage stattfinden.
@@ -141,6 +173,14 @@ Eine hochwertige Ernährung unterstützt den Fellwechsel und fördert ein gesund
 
 Biotin (Vitamin B7) ist ein weiterer wichtiger Nährstoff für die Fellgesundheit. Natürliche Biotinquellen sind gekochte Eier, Leber und Hefe. Die empfohlene Tagesdosis liegt bei 2–5 Mikrogramm pro Kilogramm Körpergewicht.
 
+<div class="not-prose info-box info-box-warning">
+<span class="info-box-icon">⚠️</span>
+<div>
+<strong>Häufige Fehler bei der Fellpflege vermeiden!</strong>
+<p>Nasses Fell bürsten verursacht Verfilzungen und Haarbruch. Zu häufiges Baden zerstört den natürlichen Schutzfilm. Gegen den Strich bürsten ist bei vielen Rassen schmerzhaft. Den FURminator nie öfter als 1x pro Woche einsetzen.</p>
+</div>
+</div>
+
 ## Häufige Fehler bei der Fellpflege
 
 | Fehler | Folge | Richtige Vorgehensweise |
@@ -155,6 +195,14 @@ Biotin (Vitamin B7) ist ein weiterer wichtiger Nährstoff für die Fellgesundhei
 ### Die falsche Bürste als häufigster Fehler
 
 Die Wahl der falschen Hundebürste ist einer der häufigsten Pflegefehler. Zu scharfe Metallkämme auf empfindlicher Kurzhaar-Haut verursachen Mikroverletzungen. Zu weiche Bürsten bei dichtem Langhaar dringen nicht bis zur Unterwolle vor. Die Investition in das passende Bürstenset lohnt sich langfristig für die Haut- und Fellgesundheit.
+
+<div class="not-prose info-box info-box-tip">
+<span class="info-box-icon">💡</span>
+<div>
+<strong>Fellpflege von Anfang an üben</strong>
+<p>Welpen ab der 8. Lebenswoche spielerisch an die Bürste gewöhnen. Kurze Einheiten von 2–3 Minuten mit Leckerlis und Lob verknüpfen. Niemals mit Gewalt bürsten – negative Erfahrungen führen zu lebenslanger Abneigung gegen Fellpflege.</p>
+</div>
+</div>
 
 ## Hund an die Fellpflege gewöhnen
 
@@ -189,6 +237,30 @@ Bei Senioren empfehlen sich besonders weiche Bürsten mit abgerundeten Borsten. 
 | Coat King | Unterwolle schonend entfernen | Stockhaar, dichte Unterwolle |
 | Entfilzungsharke | Verfilzungen auftrennen | Starke Verfilzungen bei Langhaar |
 | Fellschere (abgerundet) | Haare an Ohren, Pfoten kürzen | Alle Rassen bei Bedarf |
+
+
+<div class="not-prose card-grid">
+<div class="card-grid-item">
+<span class="card-grid-icon">🪮</span>
+<h4>Zupfbürste (Slicker)</h4>
+<p>Für Langhaar und Lockenfell – entfernt Knoten und lose Haare schonend</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🧹</span>
+<h4>Unterwollharke</h4>
+<p>Für doppeltes Fell – entfernt abgestorbene Unterwolle im Fellwechsel</p>
+</div>
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">✂️</span>
+<h4>FURminator</h4>
+<p>Effektivstes Werkzeug gegen Unterwolle – maximal 1x pro Woche verwenden</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">🐾</span>
+<h4>Gummistriegel</h4>
+<p>Für Kurzhaar – massiert die Haut und entfernt Staub und lose Haare</p>
+</div>
+</div>
 
 Beim Kauf auf Qualität achten: Abgerundete Zinken und Borsten schützen die empfindliche Hundehaut. Naturborsten oder ummantelte Drahtborsten sind für die Fellpflege deutlich besser geeignet als Kunststoffborsten, die elektrostatische Aufladung erzeugen.
 

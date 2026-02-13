@@ -33,6 +33,14 @@ sources:
 
 Eine Vergiftung beim Hund ist ein lebensbedrohlicher Notfall, der innerhalb weniger Stunden tödlich enden kann. Vergiftungen zählen zu den häufigsten Notfällen in deutschen Tierarztpraxen – ausgelöst durch Giftköder, giftige Lebensmittel, Haushaltschemikalien oder Pflanzen. Die Symptome reichen von Erbrechen und Durchfall über Zittern und Krämpfe bis hin zu Bewusstlosigkeit und Organversagen. Entscheidend ist die Geschwindigkeit: Je schneller die Vergiftungserscheinungen erkannt und behandelt werden, desto höher sind die Überlebenschancen.
 
+<div class="not-prose info-box info-box-danger">
+<span class="info-box-icon">🚨</span>
+<div>
+<strong>Notfall: Vergiftung erkannt?</strong>
+<p>Sofort den Tierarzt oder die Tierklinik mit 24-Stunden-Notdienst kontaktieren. Niemals eigenständig Erbrechen auslösen! Giftstoff, aufgenommene Menge und Zeitpunkt notieren.</p>
+</div>
+</div>
+
 ## Vergiftung beim Hund: Symptome erkennen
 
 Die Symptome einer Vergiftung beim Hund lassen sich in drei Hauptkategorien einteilen: Magen-Darm-Symptome, neurologische Symptome und Herz-Kreislauf-Symptome. Welche Vergiftungserscheinungen auftreten, hängt von der Art des aufgenommenen Giftstoffs und der Menge ab.
@@ -81,6 +89,39 @@ Der Zeitpunkt variiert zwischen 30 Minuten und mehreren Tagen – abhängig vom 
 
 ## Häufigste Ursachen einer Vergiftung beim Hund
 
+<div class="not-prose card-grid">
+<div class="card-grid-item">
+<span class="card-grid-icon">🍫</span>
+<h4>Schokolade</h4>
+<p>Theobromin – bereits 20 mg/kg gefährlich</p>
+</div>
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🍇</span>
+<h4>Trauben & Rosinen</h4>
+<p>Schon kleine Mengen können Nierenversagen auslösen</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">🧁</span>
+<h4>Xylit (Birkenzucker)</h4>
+<p>Extremer Blutzuckerabfall und Leberversagen</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">🧅</span>
+<h4>Zwiebeln & Knoblauch</h4>
+<p>Zerstören rote Blutkörperchen – auch gekocht giftig</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🐀</span>
+<h4>Rattengift</h4>
+<p>Verhindert Blutgerinnung – Symptome erst nach 2–5 Tagen</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">💊</span>
+<h4>Medikamente</h4>
+<p>Ibuprofen, Paracetamol – für Hunde hochgiftig</p>
+</div>
+</div>
+
 ### Giftige Lebensmittel
 
 **Schokolade** gehört zu den häufigsten Vergiftungsursachen im Haushalt. Das enthaltene Theobromin ist für Hunde toxisch – bereits ab 15 mg/kg Körpergewicht können Vergiftungserscheinungen auftreten. Dunkle Schokolade enthält 20- bis 25-mal mehr Theobromin als Vollmilchschokolade.
@@ -120,12 +161,43 @@ Humanmedikamente wie Ibuprofen, Diclofenac und Paracetamol können bei Hunden sc
 
 Bei Verdacht auf eine Vergiftung zählt jede Minute. Die folgenden Sofortmaßnahmen können die Überlebenschancen entscheidend verbessern – ersetzen aber nicht die tierärztliche Behandlung.
 
+<div class="not-prose steps-grid">
+<div class="step-item">
+<div class="step-number">1</div>
+<h4>Ruhe bewahren</h4>
+<p>Situation erfassen, Giftstoff und Menge notieren</p>
+</div>
+<div class="step-item">
+<div class="step-number">2</div>
+<h4>Tierarzt anrufen</h4>
+<p>Sofort kontaktieren – auch ohne Symptome</p>
+</div>
+<div class="step-item">
+<div class="step-number step-number--petrol">3</div>
+<h4>Hund beobachten</h4>
+<p>Symptome und Zeitpunkt dokumentieren</p>
+</div>
+<div class="step-item">
+<div class="step-number step-number--done">4</div>
+<h4>Zum Tierarzt fahren</h4>
+<p>Giftprobe und Verpackung mitnehmen</p>
+</div>
+</div>
+
 ### Notfall-Ablauf
 
 1. **Ruhe bewahren:** Hund beruhigen, Giftreste aus dem Maul entfernen (Handschuhe tragen), Reste sichern
 2. **Tierarzt anrufen:** Tierklinik oder Notdienst kontaktieren, Giftstoff, Menge und Zeitpunkt mitteilen
 3. **Erste Hilfe leisten:** Bei Bewusstlosigkeit stabile Seitenlage, Aktivkohle nur nach Rücksprache geben
 4. **Transport zum Tierarzt:** Giftreste und Erbrochenes mitnehmen, zweite Person für Betreuung einplanen
+
+<div class="not-prose info-box info-box-warning">
+<span class="info-box-icon">⚠️</span>
+<div>
+<strong>Kein Erbrechen auslösen!</strong>
+<p>Salzwasser, Milch oder Hausmittel können eine Vergiftung verschlimmern. Bei ätzenden Substanzen besteht Verätzungsgefahr der Speiseröhre. Das Auslösen von Erbrechen darf ausschließlich durch den Tierarzt erfolgen.</p>
+</div>
+</div>
 
 ### Warum kein Erbrechen auslösen?
 
@@ -185,6 +257,34 @@ Die Nummer der nächsten Tierklinik mit Notdienst sollte im Handy gespeichert se
 ## Erste-Hilfe-Set für den Vergiftungsnotfall
 
 Ein gut ausgestattetes Notfall-Set kann wertvolle Zeit sparen:
+
+<div class="not-prose checklist">
+<h4>✅ Erste-Hilfe-Set für den Vergiftungsnotfall</h4>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Telefonnummer Tierarzt & Tierklinik (24h-Notdienst)</span>
+</div>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Aktivkohle-Tabletten (nur nach Rücksprache mit Tierarzt)</span>
+</div>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Maulschlinge oder Verband</span>
+</div>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Einmalhandschuhe</span>
+</div>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Transportbox für Erbrochenes/Giftproben</span>
+</div>
+<div class="checklist-item checklist-item--checked">
+<div class="check-icon">✓</div>
+<span>Aktuelles Körpergewicht des Hundes notiert</span>
+</div>
+</div>
 
 - **Aktivkohle** (Pulver oder Suspension) – 1 g pro kg Körpergewicht vorberechnen
 - **Einmalhandschuhe** – Schutz beim Entfernen von Giftresten

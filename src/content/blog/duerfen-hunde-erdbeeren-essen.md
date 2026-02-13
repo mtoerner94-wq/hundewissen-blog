@@ -46,6 +46,14 @@ Ja, Erdbeeren sind für Hunde sicher und gesund. Die Früchte enthalten rund 60 
 - Große Hunde: 4 bis 5 Erdbeeren pro Tag
 - Immer waschen, Stiel entfernen und bei kleinen Hunden zerkleinern
 
+<div class="not-prose info-box info-box-success">
+<span class="info-box-icon">✅</span>
+<div>
+<strong>Ja, Hunde dürfen Erdbeeren essen!</strong>
+<p>Erdbeeren sind für Hunde ungiftig und in Maßen sogar gesund. Sie enthalten Vitamin C, Ballaststoffe und Antioxidantien. Wichtig: Nur reife, gewaschene Erdbeeren in kleinen Mengen füttern und die Portionsgröße an das Körpergewicht anpassen.</p>
+</div>
+</div>
+
 ## Warum Erdbeeren für Hunde gesund sind
 
 Erdbeeren bieten eine Reihe von gesundheitlichen Vorteilen für Hunde:
@@ -64,6 +72,25 @@ Erdbeeren bieten eine Reihe von gesundheitlichen Vorteilen für Hunde:
 - **Flavonoide:** Wirken als Antioxidantien und schützen die Zellen vor oxidativem Stress
 - **Ballaststoffe (ca. 2 g/100g):** Fördern eine gesunde Verdauung
 - **Hoher Wasseranteil (ca. 90 %):** Trägt zur Flüssigkeitszufuhr bei
+
+<div class="not-prose stat-grid">
+<div class="stat-item">
+<p class="stat-value">65 mg</p>
+<p class="stat-label">Vitamin C pro 100g</p>
+</div>
+<div class="stat-item stat-item--petrol">
+<p class="stat-value">32 kcal</p>
+<p class="stat-label">Kalorien pro 100g</p>
+</div>
+<div class="stat-item">
+<p class="stat-value">5,5 g</p>
+<p class="stat-label">Zucker pro 100g</p>
+</div>
+<div class="stat-item stat-item--dark">
+<p class="stat-value">2 g</p>
+<p class="stat-label">Ballaststoffe pro 100g</p>
+</div>
+</div>
 
 ## Wie viele Erdbeeren dürfen Hunde essen?
 
@@ -98,6 +125,14 @@ Gefrorene Erdbeeren eignen sich hervorragend als erfrischender Sommersnack an he
 ### Getrocknete Erdbeeren
 
 Gefriergetrocknete Erdbeeren sind ebenfalls möglich, enthalten aber eine höhere Konzentration an Fruchtzucker. Die Menge sollte daher auf 1 bis 2 kleine Stücke täglich begrenzt werden. Achte auf die Zutatenliste: Zugesetzter Zucker oder Konservierungsstoffe haben in Hundesnacks nichts verloren.
+
+<div class="not-prose info-box info-box-warning">
+<span class="info-box-icon">⚠️</span>
+<div>
+<strong>Nicht zu viel füttern!</strong>
+<p>Erdbeeren enthalten Fruchtzucker und Säure. Zu große Mengen können Durchfall und Magenprobleme verursachen. Die Faustregel: Obst sollte maximal 5–10 % der täglichen Futterration ausmachen. Bei Hunden mit empfindlichem Magen vorsichtig einführen.</p>
+</div>
+</div>
 
 ## Sind Erdbeeren giftig für Hunde? Risiken und Nebenwirkungen
 
@@ -141,9 +176,52 @@ Nicht jedes Obst ist für Hunde geeignet. Hier ein Vergleich:
 - **Avocado:** Enthält Persin, das für Hunde toxisch ist
 - **Steinobstkerne:** Kerne von Kirschen, Pfirsichen und Pflaumen enthalten Blausäure
 
+<div class="not-prose card-grid">
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🍓</span>
+<h4>Erdbeeren</h4>
+<p>Erlaubt – reich an Vitamin C, kalorienarm</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🍎</span>
+<h4>Äpfel</h4>
+<p>Erlaubt – ohne Kerne, guter Ballaststoff-Lieferant</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🫐</span>
+<h4>Blaubeeren</h4>
+<p>Erlaubt – reich an Antioxidantien, idealer Trainingssnack</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🍌</span>
+<h4>Bananen</h4>
+<p>Erlaubt – in kleinen Mengen, kaliumreich aber zuckerhaltig</p>
+</div>
+<div class="card-grid-item" style="border: 2px solid #e17055;">
+<span class="card-grid-icon">🍇</span>
+<h4>Trauben & Rosinen</h4>
+<p>GIFTIG – können Nierenversagen auslösen!</p>
+</div>
+<div class="card-grid-item" style="border: 2px solid #e17055;">
+<span class="card-grid-icon">🥑</span>
+<h4>Avocado</h4>
+<p>GIFTIG – enthält Persin, schädlich für Hunde</p>
+</div>
+</div>
+
 ## Erdbeer-Eis für Hunde: Einfaches Rezept
 
 Ein einfacher und gesunder Sommersnack zum Selbermachen:
+
+<div class="not-prose recipe-box">
+<h4>🍨 Erdbeer-Eis für Hunde – Rezept</h4>
+<ul>
+<li><strong>200 g</strong> frische Erdbeeren (gewaschen, Grün entfernt)</li>
+<li><strong>150 g</strong> Naturjoghurt (laktosefrei oder -arm)</li>
+<li><strong>Optional:</strong> 1 EL Honig oder etwas Kokosöl</li>
+</ul>
+<p style="margin-top: 0.75rem; font-size: 0.9rem; color: #555;">Erdbeeren pürieren, mit Joghurt mischen, in Eisform oder Kong füllen und mindestens 4 Stunden einfrieren. Fertig!</p>
+</div>
 
 **Zutaten:**
 - 100 g frische Erdbeeren

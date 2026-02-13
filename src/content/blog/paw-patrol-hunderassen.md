@@ -48,6 +48,78 @@ Dieser Ratgeber stellt alle Paw Patrol Hunderassen im Detail vor, erläutert ihr
 | Liberty | Dackel | Stadthund | Magenta |
 | Rex | Berner Sennenhund | Dinosaurier-Experte | Grün |
 
+<div class="not-prose card-grid">
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🐕‍🦺</span>
+<h4>Chase</h4>
+<p>Deutscher Schäferhund – Polizeihund und Anführer</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">🚒</span>
+<h4>Marshall</h4>
+<p>Dalmatiner – Feuerwehrhund und Sanitäter</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">✈️</span>
+<h4>Skye</h4>
+<p>Cockapoo – Pilotin und Rettungsfliegerin</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🏗️</span>
+<h4>Rubble</h4>
+<p>Englische Bulldogge – Bauarbeiter</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">♻️</span>
+<h4>Rocky</h4>
+<p>Mischling – Recycling-Experte</p>
+</div>
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🏄</span>
+<h4>Zuma</h4>
+<p>Labrador Retriever – Wasserrettung</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">❄️</span>
+<h4>Everest</h4>
+<p>Husky – Schnee- und Bergrettung</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">🌴</span>
+<h4>Tracker</h4>
+<p>Chihuahua – Dschungel-Rettung</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">🗽</span>
+<h4>Liberty</h4>
+<p>Dackel – Stadtrettung</p>
+</div>
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🦕</span>
+<h4>Rex</h4>
+<p>Berner Sennenhund – Dino-Rettung</p>
+</div>
+</div>
+
+<div class="not-prose stat-grid">
+<div class="stat-item">
+<p class="stat-value">10</p>
+<p class="stat-label">Team-Mitglieder</p>
+</div>
+<div class="stat-item stat-item--petrol">
+<p class="stat-value">7</p>
+<p class="stat-label">Kernmitglieder</p>
+</div>
+<div class="stat-item">
+<p class="stat-value">3</p>
+<p class="stat-label">Neue Mitglieder</p>
+</div>
+<div class="stat-item stat-item--dark">
+<p class="stat-value">9</p>
+<p class="stat-label">Verschiedene Rassen</p>
+</div>
+</div>
+
 ## Die 7 Kernmitglieder im Detail
 
 ### Chase -- Deutscher Schäferhund
@@ -197,6 +269,14 @@ Die Kosten für einen Welpen variieren je nach Rasse und Züchter erheblich:
 - **Mischling (Tierheim):** 200 bis 400 Euro Schutzgebühr
 
 Zu den Anschaffungskosten kommen monatliche Ausgaben für Futter (50 bis 150 Euro), Tierarztkosten, Versicherung und Zubehör.
+
+<div class="not-prose info-box info-box-info">
+<span class="info-box-icon">ℹ️</span>
+<div>
+<strong>Wichtig für Eltern: Hund ist kein Spielzeug</strong>
+<p>Kinder wünschen sich nach Paw Patrol oft einen echten Hund. Bedenke: Ein Hund bedeutet 10–15 Jahre Verantwortung, täglichen Zeitaufwand und Kosten von 1.000–2.000 Euro pro Jahr. Die Anschaffung sollte nie eine spontane Entscheidung sein.</p>
+</div>
+</div>
 
 ## Verantwortungsvolle Anschaffung
 

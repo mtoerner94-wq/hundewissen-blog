@@ -33,6 +33,17 @@ Ein Hund, der ständig bellt, belastet nicht nur die Nerven von Halter und Nachb
 
 Die gute Nachricht: Hinter dem Dauerbellen steckt immer eine konkrete Ursache, die sich mit dem richtigen Ansatz beheben lässt. Dieser Ratgeber erklärt die fünf häufigsten Gründe für übermäßiges Bellen und zeigt bewährte Trainingsmethoden, die wirklich helfen.
 
+<div class="not-prose tldr-box">
+<h4>✅ Zusammenfassung</h4>
+<ul>
+<li>Bellen ist natürliche Kommunikation – übermäßiges Bellen hat immer eine Ursache</li>
+<li>Die 5 häufigsten Gründe: Unsicherheit, Territorialverhalten, Langeweile, Aufmerksamkeit, Frustration</li>
+<li>Wichtigste Regel: Bellen niemals durch Anschreien oder Bestrafung verstärken</li>
+<li>Training mit positiver Verstärkung ist die effektivste Methode</li>
+<li>Bei anhaltendem Bellen professionelle Hilfe (Hundetrainer) in Anspruch nehmen</li>
+</ul>
+</div>
+
 ## Warum bellen Hunde?
 
 Bellen ist für Hunde ein natürliches Kommunikationsmittel. Es dient dazu, Artgenossen und Menschen auf etwas aufmerksam zu machen, Gefühle auszudrücken oder auf Gefahren hinzuweisen. Erst wenn das Bellen übermäßig wird, liegt ein Problem vor.
@@ -52,6 +63,34 @@ Hunde bellen nicht immer aus dem gleichen Grund. Die Bellart gibt wichtige Hinwe
 Einige Hunderassen neigen stärker zum Bellen als andere. Terrier, Beagles und kleine Hunderassen wie Chihuahuas und Dackel gehören zu den bellfreudigeren Rassen. Ruhigere Rassen wie Berner Sennenhunde, Bernhardiner und Basenjis bellen tendenziell weniger. Diese Veranlagung lässt sich durch Training beeinflussen, sollte bei der Rassewahl aber berücksichtigt werden.
 
 ## Die 5 häufigsten Ursachen für übermäßiges Bellen
+
+<div class="not-prose card-grid">
+<div class="card-grid-item">
+<span class="card-grid-icon">😰</span>
+<h4>Unsicherheit & Angst</h4>
+<p>Hund bellt aus Stress – bei unbekannten Situationen, Geräuschen oder Menschen</p>
+</div>
+<div class="card-grid-item card-grid-item--accent">
+<span class="card-grid-icon">🏠</span>
+<h4>Territorialverhalten</h4>
+<p>Verteidigung des Reviers – Bellen bei Besuchern, Postboten oder Passanten</p>
+</div>
+<div class="card-grid-item card-grid-item--petrol">
+<span class="card-grid-icon">🥱</span>
+<h4>Langeweile</h4>
+<p>Unterforderung und fehlende Beschäftigung – körperlich und geistig</p>
+</div>
+<div class="card-grid-item card-grid-item--beige">
+<span class="card-grid-icon">👀</span>
+<h4>Aufmerksamkeit</h4>
+<p>Erlerntes Verhalten – Bellen wird durch Reaktion des Halters belohnt</p>
+</div>
+<div class="card-grid-item">
+<span class="card-grid-icon">😤</span>
+<h4>Frustration</h4>
+<p>Leinenfrust, Barriere-Aggression – Hund kann nicht zu etwas hin, das er möchte</p>
+</div>
+</div>
 
 ### 1. Unsicherheit und Angst
 
@@ -104,6 +143,14 @@ Plötzlich eintretendes, übermäßiges Bellen kann auf Schmerzen oder gesundhei
 - Verändertes Fress- oder Schlafverhalten
 
 **Wichtig:** Bei plötzlich auftretendem oder verändertem Bellverhalten sollte immer zuerst ein Tierarzt aufgesucht werden, um gesundheitliche Ursachen auszuschließen.
+
+<div class="not-prose info-box info-box-tip">
+<span class="info-box-icon">💡</span>
+<div>
+<strong>Goldene Trainingsregel: Ruhe belohnen</strong>
+<p>Nicht das Bellen bestrafen, sondern die Stille belohnen. Sobald der Hund aufhört zu bellen, sofort mit Leckerli und Lob bestätigen. Timing ist entscheidend – die Belohnung muss innerhalb von 1–2 Sekunden nach dem Stillsein erfolgen.</p>
+</div>
+</div>
 
 ## Effektive Trainingsmethoden gegen übermäßiges Bellen
 
@@ -187,9 +234,25 @@ Die folgenden Fehler verschlimmern das Bellproblem häufig, statt es zu lösen:
 4. **Zu schnelle Steigerung:** Wird der Hund im Training überfordert, verliert er das Vertrauen
 5. **Zu wenig Auslastung:** Training allein reicht nicht -- der Hund braucht täglich ausreichend körperliche und geistige Beschäftigung
 
+<div class="not-prose info-box info-box-warning">
+<span class="info-box-icon">⚖️</span>
+<div>
+<strong>Rechtliche Konsequenzen bei dauerhaftem Bellen</strong>
+<p>Andauerndes Hundegebell kann als Ruhestörung gelten. Nachbarn können Unterlassung fordern und bei Missachtung drohen Bußgelder bis 5.000 Euro. Besonders zwischen 22:00 und 6:00 Uhr sowie an Sonn- und Feiertagen gelten strenge Ruhezeiten.</p>
+</div>
+</div>
+
 ## Rechtliche Aspekte
 
 In Deutschland gelten für Hundebellen klare Regeln. Anhaltendes Bellen von mehr als 10 Minuten Dauer kann als Ordnungswidrigkeit gewertet werden. Während der allgemeinen Ruhezeiten gelten strengere Vorschriften. Illegale Hilfsmittel wie Elektroschockhalsbänder sind in Deutschland verboten und können mit empfindlichen Bußgeldern bestraft werden.
+
+<div class="not-prose info-box info-box-info">
+<span class="info-box-icon">ℹ️</span>
+<div>
+<strong>Wann zum Hundetrainer?</strong>
+<p>Wenn das Bellen trotz konsequentem Training über 4–6 Wochen nicht nachlässt, der Hund aggressiv reagiert oder das Bellen von Angstverhalten begleitet wird, sollte ein zertifizierter Hundetrainer oder Verhaltenstherapeut hinzugezogen werden.</p>
+</div>
+</div>
 
 ## Wann professionelle Hilfe sinnvoll ist
 
