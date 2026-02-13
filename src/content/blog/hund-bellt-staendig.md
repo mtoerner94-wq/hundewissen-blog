@@ -114,6 +114,8 @@ Territorial motivierte Hunde bellen, um ihr Revier zu verteidigen. Typische Ausl
 
 Territoriales Bellen wird durch **Erfolg verstärkt**: Der Briefträger kommt, der Hund bellt, der Briefträger geht -- aus Sicht des Hundes hat sein Bellen den "Eindringling" vertrieben. Dieser selbstverstärkende Kreislauf macht territoriales Bellen besonders hartnäckig.
 
+![Hund bellt am Gartenzaun – territoriales Verhalten](/images/hund-bellt-am-gartenzaun.webp)
+
 ### 3. Langeweile und fehlende Auslastung
 
 Ein unterforderter Hund sucht sich selbst Beschäftigung -- und Bellen ist eine der einfachsten Optionen. Erwachsene Hunde benötigen je nach Rasse und Alter zwischen **1 und 3 Stunden** körperliche und geistige Beschäftigung pro Tag. Wird dieses Bedürfnis nicht erfüllt, äußert sich die aufgestaute Energie häufig in monotonem, rhythmischem Dauerbellen.
@@ -177,6 +179,8 @@ Ein Hund bellt andere Hunde an, weil er an der Leine sein natürliches Flucht- o
 
 Die Distanz wird über Wochen schrittweise verringert -- aber nur so weit, wie der Hund entspannt bleibt. Zeigt er Stressanzeichen (Hecheln, steife Körperhaltung, fixierter Blick), war der Schritt zu groß. Bei konsequentem Training sind innerhalb von **4-8 Wochen** deutliche Verbesserungen möglich.
 
+![Hundetraining im Park – Desensibilisierung an der Leine](/images/hundetraining_park_querformat.webp)
+
 ### Hund bellt bei jedem Geräusch -- Geräusch-Desensibilisierung
 
 Geräuschempfindliche Hunde reagieren mit Bellen auf Alltagsgeräusche wie Türklingeln, Sirenen oder Staubsauger. Geräusch-Desensibilisierung funktioniert über kontrollierte Konfrontation: Zunächst wird das problematische Geräusch in **sehr leiser Lautstärke** abgespielt. Reagiert der Hund ruhig, folgt eine Belohnung.
@@ -198,6 +202,8 @@ Zusätzlich kann **Sichtschutzfolie** an Fenstern die visuelle Reizüberflutung 
 Zwischen Schlafbellen und wachem Bellen muss unterschieden werden. Gedämpftes Bellen im Schlaf ist normal und harmlos -- der Hund verarbeitet Erlebnisse des Tages. Waches nächtliches Bellen dagegen hat meist eine konkrete Ursache: Geräusche von draußen, Trennungsangst oder gesundheitliche Beschwerden.
 
 Bei älteren Hunden kann nächtliches Bellen in Kombination mit Desorientierung auf eine **kognitive Dysfunktion** hindeuten. Für alle anderen Fälle helfen: ein ruhiger Schlafplatz im selben Raum wie der Halter, Abdunklung des Raums und eine entspannte Abendroutine.
+
+![Hund liegt entspannt im Hundebett in dunklem Raum](/images/hund_hundebett_entspannt_dunkler_raum.webp)
 
 ### Hund bellt wenn er alleine ist -- Trennungsangst erkennen
 

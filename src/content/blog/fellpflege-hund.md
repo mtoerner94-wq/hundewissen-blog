@@ -239,6 +239,8 @@ Der Fellwechsel beim Hund findet zweimal jährlich statt: Im Frühjahr (März bi
 
 Während des Fellwechsels verlieren manche Hunde erstaunliche Mengen an Haaren. Ein mittelgroßer Hund wie ein Golden Retriever kann in der Fellwechselphase täglich mehrere Handvoll Unterwolle verlieren. In dieser Phase ist tägliches Bürsten und gezieltes Entfernen der Unterwolle besonders wichtig. Ohne regelmäßige Pflege verfilzt das abgestorbene Fell mit den nachwachsenden Haaren und es bilden sich plattenartige Verfilzungen, die die Haut darunter schädigen.
 
+![Husky und Berner Sennenhund beim Fellwechsel – Unterwolle wird ausgebürstet](/images/husky_berner_sennenhund_fellwechsel_ausbuersten.webp)
+
 <div class="not-prose info-box info-box-info">
 <span class="info-box-icon">ℹ️</span>
 <div>

@@ -93,6 +93,8 @@ Dieser umfassende Ratgeber stellt **alle Paw Patrol Hunderassen im Detail** vor,
 
 Chase ist der **Anführer des PAW Patrol Teams** und arbeitet als Polizei- und Spürhund. In der Serie ist er mutig, loyal und immer als Erster zur Stelle. Seine echte Rasse -- der Deutsche Schäferhund -- ist eine der **bekanntesten und vielseitigsten Hunderassen** weltweit.
 
+![Deutscher Schäferhund im Freien – die Rasse hinter Chase aus Paw Patrol](/images/deutscher_schaeferhund_outdoor.webp)
+
 **Steckbrief Deutscher Schäferhund:**
 
 - **Größe:** 55 bis 65 cm Schulterhöhe
@@ -214,6 +216,8 @@ Huskys sind **keine normalen Familienhunde**. Sie haben einen ausgeprägten **La
 **Für wen geeignet?** Nur für erfahrene, sportliche Halter mit gesichertem Grundstück. Ideal: Zugsport (Canicross, Bikejöring).
 
 ## Die neueren Teammitglieder
+
+![Chihuahua, Dackel und Berner Sennenhund zusammen im Garten](/images/chihuahua_dackel_berner_sennenhund_garten.webp)
 
 ### Tracker -- Chihuahua 🌴
 

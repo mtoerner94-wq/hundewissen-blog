@@ -116,6 +116,8 @@ Die empfohlene Erdbeer-Menge richtet sich nach dem Körpergewicht des Hundes. Al
 - **🐕 Große Hunde (über 25 kg):** 4-5 Erdbeeren pro Tag
 - **🐶 Welpen (ab 8 Wochen):** ½-1 kleine Erdbeere pro Tag
 
+![Empfohlene Erdbeermengen für Hunde nach Größe](/images/empfohlene_erdbeermengen_hunde.webp)
+
 Bei der Erstfütterung von Erdbeeren sollte mit einer kleinen Menge begonnen werden, um die Verträglichkeit zu testen. Ein kleines Stück Erdbeere am ersten Tag reicht aus. Die Menge kann bei guter Verträglichkeit langsam gesteigert werden.
 
 Erdbeeren sollten als Ergänzung zum regulären Futter betrachtet werden, nicht als Mahlzeitenersatz. Die Snack-Kalorien müssen von der Tagesration abgezogen werden, um Übergewicht zu vermeiden. Bei einem 20-kg-Hund mit einem täglichen Kalorienbedarf von etwa 1.000 kcal sollten Snacks maximal 100 kcal ausmachen.
@@ -162,6 +164,8 @@ Für BARF-Ernährung können Erdbeeren als Teil des pflanzlichen Anteils integri
 ## Gefrorene und getrocknete Erdbeeren für Hunde
 
 Gefrorene Erdbeeren eignen sich als erfrischende Sommer-Leckerei für Hunde. An heißen Tagen mit Temperaturen über 25°C bieten leicht angetaute Erdbeeren eine willkommene Abkühlung. Komplett durchgefrorene Früchte sollten vermieden werden, da sie die Zähne belasten können.
+
+![Hund mit gefrorenen Erdbeeren im Kong-Spielzeug](/images/hund_gefrorene_erdbeeren_kong.webp)
 
 ### Gefrorene Erdbeeren: Dos and Don'ts
 
@@ -276,6 +280,8 @@ Erdbeeren lassen sich zu leckeren Hundesnacks verarbeiten, die an heißen Tagen 
 <li><strong>Schritt 3:</strong> Mindestens 4 Stunden einfrieren, dann leicht angetaut verfüttern</li>
 </ul>
 </div>
+
+![Hund mit Erdbeereis-Eiswürfel als sommerlicher Snack](/images/hund_erdbeereis_eiswuerfel.webp)
 
 Für laktoseintolerante Hunde kann der Joghurt durch laktosefreie Varianten oder pürierte Banane ersetzt werden. Pro Portion (ein Eiswürfel) enthält das Erdbeer-Eis etwa 15-20 Kalorien.
 
