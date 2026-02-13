@@ -1,5 +1,6 @@
 ---
 title: "Dürfen Hunde Erdbeeren essen? Alles über Erdbeeren für Hunde"
+image: "/images/hund_erdbeeren_sommer.webp"
 description: "Dürfen Hunde Erdbeeren essen? Ja! Erfahre alles über die richtige Menge, Nährstoffe, Zubereitung und worauf bei Erdbeeren für Hunde zu achten ist."
 category: "Hundeernährung"
 categorySlug: "hundeernaehrung"

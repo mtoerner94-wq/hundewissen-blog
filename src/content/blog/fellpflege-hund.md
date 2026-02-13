@@ -1,5 +1,6 @@
 ---
 title: "Fellpflege beim Hund: Bürsten, Baden & Unterwolle entfernen"
+image: "/images/golden-retriever-fellpflege-hund.webp"
 description: "Fellpflege beim Hund richtig gemacht: Alles zu Bürstentechnik, Felltypen, Unterwolle entfernen, Baden und den häufigsten Pflegefehlern – mit Werkzeugübersicht."
 category: "Hundepflege"
 categorySlug: "hundepflege"

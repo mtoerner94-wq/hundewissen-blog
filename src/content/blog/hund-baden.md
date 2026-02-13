@@ -1,5 +1,6 @@
 ---
 title: "Hund baden: Wie oft & womit waschen?"
+image: "/images/hund_baden.webp"
 description: "Hunde sollten so selten wie möglich und so oft wie nötig gebadet werden. Alles zu Häufigkeit, Wassertemperatur, Hundeshampoo und Schritt-für-Schritt-Anleitung."
 category: "Hundepflege"
 categorySlug: "hundepflege"

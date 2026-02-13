@@ -1,5 +1,6 @@
 ---
 title: "Hundegeschirr oder Halsband: Was ist besser für meinen Hund?"
+image: "/images/hund_im_park_hundegeschirr_halsband.webp"
 description: "Hundegeschirr oder Halsband? Erfahre, welche Option für deinen Hund die beste ist, welche Gesundheitsrisiken bestehen und wie du die richtige Passform findest."
 category: "Hundeausstattung"
 categorySlug: "hundeausstattung"

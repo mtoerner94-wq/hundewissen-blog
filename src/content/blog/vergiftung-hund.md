@@ -1,5 +1,6 @@
 ---
 title: "Vergiftung beim Hund: Symptome & Sofortmaßnahmen"
+image: "/images/vergiftung-hund-erste-hilfe.webp"
 description: "Vergiftung beim Hund erkennen und richtig handeln: Alle Symptome, Erste-Hilfe-Maßnahmen, häufige Giftquellen und tierärztliche Behandlungsmöglichkeiten im Überblick."
 category: "Hundegesundheit"
 categorySlug: "hundegesundheit"

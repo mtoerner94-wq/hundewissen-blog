@@ -1,5 +1,6 @@
 ---
 title: "Paw Patrol Hunderassen: Alle Rassen im Überblick"
+image: "/images/hunderassen_collage.webp"
 description: "Welche Hunderassen stecken hinter den Paw Patrol Figuren? Entdecke alle 10 Rassen von Chase bis Rex mit Steckbrief, Charakter und Haltungstipps."
 category: "Hunderassen"
 categorySlug: "hunderassen"

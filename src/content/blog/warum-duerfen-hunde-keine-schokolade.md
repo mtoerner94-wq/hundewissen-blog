@@ -1,5 +1,6 @@
 ---
 title: "Warum dürfen Hunde keine Schokolade?"
+image: "/images/warum-duerfen-hunde-keine-schokolade.webp"
 description: "Warum dürfen Hunde keine Schokolade essen? Theobromin ist der Grund – erfahre, ab welcher Menge es gefährlich wird, welche Symptome auftreten und was im Notfall zu tun ist."
 category: "Hundeernährung"
 categorySlug: "hundeernaehrung"

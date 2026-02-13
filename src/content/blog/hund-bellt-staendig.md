@@ -1,5 +1,6 @@
 ---
 title: "Hund bellt ständig: 5 Ursachen & effektive Trainingsmethoden"
+image: "/images/hund-bellt-staendig.webp"
 description: "Ein Hund bellt ständig aus Angst, Langeweile oder Unsicherheit. Erfahre die 5 häufigsten Ursachen und bewährte Trainingsmethoden, um das Bellen abzugewöhnen."
 category: "Erziehung & Verhalten"
 categorySlug: "erziehung-verhalten"

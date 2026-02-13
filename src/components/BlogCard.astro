@@ -7,9 +7,10 @@ interface Props {
   date: Date;
   href: string;
   featured?: boolean;
+  image?: string;
 }
 
-const { title, description, category, categorySlug, date, href, featured = false } = Astro.props;
+const { title, description, category, categorySlug, date, href, featured = false, image } = Astro.props;
 
 const gradientMap: Record<string, string> = {
   hundeernaehrung: 'from-orange-100 to-amber-50',
@@ -37,7 +38,9 @@ const formattedDate = new Date(date).toLocaleDateString('de-DE', {
   ]}
 >
   {featured && (
-    <div class={`h-48 rounded-t-xl bg-gradient-to-br ${gradient}`} />
+    image
+      ? <img src={image} alt={title} class="h-48 w-full object-cover rounded-t-xl" loading="lazy" />
+      : <div class={`h-48 rounded-t-xl bg-gradient-to-br ${gradient}`} />
   )}
 
   <div class="p-6 flex flex-col flex-1">
