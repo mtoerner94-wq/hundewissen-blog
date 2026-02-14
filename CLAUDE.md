@@ -11,13 +11,14 @@ Live unter: https://hundewissen-mit-kopf.de
 - **Styling:** Tailwind CSS 4.1 + `@tailwindcss/typography`
 - **Hosting:** Cloudflare Pages (auto-deploy bei `git push` auf `main`)
 - **Domain:** Bei Hetzner registriert, Nameserver zeigen auf Cloudflare
+- **Suche:** Pagefind (statisch, client-side, DSGVO-konform)
 - **Sitemap:** `@astrojs/sitemap` → `/sitemap-index.xml`
 
 ## Befehle
 
 ```bash
 npm run dev       # Lokale Vorschau (localhost:4321)
-npm run build     # Produktions-Build → dist/
+npm run build     # Produktions-Build → dist/ + Pagefind-Index
 npm run preview   # Gebautete Seite lokal ansehen
 ```
 
@@ -26,7 +27,7 @@ npm run preview   # Gebautete Seite lokal ansehen
 ```
 src/
 ├── layouts/BaseLayout.astro     # Head, SEO, OG-Tags, Schema.org, Header/Footer
-├── components/                   # 14 Komponenten (Header, Footer, BlogCard, FAQ, AuthorBox...)
+├── components/                   # 16 Komponenten (Header, Footer, BlogCard, FAQ, AuthorBox, SearchModal, RelatedArticles...)
 ├── pages/
 │   ├── index.astro              # Startseite
 │   ├── [category]/[id].astro    # Artikel-Template (dynamische Route)
@@ -105,6 +106,24 @@ Alle Custom-HTML-Blöcke in `.md`-Dateien brauchen `class="not-prose ..."`:
 - `checklist` + `checklist-item` — Checkliste
 - `recipe-box` — Rezept-Box
 - `definition-box` — Definitions-Box
+
+## Suche (Pagefind)
+
+- **Bibliothek:** Pagefind (statisch, client-side, DSGVO-konform — keine externen Anfragen)
+- **Build:** Automatisch als Post-Build-Schritt (`astro build && npx pagefind --site dist`)
+- **UI:** Modal-Overlay (`SearchModal.astro`), geöffnet via Header-Button oder `Cmd+K` / `Ctrl+K`
+- **Indexierung:** Nur `<article data-pagefind-body>` in `[id].astro` wird indexiert
+- **Z-Index:** `z-[70]` (über Header z-50 und Mobile-Menu z-60)
+- **Sprache:** Deutsche UI-Texte (Placeholder, Fehlermeldungen)
+- **Hinweis:** Suche funktioniert nur nach `npm run build`, nicht in `npm run dev`
+
+## Verwandte Artikel
+
+- **Komponente:** `src/components/RelatedArticles.astro`
+- **Position:** Im Artikel-Template nach Quellen-Section, vor AuthorBox
+- **Algorithmus:** Shared Tags (+2 Punkte pro Tag, case-insensitive) + gleiche Kategorie (+1 Punkt)
+- **Anzeige:** Maximal 3 Artikel, Fallback auf neueste Beiträge wenn < 2 Treffer
+- **Wiederverwendung:** Nutzt bestehende `BlogCard.astro`-Komponente
 
 ## SEO & Schema.org
 

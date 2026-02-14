@@ -1,0 +1,84 @@
+---
+// RelatedArticles.astro — Verwandte Artikel am Ende jedes Blogposts
+// Matching: Shared Tags (2 Punkte pro Tag) + gleiche Kategorie (1 Punkt)
+// Fallback auf neueste Artikel wenn zu wenige Matches
+
+import { getCollection } from 'astro:content';
+import BlogCard from './BlogCard.astro';
+
+interface Props {
+  currentId: string;
+  currentTags: string[];
+  currentCategorySlug: string;
+}
+
+const { currentId, currentTags, currentCategorySlug } = Astro.props;
+
+// Alle veröffentlichten Posts laden (ohne aktuellen Artikel)
+const allPosts = await getCollection('blog', ({ data }) => !data.draft);
+const otherPosts = allPosts.filter((post) => post.id !== currentId);
+
+// Normalisierte Tags des aktuellen Artikels
+const normalizedCurrentTags = currentTags.map((t) => t.toLowerCase());
+
+// Relevanz-Score für jeden Artikel berechnen
+const scored = otherPosts.map((post) => {
+  let score = 0;
+
+  // Primär: Gemeinsame Tags (2 Punkte pro Tag, case-insensitive)
+  const postTags = (post.data.tags || []).map((t: string) => t.toLowerCase());
+  const sharedTagCount = postTags.filter((tag: string) =>
+    normalizedCurrentTags.includes(tag)
+  ).length;
+  score += sharedTagCount * 2;
+
+  // Sekundär: Gleiche Kategorie (1 Punkt)
+  if (post.data.categorySlug === currentCategorySlug) {
+    score += 1;
+  }
+
+  return { post, score };
+});
+
+// Nach Score sortieren (höchster zuerst), Tiebreaker: neuestes Datum
+scored.sort((a, b) => {
+  if (b.score !== a.score) return b.score - a.score;
+  return new Date(b.post.data.date).getTime() - new Date(a.post.data.date).getTime();
+});
+
+// Top 3 mit Score > 0 nehmen
+const relatedPosts = scored.slice(0, 3).filter((s) => s.score > 0);
+
+// Fallback: Falls weniger als 2 gute Treffer, mit neuesten Artikeln auffüllen
+const finalPosts =
+  relatedPosts.length >= 2
+    ? relatedPosts.map((s) => s.post)
+    : [
+        ...relatedPosts.map((s) => s.post),
+        ...scored
+          .filter((s) => s.score === 0)
+          .slice(0, 3 - relatedPosts.length)
+          .map((s) => s.post),
+      ].slice(0, 3);
+---
+
+{finalPosts.length > 0 && (
+  <section class="mt-12 pt-8 border-t border-slate-200" data-pagefind-ignore>
+    <h2 class="text-sm font-semibold text-slate-900 uppercase tracking-wider mb-6">
+      Verwandte Artikel
+    </h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+      {finalPosts.map((post) => (
+        <BlogCard
+          title={post.data.title}
+          description={post.data.description}
+          category={post.data.category}
+          categorySlug={post.data.categorySlug}
+          date={post.data.date}
+          href={`/${post.data.categorySlug}/${post.id}/`}
+          image={post.data.image}
+        />
+      ))}
+    </div>
+  </section>
+)}

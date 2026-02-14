@@ -4,6 +4,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import FAQ from '../../components/FAQ.astro';
 import AuthorBox from '../../components/AuthorBox.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import RelatedArticles from '../../components/RelatedArticles.astro';
 
 const categoriesMap: Record<string, { name: string; emoji: string }> = {
   hundeernaehrung: { name: 'Hundeernaehrung', emoji: '\uD83C\uDF56' },
@@ -131,7 +132,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
   image={image}
   schemas={schemas}
 >
-  <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+  <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12" data-pagefind-body>
     <!-- Breadcrumbs -->
     <nav class="mb-8" aria-label="Breadcrumb">
       <ol class="flex items-center gap-2 text-sm text-slate-500 flex-wrap">
@@ -169,9 +170,11 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       </a>
 
       <!-- Title -->
-      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mt-4 leading-tight">
+      <h1 class="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 mt-4 leading-tight" data-pagefind-meta="title">
         {title}
       </h1>
+
+      {image && <span data-pagefind-meta={`image:${image}`} class="hidden"></span>}
 
       <!-- Meta -->
       <div class="flex items-center gap-4 mt-4 text-sm text-slate-500 flex-wrap">
@@ -247,6 +250,13 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
         </ul>
       </section>
     )}
+
+    <!-- Related Articles -->
+    <RelatedArticles
+      currentId={entry.id}
+      currentTags={tags || []}
+      currentCategorySlug={categorySlug}
+    />
 
     <!-- Author Box -->
     <AuthorBox />
