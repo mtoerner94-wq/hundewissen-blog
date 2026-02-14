@@ -1,6 +1,12 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+/* Smooth scroll für Anchor-Links (TOC) */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5rem; /* Platz für den fixed Header */
+}
+
 /* Local Inter Font – DSGVO-konform, keine externe Verbindung zu Google */
 @font-face {
   font-family: 'Inter';

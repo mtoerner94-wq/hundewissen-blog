@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import FAQ from '../../components/FAQ.astro';
 import AuthorBox from '../../components/AuthorBox.astro';
+import TableOfContents from '../../components/TableOfContents.astro';
 
 const categoriesMap: Record<string, { name: string; emoji: string }> = {
   hundeernaehrung: { name: 'Hundeernaehrung', emoji: '\uD83C\uDF56' },
@@ -30,9 +31,10 @@ const { Content, remarkPluginFrontmatter } = await render(entry);
 
 const { title, description, category, categorySlug, date, updated, tags, faqs, sources, image, imageAlt } = entry.data;
 
-// Lesezeit berechnen (ca. 200 Woerter pro Minute)
+// Lesezeit berechnen (ca. 200 Woerter pro Minute + 12 Sek. pro Bild)
 const wordCount = entry.body ? entry.body.split(/\s+/).length : 0;
-const readingTime = Math.max(1, Math.ceil(wordCount / 200));
+const imageCount = (entry.body?.match(/!\[.*?\]\(.*?\)/g) || []).length;
+const readingTime = Math.max(1, Math.ceil(wordCount / 200 + (imageCount * 12) / 60));
 
 const categoryInfo = categoriesMap[categorySlug] || { name: category, emoji: '' };
 
@@ -196,6 +198,9 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
         </span>
       </div>
     </header>
+
+    <!-- Table of Contents -->
+    <TableOfContents body={entry.body || ''} />
 
     <!-- Article Content -->
     <div class="prose prose-lg max-w-none prose-headings:text-slate-900 prose-p:text-slate-700 prose-a:text-primary prose-a:no-underline hover:prose-a:underline prose-strong:text-slate-900 prose-img:rounded-xl overflow-x-auto">
