@@ -365,7 +365,7 @@ Nassfutter verdirbt bei Hitze schneller im Napf. Entferne Futterreste nach spaet
 </div>
 </div>
 
-## Zusammenfassung: Hund frisst nicht -- das Wichtigste auf einen Blick
+## Fazit: Hund frisst nicht
 
 Futterverweigerung beim Hund hat viele moegliche Ursachen -- von harmloser Maekeligkeit bis zu behandlungsbeduerftigen Erkrankungen. Die wichtigste Regel, wenn dein Hund nicht frisst: Verweigert dein Hund sowohl Futter als auch Wasser oder zeigt er Begleitsymptome wie Erbrechen, Zittern oder Apathie, suche sofort einen Tierarzt auf. Bei ansonsten fitten erwachsenen Hunden ist Appetitlosigkeit von 24 bis 48 Stunden meist unbedenklich.
 
