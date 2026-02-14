@@ -77,7 +77,7 @@ Dieser Ratgeber zeigt dir die 8 haeufigsten Gruende, warum dein Hund sein Futter
 
 Appetitlosigkeit beim Hund hat immer einen Grund. Tieraerzte unterscheiden zwischen medizinischen, psychischen und futterbedingten Ursachen, wenn ein Hund sein Futter verweigert. Ob dein Hund nicht frisst, weil ihm etwas fehlt, oder weil er maekelig geworden ist -- die folgende Uebersicht zeigt die 8 haeufigsten Gruende fuer die Futterverweigerung beim Hund, sortiert nach Haeufigkeit und Dringlichkeit.
 
-![Zahnprobleme Hund - Maul kontrollieren bei Futterverweigerung](/hund-zahnkontrolle-futterverweigerung.webp)
+![Zahnprobleme Hund - Maul kontrollieren bei Futterverweigerung](/images/hund-zahnkontrolle-futterverweigerung.webp)
 
 ### Ursache 1: Magen-Darm-Erkrankungen
 
@@ -254,7 +254,7 @@ Wenn ein Hund zittert und nicht frisst, ist das ein ernstzunehmendes Warnsignal.
 
 Hast du medizinische Ursachen beim Tierarzt ausgeschlossen, kannst du mit diesen bewaehrten Massnahmen den Appetit deines Hundes anregen und die Futterverweigerung beim Hund beenden. Die folgenden 7 Tipps sind als natuerliche Appetitanreger fuer Hunde bewaehrt und werden von Tieraerzten empfohlen.
 
-![Hund frisst nicht was tun - Appetitanreger und Tipps](/hund-appetit-anregen-tipps.webp)
+![Hund frisst nicht was tun - Appetitanreger und Tipps](/images/hund-appetit-anregen-tipps.webp)
 
 ### Tipp 1: Futter leicht erwaermen
 
@@ -303,7 +303,7 @@ Wenn du das Futter wechseln moechtest oder musst, fuehre die Umstellung schrittw
 
 Wenn ein Welpe nicht frisst, ist erhoehte Aufmerksamkeit gefragt. Hund frisst nicht mehr -- bei Welpen und Junghunden ist diese Situation besonders ernst zu nehmen. Welpen haben geringere Energiereserven als erwachsene Hunde und koennen bei laengerer Nahrungsverweigerung schnell in eine gefaehrliche Unterzuckerung (Hypoglykaemie) geraten. Welpen unter 6 Monaten sollten maximal 12 Stunden ohne Futter bleiben.
 
-![Welpe frisst nicht - Ursachen bei Junghunden](/welpe-frisst-nicht-ursachen.webp)
+![Welpe frisst nicht - Ursachen bei Junghunden](/images/welpe-frisst-nicht-ursachen.webp)
 
 Haeufige Gruende fuer Futterverweigerung bei Welpen sind der Zahnwechsel (zwischen dem 4. und 7. Lebensmonat), die Eingewoehnung im neuen Zuhause (die sogenannte 3-3-3-Regel: 3 Tage Ueberforderung, 3 Wochen Eingewoehnung, 3 Monate volle Anpassung) und die sogenannte Flegelphase rund um den 6. bis 10. Lebensmonat, in der junge Hunde auch ueber das Fressverhalten Grenzen austesten.
 
