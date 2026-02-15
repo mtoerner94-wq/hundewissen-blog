@@ -27,7 +27,7 @@ npm run preview   # Gebautete Seite lokal ansehen
 ```
 src/
 ├── layouts/BaseLayout.astro     # Head, SEO, OG-Tags, Schema.org, Header/Footer
-├── components/                   # 16 Komponenten (Header, Footer, BlogCard, FAQ, AuthorBox, SearchModal, RelatedArticles...)
+├── components/                   # 19 Komponenten (Header, Footer, BlogCard, FAQ, AuthorBox, SearchModal, RelatedArticles, ReadingProgress, ScrollToTop...)
 ├── pages/
 │   ├── index.astro              # Startseite
 │   ├── [category]/[id].astro    # Artikel-Template (dynamische Route)
