@@ -98,12 +98,16 @@ html {
   padding-left: 15px;
 }
 
-/* Better table styling inside prose */
+/* Better table styling inside prose – mobile-friendly with horizontal scroll */
 .prose table {
   border-collapse: collapse;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   border-radius: 8px;
   overflow: hidden;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  max-width: 100%;
 }
 
 .prose thead tr {
@@ -120,7 +124,7 @@ html {
   background: #FDF8F3;
 }
 
-/* Table scroll wrapper */
+/* Table scroll wrapper (for manual use) */
 .table-scroll {
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
