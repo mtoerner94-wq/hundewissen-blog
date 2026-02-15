@@ -1,6 +1,3 @@
-
-
-```md
 ---
 title: "Hund zittert: 10 Ursachen und was du tun kannst"
 description: "Dein Hund zittert? Erfahre die 10 häufigsten Ursachen für Zittern beim Hund – von harmlos bis ernst – und wann du zum Tierarzt solltest."
@@ -434,4 +431,3 @@ Zittern beim Hund hat viele Gesichter -- von harmloser Kältereaktion bis zum le
 Hält das Zittern jedoch länger als 30 Minuten an, tritt es ohne erkennbaren Auslöser auf oder wird von Erbrechen, Durchfall, Fieber oder Verhaltensänderungen begleitet, ist ein Tierarzt-Besuch die richtige Entscheidung. Bei Verdacht auf eine Vergiftung zählt jede Minute -- hier solltest du keine Zeit verlieren.
 
 Beobachte deinen Hund aufmerksam, kenne seine normalen Verhaltensweisen und vertraue deinem Bauchgefühl. Lieber einmal zu oft beim Tierarzt gewesen als einmal zu wenig.
-```
