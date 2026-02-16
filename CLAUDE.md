@@ -125,6 +125,45 @@ Alle Custom-HTML-Blöcke in `.md`-Dateien brauchen `class="not-prose ..."`:
 - **Anzeige:** Maximal 3 Artikel, Fallback auf neueste Beiträge wenn < 2 Treffer
 - **Wiederverwendung:** Nutzt bestehende `BlogCard.astro`-Komponente
 
+## Animationen & Micro-Interactions
+
+### Hero-Animationen
+- **Komponente:** `src/components/Hero.astro` (HTML + inline `<script>`)
+- **CSS:** `src/styles/global.css` (Keyframes: `rotateWordOut`, `rotateWordIn`, `cursorBlink`)
+- **Typewriter-Effekt:** Tagline "Hunde · Wissen · Verstand" wird Buchstabe für Buchstabe getippt (70ms/Zeichen, 300ms Pause bei `·`), blinkender Cursor verschwindet nach Abschluss
+- **Keyword-Rotation:** Headline-Wort rotiert alle 3.5s: Halbwahrheiten → Mythen → Panikmache → Fehlinformationen (Slide-up/Slide-in Animation)
+- **Timing:** fadeInUp (0ms) → Typewriter (~700ms) → Cursor verschwindet (~2.5s) → Keyword-Rotation startet (~3.5s)
+
+### Scroll-Fade-In-Animationen
+- **CSS-Klasse:** `.scroll-fade-in` + `.stagger-1` bis `.stagger-5` für gestaffelte Delays
+- **Observer:** Globaler `IntersectionObserver` in `BaseLayout.astro` (threshold 0.15, rootMargin -40px)
+- **Angewendet auf:** LatestPosts, Philosophy, Comparison, Stats, Categories, FunFacts, CallToAction — Header + Kinder-Elemente
+
+### Animierter Zahlen-Counter
+- **Komponente:** `src/components/Stats.astro`
+- **Technik:** `IntersectionObserver` (threshold 0.5) triggert `requestAnimationFrame`-Counter
+- **Dauer:** 1500ms mit ease-out cubic Easing
+- **Daten:** `data-target` (Zielwert) + `data-suffix` (+, %, leer)
+
+### Kategorie-Karten Flip-Effekt
+- **Komponente:** `src/components/CategoryCard.astro`
+- **CSS:** `.card-flip-container` (perspective 1000px) → `.card-flip-inner` (rotateY 180° bei Hover)
+- **Vorderseite:** Emoji + Titel + Tags (weiß)
+- **Rückseite:** Emoji + Titel + Beschreibung + "Entdecken"-Button (orange Gradient)
+- **Höhe:** 280px fix, um Layout-Shift zu vermeiden
+
+### Smooth FAQ-Accordion
+- **Komponente:** `src/components/FAQ.astro`
+- **Technik:** CSS Grid `grid-template-rows: 0fr → 1fr` Transition (300ms ease-out)
+- **Statt:** Nativem `<details>`-Element → Custom `<button>` + `.faq-answer.is-open`
+- **Chevron:** Smooth 300ms `rotate(180deg)` Transition
+- **Accessibility:** `aria-expanded`, `aria-hidden` werden per JS getoggelt
+
+### Globale Accessibility-Regeln
+- `prefers-reduced-motion: reduce` deaktiviert alle Animationen (Scroll-Fade, Flip, Hero, FAQ)
+- `aria-live="polite"` auf rotierendem Keyword-Span
+- Ohne JS: Statischer Text sichtbar, FAQs initial geschlossen (Progressive Enhancement)
+
 ## SEO & Schema.org
 
 - **Author:** `Person` (Michael Törner) — in `[id].astro`
