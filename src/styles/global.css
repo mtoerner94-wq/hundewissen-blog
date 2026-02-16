@@ -647,3 +647,55 @@ html {
 .animate-count {
   animation: countUp 0.6s ease-out forwards;
 }
+
+/* ===== HERO ANIMATIONS ===== */
+
+/* Keyword rotation – slide out/in */
+@keyframes rotateWordOut {
+  0% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-100%); }
+}
+
+@keyframes rotateWordIn {
+  0% { opacity: 0; transform: translateY(100%); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.keyword-rotate-out {
+  animation: rotateWordOut 0.35s ease-in forwards;
+}
+
+.keyword-rotate-in {
+  animation: rotateWordIn 0.35s ease-out forwards;
+}
+
+/* Typewriter cursor blink */
+@keyframes cursorBlink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+.typewriter-cursor::after {
+  content: '|';
+  animation: cursorBlink 0.75s infinite;
+  color: var(--color-primary);
+  font-weight: 300;
+  margin-left: 1px;
+}
+
+.typewriter-cursor-hidden::after {
+  content: '';
+  animation: none;
+}
+
+/* Reduced motion: disable all hero animations */
+@media (prefers-reduced-motion: reduce) {
+  .keyword-rotate-out,
+  .keyword-rotate-in {
+    animation: none;
+  }
+  .typewriter-cursor::after {
+    content: '';
+    animation: none;
+  }
+}

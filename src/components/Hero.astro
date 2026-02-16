@@ -18,15 +18,21 @@
   <!-- Content -->
   <div class="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
     <div class="max-w-3xl">
-      <!-- Tagline -->
-      <p class="animate-fade-in-up text-sm md:text-base font-semibold tracking-[0.25em] uppercase text-primary mb-6">
-        Hunde &middot; Wissen &middot; Verstand
+      <!-- Tagline (Typewriter) -->
+      <p
+        class="animate-fade-in-up text-sm md:text-base font-semibold tracking-[0.25em] uppercase text-primary mb-6"
+        aria-label="Hunde · Wissen · Verstand"
+        id="hero-tagline"
+      >
+        <span id="hero-tagline-text">Hunde &middot; Wissen &middot; Verstand</span>
       </p>
 
-      <!-- Heading -->
+      <!-- Heading (Keyword Rotation) -->
       <h1 class="animate-fade-in-up delay-100 text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 leading-tight">
         Fundiertes Wissen statt
-        <span class="text-primary"> Halbwahrheiten.</span>
+        <span class="text-primary inline-block overflow-hidden align-bottom" id="hero-keyword-wrapper">
+          <span id="hero-keyword" aria-live="polite"> Halbwahrheiten.</span>
+        </span>
       </h1>
 
       <!-- Subtext -->
@@ -60,3 +66,75 @@
   <!-- Bottom fade into page -->
   <div class="absolute bottom-0 left-0 right-0 h-24 bg-gradient-to-t from-white to-transparent pointer-events-none"></div>
 </section>
+
+<script>
+  // Guard: skip all animations if user prefers reduced motion
+  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  if (!prefersReducedMotion) {
+    // ===== TYPEWRITER EFFECT =====
+    const taglineEl = document.getElementById('hero-tagline-text');
+    if (taglineEl) {
+      const fullText = 'Hunde \u00b7 Wissen \u00b7 Verstand';
+      taglineEl.textContent = '';
+      taglineEl.classList.add('typewriter-cursor');
+
+      // Start typing after fadeInUp completes (~700ms)
+      setTimeout(() => {
+        let i = 0;
+        const typeChar = () => {
+          if (i < fullText.length) {
+            taglineEl.textContent += fullText[i];
+            i++;
+            // Pause longer at the · separators
+            const nextDelay = fullText[i - 1] === '\u00b7' ? 300 : 70;
+            setTimeout(typeChar, nextDelay);
+          } else {
+            // Typing done — keep cursor blinking for 800ms, then hide
+            setTimeout(() => {
+              taglineEl.classList.remove('typewriter-cursor');
+              taglineEl.classList.add('typewriter-cursor-hidden');
+            }, 800);
+          }
+        };
+        typeChar();
+      }, 700);
+    }
+
+    // ===== KEYWORD ROTATION =====
+    const keywordEl = document.getElementById('hero-keyword');
+    if (keywordEl) {
+      const words = [
+        ' Halbwahrheiten.',
+        ' Mythen.',
+        ' Panikmache.',
+        ' Fehlinformationen.',
+      ];
+      let currentIndex = 0;
+
+      const rotateKeyword = () => {
+        // Slide out current word
+        keywordEl.classList.add('keyword-rotate-out');
+
+        setTimeout(() => {
+          // Update text
+          currentIndex = (currentIndex + 1) % words.length;
+          keywordEl.textContent = words[currentIndex];
+
+          // Slide in new word
+          keywordEl.classList.remove('keyword-rotate-out');
+          keywordEl.classList.add('keyword-rotate-in');
+
+          setTimeout(() => {
+            keywordEl.classList.remove('keyword-rotate-in');
+          }, 350);
+        }, 350);
+      };
+
+      // Start keyword rotation after typewriter is done (~3500ms total)
+      setTimeout(() => {
+        setInterval(rotateKeyword, 3500);
+      }, 3500);
+    }
+  }
+</script>
