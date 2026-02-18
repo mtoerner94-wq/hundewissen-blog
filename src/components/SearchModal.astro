@@ -7,6 +7,7 @@
 <!-- Search Modal Overlay -->
 <div
   id="search-modal"
+  transition:persist
   class="fixed inset-0 z-[70] flex items-start justify-center pt-[10vh] opacity-0 pointer-events-none transition-opacity duration-200"
   aria-hidden="true"
   role="dialog"
@@ -152,5 +153,8 @@
 
     // Expose globally for Header buttons
     window.__openSearch = openSearch;
+
+    // Modal schließen bei Navigation (View Transitions)
+    document.addEventListener('astro:before-preparation', closeSearch);
   })();
 </script>

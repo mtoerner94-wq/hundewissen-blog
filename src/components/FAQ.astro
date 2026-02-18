@@ -50,31 +50,33 @@ const { faqs } = Astro.props;
 )}
 
 <script>
-  // Smooth FAQ Accordion
-  const faqTriggers = document.querySelectorAll('.faq-trigger');
+  function initFAQ() {
+    const faqTriggers = document.querySelectorAll('.faq-trigger');
+    if (faqTriggers.length === 0) return;
 
-  faqTriggers.forEach((trigger) => {
-    trigger.addEventListener('click', () => {
-      const item = trigger.closest('.faq-item');
-      if (!item) return;
+    faqTriggers.forEach((trigger) => {
+      trigger.addEventListener('click', () => {
+        const item = trigger.closest('.faq-item');
+        if (!item) return;
 
-      const answer = item.querySelector('.faq-answer');
-      const chevron = trigger.querySelector('.faq-chevron');
-      const isOpen = answer?.classList.contains('is-open');
+        const answer = item.querySelector('.faq-answer');
+        const chevron = trigger.querySelector('.faq-chevron');
+        const isOpen = answer?.classList.contains('is-open');
 
-      if (isOpen) {
-        // Close
-        answer?.classList.remove('is-open');
-        chevron?.style.setProperty('transform', 'rotate(0deg)');
-        trigger.setAttribute('aria-expanded', 'false');
-        answer?.setAttribute('aria-hidden', 'true');
-      } else {
-        // Open
-        answer?.classList.add('is-open');
-        chevron?.style.setProperty('transform', 'rotate(180deg)');
-        trigger.setAttribute('aria-expanded', 'true');
-        answer?.setAttribute('aria-hidden', 'false');
-      }
+        if (isOpen) {
+          answer?.classList.remove('is-open');
+          (chevron as HTMLElement)?.style.setProperty('transform', 'rotate(0deg)');
+          trigger.setAttribute('aria-expanded', 'false');
+          answer?.setAttribute('aria-hidden', 'true');
+        } else {
+          answer?.classList.add('is-open');
+          (chevron as HTMLElement)?.style.setProperty('transform', 'rotate(180deg)');
+          trigger.setAttribute('aria-expanded', 'true');
+          answer?.setAttribute('aria-hidden', 'false');
+        }
+      });
     });
-  });
+  }
+
+  document.addEventListener('astro:page-load', initFAQ);
 </script>

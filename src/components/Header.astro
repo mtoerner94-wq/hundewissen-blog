@@ -147,34 +147,50 @@ const currentPath = Astro.url.pathname;
 <div class="h-16 md:h-18"></div>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => {
+  // Scroll-Shadow: Einmal registrieren, dynamisch das aktuelle Header-Element abfragen
+  window.addEventListener('scroll', () => {
+    const header = document.getElementById('site-header');
+    if (header) {
+      if (window.scrollY > 10) {
+        header.classList.add('shadow-md');
+      } else {
+        header.classList.remove('shadow-md');
+      }
+    }
+  }, { passive: true });
+
+  // Menü-Reset bei Navigation (falls Menü während Navigation offen war)
+  document.addEventListener('astro:after-swap', () => {
+    document.body.style.overflow = '';
+  });
+
+  // Per-Navigation Setup: Menü-Toggle, Search-Triggers, Event-Listener
+  document.addEventListener('astro:page-load', () => {
     const toggle = document.getElementById('menu-toggle');
     const closeBtn = document.getElementById('menu-close');
     const menu = document.getElementById('mobile-menu');
-    const header = document.getElementById('site-header');
     let isOpen = false;
 
     if (!toggle || !menu) return;
 
     function openMenu() {
       isOpen = true;
-      menu.classList.remove('opacity-0', 'pointer-events-none');
-      menu.classList.add('opacity-100', 'pointer-events-auto');
-      menu.setAttribute('aria-hidden', 'false');
-      toggle.setAttribute('aria-expanded', 'true');
+      menu!.classList.remove('opacity-0', 'pointer-events-none');
+      menu!.classList.add('opacity-100', 'pointer-events-auto');
+      menu!.setAttribute('aria-hidden', 'false');
+      toggle!.setAttribute('aria-expanded', 'true');
       document.body.style.overflow = 'hidden';
     }
 
     function closeMenu() {
       isOpen = false;
-      menu.classList.add('opacity-0', 'pointer-events-none');
-      menu.classList.remove('opacity-100', 'pointer-events-auto');
-      menu.setAttribute('aria-hidden', 'true');
-      toggle.setAttribute('aria-expanded', 'false');
+      menu!.classList.add('opacity-0', 'pointer-events-none');
+      menu!.classList.remove('opacity-100', 'pointer-events-auto');
+      menu!.setAttribute('aria-hidden', 'true');
+      toggle!.setAttribute('aria-expanded', 'false');
       document.body.style.overflow = '';
     }
 
-    // Open on hamburger click
     toggle.addEventListener('click', () => {
       if (isOpen) {
         closeMenu();
@@ -183,44 +199,21 @@ const currentPath = Astro.url.pathname;
       }
     });
 
-    // Close on X button click
     if (closeBtn) {
       closeBtn.addEventListener('click', closeMenu);
     }
 
-    // Close menu on link click
     menu.querySelectorAll('a').forEach((link) => {
       link.addEventListener('click', closeMenu);
-    });
-
-    // Close on Escape key
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape' && isOpen) {
-        closeMenu();
-      }
     });
 
     // Search triggers
     ['search-trigger-desktop', 'search-trigger-mobile', 'search-trigger-mobile-bar'].forEach(id => {
       const btn = document.getElementById(id);
       btn?.addEventListener('click', () => {
-        // Close mobile menu if open
         if (isOpen) closeMenu();
-        // Open search (function exposed by SearchModal.astro)
         (window as any).__openSearch?.();
       });
     });
-
-    // Add shadow on scroll
-    window.addEventListener('scroll', () => {
-      const scrollY = window.scrollY;
-      if (header) {
-        if (scrollY > 10) {
-          header.classList.add('shadow-md');
-        } else {
-          header.classList.remove('shadow-md');
-        }
-      }
-    }, { passive: true });
   });
 </script>

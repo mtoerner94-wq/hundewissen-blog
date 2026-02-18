@@ -34,42 +34,45 @@ const stats = [
 </section>
 
 <script>
-  // Animated counter using Intersection Observer
-  const counters = document.querySelectorAll('.stat-counter');
+  function initStatsCounter() {
+    const counters = document.querySelectorAll('.stat-counter');
+    if (counters.length === 0) return;
 
-  const animateCounter = (el: Element) => {
-    const target = parseInt(el.getAttribute('data-target') || '0');
-    const suffix = el.getAttribute('data-suffix') || '';
-    const duration = 1500; // ms
-    const start = performance.now();
+    const animateCounter = (el: Element) => {
+      const target = parseInt(el.getAttribute('data-target') || '0');
+      const suffix = el.getAttribute('data-suffix') || '';
+      const duration = 1500;
+      const start = performance.now();
 
-    const step = (now: number) => {
-      const elapsed = now - start;
-      const progress = Math.min(elapsed / duration, 1);
-      // Ease-out cubic
-      const eased = 1 - Math.pow(1 - progress, 3);
-      const current = Math.round(eased * target);
-      el.textContent = current + suffix;
+      const step = (now: number) => {
+        const elapsed = now - start;
+        const progress = Math.min(elapsed / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        const current = Math.round(eased * target);
+        el.textContent = current + suffix;
 
-      if (progress < 1) {
-        requestAnimationFrame(step);
-      }
+        if (progress < 1) {
+          requestAnimationFrame(step);
+        }
+      };
+
+      requestAnimationFrame(step);
     };
 
-    requestAnimationFrame(step);
-  };
+    const counterObserver = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            animateCounter(entry.target);
+            counterObserver.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.5 }
+    );
 
-  const counterObserver = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          animateCounter(entry.target);
-          counterObserver.unobserve(entry.target);
-        }
-      });
-    },
-    { threshold: 0.5 }
-  );
+    counters.forEach((counter) => counterObserver.observe(counter));
+  }
 
-  counters.forEach((counter) => counterObserver.observe(counter));
+  document.addEventListener('astro:page-load', initStatsCounter);
 </script>

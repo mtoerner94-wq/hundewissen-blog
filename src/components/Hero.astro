@@ -68,30 +68,50 @@
 </section>
 
 <script>
-  // Guard: skip all animations if user prefers reduced motion
-  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  let heroCleanup: (() => void) | null = null;
 
-  if (!prefersReducedMotion) {
-    // ===== TYPEWRITER EFFECT =====
+  function initHero() {
+    // Vorherige Timer aufräumen
+    if (heroCleanup) {
+      heroCleanup();
+      heroCleanup = null;
+    }
+
+    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (prefersReducedMotion) return;
+
     const taglineEl = document.getElementById('hero-tagline-text');
+    const keywordEl = document.getElementById('hero-keyword');
+
+    // Hero existiert nur auf der Startseite
+    if (!taglineEl && !keywordEl) return;
+
+    const timeouts: number[] = [];
+    let rotationInterval: number | null = null;
+
+    const safeTimeout = (fn: () => void, delay: number) => {
+      const id = window.setTimeout(fn, delay);
+      timeouts.push(id);
+      return id;
+    };
+
+    // ===== TYPEWRITER EFFECT =====
     if (taglineEl) {
       const fullText = 'Hunde \u00b7 Wissen \u00b7 Verstand';
       taglineEl.textContent = '';
       taglineEl.classList.add('typewriter-cursor');
+      taglineEl.classList.remove('typewriter-cursor-hidden');
 
-      // Start typing after fadeInUp completes (~700ms)
-      setTimeout(() => {
+      safeTimeout(() => {
         let i = 0;
         const typeChar = () => {
           if (i < fullText.length) {
             taglineEl.textContent += fullText[i];
             i++;
-            // Pause longer at the · separators
             const nextDelay = fullText[i - 1] === '\u00b7' ? 300 : 70;
-            setTimeout(typeChar, nextDelay);
+            safeTimeout(typeChar, nextDelay);
           } else {
-            // Typing done — keep cursor blinking for 800ms, then hide
-            setTimeout(() => {
+            safeTimeout(() => {
               taglineEl.classList.remove('typewriter-cursor');
               taglineEl.classList.add('typewriter-cursor-hidden');
             }, 800);
@@ -102,7 +122,6 @@
     }
 
     // ===== KEYWORD ROTATION =====
-    const keywordEl = document.getElementById('hero-keyword');
     if (keywordEl) {
       const words = [
         ' Halbwahrheiten.',
@@ -113,28 +132,44 @@
       let currentIndex = 0;
 
       const rotateKeyword = () => {
-        // Slide out current word
         keywordEl.classList.add('keyword-rotate-out');
 
-        setTimeout(() => {
-          // Update text
+        safeTimeout(() => {
           currentIndex = (currentIndex + 1) % words.length;
           keywordEl.textContent = words[currentIndex];
 
-          // Slide in new word
           keywordEl.classList.remove('keyword-rotate-out');
           keywordEl.classList.add('keyword-rotate-in');
 
-          setTimeout(() => {
+          safeTimeout(() => {
             keywordEl.classList.remove('keyword-rotate-in');
           }, 350);
         }, 350);
       };
 
-      // Start keyword rotation after typewriter is done (~3500ms total)
-      setTimeout(() => {
-        setInterval(rotateKeyword, 3500);
+      safeTimeout(() => {
+        rotationInterval = window.setInterval(rotateKeyword, 3500);
       }, 3500);
     }
+
+    // Cleanup-Funktion für Navigation weg von der Startseite
+    heroCleanup = () => {
+      timeouts.forEach((id) => clearTimeout(id));
+      timeouts.length = 0;
+      if (rotationInterval) {
+        clearInterval(rotationInterval);
+        rotationInterval = null;
+      }
+    };
   }
+
+  document.addEventListener('astro:page-load', initHero);
+
+  // Timer aufräumen wenn User weg navigiert
+  document.addEventListener('astro:before-preparation', () => {
+    if (heroCleanup) {
+      heroCleanup();
+      heroCleanup = null;
+    }
+  });
 </script>

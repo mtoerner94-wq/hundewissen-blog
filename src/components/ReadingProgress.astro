@@ -10,8 +10,19 @@
 ></div>
 
 <script>
-  const bar = document.getElementById('reading-progress');
-  if (bar) {
+  let cleanupReadingProgress: (() => void) | null = null;
+
+  function initReadingProgress() {
+    if (cleanupReadingProgress) {
+      cleanupReadingProgress();
+      cleanupReadingProgress = null;
+    }
+
+    const bar = document.getElementById('reading-progress');
+    if (!bar) return;
+
+    bar.style.width = '0%';
+
     const update = () => {
       const scrollTop = window.scrollY;
       const docHeight = document.documentElement.scrollHeight - window.innerHeight;
@@ -20,7 +31,7 @@
     };
 
     let ticking = false;
-    window.addEventListener('scroll', () => {
+    const onScroll = () => {
       if (!ticking) {
         requestAnimationFrame(() => {
           update();
@@ -28,8 +39,15 @@
         });
         ticking = true;
       }
-    }, { passive: true });
+    };
 
+    window.addEventListener('scroll', onScroll, { passive: true });
     update();
+
+    cleanupReadingProgress = () => {
+      window.removeEventListener('scroll', onScroll);
+    };
   }
+
+  document.addEventListener('astro:page-load', initReadingProgress);
 </script>
