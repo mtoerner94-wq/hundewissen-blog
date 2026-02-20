@@ -5,6 +5,9 @@ import sitemap from '@astrojs/sitemap';
 import rehypeExternalLinks from 'rehype-external-links';
 export default defineConfig({
   site: 'https://hundewissen-mit-kopf.de',
+  build: {
+    inlineStylesheets: 'always'
+  },
   integrations: [sitemap()],
   markdown: {
     rehypePlugins: [
