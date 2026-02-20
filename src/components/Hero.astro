@@ -3,16 +3,82 @@
 ---
 
 <section class="relative min-h-[85vh] flex items-center overflow-hidden bg-gradient-to-b from-amber-50 via-secondary to-white">
-  <!-- Decorative Blur Blobs -->
+  <!-- Animated Background -->
   <div class="absolute inset-0 pointer-events-none overflow-hidden" aria-hidden="true">
-    <!-- Top-left warm blob -->
-    <div class="absolute -top-32 -left-32 w-[500px] h-[500px] rounded-full bg-amber-300 opacity-20 blur-3xl"></div>
-    <!-- Top-right orange blob -->
-    <div class="absolute -top-16 right-0 w-[400px] h-[400px] rounded-full bg-orange-200 opacity-20 blur-3xl"></div>
-    <!-- Center-left subtle blob -->
-    <div class="absolute top-1/2 -left-24 w-[350px] h-[350px] rounded-full bg-amber-200 opacity-15 blur-3xl"></div>
-    <!-- Bottom-right warm accent -->
-    <div class="absolute bottom-0 right-1/4 w-[450px] h-[450px] rounded-full bg-orange-100 opacity-20 blur-3xl"></div>
+
+    <!-- Pfoten-Silhouetten -->
+    <div class="hero-paw hero-paw-1">
+      <svg viewBox="0 0 512 512" fill="#E8913A">
+        <ellipse cx="256" cy="350" rx="110" ry="95"/>
+        <ellipse cx="130" cy="200" rx="55" ry="65" transform="rotate(-10 130 200)"/>
+        <ellipse cx="250" cy="150" rx="50" ry="62" transform="rotate(5 250 150)"/>
+        <ellipse cx="370" cy="180" rx="52" ry="63" transform="rotate(10 370 180)"/>
+        <ellipse cx="440" cy="270" rx="45" ry="58" transform="rotate(25 440 270)"/>
+      </svg>
+    </div>
+    <div class="hero-paw hero-paw-2">
+      <svg viewBox="0 0 512 512" fill="#fbbf24">
+        <ellipse cx="256" cy="350" rx="110" ry="95"/>
+        <ellipse cx="130" cy="200" rx="55" ry="65" transform="rotate(-10 130 200)"/>
+        <ellipse cx="250" cy="150" rx="50" ry="62" transform="rotate(5 250 150)"/>
+        <ellipse cx="370" cy="180" rx="52" ry="63" transform="rotate(10 370 180)"/>
+        <ellipse cx="440" cy="270" rx="45" ry="58" transform="rotate(25 440 270)"/>
+      </svg>
+    </div>
+
+    <!-- Wellen (3 Layer) -->
+    <div class="hero-wave hero-wave-3">
+      <svg viewBox="0 0 2400 120" preserveAspectRatio="none">
+        <path fill="#E8913A" d="M0,60 C200,10 400,100 600,50 C800,0 1000,90 1200,60 C1400,30 1600,100 1800,50 C2000,0 2200,80 2400,60 L2400,120 L0,120Z"/>
+      </svg>
+    </div>
+    <div class="hero-wave hero-wave-2">
+      <svg viewBox="0 0 2400 120" preserveAspectRatio="none">
+        <path fill="#C67520" d="M0,70 C150,30 350,90 600,60 C850,30 1050,80 1200,70 C1350,60 1550,20 1800,60 C2050,100 2200,40 2400,70 L2400,120 L0,120Z"/>
+      </svg>
+    </div>
+    <div class="hero-wave hero-wave-1">
+      <svg viewBox="0 0 2400 120" preserveAspectRatio="none">
+        <path fill="#fbbf24" d="M0,50 C300,90 500,20 800,60 C1100,100 1300,30 1600,50 C1900,70 2100,40 2400,50 L2400,120 L0,120Z"/>
+      </svg>
+    </div>
+
+    <!-- Laufende Hunde -->
+    <div class="hero-dog hero-dog-1">
+      <svg viewBox="0 0 120 80" fill="none">
+        <g class="hero-dog-body">
+          <ellipse cx="58" cy="38" rx="28" ry="14" fill="#C67520"/>
+          <circle cx="90" cy="30" r="12" fill="#C67520"/>
+          <ellipse cx="100" cy="33" rx="7" ry="5" fill="#E8913A"/>
+          <circle cx="94" cy="28" r="2" fill="#1e293b"/>
+          <ellipse cx="84" cy="21" rx="5" ry="8" fill="#a0622a" transform="rotate(-15 84 21)"/>
+          <circle cx="106" cy="31" r="1.8" fill="#1e293b"/>
+          <path class="hero-dog-tail" d="M30,32 Q20,18 16,12" stroke="#C67520" stroke-width="4" stroke-linecap="round" fill="none"/>
+          <g class="hero-leg-fl"><line x1="78" y1="48" x2="78" y2="68" stroke="#C67520" stroke-width="4.5" stroke-linecap="round"/><ellipse cx="78" cy="70" rx="3.5" ry="2" fill="#a0622a"/></g>
+          <g class="hero-leg-fr"><line x1="70" y1="48" x2="70" y2="68" stroke="#a0622a" stroke-width="4.5" stroke-linecap="round"/><ellipse cx="70" cy="70" rx="3.5" ry="2" fill="#8b5520"/></g>
+          <g class="hero-leg-bl"><line x1="46" y1="48" x2="46" y2="68" stroke="#C67520" stroke-width="4.5" stroke-linecap="round"/><ellipse cx="46" cy="70" rx="3.5" ry="2" fill="#a0622a"/></g>
+          <g class="hero-leg-br"><line x1="38" y1="48" x2="38" y2="68" stroke="#a0622a" stroke-width="4.5" stroke-linecap="round"/><ellipse cx="38" cy="70" rx="3.5" ry="2" fill="#8b5520"/></g>
+        </g>
+      </svg>
+    </div>
+    <div class="hero-dog hero-dog-2">
+      <svg viewBox="0 0 110 75" fill="none">
+        <g class="hero-dog-body">
+          <ellipse cx="54" cy="36" rx="24" ry="12" fill="#E8913A"/>
+          <circle cx="82" cy="28" r="10" fill="#E8913A"/>
+          <ellipse cx="91" cy="31" rx="6" ry="4.5" fill="#fbbf24"/>
+          <circle cx="86" cy="26" r="1.8" fill="#1e293b"/>
+          <ellipse cx="76" cy="22" rx="4" ry="9" fill="#C67520" transform="rotate(-25 76 22)"/>
+          <circle cx="96" cy="29" r="1.5" fill="#1e293b"/>
+          <path class="hero-dog-tail" d="M30,30 Q22,16 24,8" stroke="#E8913A" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+          <g class="hero-leg-fl"><line x1="72" y1="44" x2="72" y2="62" stroke="#E8913A" stroke-width="4" stroke-linecap="round"/><ellipse cx="72" cy="64" rx="3" ry="1.8" fill="#C67520"/></g>
+          <g class="hero-leg-fr"><line x1="65" y1="44" x2="65" y2="62" stroke="#C67520" stroke-width="4" stroke-linecap="round"/><ellipse cx="65" cy="64" rx="3" ry="1.8" fill="#a0622a"/></g>
+          <g class="hero-leg-bl"><line x1="42" y1="44" x2="42" y2="62" stroke="#E8913A" stroke-width="4" stroke-linecap="round"/><ellipse cx="42" cy="64" rx="3" ry="1.8" fill="#C67520"/></g>
+          <g class="hero-leg-br"><line x1="35" y1="44" x2="35" y2="62" stroke="#C67520" stroke-width="4" stroke-linecap="round"/><ellipse cx="35" cy="64" rx="3" ry="1.8" fill="#a0622a"/></g>
+        </g>
+      </svg>
+    </div>
+
   </div>
 
   <!-- Content -->
