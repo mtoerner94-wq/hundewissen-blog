@@ -47,7 +47,7 @@ Viele Hundehalter sind unsicher, ob ihr Hund Tomaten fressen darf. Die kurze Ant
 ![Hund neben reifen roten Tomaten auf einer Wiese](../../assets/images/duerfen-hunde-tomaten-essen.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Dürfen Hunde Tomaten essen?</h4>
+<p class="box-title">Zusammenfassung: Dürfen Hunde Tomaten essen?</p>
 <ul>
 <li><strong>Reife rote Tomaten erlaubt</strong> -- in kleinen Mengen (1-2 Stücke/Tag) als Snack unbedenklich</li>
 <li><strong>Grüne Tomaten sind giftig</strong> -- sie enthalten bis zu 32 mg Solanin pro 100 g und sind für Hunde tabu</li>
@@ -87,7 +87,7 @@ Der entscheidende Faktor ist der Reifegrad der Tomate. Unreife, grüne Tomaten e
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
 <div>
-<h4>Definition: <span>Solanin</span></h4>
+<p class="box-title">Definition: <span>Solanin</span></p>
 <p>Solanin ist ein natürliches Glykoalkaloid in Nachtschattengewächsen. Es dient der Pflanze als Fraßschutz und kann bei Mensch und Tier Magen-Darm-Beschwerden, neurologische Störungen und Herzrhythmusstörungen verursachen. Die toxische Dosis für Hunde liegt bei etwa 2-6 mg pro Kilogramm Körpergewicht.</p>
 </div>
 </div>
@@ -185,7 +185,7 @@ Wichtig beim Kochen: Verwende ausschließlich reife Tomaten und verzichte komple
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Vorteile gekochter Tomaten</h4>
+<p class="box-title">Vorteile gekochter Tomaten</p>
 <ul>
 <li>Solanin wird durch Hitze weiter reduziert</li>
 <li>Lycopin wird 2-3x besser aufgenommen</li>
@@ -194,7 +194,7 @@ Wichtig beim Kochen: Verwende ausschließlich reife Tomaten und verzichte komple
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Nachteile gekochter Tomaten</h4>
+<p class="box-title">Nachteile gekochter Tomaten</p>
 <ul>
 <li>Vitamin C wird teilweise durch Hitze zerstört</li>
 <li>Fertigprodukte enthalten oft Zwiebeln und Salz</li>
@@ -211,22 +211,22 @@ Diese Frage stellen sich viele Hundehalter, wenn beim Kochen Reste übrig bleibe
 <div class="not-prose card-grid">
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🍅</span>
-<h4>Tomatenmark</h4>
+<p class="box-title">Tomatenmark</p>
 <p>In kleinen Mengen (½ TL) erlaubt, wenn ohne Salz und Gewürze. Stark konzentriert -- sparsam dosieren.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🥫</span>
-<h4>Passierte Tomaten</h4>
+<p class="box-title">Passierte Tomaten</p>
 <p>Reine passierte Tomaten ohne Zusätze sind unbedenklich. Auf die Zutatenliste achten -- kein Salz, keine Zwiebeln.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🍝</span>
-<h4>Fertige Tomatensoße</h4>
+<p class="box-title">Fertige Tomatensoße</p>
 <p>Nicht empfohlen. Enthält fast immer Zwiebeln, Knoblauch, Zucker und Salz -- alles schädlich für Hunde.</p>
 </div>
 <div class="card-grid-item">
 <span class="card-grid-icon">🥣</span>
-<h4>Selbstgekochte Soße</h4>
+<p class="box-title">Selbstgekochte Soße</p>
 <p>Beste Option: Reife Tomaten ohne Gewürze kochen und pürieren. 1-2 EL als Futterzugabe sind unbedenklich.</p>
 </div>
 </div>
@@ -248,7 +248,7 @@ Rohe, vollreife Tomaten dürfen Hunde essen. Der Solaningehalt reifer roher Toma
 ### Checkliste: Rohe Tomate sicher füttern
 
 <div class="not-prose checklist">
-<h4>✅ Rohe Tomaten für Hunde -- Checkliste</h4>
+<p class="box-title">✅ Rohe Tomaten für Hunde -- Checkliste</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Tomate ist vollständig rot und reif</span>
@@ -293,22 +293,22 @@ Die Symptome einer Solanin-Vergiftung beim Hund reichen von mild bis lebensbedro
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Ruhe bewahren</h4>
+<p class="box-title">Ruhe bewahren</p>
 <p>Schätze die gefressene Menge ein. Bei 1-2 kleinen grünen Tomaten reicht oft Beobachtung.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Hund beobachten</h4>
+<p class="box-title">Hund beobachten</p>
 <p>Überwache deinen Hund 6-12 Stunden auf Erbrechen, Durchfall, Zittern oder Apathie.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Tierarzt kontaktieren</h4>
+<p class="box-title">Tierarzt kontaktieren</p>
 <p>Bei Symptomen oder größeren Mengen sofort den Tierarzt oder die Giftzentrale anrufen.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Informationen bereithalten</h4>
+<p class="box-title">Informationen bereithalten</p>
 <p>Notiere Menge, Zeitpunkt und Reifegrad der gefressenen Tomaten für den Tierarzt.</p>
 </div>
 </div>
@@ -358,7 +358,7 @@ Auch bei Alternativen gilt: Obst und Gemüse sollten maximal 5-10 % der täglich
 Wenn du deinem Hund Tomaten geben möchtest, ist die richtige Zubereitung entscheidend. Mit diesen einfachen Schritten stellst du sicher, dass dein Hund die Tomate sicher genießen kann.
 
 <div class="not-prose recipe-box">
-<h4>🍳 Einfaches Tomaten-Topping fürs Hundefutter</h4>
+<p class="box-title">🍳 Einfaches Tomaten-Topping fürs Hundefutter</p>
 <ul>
 <li>2-3 vollreife rote Tomaten waschen und Stielansatz entfernen</li>
 <li>Tomaten vierteln und grüne Stellen großzügig wegschneiden</li>

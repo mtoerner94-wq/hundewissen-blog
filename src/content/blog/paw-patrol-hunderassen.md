@@ -48,7 +48,7 @@ Die Paw Patrol Hunderassen begeistern Kinder und Eltern auf der ganzen Welt. Hin
 Dieser umfassende Ratgeber stellt **alle Paw Patrol Hunderassen im Detail** vor, erläutert ihre echten Eigenschaften und gibt Hinweise zur Eignung als Familienhund.
 
 <div class="not-prose tldr-box">
-<h4>Das Wichtigste auf einen Blick</h4>
+<p class="box-title">Das Wichtigste auf einen Blick</p>
 <ul>
 <li>10 verschiedene Hunderassen im Paw Patrol Team -- von klein (Chihuahua) bis groß (Berner Sennenhund)</li>
 <li>Nicht jede Paw Patrol Rasse eignet sich als Familienhund -- besonders die Englische Bulldogge hat gesundheitliche Probleme</li>
@@ -294,7 +294,7 @@ Berner Sennenhunde sind **ideale Familienhunde** -- ruhig, geduldig und kinderli
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>✅ Für Anfänger geeignet</h4>
+<p class="box-title">✅ Für Anfänger geeignet</p>
 <ul>
 <li><strong>Labrador Retriever (Zuma):</strong> Freundlich, geduldig, leicht erziehbar -- der Klassiker unter den Familienhunden</li>
 <li><strong>Cockapoo (Skye):</strong> Unkompliziert, anpassungsfähig, allergikerfreundlich und ideal für Wohnungen</li>
@@ -303,7 +303,7 @@ Berner Sennenhunde sind **ideale Familienhunde** -- ruhig, geduldig und kinderli
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>🎓 Erfahrung empfohlen</h4>
+<p class="box-title">🎓 Erfahrung empfohlen</p>
 <ul>
 <li><strong>Deutscher Schäferhund (Chase):</strong> Braucht konsequente Führung, viel Beschäftigung und klare Regeln</li>
 <li><strong>Dalmatiner (Marshall):</strong> Extrem energiegeladen, braucht Stunden an Auslauf</li>

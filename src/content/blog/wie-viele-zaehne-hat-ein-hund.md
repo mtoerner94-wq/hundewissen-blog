@@ -47,7 +47,7 @@ Ob Welpe mit 28 Milchzähnen oder ausgewachsener Hund mit vollständigem Gebiss 
 ![Hund zeigt sein gesundes Gebiss mit allen Zahnarten](../../assets/images/wie-viele-zaehne-hat-ein-hund.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Wie viele Zähne hat ein Hund?</h4>
+<p class="box-title">Zusammenfassung: Wie viele Zähne hat ein Hund?</p>
 <ul>
 <li><strong>42 Zähne beim erwachsenen Hund</strong> -- 12 Schneidezähne, 4 Fangzähne, 16 Prämolaren, 10 Molaren</li>
 <li><strong>28 Milchzähne beim Welpen</strong> -- Milchgebiss ohne Molaren, vollständig ab der 6. Lebenswoche</li>
@@ -99,22 +99,22 @@ Das Hundegebiss besteht aus Schneidezähnen (Incisivi), Fangzähnen (Canini), Pr
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🦷</span>
-<h4>12 Schneidezähne</h4>
+<p class="box-title">12 Schneidezähne</p>
 <p>Die kleinen Zähne vorne im Kiefer dienen zum Abknabbern von Fleisch vom Knochen und zur Fellpflege.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🐺</span>
-<h4>4 Fangzähne</h4>
+<p class="box-title">4 Fangzähne</p>
 <p>Die langen, spitzen Eckzähne greifen und halten Beute fest. Sie sind die kräftigsten Zähne im Hundegebiss.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🦴</span>
-<h4>16 Prämolaren</h4>
+<p class="box-title">16 Prämolaren</p>
 <p>Die vorderen Backenzähne zerreißen und zerkleinern Nahrung. Der größte Prämolar heißt Reißzahn (P4).</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🥩</span>
-<h4>10 Molaren</h4>
+<p class="box-title">10 Molaren</p>
 <p>Die hinteren Backenzähne zermahlen pflanzliche Nahrung und Knochen. Im Unterkiefer sitzen 6, im Oberkiefer 4.</p>
 </div>
 </div>
@@ -176,22 +176,22 @@ Der Zahnwechsel verläuft in einer bestimmten Reihenfolge. Die Schneidezähne fa
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Schneidezähne (Monat 3–5)</h4>
+<p class="box-title">Schneidezähne (Monat 3–5)</p>
 <p>Die 12 Milch-Schneidezähne fallen zuerst aus und werden durch bleibende Schneidezähne ersetzt.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Prämolaren (Monat 4–6)</h4>
+<p class="box-title">Prämolaren (Monat 4–6)</p>
 <p>Die 12 Milch-Prämolaren werden durch 16 bleibende Prämolaren ersetzt -- 4 zusätzliche Prämolaren wachsen nach.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Fangzähne (Monat 5–7)</h4>
+<p class="box-title">Fangzähne (Monat 5–7)</p>
 <p>Die 4 Milch-Fangzähne fallen als Letztes aus. Die bleibenden Fangzähne sind deutlich größer und kräftiger.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Molaren wachsen nach (Monat 4–7)</h4>
+<p class="box-title">Molaren wachsen nach (Monat 4–7)</p>
 <p>Die 10 Molaren haben keine Milchzahn-Vorgänger und wachsen parallel zum Zahnwechsel direkt als bleibende Zähne.</p>
 </div>
 </div>
@@ -239,7 +239,7 @@ Manche Hunde haben mehr als die normalen 42 Zähne. Tierärzte bezeichnen überz
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
 <div>
-<h4>Definition: <span>Hyperdontie (Polyodontie)</span></h4>
+<p class="box-title">Definition: <span>Hyperdontie (Polyodontie)</span></p>
 <p>Hyperdontie bezeichnet das Vorhandensein überzähliger Zähne über die normale Zahnanzahl hinaus. Beim Hund bedeutet das mehr als 42 bleibende Zähne oder mehr als 28 Milchzähne. Die Ursache ist meist genetisch bedingt.</p>
 </div>
 </div>
@@ -268,7 +268,7 @@ Ein abgebrochener Zahn mit freiliegendem Zahnmark (Pulpa) ist schmerzhaft und ka
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Sichere Kauartikel</h4>
+<p class="box-title">Sichere Kauartikel</p>
 <ul>
 <li>Kauartikel aus getrockneter Rinderhaut</li>
 <li>Kauwurzeln aus Kaffeeholz oder Olivenholz</li>
@@ -277,7 +277,7 @@ Ein abgebrochener Zahn mit freiliegendem Zahnmark (Pulpa) ist schmerzhaft und ka
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Riskante Kauartikel</h4>
+<p class="box-title">Riskante Kauartikel</p>
 <ul>
 <li>Geweihstangen (extrem hart, Frakturgefahr)</li>
 <li>Markknochen (können splittern)</li>
@@ -298,22 +298,22 @@ Das Zähneputzen sollte bereits im Welpenalter trainiert werden. Verwende aussch
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Gewöhnung</h4>
+<p class="box-title">Gewöhnung</p>
 <p>Lass deinen Hund die Zahnpasta von deinem Finger lecken. Massiere sanft das Zahnfleisch mit dem Finger.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Fingerbürste einführen</h4>
+<p class="box-title">Fingerbürste einführen</p>
 <p>Nutze eine Fingerbürste oder Fingerling mit Zahnpasta. Putze zunächst nur die vorderen Zähne in kreisenden Bewegungen.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Alle Zähne putzen</h4>
+<p class="box-title">Alle Zähne putzen</p>
 <p>Arbeite dich langsam zu den Backenzähnen vor. Konzentriere dich auf die Außenseiten -- dort bildet sich am meisten Zahnstein.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Belohnen</h4>
+<p class="box-title">Belohnen</p>
 <p>Lobe deinen Hund nach jeder Zahnpflege-Sitzung ausgiebig. So verknüpft er das Zähneputzen mit etwas Positivem.</p>
 </div>
 </div>
@@ -359,7 +359,7 @@ Große Hunderassen haben seltener Zahnstein, sind aber anfälliger für Zahnfrak
 Zahnprobleme beim Hund entwickeln sich oft schleichend. Hunde zeigen Schmerzen im Maul erst spät, da sie evolutionär darauf programmiert sind, Schwäche zu verbergen. Regelmäßige Kontrollen -- mindestens 1-mal jährlich beim Tierarzt und wöchentlich zu Hause -- sind daher entscheidend.
 
 <div class="not-prose checklist">
-<h4>✅ Warnsignale: Wann zum Tierarzt?</h4>
+<p class="box-title">✅ Warnsignale: Wann zum Tierarzt?</p>
 <div class="checklist-item checklist-item--unchecked">
 <div class="check-icon"></div>
 <span>Starker Mundgeruch (über das normale Maß hinaus)</span>

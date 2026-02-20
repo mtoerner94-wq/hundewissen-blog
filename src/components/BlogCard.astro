@@ -47,11 +47,11 @@ const formattedDate = new Date(date).toLocaleDateString('de-DE', {
   )}
 
   <div class="p-6 flex flex-col flex-1">
-    <span class="text-xs uppercase font-medium text-primary tracking-wide">
+    <span class="text-xs uppercase font-medium text-primary-text tracking-wide">
       {category}
     </span>
 
-    <h3 class="font-semibold text-lg text-slate-900 mt-2 group-hover:text-primary transition-colors duration-200">
+    <h3 class="font-semibold text-lg text-slate-900 mt-2 group-hover:text-primary-text transition-colors duration-200">
       {title}
     </h3>
 
@@ -59,7 +59,7 @@ const formattedDate = new Date(date).toLocaleDateString('de-DE', {
       {description}
     </p>
 
-    <time class="text-xs text-slate-400 mt-4 block" datetime={new Date(date).toISOString()}>
+    <time class="text-xs text-slate-500 mt-4 block" datetime={new Date(date).toISOString()}>
       {formattedDate}
     </time>
   </div>

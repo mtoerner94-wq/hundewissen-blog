@@ -49,7 +49,7 @@ In diesem Ratgeber findest du die 20 beliebtesten kleinen Hunderassen im ausfüh
 ![Kleine Hunderassen im Überblick -- verschiedene beliebte Rassen nebeneinander](../../assets/images/kleine-hunderassen-beliebtesten.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Kleine Hunderassen</h4>
+<p class="box-title">Zusammenfassung: Kleine Hunderassen</p>
 <ul>
 <li><strong>Lebenserwartung</strong> -- Kleine Hunderassen leben mit 12–16 Jahren deutlich länger als große Rassen</li>
 <li><strong>Gewicht bis 10 kg</strong> -- Die beliebtesten kleinen Hunderassen wiegen zwischen 1,5 und 10 kg</li>
@@ -186,22 +186,22 @@ Bichon Frisés haaren kaum und gelten daher als allergikerfreundlich. Ihr Fell m
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🐩</span>
-<h4>Wenig Haaren</h4>
+<p class="box-title">Wenig Haaren</p>
 <p>Malteser, Havaneser, Bichon Frisé und Yorkshire Terrier haaren kaum und eignen sich für Allergiker.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">👶</span>
-<h4>Familienfreundlich</h4>
+<p class="box-title">Familienfreundlich</p>
 <p>Cavalier King Charles Spaniel, Havaneser und Beagle sind besonders geduldig mit Kindern.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🏠</span>
-<h4>Wohnungstauglich</h4>
+<p class="box-title">Wohnungstauglich</p>
 <p>Chihuahua, Malteser, Mops und Shih Tzu kommen mit wenig Platz gut zurecht.</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🏃</span>
-<h4>Sportlich & aktiv</h4>
+<p class="box-title">Sportlich & aktiv</p>
 <p>Jack Russell Terrier, Beagle und Papillon brauchen 60–90 Minuten Auslauf täglich.</p>
 </div>
 </div>
@@ -264,7 +264,7 @@ Jack Russell Terrier sind intelligent, lernfreudig und eignen sich hervorragend 
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Ruhige kleine Rassen</h4>
+<p class="box-title">Ruhige kleine Rassen</p>
 <ul>
 <li>Malteser -- 30–45 Min. Bewegung</li>
 <li>Mops -- 30–45 Min. Bewegung</li>
@@ -274,7 +274,7 @@ Jack Russell Terrier sind intelligent, lernfreudig und eignen sich hervorragend 
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Aktive kleine Rassen</h4>
+<p class="box-title">Aktive kleine Rassen</p>
 <ul>
 <li>Jack Russell Terrier -- 60–90 Min.</li>
 <li>Beagle -- 60–90 Min.</li>
@@ -350,22 +350,22 @@ Die Wahl der passenden kleinen Hunderasse hängt von deiner Lebenssituation, dei
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Lebenssituation analysieren</h4>
+<p class="box-title">Lebenssituation analysieren</p>
 <p>Wohnung oder Haus? Kinder? Andere Haustiere? Arbeitszeiten? Diese Faktoren bestimmen die passende Rasse.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Aktivitätslevel ehrlich einschätzen</h4>
+<p class="box-title">Aktivitätslevel ehrlich einschätzen</p>
 <p>Bist du sportlich und viel draußen? Dann passt ein Jack Russell. Eher gemütlich? Dann ist ein Malteser die bessere Wahl.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Pflegeaufwand berücksichtigen</h4>
+<p class="box-title">Pflegeaufwand berücksichtigen</p>
 <p>Langhaarige Rassen brauchen tägliches Bürsten und regelmäßige Friseurbesuche. Kurzhaarrassen sind pflegeleichter.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Seriösen Züchter finden</h4>
+<p class="box-title">Seriösen Züchter finden</p>
 <p>VDH-Züchter testen Elterntiere auf rassetypische Krankheiten. Welpen kosten 1.200–2.500 Euro je nach Rasse.</p>
 </div>
 </div>
@@ -438,7 +438,7 @@ Viele Halter unterschätzen den Erziehungsbedarf kleiner Hunderassen. Das sogena
 Nicht jede kleine Hunderasse eignet sich für Ersthundehalter. Rassen mit starkem Jagdtrieb, hohem Energielevel oder ausgeprägter Eigenständigkeit erfordern Erfahrung. Die folgenden fünf Rassen verzeihen Erziehungsfehler und sind besonders unkompliziert.
 
 <div class="not-prose checklist">
-<h4>✅ Top 5 kleine Hunderassen für Anfänger</h4>
+<p class="box-title">✅ Top 5 kleine Hunderassen für Anfänger</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span><strong>Cavalier King Charles Spaniel</strong> -- Sanftmütig, anpassungsfähig, kinderfreundlich</span>

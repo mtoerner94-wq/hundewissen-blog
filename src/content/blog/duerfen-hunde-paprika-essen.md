@@ -47,7 +47,7 @@ Viele Hundehalter sind unsicher, ob sie ihrem Hund ein Stück Paprika vom Schnei
 ![Hund neben frischen roten Paprikaschoten auf einem Holztisch](../../assets/images/duerfen-hunde-paprika-essen.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Dürfen Hunde Paprika essen?</h4>
+<p class="box-title">Zusammenfassung: Dürfen Hunde Paprika essen?</p>
 <ul>
 <li><strong>Rote Paprika erlaubt</strong> -- Reife rote Paprika enthält am wenigsten Solanin und darf in kleinen Mengen verfüttert werden</li>
 <li><strong>Grüne Paprika meiden</strong> -- Grüne Paprika hat den höchsten Solanin-Gehalt und ist für Hunde nicht empfehlenswert</li>
@@ -87,7 +87,7 @@ Solanin ist für Hunde in hohen Mengen giftig. Es greift die Schleimhäute des M
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
 <div>
-<h4>Definition: <span>Solanin (Glykoalkaloid)</span></h4>
+<p class="box-title">Definition: <span>Solanin (Glykoalkaloid)</span></p>
 <p>Solanin ist eine chemische Verbindung aus der Gruppe der Glykoalkaloide. Es kommt natürlich in Nachtschattengewächsen vor und dient der Pflanze als Schutz gegen Fressfeinde. Beim Hund kann Solanin in hohen Dosen Magen-Darm-Beschwerden, neurologische Störungen und Hämolyse (Auflösung roter Blutkörperchen) verursachen.</p>
 </div>
 </div>
@@ -153,7 +153,7 @@ Gekochte Paprika ist für Hunde besser verträglich als rohe. Durch das Erhitzen
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Gekochte Paprika</h4>
+<p class="box-title">Gekochte Paprika</p>
 <ul>
 <li>Solanin-Gehalt wird durch Hitze reduziert</li>
 <li>Bessere Nährstoffaufnahme (Beta-Carotin)</li>
@@ -162,7 +162,7 @@ Gekochte Paprika ist für Hunde besser verträglich als rohe. Durch das Erhitzen
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Rohe Paprika</h4>
+<p class="box-title">Rohe Paprika</p>
 <ul>
 <li>Höherer Solanin-Gehalt als gekochte</li>
 <li>Schwerer verdaulich -- kann Blähungen verursachen</li>
@@ -179,22 +179,22 @@ Die richtige Zubereitung ist entscheidend, damit dein Hund die Paprika gut vertr
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Paprika waschen</h4>
+<p class="box-title">Paprika waschen</p>
 <p>Gründlich unter fließendem Wasser abspülen, um Pestizidrückstände zu entfernen. Bio-Paprika ist empfehlenswert.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Stiel, Kerne und Trennwände entfernen</h4>
+<p class="box-title">Stiel, Kerne und Trennwände entfernen</p>
 <p>Alle grünen Pflanzenteile, Kerne und die weißen Innenwände vollständig herausschneiden.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>In kleine Stücke schneiden und kochen</h4>
+<p class="box-title">In kleine Stücke schneiden und kochen</p>
 <p>Die Paprika in fingernagelgroße Stücke schneiden und 8--10 Minuten in ungesalzenem Wasser weich kochen.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Abkühlen lassen und füttern</h4>
+<p class="box-title">Abkühlen lassen und füttern</p>
 <p>Die gekochte Paprika auf Zimmertemperatur abkühlen lassen und in kleinen Mengen unter das Futter mischen oder als Snack anbieten.</p>
 </div>
 </div>
@@ -248,22 +248,22 @@ Hat dein Hund eine größere Menge Paprika gefressen -- etwa eine ganze Schote o
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Menge und Farbe einschätzen</h4>
+<p class="box-title">Menge und Farbe einschätzen</p>
 <p>Wie viel Paprika hat dein Hund gefressen? War sie rot, gelb oder grün? Waren Stiel und Kerne noch dran?</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Hund beobachten</h4>
+<p class="box-title">Hund beobachten</p>
 <p>Beobachte deinen Hund für 6--12 Stunden auf Erbrechen, Durchfall, Speicheln oder Unruhe.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Schonkost anbieten</h4>
+<p class="box-title">Schonkost anbieten</p>
 <p>Bei leichten Magen-Darm-Beschwerden hilft Schonkost aus gekochtem Reis mit magerem Hühnchen für 1--2 Tage.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Tierarzt kontaktieren</h4>
+<p class="box-title">Tierarzt kontaktieren</p>
 <p>Bei anhaltenden oder schweren Symptomen den Tierarzt aufsuchen. Reste der Paprika und Zeitpunkt des Verzehrs notieren.</p>
 </div>
 </div>
@@ -293,22 +293,22 @@ Wenn dein Hund Paprika nicht verträgt oder du auf Nummer sicher gehen möchtest
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🥕</span>
-<h4>Karotten</h4>
+<p class="box-title">Karotten</p>
 <p>Reich an Beta-Carotin und Ballaststoffen. Roh als Kausnack oder gekocht als Futterzusatz ideal für Hunde jeder Größe.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🥒</span>
-<h4>Gurke</h4>
+<p class="box-title">Gurke</p>
 <p>Kalorienarm und wasserreich -- perfekt als Snack an heißen Tagen. Enthält Vitamin K und Kalium.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🥦</span>
-<h4>Brokkoli</h4>
+<p class="box-title">Brokkoli</p>
 <p>Liefert Vitamin C, Eisen und Ballaststoffe. Nur in kleinen Mengen füttern, da er Blähungen verursachen kann.</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🎃</span>
-<h4>Kürbis</h4>
+<p class="box-title">Kürbis</p>
 <p>Gut verträglich und ballaststoffreich. Gekochter Kürbis unterstützt die Verdauung und hilft bei Durchfall.</p>
 </div>
 </div>
@@ -330,7 +330,7 @@ Kartoffeln gehören wie Paprika zu den Nachtschattengewächsen und enthalten ebe
 ## Checkliste: Paprika sicher an Hunde verfüttern
 
 <div class="not-prose checklist">
-<h4>✅ Paprika-Checkliste für Hundehalter</h4>
+<p class="box-title">✅ Paprika-Checkliste für Hundehalter</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Rote oder gelbe Paprika wählen (kein grün)</span>

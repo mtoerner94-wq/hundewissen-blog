@@ -49,7 +49,7 @@ In diesem Ratgeber erfährst du, welche Mengen Apfel für deinen Hund unbedenkli
 ![Hund schaut neugierig auf einen frischen Apfel auf einer Wiese](../../assets/images/duerfen-hunde-aepfel-essen.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Äpfel für Hunde</h4>
+<p class="box-title">Zusammenfassung: Äpfel für Hunde</p>
 <ul>
 <li><strong>Äpfel sind erlaubt</strong> -- Hunde dürfen Äpfel essen, sie gelten als gesunder, kalorienarmer Snack mit nur 52 kcal pro 100 g</li>
 <li><strong>Kerngehäuse immer entfernen</strong> -- Apfelkerne enthalten Amygdalin, das im Körper zu Blausäure umgewandelt wird</li>
@@ -97,7 +97,7 @@ Laut der Tierärztlichen Hochschule Hannover können Hunde Vitamin C zwar selbst
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
 <div>
-<h4>Definition: <span>Pektin</span></h4>
+<p class="box-title">Definition: <span>Pektin</span></p>
 <p>Pektin ist ein pflanzlicher Ballaststoff, der Wasser bindet und im Darm eine gelartige Masse bildet. Es reguliert die Verdauung und kann sowohl bei Durchfall als auch bei Verstopfung helfen.</p>
 </div>
 </div>
@@ -177,22 +177,22 @@ Die richtige Zubereitung stellt sicher, dass dein Hund den Apfel sicher und gut 
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Apfel waschen</h4>
+<p class="box-title">Apfel waschen</p>
 <p>Den Apfel gründlich unter warmem Wasser abspülen und trocken reiben, um Pestizidrückstände zu entfernen.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Kerngehäuse entfernen</h4>
+<p class="box-title">Kerngehäuse entfernen</p>
 <p>Den Apfel vierteln und das komplette Kerngehäuse inklusive aller Kerne herausschneiden.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Mundgerecht schneiden</h4>
+<p class="box-title">Mundgerecht schneiden</p>
 <p>Die Apfelstücke in kleine, dem Hund angepasste Stücke schneiden. Für kleine Hunde: dünne Scheiben. Für große Hunde: Viertel-Schnitze.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Verfüttern</h4>
+<p class="box-title">Verfüttern</p>
 <p>Die Stücke als Snack zwischendurch, als Belohnung beim Training oder als Topping über das Futter geben.</p>
 </div>
 </div>
@@ -247,22 +247,22 @@ Neben dem frischen Apfel gibt es verschiedene Apfelprodukte, die für Hundehalte
 <div class="not-prose card-grid">
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">✅</span>
-<h4>Selbstgemachtes Apfelmus</h4>
+<p class="box-title">Selbstgemachtes Apfelmus</p>
 <p>Ohne Zucker und Gewürze zubereitet ist Apfelmus leicht verdaulich und ideal für Welpen oder Senioren.</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">⚠️</span>
-<h4>Getrocknete Äpfel</h4>
+<p class="box-title">Getrocknete Äpfel</p>
 <p>Ungesüßt erlaubt, aber Vorsicht: 4-mal höherer Zuckergehalt als frischer Apfel. Nur in sehr kleinen Mengen füttern.</p>
 </div>
 <div class="card-grid-item">
 <span class="card-grid-icon">🚫</span>
-<h4>Gekauftes Apfelmus</h4>
+<p class="box-title">Gekauftes Apfelmus</p>
 <p>Enthält oft Zucker, Zimt oder Konservierungsstoffe. Zimt kann in größeren Mengen die Leber belasten. Nicht empfehlenswert.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🚫</span>
-<h4>Apfelsaft</h4>
+<p class="box-title">Apfelsaft</p>
 <p>Zu hoher Zuckergehalt (ca. 10 g pro 100 ml) und keine Ballaststoffe. Kann Durchfall verursachen. Nicht für Hunde geeignet.</p>
 </div>
 </div>
@@ -277,7 +277,7 @@ Trotz der vielen Vorteile gibt es Situationen, in denen Äpfel für Hunde nicht 
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Äpfel erlaubt</h4>
+<p class="box-title">Äpfel erlaubt</p>
 <ul>
 <li>Gesunde, ausgewachsene Hunde</li>
 <li>Welpen ab 12 Wochen (geschält und püriert)</li>
@@ -287,7 +287,7 @@ Trotz der vielen Vorteile gibt es Situationen, in denen Äpfel für Hunde nicht 
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Äpfel vermeiden</h4>
+<p class="box-title">Äpfel vermeiden</p>
 <ul>
 <li>Hunde mit Diabetes (Fruchtzucker erhöht den Blutzucker)</li>
 <li>Hunde mit bekannter Fructoseintoleranz</li>
@@ -332,7 +332,7 @@ Der Apfel ist nicht das einzige Obst, das Hunde fressen dürfen. Die folgende Ta
 Äpfel lassen sich vielseitig in den Speiseplan deines Hundes integrieren. Hier sind drei einfache Rezeptideen:
 
 <div class="not-prose recipe-box">
-<h4>🍳 Gefrorene Apfel-Leckerlis (Sommer-Snack)</h4>
+<p class="box-title">🍳 Gefrorene Apfel-Leckerlis (Sommer-Snack)</p>
 <ul>
 <li>1 Apfel schälen, entkernen und in kleine Würfel schneiden</li>
 <li>Apfelwürfel mit 150 g Naturjoghurt (laktosefrei) vermischen</li>
@@ -347,7 +347,7 @@ Weitere Ideen: Apfelstücke als Belohnung beim Training nutzen, geriebenen Apfel
 ## Checkliste: Apfel für Hunde richtig füttern
 
 <div class="not-prose checklist">
-<h4>✅ Checkliste: Äpfel sicher verfüttern</h4>
+<p class="box-title">✅ Checkliste: Äpfel sicher verfüttern</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Apfel gründlich unter warmem Wasser waschen</span>

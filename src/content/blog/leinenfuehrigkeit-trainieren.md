@@ -47,7 +47,7 @@ Die gute Nachricht: Mit der richtigen Methode, Geduld und Konsequenz lernt jeder
 ![Hund läuft entspannt an lockerer Leine neben seinem Halter](../../assets/images/leinenfuehrigkeit-trainieren-hund.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Leinenführigkeit trainieren</h4>
+<p class="box-title">Zusammenfassung: Leinenführigkeit trainieren</p>
 <ul>
 <li><strong>Grundprinzip</strong> -- Leinenführigkeit basiert auf positiver Verstärkung: Lockere Leine wird belohnt, Zug führt zum Stehen bleiben</li>
 <li><strong>Richtige Ausrüstung</strong> -- Eine 2-3 Meter lange Führleine und ein Brustgeschirr sind ideal für das Leinentraining</li>
@@ -146,32 +146,32 @@ Die effektivste Methode für das Leinenführigkeit-Training basiert auf einem ei
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Ausgangssituation schaffen</h4>
+<p class="box-title">Ausgangssituation schaffen</p>
 <p>Starte in einer reizarmen Umgebung (Garten, ruhige Straße). Halte die Leine locker in der Hand -- sie sollte ein leichtes "U" bilden.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Lockere Leine belohnen</h4>
+<p class="box-title">Lockere Leine belohnen</p>
 <p>Solange die Leine locker hängt, gehst du weiter und lobst deinen Hund mit ruhiger Stimme. Alle 5-10 Schritte gibt es ein Leckerli auf deiner Seite.</p>
 </div>
 <div class="step-item">
 <div class="step-number">3</div>
-<h4>Bei Zug sofort stehen bleiben</h4>
+<p class="box-title">Bei Zug sofort stehen bleiben</p>
 <p>Sobald die Leine sich spannt, bleibst du wie eine Laterne stehen. Kein Zerren, kein Rufen -- einfach stehen und warten.</p>
 </div>
 <div class="step-item">
 <div class="step-number">4</div>
-<h4>Blickkontakt abwarten</h4>
+<p class="box-title">Blickkontakt abwarten</p>
 <p>Warte, bis dein Hund sich zu dir umdreht oder die Leine lockert. Das kann anfangs 10-30 Sekunden dauern.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">5</div>
-<h4>Sofort belohnen und weitergehen</h4>
+<p class="box-title">Sofort belohnen und weitergehen</p>
 <p>Sobald die Leine locker wird, lobst du begeistert und gehst sofort weiter. Dein Hund lernt: Lockere Leine = es geht weiter.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Konsequent wiederholen</h4>
+<p class="box-title">Konsequent wiederholen</p>
 <p>Wiederhole diesen Ablauf bei jedem Spaziergang. In den ersten Tagen wirst du oft stehen bleiben -- das ist völlig normal und Teil des Lernprozesses.</p>
 </div>
 </div>
@@ -213,7 +213,7 @@ Dein Hund möchte zum Baum schnüffeln? Nutze das als Belohnung für lockere Lei
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
 <div>
-<h4>Definition: <span>Premack-Prinzip</span></h4>
+<p class="box-title">Definition: <span>Premack-Prinzip</span></p>
 <p>Das Premack-Prinzip besagt, dass ein häufig gezeigtes Verhalten als Verstärker für ein seltener gezeigtes Verhalten dienen kann. Im Leinentraining bedeutet das: Schnüffeln und Erkunden (häufig) wird zur Belohnung für lockeres Laufen (selten).</p>
 </div>
 </div>
@@ -271,22 +271,22 @@ Leinenaggression entsteht meist nicht aus echter Aggression, sondern aus Frustra
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">😤</span>
-<h4>Frustration</h4>
+<p class="box-title">Frustration</p>
 <p>Der Hund möchte zum anderen Hund, wird aber durch die Leine daran gehindert. Die aufgestaute Erregung entlädt sich in Bellen und Zerren.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">😰</span>
-<h4>Unsicherheit</h4>
+<p class="box-title">Unsicherheit</p>
 <p>Der Hund fühlt sich bedroht und kann nicht flüchten. Die Leine nimmt ihm die Möglichkeit, Abstand zu halten -- er geht in die Offensive.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">📚</span>
-<h4>Fehlende Sozialisation</h4>
+<p class="box-title">Fehlende Sozialisation</p>
 <p>Der Hund hat in der Prägungs- und Sozialisierungsphase zu wenig positive Erfahrungen mit Artgenossen gemacht.</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🔗</span>
-<h4>Leinenspannung</h4>
+<p class="box-title">Leinenspannung</p>
 <p>Permanenter Zug am Halsband oder Geschirr erhöhrt die körperliche Anspannung und senkt die Reizschwelle des Hundes.</p>
 </div>
 </div>
@@ -313,7 +313,7 @@ Viele Hundehalter machen beim Leinentraining unbewusst Fehler, die den Fortschri
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Richtig machen</h4>
+<p class="box-title">Richtig machen</p>
 <ul>
 <li>Konsequent bei JEDEM Spaziergang trainieren</li>
 <li>Sofort stehen bleiben, wenn die Leine sich spannt</li>
@@ -324,7 +324,7 @@ Viele Hundehalter machen beim Leinentraining unbewusst Fehler, die den Fortschri
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Fehler vermeiden</h4>
+<p class="box-title">Fehler vermeiden</p>
 <ul>
 <li>Nur manchmal trainieren, sonst mitziehen lassen</li>
 <li>An der Leine zurückzerren oder rucken</li>
@@ -408,7 +408,7 @@ Wenn dein Hund neben dem Leinenziehen auch andere Verhaltensauffälligkeiten zei
 ## Checkliste: Ausrüstung und Vorbereitung
 
 <div class="not-prose checklist">
-<h4>✅ Checkliste für das Leinentraining</h4>
+<p class="box-title">✅ Checkliste für das Leinentraining</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Führleine (2-3 m, leichtes Material)</span>

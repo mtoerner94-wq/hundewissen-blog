@@ -49,7 +49,7 @@ Dieser Ratgeber zeigt dir die 8 haeufigsten Gruende, warum dein Hund sein Futter
 ![Hund frisst nicht -- Ursachen und Tipps bei Futterverweigerung](../../assets/images/hund-frisst-nicht.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Hund frisst nicht</h4>
+<p class="box-title">Zusammenfassung: Hund frisst nicht</p>
 <ul>
 <li><strong>8 Hauptursachen</strong> -- von Magen-Darm-Erkrankungen ueber Zahnschmerzen bis zu Stress und maekeliger Fressgewohnheit</li>
 <li><strong>Notfall-Regel:</strong> Hund frisst nicht UND trinkt nicht = sofort zum Tierarzt</li>
@@ -154,22 +154,22 @@ Typisches Muster: Der Hund steht vor dem Napf, schnueffelt kurz und geht weg. De
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Feste Futterzeiten einfuehren</h4>
+<p class="box-title">Feste Futterzeiten einfuehren</p>
 <p>Fuettere deinen Hund 2-mal taeglich zu festen Zeiten (z.B. 7:00 und 18:00 Uhr). Keine Snacks dazwischen.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Napf nach 15 Minuten entfernen</h4>
+<p class="box-title">Napf nach 15 Minuten entfernen</p>
 <p>Stelle das Futter hin und entferne den Napf nach 15 bis 20 Minuten -- egal ob leer oder voll.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Keine Alternativen bieten</h4>
+<p class="box-title">Keine Alternativen bieten</p>
 <p>Biete bis zur naechsten regulaeren Mahlzeit weder Leckerlis noch Tischreste an. Konsequenz ist entscheidend.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Geduld bewahren</h4>
+<p class="box-title">Geduld bewahren</p>
 <p>Ein gesunder Hund wird spaetestens nach 1 bis 2 Tagen wieder normal fressen. Das Verhalten bessert sich meist innerhalb einer Woche.</p>
 </div>
 </div>
@@ -235,22 +235,22 @@ Wenn ein Hund zittert und nicht frisst, ist das ein ernstzunehmendes Warnsignal.
 <div class="not-prose card-grid">
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">😴</span>
-<h4>Frisst nicht + schlaeft viel</h4>
+<p class="box-title">Frisst nicht + schlaeft viel</p>
 <p>Deutet auf Infektion oder Schmerzen. Tierarzt innerhalb 24 Stunden.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🫄</span>
-<h4>Frisst nicht + Bauch gluckert</h4>
+<p class="box-title">Frisst nicht + Bauch gluckert</p>
 <p>Magen-Darm-Probleme wahrscheinlich. Schonkost anbieten, bei Verschlechterung zum Tierarzt.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🤒</span>
-<h4>Frisst nicht + zittert</h4>
+<p class="box-title">Frisst nicht + zittert</p>
 <p>Ernstes Warnsignal: Schmerzen, Vergiftung oder neurologische Ursache. Sofort zum Tierarzt.</p>
 </div>
 <div class="card-grid-item">
 <span class="card-grid-icon">🤮</span>
-<h4>Frisst nicht + erbricht</h4>
+<p class="box-title">Frisst nicht + erbricht</p>
 <p>Magen-Darm-Erkrankung oder Fremdkoerper. Bei wiederholtem Erbrechen Notfall -- sofort zum Tierarzt.</p>
 </div>
 </div>
@@ -335,7 +335,7 @@ Nassfutter verdirbt bei Hitze schneller im Napf. Entferne Futterreste nach spaet
 ## Checkliste: Hund frisst nicht -- systematisch Ursachen einordnen
 
 <div class="not-prose checklist">
-<h4>✅ Checkliste bei Futterverweigerung</h4>
+<p class="box-title">✅ Checkliste bei Futterverweigerung</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Maul auf Verletzungen, Fremdkoerper und Zahnprobleme pruefen</span>

@@ -50,7 +50,7 @@ Ein Hund bellt ständig -- und Halter, Nachbarn sowie der Vierbeiner selbst leid
 Bellen ist ein natürliches Kommunikationsmittel des Hundes. Problematisch wird es erst, wenn ein Hund bellt, ohne aufhören zu können -- ob in der Wohnung, beim Spaziergang oder bei jedem Geräusch. Wer wissen möchte, was tun wenn der Hund ständig bellt, findet hier die **5 häufigsten Ursachen und erprobte Trainingsmethoden**. Das Ziel ist nicht, das Bellen vollständig zu unterdrücken, sondern dem Hund beizubringen, in welchen Situationen Bellen angemessen ist und wann Ruhe das richtige Verhalten darstellt.
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung</h4>
+<p class="box-title">Zusammenfassung</p>
 <ul>
 <li>Ein Hund bellt ständig aus 5 Hauptgründen: Angst, territoriales Verhalten, Langeweile, erlerntes Aufmerksamkeitsbellen oder gesundheitliche Probleme.</li>
 <li>Dem Hund das Bellen abgewöhnen gelingt durch positive Verstärkung -- erste Trainingserfolge zeigen sich nach 3-6 Wochen konsequentem Üben.</li>
@@ -154,22 +154,22 @@ Einem Hund das Bellen abzugewöhnen erfordert Geduld, Konsequenz und die richtig
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Auslöser identifizieren</h4>
+<p class="box-title">Auslöser identifizieren</p>
 <p>Bell-Tagebuch führen: Wann, wo und warum bellt der Hund? Mindestens 7 Tage dokumentieren.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">2</div>
-<h4>Ruhe-Signal einführen</h4>
+<p class="box-title">Ruhe-Signal einführen</p>
 <p>Kommando "Ruhe" in reizarmer Umgebung trainieren. Bellpause abwarten → Kommando → sofort belohnen.</p>
 </div>
 <div class="step-item">
 <div class="step-number">3</div>
-<h4>Desensibilisierung</h4>
+<p class="box-title">Desensibilisierung</p>
 <p>Auslöser in niedriger Intensität präsentieren. Ruhiges Verhalten belohnen. Intensität langsam steigern.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Alltag integrieren</h4>
+<p class="box-title">Alltag integrieren</p>
 <p>Gelerntes auf reale Situationen übertragen. Geduld bewahren -- erste Erfolge zeigen sich nach 3-6 Wochen.</p>
 </div>
 </div>
@@ -226,7 +226,7 @@ Bei erwachsenen Hunden hilft kontrollierte Konfrontation: Freiwillige Helfer nä
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>✅ Richtig trainieren</h4>
+<p class="box-title">✅ Richtig trainieren</p>
 <ul>
 <li>Ruhiges Verhalten sofort belohnen</li>
 <li>Selbst ruhig und gelassen bleiben</li>
@@ -235,7 +235,7 @@ Bei erwachsenen Hunden hilft kontrollierte Konfrontation: Freiwillige Helfer nä
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>⚠️ Typische Fehler</h4>
+<p class="box-title">⚠️ Typische Fehler</p>
 <ul>
 <li>Den Hund anschreien (verstärkt Erregung)</li>
 <li>Schnauze zuhalten (zerstört Vertrauen)</li>

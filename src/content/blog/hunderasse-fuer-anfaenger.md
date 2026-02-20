@@ -49,7 +49,7 @@ Doch welche Hunderasse für Anfänger ist die richtige Wahl? Die Antwort hängt 
 ![Hunderasse für Anfänger -- freundlicher Hund auf einer Wiese](../../assets/images/hunderasse-fuer-anfaenger.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Hunderasse für Anfänger</h4>
+<p class="box-title">Zusammenfassung: Hunderasse für Anfänger</p>
 <ul>
 <li><strong>Hunderassen für Anfänger</strong> zeichnen sich durch Gutmütigkeit, hohe Fehlertoleranz bei der Erziehung und anpassungsfähiges Wesen aus</li>
 <li><strong>Beliebteste Anfängerhunde</strong> sind Golden Retriever, Labrador, Pudel, Malteser und Havaneser</li>
@@ -136,22 +136,22 @@ Der Papillon (Schmetterlingshund) wiegt 3-5 kg und überrascht mit seiner hohen 
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🐩</span>
-<h4>Malteser</h4>
+<p class="box-title">Malteser</p>
 <p>3-4 kg, sehr anhänglich, kaum Haarverlust, tägliche Fellpflege nötig</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🐕</span>
-<h4>Havaneser</h4>
+<p class="box-title">Havaneser</p>
 <p>4-7 kg, kinderfreundlich, verspielt, liebt Tricks und Training</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🐶</span>
-<h4>Bichon Frisé</h4>
+<p class="box-title">Bichon Frisé</p>
 <p>4-7 kg, allergikerfreundlich, braucht regelmäßiges Trimmen</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🦋</span>
-<h4>Papillon</h4>
+<p class="box-title">Papillon</p>
 <p>3-5 kg, hochintelligent, pflegeleichtes Fell, sehr lernwillig</p>
 </div>
 </div>
@@ -301,7 +301,7 @@ Bestimmte Rassen stellen selbst erfahrene Hundehalter vor Herausforderungen. Anf
 Die Entscheidung für eine Hunderasse für Anfänger ist eine Verpflichtung für 10-15 Jahre. Vor dem Kauf oder der Adoption sollten folgende Punkte geklärt sein:
 
 <div class="not-prose checklist">
-<h4>✅ Checkliste vor dem Hundekauf</h4>
+<p class="box-title">✅ Checkliste vor dem Hundekauf</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Ausreichend Zeit vorhanden (mind. 2-3 Stunden täglich für Spaziergänge, Training, Pflege)</span>
@@ -356,22 +356,22 @@ Die Eingewöhnungsphase entscheidet über das langfristige Zusammenleben mit dei
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Erste 3 Tage: Ankommen lassen</h4>
+<p class="box-title">Erste 3 Tage: Ankommen lassen</p>
 <p>Der Hund erkundet sein neues Zuhause. Wenig Besuch, feste Schlaf- und Futterplätze einrichten. Keine Überforderung durch neue Reize.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Erste 3 Wochen: Routine aufbauen</h4>
+<p class="box-title">Erste 3 Wochen: Routine aufbauen</p>
 <p>Feste Futter-, Gassi- und Ruhezeiten etablieren. Grundkommandos (Sitz, Platz, Hier) beginnen. Stubenreinheitstraining konsequent durchführen.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Erste 3 Monate: Bindung vertiefen</h4>
+<p class="box-title">Erste 3 Monate: Bindung vertiefen</p>
 <p>Der Hund zeigt sein wahres Wesen. Hundeschule starten, Sozialisierung mit anderen Hunden und Menschen. Regeln konsequent einhalten.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Angekommen</h4>
+<p class="box-title">Angekommen</p>
 <p>Nach 3 Monaten kennt der Anfängerhund die Hausregeln, vertraut seinem Besitzer und hat eine stabile Routine.</p>
 </div>
 </div>
@@ -382,7 +382,7 @@ Selbst mit einer pflegeleichten Hunderasse für Anfänger machen Erstbesitzer h�
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Richtig machen</h4>
+<p class="box-title">Richtig machen</p>
 <ul>
 <li>Regeln von Tag 1 konsequent einhalten</li>
 <li>Positive Verstärkung statt Strafen einsetzen</li>
@@ -392,7 +392,7 @@ Selbst mit einer pflegeleichten Hunderasse für Anfänger machen Erstbesitzer h�
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Vermeiden</h4>
+<p class="box-title">Vermeiden</p>
 <ul>
 <li>Inkonsequenz: Heute erlaubt, morgen verboten</li>
 <li>Vermenschlichung: Hund als Kinderersatz behandeln</li>

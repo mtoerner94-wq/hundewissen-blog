@@ -45,6 +45,7 @@ html {
   --color-primary: #E8913A;
   --color-primary-dark: #C67520;
   --color-primary-light: #F0A050;
+  --color-primary-text: #A05A10;
   --color-secondary: #FFF8F0;
   --color-accent-red: #EF4444;
   --color-accent-green: #10B981;
@@ -81,7 +82,7 @@ html {
 .prose {
   --tw-prose-body: #475569;
   --tw-prose-headings: #0f172a;
-  --tw-prose-links: #E8913A;
+  --tw-prose-links: var(--color-primary-text);
   --tw-prose-bold: #0f172a;
   --tw-prose-counters: #E8913A;
   --tw-prose-bullets: #E8913A;
@@ -201,7 +202,7 @@ html {
   margin: 2rem 0;
 }
 
-.tldr-box h4 {
+.tldr-box .box-title {
   color: white;
   font-size: 1.2em;
   font-weight: 700;
@@ -257,7 +258,7 @@ html {
   border: none;
 }
 
-.card-grid-item--accent h4,
+.card-grid-item--accent .box-title,
 .card-grid-item--accent p {
   color: white;
 }
@@ -283,7 +284,7 @@ html {
   line-height: 1;
 }
 
-.card-grid-item h4 {
+.card-grid-item .box-title {
   color: #1a1a1a;
   margin: 0.5rem 0;
   font-size: 1.05em;
@@ -305,7 +306,7 @@ html {
   font-weight: 600;
   margin-bottom: 0.5rem;
   background: var(--color-beige);
-  color: var(--color-primary);
+  color: var(--color-primary-text);
 }
 
 /* ===== COMPARISON (PRO/CONTRA) ===== */
@@ -331,8 +332,8 @@ html {
   border-left: 5px solid var(--color-petrol);
 }
 
-.comparison-pro h4,
-.comparison-contra h4 {
+.comparison-pro .box-title,
+.comparison-contra .box-title {
   margin: 0 0 0.75rem 0;
   font-size: 1.15em;
   font-weight: 700;
@@ -341,8 +342,8 @@ html {
   gap: 0.5rem;
 }
 
-.comparison-pro h4 { color: #8B5E14; }
-.comparison-contra h4 { color: var(--color-petrol); }
+.comparison-pro .box-title { color: #8B5E14; }
+.comparison-contra .box-title { color: var(--color-petrol); }
 
 .comparison-pro ul,
 .comparison-contra ul {
@@ -406,7 +407,7 @@ html {
   box-shadow: 0 4px 15px rgba(45, 52, 54, 0.3);
 }
 
-.step-item h4 {
+.step-item .box-title {
   color: #1a1a1a;
   margin: 0 0 0.25rem 0;
   font-size: 1em;
@@ -487,14 +488,14 @@ html {
   font-size: 1.4em;
 }
 
-.definition-box h4 {
-  color: var(--color-primary);
+.definition-box .box-title {
+  color: var(--color-primary-text);
   margin: 0 0 0.25rem 0;
   font-size: 1em;
   font-weight: 600;
 }
 
-.definition-box h4 span {
+.definition-box .box-title span {
   color: #1a1a1a;
   margin-left: 0.5rem;
 }
@@ -517,7 +518,7 @@ html {
   border: 2px solid var(--color-beige);
 }
 
-.checklist h4 {
+.checklist .box-title {
   color: #1a1a1a;
   margin: 0 0 1rem 0;
   font-size: 1.15em;
@@ -580,7 +581,7 @@ html {
   border-top: 4px solid var(--color-primary);
 }
 
-.recipe-box h4 {
+.recipe-box .box-title {
   color: #1a1a1a;
   margin: 0 0 0.75rem 0;
   font-size: 1.15em;

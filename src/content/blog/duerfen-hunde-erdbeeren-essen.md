@@ -46,7 +46,7 @@ sources:
 Hunde dürfen Erdbeeren essen -- die süßen Früchte sind nicht nur unbedenklich, sondern liefern wertvolle Nährstoffe für den Vierbeiner. Erdbeeren enthalten rund **60 mg Vitamin C pro 100 Gramm**, dazu Folsäure, Kalium und Antioxidantien, die das Immunsystem unterstützen können. Die Frage "Dürfen Hunde Erdbeeren essen?" lässt sich also klar mit **Ja** beantworten. Trotzdem gibt es bei der Fütterung von Erdbeeren für Hunde einiges zu beachten: Die richtige Menge hängt von der Körpergröße ab, unreife Früchte sollten gemieden werden, und manche Hunde reagieren allergisch. Dieser Ratgeber erklärt wissenschaftlich fundiert, wie Hundehalter Erdbeeren sicher verfüttern, welche gesundheitlichen Vorteile die Früchte bieten und wann Vorsicht geboten ist.
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Dürfen Hunde Erdbeeren essen?</h4>
+<p class="box-title">Zusammenfassung: Dürfen Hunde Erdbeeren essen?</p>
 <ul>
 <li><strong>Ja, Hunde dürfen Erdbeeren essen</strong> -- die Früchte sind nicht giftig und reich an Vitamin C, Antioxidantien und Ballaststoffen</li>
 <li><strong>Richtige Menge:</strong> Kleine Hunde 1-2 Erdbeeren/Tag, mittelgroße 2-3, große Hunde bis zu 4-5 Stück</li>
@@ -136,22 +136,22 @@ Die richtige Vorbereitung von Erdbeeren für Hunde umfasst drei Schritte: Wasche
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Gründlich waschen</h4>
+<p class="box-title">Gründlich waschen</p>
 <p>Pestizidrückstände unter fließendem Wasser entfernen</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">2</div>
-<h4>Strunk entfernen</h4>
+<p class="box-title">Strunk entfernen</p>
 <p>Grünes Blattwerk abschneiden</p>
 </div>
 <div class="step-item">
 <div class="step-number">3</div>
-<h4>Zerkleinern</h4>
+<p class="box-title">Zerkleinern</p>
 <p>Für kleine Hunde in Stücke schneiden</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Verfüttern</h4>
+<p class="box-title">Verfüttern</p>
 <p>Pur, püriert oder unters Futter gemischt</p>
 </div>
 </div>
@@ -176,7 +176,7 @@ Gefrorene Erdbeeren eignen sich als erfrischende Sommer-Leckerei für Hunde. An 
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>✅ So geht's richtig</h4>
+<p class="box-title">✅ So geht's richtig</p>
 <ul>
 <li>Erdbeeren leicht antauen lassen</li>
 <li>Nur frisch eingefrorene Früchte</li>
@@ -185,7 +185,7 @@ Gefrorene Erdbeeren eignen sich als erfrischende Sommer-Leckerei für Hunde. An 
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>⚠️ Das vermeiden</h4>
+<p class="box-title">⚠️ Das vermeiden</p>
 <ul>
 <li>Steinhart gefrorene Stücke</li>
 <li>Gezuckerte Tiefkühl-Erdbeeren</li>
@@ -278,7 +278,7 @@ Erdbeeren lassen sich zu leckeren Hundesnacks verarbeiten, die an heißen Tagen 
 ### Erdbeer-Eis für Hunde: Einfaches Rezept
 
 <div class="not-prose recipe-box">
-<h4>🍦 Erdbeer-Eis für Hunde</h4>
+<p class="box-title">🍦 Erdbeer-Eis für Hunde</p>
 <ul>
 <li><strong>Schritt 1:</strong> 100 g Erdbeeren + 150 ml ungesüßten Naturjoghurt glatt pürieren</li>
 <li><strong>Schritt 2:</strong> Masse in Eiswürfelformen oder Kong-Spielzeug füllen</li>

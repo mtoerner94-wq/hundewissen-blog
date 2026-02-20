@@ -37,8 +37,8 @@ const currentPath = Astro.url.pathname;
             class:list={[
               'px-3 py-2 rounded-lg text-sm font-medium transition-colors duration-200',
               currentPath.startsWith(item.href)
-                ? 'text-primary bg-primary/10'
-                : 'text-slate-600 hover:text-primary hover:bg-primary/5',
+                ? 'text-primary-text bg-primary/10'
+                : 'text-slate-600 hover:text-primary-text hover:bg-primary/5',
             ]}
           >
             {item.label}
@@ -49,7 +49,7 @@ const currentPath = Astro.url.pathname;
       <!-- Search Button (Desktop) -->
       <button
         id="search-trigger-desktop"
-        class="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-slate-500 hover:text-[var(--color-primary)] hover:bg-[var(--color-primary)]/5 transition-colors border border-slate-200 hover:border-[var(--color-primary)]/30 cursor-pointer"
+        class="hidden lg:flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-slate-500 hover:text-primary-text hover:bg-primary/5 transition-colors border border-slate-200 hover:border-primary/30 cursor-pointer"
         aria-label="Suche öffnen"
       >
         <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -64,7 +64,7 @@ const currentPath = Astro.url.pathname;
         <!-- Search Button (Mobile, in header bar) -->
         <button
           id="search-trigger-mobile-bar"
-          class="flex items-center justify-center w-10 h-10 rounded-lg text-slate-600 hover:text-[var(--color-primary)] hover:bg-slate-100 transition-colors cursor-pointer"
+          class="flex items-center justify-center w-10 h-10 rounded-lg text-slate-600 hover:text-primary-text hover:bg-slate-100 transition-colors cursor-pointer"
           aria-label="Suche öffnen"
         >
           <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -133,8 +133,8 @@ const currentPath = Astro.url.pathname;
         class:list={[
           'text-xl font-medium px-8 py-3 rounded-xl transition-colors duration-200',
           currentPath.startsWith(item.href)
-            ? 'text-primary bg-primary/10'
-            : 'text-slate-700 hover:text-primary hover:bg-primary/5',
+            ? 'text-primary-text bg-primary/10'
+            : 'text-slate-700 hover:text-primary-text hover:bg-primary/5',
         ]}
       >
         {item.label}

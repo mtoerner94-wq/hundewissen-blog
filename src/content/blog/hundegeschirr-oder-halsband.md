@@ -50,7 +50,7 @@ sources:
 Hundegeschirr oder Halsband -- diese Frage beschäftigt nahezu jeden Hundehalter und spaltet die Meinungen von Experten und Tierärzten gleichermaßen. Die Entscheidung zwischen Halsband oder Geschirr ist dabei weit mehr als eine Stilfrage: Sie beeinflusst die Gesundheit, das Wohlbefinden und die Erziehung des Hundes maßgeblich. Während ein Hundehalsband maximale Bewegungsfreiheit bietet, verteilt ein Hundegeschirr den Leinenzug gleichmäßig auf Brust und Rücken -- und schont damit die empfindliche Halsregion. Laut der Bundestierärztekammer können chronischer Druck und ruckartige Belastungen am Hals langfristig zu Schäden an Kehlkopf, Luftröhre und Halswirbelsäule führen. Dieser Artikel liefert einen fundierten Vergleich beider Varianten, stellt die gängigsten Geschirrtypen vor und gibt konkrete Empfehlungen für unterschiedliche Situationen -- vom Welpen bis zum erfahrenen Hund.
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Hundegeschirr oder Halsband</h4>
+<p class="box-title">Zusammenfassung: Hundegeschirr oder Halsband</p>
 <ul>
 <li>Ein Hundegeschirr verteilt den Leinenzug auf eine 5- bis 10-mal größere Fläche als ein Halsband und schont Kehlkopf, Luftröhre und Halswirbelsäule.</li>
 <li>Für die Leinenführigkeit empfehlen Hundetrainer ein breites Halsband -- für Spaziergänge und Hunde, die ziehen, ist ein Geschirr die bessere Wahl.</li>
@@ -62,7 +62,7 @@ Hundegeschirr oder Halsband -- diese Frage beschäftigt nahezu jeden Hundehalter
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>🦮 Vorteile Hundegeschirr</h4>
+<p class="box-title">🦮 Vorteile Hundegeschirr</p>
 <ul>
 <li>Druckverteilung auf Brust und Rücken</li>
 <li>Schont Hals, Kehlkopf und Schilddrüse</li>
@@ -71,7 +71,7 @@ Hundegeschirr oder Halsband -- diese Frage beschäftigt nahezu jeden Hundehalter
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>🔗 Vorteile Hundehalsband</h4>
+<p class="box-title">🔗 Vorteile Hundehalsband</p>
 <ul>
 <li>Maximale Bewegungsfreiheit</li>
 <li>Schnelleres An- und Ablegen</li>
@@ -174,22 +174,22 @@ Zwischen Halsband und Hundehals sollten zwei Finger Platz haben. So sitzt es eng
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Messen</h4>
+<p class="box-title">Messen</p>
 <p>Brust- und Halsumfang mit Maßband messen -- eng, aber nicht einschnürend</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Anlegen</h4>
+<p class="box-title">Anlegen</p>
 <p>Geschirr über den Kopf oder als Step-in anlegen -- je nach Modell</p>
 </div>
 <div class="step-item">
 <div class="step-number">3</div>
-<h4>Anpassen</h4>
+<p class="box-title">Anpassen</p>
 <p>Gurte justieren: Eine Handbreit hinter dem Ellenbogen, nicht unter den Achseln</p>
 </div>
 <div class="step-item">
 <div class="step-number">4</div>
-<h4>Prüfen</h4>
+<p class="box-title">Prüfen</p>
 <p>Bewegungstest: Hund laufen lassen, Schulterblätter müssen frei beweglich sein</p>
 </div>
 </div>

@@ -49,7 +49,7 @@ In diesem Ratgeber erfährst du die 10 häufigsten Ursachen, warum dein Hund zit
 ![Hund zittert und wird von seinem Besitzer beruhigt](../../assets/images/hund-zittert-ursachen.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Hund zittert -- Ursachen & Handlung</h4>
+<p class="box-title">Zusammenfassung: Hund zittert -- Ursachen & Handlung</p>
 <ul>
 <li><strong>Häufigste harmlose Ursachen</strong> -- Kälte, Aufregung, Freude und Zittern im Schlaf erfordern keinen Tierarzt-Besuch</li>
 <li><strong>Schmerzen erkennen</strong> -- Hund zittert und ist gleichzeitig schlapp, frisst nicht oder zieht sich zurück? Dann stecken oft Schmerzen dahinter</li>
@@ -160,22 +160,22 @@ Streichle deinen Hund ruhig und sprich mit sanfter Stimme, ohne das Verhalten ü
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Ruhe bewahren</h4>
+<p class="box-title">Ruhe bewahren</p>
 <p>Bleibe selbst ruhig und gelassen. Dein Hund orientiert sich an deiner Körpersprache und spürt deine Anspannung.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Rückzugsort anbieten</h4>
+<p class="box-title">Rückzugsort anbieten</p>
 <p>Führe deinen Hund an einen ruhigen, abgedunkelten Ort. Eine vertraute Decke oder sein Körbchen gibt Sicherheit.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Ablenkung schaffen</h4>
+<p class="box-title">Ablenkung schaffen</p>
 <p>Kauspielzeug, ein gefüllter Kong oder leise Musik können deinen Hund von der Angstquelle ablenken.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Langfristig desensibilisieren</h4>
+<p class="box-title">Langfristig desensibilisieren</p>
 <p>Bei chronischer Angst hilft gezieltes Training mit einem Hundetrainer. Geräusch-CDs ermöglichen eine schrittweise Gewöhnung.</p>
 </div>
 </div>
@@ -249,22 +249,22 @@ Eine ausführliche Übersicht über Vergiftungssymptome und Erste-Hilfe-Maßnahm
 <div class="not-prose card-grid">
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">⏱️</span>
-<h4>Frühsymptome (0-2 Std.)</h4>
+<p class="box-title">Frühsymptome (0-2 Std.)</p>
 <p>Zittern, Unruhe, starkes Speicheln, Erbrechen, Durchfall</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">⚠️</span>
-<h4>Akute Phase (2-6 Std.)</h4>
+<p class="box-title">Akute Phase (2-6 Std.)</p>
 <p>Starke Krämpfe, Koordinationsstörungen, Herzrasen, Atemnot</p>
 </div>
 <div class="card-grid-item">
 <span class="card-grid-icon">🚨</span>
-<h4>Kritische Phase (6-24 Std.)</h4>
+<p class="box-title">Kritische Phase (6-24 Std.)</p>
 <p>Bewusstlosigkeit, Organversagen, lebensbedrohlicher Zustand</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">📞</span>
-<h4>Sofort handeln</h4>
+<p class="box-title">Sofort handeln</p>
 <p>Tierärztlichen Notdienst anrufen, Substanz sichern, Hund ruhig halten</p>
 </div>
 </div>
@@ -332,7 +332,7 @@ Nicht jedes Zittern erfordert einen Tierarzt-Besuch. Harmlose Ursachen wie Kält
 ### Sofort zum Tierarzt bei diesen Symptomen
 
 <div class="not-prose checklist">
-<h4>✅ Warnsignale: Sofort zum Tierarzt</h4>
+<p class="box-title">✅ Warnsignale: Sofort zum Tierarzt</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Zittern hält länger als 30 Minuten an ohne erkennbaren Grund</span>
@@ -373,7 +373,7 @@ Bei harmlosen Ursachen kannst du deinem Hund mit einfachen Maßnahmen helfen. Di
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Das hilft deinem Hund</h4>
+<p class="box-title">Das hilft deinem Hund</p>
 <ul>
 <li>Warme Decke und zugfreier Liegeplatz bei Kältezittern</li>
 <li>Ruhige Umgebung und sanfte Stimme bei Angstzittern</li>
@@ -383,7 +383,7 @@ Bei harmlosen Ursachen kannst du deinem Hund mit einfachen Maßnahmen helfen. Di
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Das solltest du vermeiden</h4>
+<p class="box-title">Das solltest du vermeiden</p>
 <ul>
 <li>Hund im Schlaf abrupt wecken bei Schlafzittern</li>
 <li>Angstzittern durch übermäßiges Trösten verstärken</li>

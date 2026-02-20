@@ -49,7 +49,7 @@ In diesem Ratgeber erfährst du, welche Trinkmenge für Hunde normal ist, wie du
 ![Hund trinkt viel Wasser aus einem Napf in der Küche](../../assets/images/hund-trinkt-viel-wasser.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Hund trinkt viel Wasser</h4>
+<p class="box-title">Zusammenfassung: Hund trinkt viel Wasser</p>
 <ul>
 <li><strong>Normale Trinkmenge</strong> -- Gesunde Hunde trinken 40 bis 60 ml Wasser pro Kilogramm Körpergewicht am Tag</li>
 <li><strong>Ab wann zu viel?</strong> -- Über 100 ml pro Kilogramm gilt als Polydipsie und sollte tierärztlich abgeklärt werden</li>
@@ -119,22 +119,22 @@ Bevor du beurteilen kannst, ob dein Hund zu viel Wasser trinkt, musst du die tat
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Messbecher bereitstellen</h4>
+<p class="box-title">Messbecher bereitstellen</p>
 <p>Fülle morgens eine genau abgemessene Menge Wasser in den Napf deines Hundes. Notiere die Menge in Millilitern.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Nachfüllen dokumentieren</h4>
+<p class="box-title">Nachfüllen dokumentieren</p>
 <p>Jedes Mal, wenn du Wasser nachfüllst, notiere die nachgefüllte Menge. Achte darauf, dass dein Hund keinen Zugang zu anderen Wasserquellen hat.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Restmenge abmessen</h4>
+<p class="box-title">Restmenge abmessen</p>
 <p>Messe abends die verbleibende Wassermenge im Napf. Ziehe sie von der Gesamtmenge ab, die du eingefüllt hast.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Trinkmenge berechnen</h4>
+<p class="box-title">Trinkmenge berechnen</p>
 <p>Teile die getrunkene Menge durch das Körpergewicht deines Hundes. Ergebnis über 100 ml/kg? Ab zum Tierarzt.</p>
 </div>
 </div>
@@ -176,22 +176,22 @@ Bestimmte Medikamente steigern den Durst bei Hunden erheblich. Cortison (Glukoko
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">☀️</span>
-<h4>Hitze & Wetter</h4>
+<p class="box-title">Hitze & Wetter</p>
 <p>Ab 25 °C steigt die Trinkmenge um das 1,5- bis 2-Fache. Normal und unbedenklich.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🏃</span>
-<h4>Bewegung & Sport</h4>
+<p class="box-title">Bewegung & Sport</p>
 <p>Nach intensiver Aktivität 200–400 ml Mehrbedarf. Normalisiert sich in Stunden.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🥣</span>
-<h4>Futterumstellung</h4>
+<p class="box-title">Futterumstellung</p>
 <p>Wechsel zu Trockenfutter erhöht Trinkmenge. Kein Grund zur Sorge.</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">💊</span>
-<h4>Medikamente</h4>
+<p class="box-title">Medikamente</p>
 <p>Cortison und Diuretika steigern den Durst als bekannte Nebenwirkung.</p>
 </div>
 </div>
@@ -203,7 +203,7 @@ Wenn harmlose Auslöser ausgeschlossen sind und dein Hund dauerhaft mehr als 80 
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
 <div>
-<h4>Definition: <span>Polydipsie</span></h4>
+<p class="box-title">Definition: <span>Polydipsie</span></p>
 <p>Polydipsie bezeichnet eine krankhaft gesteigerte Wasseraufnahme von mehr als 100 ml pro Kilogramm Körpergewicht am Tag. Sie ist häufig ein Symptom einer zugrundeliegenden Erkrankung und sollte immer tierärztlich abgeklärt werden.</p>
 </div>
 </div>
@@ -299,7 +299,7 @@ Nicht jeder erhöhte Durst erfordert sofort einen Tierarztbesuch. Die folgende �
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Abwarten und beobachten</h4>
+<p class="box-title">Abwarten und beobachten</p>
 <ul>
 <li>Trinkmenge steigt an heißen Tagen oder nach Bewegung</li>
 <li>Futterumstellung von Nass- auf Trockenfutter</li>
@@ -308,7 +308,7 @@ Nicht jeder erhöhte Durst erfordert sofort einen Tierarztbesuch. Die folgende �
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Tierarzt aufsuchen</h4>
+<p class="box-title">Tierarzt aufsuchen</p>
 <ul>
 <li>Erhöhter Durst hält länger als 2–3 Tage an</li>
 <li>Hund trinkt plötzlich mehr als 100 ml/kg pro Tag</li>
@@ -337,7 +337,7 @@ Die Kosten für eine Basisdiagnostik (Blut + Urin) liegen laut Gebührenordnung 
 Eine gesunde Flüssigkeitsversorgung beginnt mit einfachen Maßnahmen im Alltag. Auch wenn du Erkrankungen nicht immer verhindern kannst, trägst du durch aufmerksame Beobachtung und gute Grundversorgung zur Gesundheit deines Hundes bei.
 
 <div class="not-prose checklist">
-<h4>✅ Checkliste: Gesunde Wasserversorgung</h4>
+<p class="box-title">✅ Checkliste: Gesunde Wasserversorgung</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Frisches Wasser immer frei zugänglich bereitstellen</span>

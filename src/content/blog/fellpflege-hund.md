@@ -50,7 +50,7 @@ sources:
 Fellpflege beim Hund ist weit mehr als eine Schönheitsfrage -- sie ist ein wesentlicher Bestandteil der Gesundheitsvorsorge. Ein gepflegtes Fell schützt vor Hautinfektionen, reguliert die Körpertemperatur und stärkt die Bindung zwischen Mensch und Tier. Regelmäßiges Bürsten, bedarfsgerechtes Baden und das fachgerechte Entfernen der Unterwolle bilden dabei die drei Grundpfeiler einer artgerechten Fellpflege. Laut Bundestierärztekammer leiden rund 15 % aller Hunde in Deutschland an Hautproblemen, die durch mangelnde Fellpflege begünstigt oder verschlimmert werden. Dieser Ratgeber erklärt für jeden Felltyp die richtige Pflegeroutine, die passenden Werkzeuge und die häufigsten Fehler, die es zu vermeiden gilt.
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung</h4>
+<p class="box-title">Zusammenfassung</p>
 <ul>
 <li>Fellpflege beim Hund umfasst regelmäßiges Bürsten (1–7× pro Woche je nach Felltyp), seltenes Baden (alle 6–8 Wochen) und gezieltes Entfernen der Unterwolle</li>
 <li>Langhaarige Hunde benötigen tägliches Bürsten, kurzhaarige Rassen kommen mit 1–2 Einheiten pro Woche aus</li>
@@ -132,22 +132,22 @@ Professionelles Trimmen ist bei Drahthaar-Rassen alle 8–12 Wochen empfehlenswe
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🐕</span>
-<h4>Noppenbürste</h4>
+<p class="box-title">Noppenbürste</p>
 <p>Kurzhaar: Schont empfindliche Haut, entfernt sanft lose Haare</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🦮</span>
-<h4>Naturhaarbürste</h4>
+<p class="box-title">Naturhaarbürste</p>
 <p>Langhaar: Glättet Deckhaar, verleiht natürlichen Glanz</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">✂️</span>
-<h4>Unterwollbürste</h4>
+<p class="box-title">Unterwollbürste</p>
 <p>Unterwolle: Entfernt lose Unterwolle, schont das Deckhaar</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🔧</span>
-<h4>Trimmmesser</h4>
+<p class="box-title">Trimmmesser</p>
 <p>Drahthaar: Zupft abgestorbenes Drahthaar, erhält Fellstruktur</p>
 </div>
 </div>
@@ -165,22 +165,22 @@ Rassen wie Husky, Golden Retriever, Berner Sennenhund oder Deutscher Schäferhun
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Fell vorbereiten</h4>
+<p class="box-title">Fell vorbereiten</p>
 <p>Verfilzungen mit den Fingern lösen und groben Schmutz entfernen</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Unterwolle bürsten</h4>
+<p class="box-title">Unterwolle bürsten</p>
 <p>Mit Unterwollbürste mit dem Strich arbeiten, an dichtesten Stellen beginnen</p>
 </div>
 <div class="step-item">
 <div class="step-number">3</div>
-<h4>Deckhaar glätten</h4>
+<p class="box-title">Deckhaar glätten</p>
 <p>Abschließend das Deckhaar mit Naturhaarbürste in Wuchsrichtung durchkämmen</p>
 </div>
 <div class="step-item">
 <div class="step-number">4</div>
-<h4>Haut kontrollieren</h4>
+<p class="box-title">Haut kontrollieren</p>
 <p>Haut auf Rötungen, Parasiten oder Veränderungen prüfen und den Hund belohnen</p>
 </div>
 </div>
@@ -215,7 +215,7 @@ Vor dem Baden das Fell gründlich durchbürsten und alle Verfilzungen lösen. Na
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>✅ Hundeshampoo</h4>
+<p class="box-title">✅ Hundeshampoo</p>
 <ul>
 <li>pH-Wert 6,5–7,5 (passend zur Hundehaut)</li>
 <li>Rückfettende Wirkung</li>
@@ -224,7 +224,7 @@ Vor dem Baden das Fell gründlich durchbürsten und alle Verfilzungen lösen. Na
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>⚠️ Menschenshampoo</h4>
+<p class="box-title">⚠️ Menschenshampoo</p>
 <ul>
 <li>pH-Wert 4,5–5,5 (zu sauer für Hunde)</li>
 <li>Enthält oft Parfüm und Duftstoffe</li>

@@ -51,7 +51,7 @@ Eine Vergiftung beim Hund ist ein lebensbedrohlicher Notfall, der innerhalb weni
 
 
 <div class="not-prose tldr-box">
-<h4>⚡ Das Wichtigste in Kürze</h4>
+<p class="box-title">⚡ Das Wichtigste in Kürze</p>
 <ul>
 <li>Vergiftungssymptome treten je nach Giftstoff innerhalb von <strong>30 Minuten bis 5 Tagen</strong> auf</li>
 <li>Häufigste Ursachen: Giftköder, Schokolade, Rattengift, Schneckenkorn und Medikamente</li>
@@ -95,17 +95,17 @@ Die Symptome einer Vergiftung beim Hund lassen sich in drei Hauptkategorien eint
 <div class="not-prose card-grid">
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🤢</span>
-<h4>Magen-Darm</h4>
+<p class="box-title">Magen-Darm</p>
 <p>Erbrechen, Durchfall, Speicheln, Bauchschmerzen, blutiger Stuhl</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🧠</span>
-<h4>Neurologisch</h4>
+<p class="box-title">Neurologisch</p>
 <p>Zittern, Krämpfe, Taumeln, Koordinationsverlust, Bewusstlosigkeit</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">❤️</span>
-<h4>Herz-Kreislauf</h4>
+<p class="box-title">Herz-Kreislauf</p>
 <p>Herzrasen, Atemnot, blasses Zahnfleisch, Kreislaufversagen</p>
 </div>
 </div>
@@ -156,22 +156,22 @@ Der Zeitpunkt variiert zwischen 30 Minuten und mehreren Tagen – abhängig vom 
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">⚡</div>
-<h4>30 Min – 3 Std</h4>
+<p class="box-title">30 Min – 3 Std</p>
 <p><strong>Schneckenkorn:</strong> Krämpfe, Zittern, Fieber über 41 °C. Metaldehyd passiert die Blut-Hirn-Schranke schnell.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--primary">⏱️</div>
-<h4>2–12 Stunden</h4>
+<p class="box-title">2–12 Stunden</p>
 <p><strong>Schokolade, Xylit, Frostschutzmittel:</strong> Erbrechen, Durchfall, Herzrasen. Bei Xylit Blutzuckerabfall nach 30–60 Min.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">🕐</div>
-<h4>6–24 Stunden</h4>
+<p class="box-title">6–24 Stunden</p>
 <p><strong>Weintrauben, Rosinen, Zwiebeln:</strong> Akutes Nierenversagen möglich. Blutarmut zeigt sich oft erst nach 1–5 Tagen.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">📅</div>
-<h4>3–5 Tage</h4>
+<p class="box-title">3–5 Tage</p>
 <p><strong>Rattengift:</strong> Schleichende Vergiftung durch Hemmung der Blutgerinnung. Blasses Zahnfleisch, Nasenbluten, Schwäche.</p>
 </div>
 </div>
@@ -181,32 +181,32 @@ Der Zeitpunkt variiert zwischen 30 Minuten und mehreren Tagen – abhängig vom 
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🍫</span>
-<h4>Schokolade</h4>
+<p class="box-title">Schokolade</p>
 <p>Theobromin – bereits 20 mg/kg gefährlich</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🍇</span>
-<h4>Trauben & Rosinen</h4>
+<p class="box-title">Trauben & Rosinen</p>
 <p>Schon kleine Mengen können Nierenversagen auslösen</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🧁</span>
-<h4>Xylit (Birkenzucker)</h4>
+<p class="box-title">Xylit (Birkenzucker)</p>
 <p>Extremer Blutzuckerabfall und Leberversagen</p>
 </div>
 <div class="card-grid-item">
 <span class="card-grid-icon">🧅</span>
-<h4>Zwiebeln & Knoblauch</h4>
+<p class="box-title">Zwiebeln & Knoblauch</p>
 <p>Zerstören rote Blutkörperchen – auch gekocht giftig</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🐀</span>
-<h4>Rattengift</h4>
+<p class="box-title">Rattengift</p>
 <p>Verhindert Blutgerinnung – Symptome erst nach 3–5 Tagen</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">💊</span>
-<h4>Medikamente</h4>
+<p class="box-title">Medikamente</p>
 <p>Ibuprofen, Paracetamol – für Hunde hochgiftig</p>
 </div>
 </div>
@@ -255,22 +255,22 @@ Bei Verdacht auf eine Vergiftung zählt jede Minute. Die folgenden Sofortmaßnah
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Ruhe bewahren</h4>
+<p class="box-title">Ruhe bewahren</p>
 <p>Situation erfassen, Giftstoff und Menge notieren, Giftreste aus dem Maul entfernen</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Tierarzt anrufen</h4>
+<p class="box-title">Tierarzt anrufen</p>
 <p>Sofort Tierklinik oder Notdienst kontaktieren – auch ohne Symptome</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Erste Hilfe leisten</h4>
+<p class="box-title">Erste Hilfe leisten</p>
 <p>Bei Bewusstlosigkeit stabile Seitenlage. Aktivkohle nur nach Rücksprache</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">4</div>
-<h4>Zum Tierarzt fahren</h4>
+<p class="box-title">Zum Tierarzt fahren</p>
 <p>Giftreste, Verpackung und Erbrochenes mitnehmen. Zweite Person einplanen</p>
 </div>
 </div>
@@ -325,7 +325,7 @@ Die Überlebenschancen hängen von drei Faktoren ab: Art des Giftstoffs, aufgeno
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>✅ Gute Prognose bei…</h4>
+<p class="box-title">✅ Gute Prognose bei…</p>
 <ul>
 <li>Behandlungsbeginn innerhalb von <strong>2 Stunden</strong></li>
 <li>Schneckenkorn – nach Überstehen der <strong>ersten 24 Stunden</strong></li>
@@ -334,7 +334,7 @@ Die Überlebenschancen hängen von drei Faktoren ab: Art des Giftstoffs, aufgeno
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>❌ Schlechte Prognose bei…</h4>
+<p class="box-title">❌ Schlechte Prognose bei…</p>
 <ul>
 <li>Rattengift – Behandlung <strong>erst nach Symptomen</strong></li>
 <li>Frostschutzmittel – Behandlung <strong>später als 8 Stunden</strong></li>
@@ -378,7 +378,7 @@ Medikamente, Reinigungsmittel, Pflanzenschutzmittel und Frostschutzmittel gehör
 Ein gut ausgestattetes Notfall-Set kann wertvolle Zeit sparen:
 
 <div class="not-prose checklist">
-<h4>✅ Erste-Hilfe-Set für den Vergiftungsnotfall</h4>
+<p class="box-title">✅ Erste-Hilfe-Set für den Vergiftungsnotfall</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Telefonnummer Tierarzt & Tierklinik (24h-Notdienst)</span>

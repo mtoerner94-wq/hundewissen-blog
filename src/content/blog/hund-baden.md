@@ -48,7 +48,7 @@ Doch wann ist ein Bad tatsächlich notwendig? Welches Shampoo eignet sich für H
 ![Hund baden – Wie oft und womit waschen?](../../assets/images/hund_baden.webp)
 
 <div class="not-prose tldr-box">
-<h4>✅ Zusammenfassung: Hund baden</h4>
+<p class="box-title">✅ Zusammenfassung: Hund baden</p>
 <ul>
 <li>Hunde maximal <strong>1x pro Monat</strong> baden – gesunde Hunde brauchen oft nur 4–6 Bäder pro Jahr</li>
 <li><strong>Hundeshampoo</strong> statt Menschenshampoo: Der pH-Wert der Hundehaut (6,5–7,5) unterscheidet sich von menschlicher Haut (5,5)</li>
@@ -126,22 +126,22 @@ Mildes, hypoallergenes Hundeshampoo eignet sich für die meisten Hunde und ist d
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🧼</span>
-<h4>Mildes Shampoo</h4>
+<p class="box-title">Mildes Shampoo</p>
 <p>pH-neutral, rückfettend – für gesunde Hunde die Standardpflege</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🌿</span>
-<h4>Naturshampoo</h4>
+<p class="box-title">Naturshampoo</p>
 <p>Aloe Vera, Hafer – biologisch abbaubar und besonders schonend</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🩺</span>
-<h4>Medizinisches Shampoo</h4>
+<p class="box-title">Medizinisches Shampoo</p>
 <p>Gegen Milben, Pilze, Schuppen – nur nach tierärztlicher Verordnung</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🐶</span>
-<h4>Welpen-Shampoo</h4>
+<p class="box-title">Welpen-Shampoo</p>
 <p>Extra mild und tränenfrei – für empfindliche Welpenhaut ab 12 Wochen</p>
 </div>
 </div>
@@ -159,37 +159,37 @@ Ein Hundebad verläuft am besten mit guter Vorbereitung und einer ruhigen, struk
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Fell vorbürsten</h4>
+<p class="box-title">Fell vorbürsten</p>
 <p>Lose Haare, Knoten und groben Schmutz entfernen</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Bad vorbereiten</h4>
+<p class="box-title">Bad vorbereiten</p>
 <p>Gummimatte, Shampoo, Handtücher bereitlegen</p>
 </div>
 <div class="step-item">
 <div class="step-number">3</div>
-<h4>Nass machen</h4>
+<p class="box-title">Nass machen</p>
 <p>Sanfter Strahl, Pfoten zuerst, Kopf aussparen</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--primary">4</div>
-<h4>Einshampoonieren</h4>
+<p class="box-title">Einshampoonieren</p>
 <p>Wenig Shampoo, von Schultern Richtung Hinterteil einmassieren</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">5</div>
-<h4>Gründlich ausspülen</h4>
+<p class="box-title">Gründlich ausspülen</p>
 <p>Spülen bis das Wasser vollständig klar abläuft</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">6</div>
-<h4>Trocknen</h4>
+<p class="box-title">Trocknen</p>
 <p>Handtuch tupfen, warmer Platz, kein heißer Föhn</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Belohnen & Bürsten</h4>
+<p class="box-title">Belohnen & Bürsten</p>
 <p>Leckerli, Lob – erst nach vollständigem Trocknen bürsten</p>
 </div>
 </div>
@@ -272,7 +272,7 @@ Ein Hundebad zu Hause kostet pro Anwendung etwa 0,50–2,00 Euro für Hundeshamp
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>🏠 Zu Hause baden</h4>
+<p class="box-title">🏠 Zu Hause baden</p>
 <ul>
 <li><strong>0,50–2 Euro</strong> pro Bad (Shampoo-Kosten)</li>
 <li>Einmalig: Gummimatte ca. 10–15 Euro</li>
@@ -281,7 +281,7 @@ Ein Hundebad zu Hause kostet pro Anwendung etwa 0,50–2,00 Euro für Hundeshamp
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>✂️ Hundesalon</h4>
+<p class="box-title">✂️ Hundesalon</p>
 <ul>
 <li><strong>20–60 Euro</strong> pro Bad (inkl. Trocknen/Bürsten)</li>
 <li>Professionelle Waschtische und Trockner</li>

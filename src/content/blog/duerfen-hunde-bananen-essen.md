@@ -49,7 +49,7 @@ In diesem Ratgeber erfährst du genau, wie viel Banane dein Hund je nach Körper
 ![Hund schaut neugierig auf eine geschälte Banane auf einem Holztisch](../../assets/images/hund-schaut-auf-banane.webp)
 
 <div class="not-prose tldr-box">
-<h4>Zusammenfassung: Bananen für Hunde</h4>
+<p class="box-title">Zusammenfassung: Bananen für Hunde</p>
 <ul>
 <li><strong>Grundsätzlich erlaubt</strong> – Bananen sind nicht giftig und als gelegentlicher Snack für Hunde geeignet</li>
 <li><strong>Richtige Menge beachten</strong> – Kleine Hunde max. 2-3 Scheiben, große Hunde max. 1 Banane pro Tag</li>
@@ -164,22 +164,22 @@ Wenn du deinem Hund Bananenchips als Leckerli geben möchtest, stelle sie einfac
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Banane in dünne Scheiben schneiden</h4>
+<p class="box-title">Banane in dünne Scheiben schneiden</p>
 <p>Schneide eine reife Banane in ca. 3-4 mm dünne Scheiben. Gleichmäßige Dicke sorgt für gleichmäßiges Trocknen.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Auf Backblech verteilen</h4>
+<p class="box-title">Auf Backblech verteilen</p>
 <p>Lege die Scheiben auf ein mit Backpapier ausgelegtes Blech. Achte darauf, dass sie sich nicht berühren.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Bei niedriger Temperatur trocknen</h4>
+<p class="box-title">Bei niedriger Temperatur trocknen</p>
 <p>Backe die Scheiben bei 80-100 °C Umluft für 2-3 Stunden. Lasse die Ofentür einen Spalt offen, damit Feuchtigkeit entweichen kann.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">✓</div>
-<h4>Abkühlen und lagern</h4>
+<p class="box-title">Abkühlen und lagern</p>
 <p>Lass die Chips vollständig abkühlen. In einem luftdichten Behälter sind sie bis zu 2 Wochen haltbar.</p>
 </div>
 </div>
@@ -215,22 +215,22 @@ Banane kann deinem Hund auf verschiedene Arten angeboten werden. Je nach Vorlieb
 <div class="not-prose card-grid">
 <div class="card-grid-item">
 <span class="card-grid-icon">🍌</span>
-<h4>Frisch in Scheiben</h4>
+<p class="box-title">Frisch in Scheiben</p>
 <p>Die einfachste Variante: Reife Banane schälen und in mundgerechte Scheiben schneiden. Ideal als schneller Snack zwischendurch.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">🥶</span>
-<h4>Gefroren als Eis</h4>
+<p class="box-title">Gefroren als Eis</p>
 <p>Gefrorene Bananenstücke sind ein erfrischender Sommersnack. Alternativ zermatschte Banane in Eiswürfelformen einfrieren.</p>
 </div>
 <div class="card-grid-item card-grid-item--petrol">
 <span class="card-grid-icon">🥣</span>
-<h4>Zermatschtes Bananen-Mus</h4>
+<p class="box-title">Zermatschtes Bananen-Mus</p>
 <p>Pürierte Banane lässt sich gut unter das Futter mischen oder als Füllmasse für Kongs verwenden. Ideal für Welpen und Senioren.</p>
 </div>
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🍪</span>
-<h4>Gebackene Bananen-Leckerlis</h4>
+<p class="box-title">Gebackene Bananen-Leckerlis</p>
 <p>Zermatschte Banane mit Haferflocken mischen und bei 180 °C für 15 Minuten backen. Gesunde, selbstgemachte Leckerlis.</p>
 </div>
 </div>
@@ -238,7 +238,7 @@ Banane kann deinem Hund auf verschiedene Arten angeboten werden. Je nach Vorlieb
 ### Einfaches Rezept: Bananen-Leckerlis für Hunde
 
 <div class="not-prose recipe-box">
-<h4>🍳 Bananen-Haferflocken-Kekse (ca. 20 Stück)</h4>
+<p class="box-title">🍳 Bananen-Haferflocken-Kekse (ca. 20 Stück)</p>
 <ul>
 <li>1 reife Banane mit einer Gabel zerdrückst</li>
 <li>150 g zarte Haferflocken unterrühren</li>
@@ -277,7 +277,7 @@ Bananenallergien sind bei Hunden selten, kommen aber vor. Symptome einer allergi
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>Vorteile</h4>
+<p class="box-title">Vorteile</p>
 <ul>
 <li>Reich an Kalium – unterstützt Herzfunktion und Muskeln</li>
 <li>Vitamin B6 fördert den Aminosäurestoffwechsel</li>
@@ -288,7 +288,7 @@ Bananenallergien sind bei Hunden selten, kommen aber vor. Symptome einer allergi
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>Nachteile</h4>
+<p class="box-title">Nachteile</p>
 <ul>
 <li>Hoher Zuckergehalt (12 g pro 100 g) – nicht für Diabetiker-Hunde</li>
 <li>Hoher Kaliumgehalt problematisch bei Nierenerkrankungen</li>
@@ -347,7 +347,7 @@ Wenn du wissen möchtest, welche Früchte dein Hund bedenkenlos naschen darf, fi
 ## Checkliste: Banane sicher an deinen Hund füttern
 
 <div class="not-prose checklist">
-<h4>✅ Banane richtig füttern – Checkliste</h4>
+<p class="box-title">✅ Banane richtig füttern – Checkliste</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Banane immer vollständig schälen – keine Bananenschale füttern</span>

@@ -52,7 +52,7 @@ Warum dürfen Hunde keine Schokolade essen? Der Grund ist der Inhaltsstoff Theob
 ![Warum dürfen Hunde keine Schokolade – Theobromin-Vergiftung](../../assets/images/warum-duerfen-hunde-keine-schokolade.webp)
 
 <div class="not-prose tldr-box">
-<h4>⚡ Zusammenfassung</h4>
+<p class="box-title">⚡ Zusammenfassung</p>
 <ul>
 <li>Warum dürfen Hunde keine Schokolade? Weil sie Theobromin enthält – ein Giftstoff, der erst nach <strong>17,5 Stunden</strong> zur Hälfte abgebaut wird</li>
 <li>Vergiftungssymptome beginnen ab <strong>20 mg Theobromin pro kg</strong> Körpergewicht – die tödliche Dosis liegt bei 100–200 mg/kg</li>
@@ -164,7 +164,7 @@ Schwere Vergiftungen äußern sich durch Krampfanfälle, Herzrhythmusstörungen 
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>⚠️ Leichte bis mittlere Symptome</h4>
+<p class="box-title">⚠️ Leichte bis mittlere Symptome</p>
 <ul>
 <li>Erbrechen und Durchfall</li>
 <li>Unruhe und Hecheln</li>
@@ -173,7 +173,7 @@ Schwere Vergiftungen äußern sich durch Krampfanfälle, Herzrhythmusstörungen 
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>🚨 Schwere Symptome (Notfall!)</h4>
+<p class="box-title">🚨 Schwere Symptome (Notfall!)</p>
 <ul>
 <li>Krampfanfälle</li>
 <li>Herzrhythmusstörungen</li>
@@ -190,22 +190,22 @@ Sofort den Tierarzt oder die nächste Tierklinik kontaktieren – das ist die wi
 <div class="not-prose steps-grid">
 <div class="step-item">
 <div class="step-number">1</div>
-<h4>Situation erfassen</h4>
+<p class="box-title">Situation erfassen</p>
 <p>Art und Menge der Schokolade feststellen. Verpackung sichern. Gewicht des Hundes notieren.</p>
 </div>
 <div class="step-item">
 <div class="step-number">2</div>
-<h4>Tierarzt anrufen</h4>
+<p class="box-title">Tierarzt anrufen</p>
 <p>Sofort Tierarzt oder Tierklinik kontaktieren. Schokoladenart, Menge und Hundegewicht angeben.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--petrol">3</div>
-<h4>Hund beobachten</h4>
+<p class="box-title">Hund beobachten</p>
 <p>Auf Unruhe, Erbrechen, Durchfall oder Zittern achten. Zeitpunkt der Aufnahme notieren.</p>
 </div>
 <div class="step-item">
 <div class="step-number step-number--done">4</div>
-<h4>Zum Tierarzt fahren</h4>
+<p class="box-title">Zum Tierarzt fahren</p>
 <p>Innerhalb von 1–2 Stunden kann der Tierarzt ein Brechmittel geben oder den Magen spülen.</p>
 </div>
 </div>
@@ -264,7 +264,7 @@ Die Behandlungskosten variieren stark je nach Schweregrad der Vergiftung. Eine a
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
-<h4>💶 Leichte Vergiftung</h4>
+<p class="box-title">💶 Leichte Vergiftung</p>
 <ul>
 <li><strong>150–300 Euro</strong> (ambulant)</li>
 <li>Brechmittel + Aktivkohle</li>
@@ -272,7 +272,7 @@ Die Behandlungskosten variieren stark je nach Schweregrad der Vergiftung. Eine a
 </ul>
 </div>
 <div class="comparison-contra">
-<h4>💶 Schwere Vergiftung</h4>
+<p class="box-title">💶 Schwere Vergiftung</p>
 <ul>
 <li><strong>800–1.500 Euro</strong> (stationär)</li>
 <li>Intensivbetreuung über 12–48 Stunden</li>
