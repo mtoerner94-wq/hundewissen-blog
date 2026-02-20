@@ -341,7 +341,7 @@ html {
   gap: 0.5rem;
 }
 
-.comparison-pro h4 { color: var(--color-primary); }
+.comparison-pro h4 { color: #8B5E14; }
 .comparison-contra h4 { color: var(--color-petrol); }
 
 .comparison-pro ul,

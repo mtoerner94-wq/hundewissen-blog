@@ -9,7 +9,7 @@
   id="search-modal"
   transition:persist
   class="fixed inset-0 z-[70] flex items-start justify-center pt-[10vh] opacity-0 pointer-events-none transition-opacity duration-200"
-  aria-hidden="true"
+  inert
   role="dialog"
   aria-label="Suche"
 >
@@ -121,7 +121,7 @@
       if (modal) {
         modal.classList.remove('opacity-0', 'pointer-events-none');
         modal.classList.add('opacity-100', 'pointer-events-auto');
-        modal.setAttribute('aria-hidden', 'false');
+        modal.removeAttribute('inert');
       }
       document.body.style.overflow = 'hidden';
     }
@@ -130,7 +130,7 @@
       if (modal) {
         modal.classList.add('opacity-0', 'pointer-events-none');
         modal.classList.remove('opacity-100', 'pointer-events-auto');
-        modal.setAttribute('aria-hidden', 'true');
+        modal.setAttribute('inert', '');
       }
       document.body.style.overflow = '';
     }

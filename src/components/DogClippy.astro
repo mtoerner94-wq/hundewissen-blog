@@ -12,7 +12,7 @@ const { facts, articleId } = Astro.props;
   class="fixed bottom-20 sm:bottom-24 right-4 sm:right-6 z-[60] opacity-0 pointer-events-none translate-y-8 transition-all duration-400 ease-out"
   role="complementary"
   aria-label="Fun Fact"
-  aria-hidden="true"
+  inert
   data-article-id={articleId}
   data-facts={JSON.stringify(facts)}
 >
@@ -141,7 +141,7 @@ const { facts, articleId } = Astro.props;
 
       container.classList.remove('opacity-0', 'pointer-events-none', 'translate-y-8');
       container.classList.add('opacity-100', 'pointer-events-auto', 'translate-y-0');
-      container.setAttribute('aria-hidden', 'false');
+      container.removeAttribute('inert');
 
       // Sprechblase einblenden (mit Delay)
       const bubble = container.querySelector('.dog-clippy-bubble') as HTMLElement;
@@ -163,7 +163,7 @@ const { facts, articleId } = Astro.props;
 
       container.classList.add('opacity-0', 'pointer-events-none', 'translate-y-8');
       container.classList.remove('opacity-100', 'pointer-events-auto', 'translate-y-0');
-      container.setAttribute('aria-hidden', 'true');
+      container.setAttribute('inert', '');
 
       try {
         sessionStorage.setItem(storageKey, '1');

@@ -93,7 +93,7 @@ const currentPath = Astro.url.pathname;
 <div
   id="mobile-menu"
   class="fixed inset-0 z-[60] bg-white flex flex-col items-center justify-center opacity-0 pointer-events-none transition-opacity duration-300 lg:hidden"
-  aria-hidden="true"
+  inert
 >
   <!-- Close button top-right -->
   <button
@@ -177,7 +177,7 @@ const currentPath = Astro.url.pathname;
       isOpen = true;
       menu!.classList.remove('opacity-0', 'pointer-events-none');
       menu!.classList.add('opacity-100', 'pointer-events-auto');
-      menu!.setAttribute('aria-hidden', 'false');
+      menu!.removeAttribute('inert');
       toggle!.setAttribute('aria-expanded', 'true');
       document.body.style.overflow = 'hidden';
     }
@@ -186,7 +186,7 @@ const currentPath = Astro.url.pathname;
       isOpen = false;
       menu!.classList.add('opacity-0', 'pointer-events-none');
       menu!.classList.remove('opacity-100', 'pointer-events-auto');
-      menu!.setAttribute('aria-hidden', 'true');
+      menu!.setAttribute('inert', '');
       toggle!.setAttribute('aria-expanded', 'false');
       document.body.style.overflow = '';
     }
