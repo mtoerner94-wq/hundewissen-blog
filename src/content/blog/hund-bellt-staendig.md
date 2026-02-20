@@ -1,6 +1,6 @@
 ---
 title: "Hund bellt ständig: 5 Ursachen & effektive Trainingsmethoden"
-image: "/images/hund-bellt-staendig.webp"
+image: "../../assets/images/hund-bellt-staendig.webp"
 description: "Ein Hund bellt ständig aus Angst, Langeweile oder Unsicherheit. Erfahre die 5 häufigsten Ursachen und bewährte Trainingsmethoden, um das Bellen abzugewöhnen."
 category: "Erziehung & Verhalten"
 categorySlug: "erziehung-verhalten"
@@ -119,7 +119,7 @@ Territorial motivierte Hunde bellen, um ihr Revier zu verteidigen. Typische Ausl
 
 Territoriales Bellen wird durch **Erfolg verstärkt**: Der Briefträger kommt, der Hund bellt, der Briefträger geht -- aus Sicht des Hundes hat sein Bellen den "Eindringling" vertrieben. Dieser selbstverstärkende Kreislauf macht territoriales Bellen besonders hartnäckig.
 
-![Hund bellt am Gartenzaun – territoriales Verhalten](/images/hund-bellt-am-gartenzaun.webp)
+![Hund bellt am Gartenzaun – territoriales Verhalten](../../assets/images/hund-bellt-am-gartenzaun.webp)
 
 ### 3. Langeweile und fehlende Auslastung
 
@@ -184,7 +184,7 @@ Ein Hund bellt andere Hunde an, weil er an der Leine sein natürliches Flucht- o
 
 Die Distanz wird über Wochen schrittweise verringert -- aber nur so weit, wie der Hund entspannt bleibt. Zeigt er Stressanzeichen (Hecheln, steife Körperhaltung, fixierter Blick), war der Schritt zu groß. Bei konsequentem Training sind innerhalb von **4-8 Wochen** deutliche Verbesserungen möglich.
 
-![Hundetraining im Park – Desensibilisierung an der Leine](/images/hundetraining_park_querformat.webp)
+![Hundetraining im Park – Desensibilisierung an der Leine](../../assets/images/hundetraining_park_querformat.webp)
 
 ### Hund bellt bei jedem Geräusch -- Geräusch-Desensibilisierung
 
@@ -208,7 +208,7 @@ Zwischen Schlafbellen und wachem Bellen muss unterschieden werden. Gedämpftes B
 
 Bei älteren Hunden kann nächtliches Bellen in Kombination mit Desorientierung auf eine **kognitive Dysfunktion** hindeuten. Für alle anderen Fälle helfen: ein ruhiger Schlafplatz im selben Raum wie der Halter, Abdunklung des Raums und eine entspannte Abendroutine.
 
-![Hund liegt entspannt im Hundebett in dunklem Raum](/images/hund_hundebett_entspannt_dunkler_raum.webp)
+![Hund liegt entspannt im Hundebett in dunklem Raum](../../assets/images/hund_hundebett_entspannt_dunkler_raum.webp)
 
 ### Hund bellt wenn er alleine ist -- Trennungsangst erkennen
 

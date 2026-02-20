@@ -1,6 +1,6 @@
 ---
 title: "Warum dürfen Hunde keine Schokolade?"
-image: "/images/warum-duerfen-hunde-keine-schokolade.webp"
+image: "../../assets/images/warum-duerfen-hunde-keine-schokolade.webp"
 description: "Warum dürfen Hunde keine Schokolade essen? Theobromin ist der Grund – erfahre, ab welcher Menge es gefährlich wird, welche Symptome auftreten und was im Notfall zu tun ist."
 category: "Hundeernährung"
 categorySlug: "hundeernaehrung"
@@ -49,7 +49,7 @@ sources:
 
 Warum dürfen Hunde keine Schokolade essen? Der Grund ist der Inhaltsstoff Theobromin, den Hunde im Gegensatz zum Menschen nur extrem langsam abbauen können. Laut der Justus-Liebig-Universität Gießen beträgt die Halbwertszeit von Theobromin beim Hund rund 17,5 Stunden, während der menschliche Körper den Stoff in 6–10 Stunden verstoffwechselt. Wenn ein Hund Schokolade gefressen hat, können bereits ab 20 mg Theobromin pro Kilogramm Körpergewicht erste Vergiftungssymptome auftreten. Besonders gefährlich ist dunkle Schokolade mit hohem Kakaoanteil. Die Antwort auf die Frage „Dürfen Hunde Schokolade essen?" lautet daher eindeutig: Nein – Schokolade gehört nicht in den Hundenapf und muss außerhalb der Reichweite von Hunden aufbewahrt werden.
 
-![Warum dürfen Hunde keine Schokolade – Theobromin-Vergiftung](/images/warum-duerfen-hunde-keine-schokolade.webp)
+![Warum dürfen Hunde keine Schokolade – Theobromin-Vergiftung](../../assets/images/warum-duerfen-hunde-keine-schokolade.webp)
 
 <div class="not-prose tldr-box">
 <h4>⚡ Zusammenfassung</h4>
@@ -148,7 +148,7 @@ Die toxischen Schwellenwerte für Theobromin beim Hund sind in der veterinärmed
 
 Die Symptome einer Schokoladenvergiftung beim Hund treten in der Regel 2–4 Stunden nach dem Verzehr auf. In manchen Fällen dauert es bis zu 12 Stunden, bis erste Anzeichen sichtbar werden. Die Symptome lassen sich in drei Phasen einteilen, die je nach aufgenommener Dosis unterschiedlich stark ausgeprägt sind.
 
-![Hund beim Tierarzt – Untersuchung nach Schokoladenvergiftung](/images/hund-beim-tierarzt-untersuchung.webp)
+![Hund beim Tierarzt – Untersuchung nach Schokoladenvergiftung](../../assets/images/hund-beim-tierarzt-untersuchung.webp)
 
 ### Frühe Symptome (2–4 Stunden)
 

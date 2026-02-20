@@ -1,6 +1,6 @@
 ---
 title: "Dürfen Hunde Erdbeeren essen? Alles über Erdbeeren für Hunde"
-image: "/images/hund_erdbeeren_sommer.webp"
+image: "../../assets/images/hund_erdbeeren_sommer.webp"
 description: "Dürfen Hunde Erdbeeren essen? Ja! Erfahre alles über die richtige Menge, Nährstoffe, Zubereitung und worauf bei Erdbeeren für Hunde zu achten ist."
 category: "Hundeernährung"
 categorySlug: "hundeernaehrung"
@@ -121,7 +121,7 @@ Die empfohlene Erdbeer-Menge richtet sich nach dem Körpergewicht des Hundes. Al
 - **🐕 Große Hunde (über 25 kg):** 4-5 Erdbeeren pro Tag
 - **🐶 Welpen (ab 8 Wochen):** ½-1 kleine Erdbeere pro Tag
 
-![Empfohlene Erdbeermengen für Hunde nach Größe](/images/empfohlene_erdbeermengen_hunde.webp)
+![Empfohlene Erdbeermengen für Hunde nach Größe](../../assets/images/empfohlene_erdbeermengen_hunde.webp)
 
 Bei der Erstfütterung von Erdbeeren sollte mit einer kleinen Menge begonnen werden, um die Verträglichkeit zu testen. Ein kleines Stück Erdbeere am ersten Tag reicht aus. Die Menge kann bei guter Verträglichkeit langsam gesteigert werden.
 
@@ -170,7 +170,7 @@ Für BARF-Ernährung können Erdbeeren als Teil des pflanzlichen Anteils integri
 
 Gefrorene Erdbeeren eignen sich als erfrischende Sommer-Leckerei für Hunde. An heißen Tagen mit Temperaturen über 25°C bieten leicht angetaute Erdbeeren eine willkommene Abkühlung. Komplett durchgefrorene Früchte sollten vermieden werden, da sie die Zähne belasten können.
 
-![Hund mit gefrorenen Erdbeeren im Kong-Spielzeug](/images/hund_gefrorene_erdbeeren_kong.webp)
+![Hund mit gefrorenen Erdbeeren im Kong-Spielzeug](../../assets/images/hund_gefrorene_erdbeeren_kong.webp)
 
 ### Gefrorene Erdbeeren: Dos and Don'ts
 
@@ -286,7 +286,7 @@ Erdbeeren lassen sich zu leckeren Hundesnacks verarbeiten, die an heißen Tagen 
 </ul>
 </div>
 
-![Hund mit Erdbeereis-Eiswürfel als sommerlicher Snack](/images/hund_erdbeereis_eiswuerfel.webp)
+![Hund mit Erdbeereis-Eiswürfel als sommerlicher Snack](../../assets/images/hund_erdbeereis_eiswuerfel.webp)
 
 Für laktoseintolerante Hunde kann der Joghurt durch laktosefreie Varianten oder pürierte Banane ersetzt werden. Pro Portion (ein Eiswürfel) enthält das Erdbeer-Eis etwa 15-20 Kalorien.
 

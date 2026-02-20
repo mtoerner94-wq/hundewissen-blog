@@ -1,6 +1,6 @@
 ---
 title: "Paw Patrol Hunderassen: Alle Rassen im Überblick"
-image: "/images/hunderassen_collage.webp"
+image: "../../assets/images/hunderassen_collage.webp"
 description: "Welche Hunderassen stecken hinter den Paw Patrol Figuren? Entdecke alle 10 Rassen von Chase bis Rex mit Steckbrief, Charakter und Haltungstipps."
 category: "Hunderassen"
 categorySlug: "hunderassen"
@@ -98,7 +98,7 @@ Dieser umfassende Ratgeber stellt **alle Paw Patrol Hunderassen im Detail** vor,
 
 Chase ist der **Anführer des PAW Patrol Teams** und arbeitet als Polizei- und Spürhund. In der Serie ist er mutig, loyal und immer als Erster zur Stelle. Seine echte Rasse -- der Deutsche Schäferhund -- ist eine der **bekanntesten und vielseitigsten Hunderassen** weltweit.
 
-![Deutscher Schäferhund im Freien – die Rasse hinter Chase aus Paw Patrol](/images/deutscher_schaeferhund_outdoor.webp)
+![Deutscher Schäferhund im Freien – die Rasse hinter Chase aus Paw Patrol](../../assets/images/deutscher_schaeferhund_outdoor.webp)
 
 **Steckbrief Deutscher Schäferhund:**
 
@@ -222,7 +222,7 @@ Huskys sind **keine normalen Familienhunde**. Sie haben einen ausgeprägten **La
 
 ## Die neueren Teammitglieder
 
-![Chihuahua, Dackel und Berner Sennenhund zusammen im Garten](/images/chihuahua_dackel_berner_sennenhund_garten.webp)
+![Chihuahua, Dackel und Berner Sennenhund zusammen im Garten](../../assets/images/chihuahua_dackel_berner_sennenhund_garten.webp)
 
 ### Tracker -- Chihuahua 🌴
 

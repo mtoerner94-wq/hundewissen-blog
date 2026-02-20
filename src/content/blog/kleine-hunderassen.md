@@ -7,7 +7,7 @@ tags: ["kleine Hunderassen", "kleine Hunderassen bis 10 kg", "beliebteste Hunder
 date: "2026-02-18"
 featured: false
 draft: false
-image: "/images/kleine-hunderassen-beliebtesten.webp"
+image: "../../assets/images/kleine-hunderassen-beliebtesten.webp"
 imageAlt: "Gruppe kleiner Hunderassen auf einer Wiese im Sonnenlicht"
 faqs:
   - question: "Welche kleinen Hunderassen sind für Anfänger geeignet?"
@@ -46,7 +46,7 @@ Kleine Hunderassen zählen zu den beliebtesten Begleitern in Deutschland -- und 
 
 In diesem Ratgeber findest du die 20 beliebtesten kleinen Hunderassen im ausführlichen Porträt. Zu jeder Rasse erfährst du Charakter, Pflegeaufwand, Bewegungsbedarf und ob sie für Anfänger geeignet ist. Außerdem bekommst du eine praktische Vergleichstabelle und Tipps zur Auswahl der richtigen Rasse.
 
-![Kleine Hunderassen im Überblick -- verschiedene beliebte Rassen nebeneinander](/images/kleine-hunderassen-beliebtesten.webp)
+![Kleine Hunderassen im Überblick -- verschiedene beliebte Rassen nebeneinander](../../assets/images/kleine-hunderassen-beliebtesten.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Kleine Hunderassen</h4>
@@ -80,7 +80,7 @@ In diesem Ratgeber findest du die 20 beliebtesten kleinen Hunderassen im ausfüh
 
 ## Warum kleine Hunderassen so beliebt sind
 
-![Warum kleine Hunderassen so beliebt sind](/images/kleine-hunderassen-beliebt.webp)
+![Warum kleine Hunderassen so beliebt sind](../../assets/images/kleine-hunderassen-beliebt.webp)
 
 Kleine Hunderassen erleben seit Jahren einen Beliebtheitsboom in Deutschland. Laut VDH-Welpenstatistik 2024 gehören 7 der 20 meistregistrierten Rassen zur Kategorie der kleinen Hunde. Die Gründe dafür sind vielfältig und reichen von praktischen Vorteilen bis zu gesundheitlichen Aspekten.
 
@@ -104,7 +104,7 @@ Kleine Hunderassen leben im Durchschnitt 3–5 Jahre länger als große Rassen. 
 
 ## Kleine Hunderassen bis 10 kg: Übersichtstabelle
 
-![Kleine Hunderassen bis 10 kg: Übersichtstabelle](/images/kleine-hunderassen-bis-10-kg-uebersichtstabelle.webp)
+![Kleine Hunderassen bis 10 kg: Übersichtstabelle](../../assets/images/kleine-hunderassen-bis-10-kg-uebersichtstabelle.webp)
 
 Die folgende Tabelle zeigt alle 20 Rassen im direkten Vergleich. So findest du schnell die passende kleine Hunderasse für deine Lebenssituation.
 

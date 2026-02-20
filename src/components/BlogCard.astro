@@ -1,4 +1,7 @@
 ---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
 interface Props {
   title: string;
   description: string;
@@ -7,7 +10,7 @@ interface Props {
   date: Date;
   href: string;
   featured?: boolean;
-  image?: string;
+  image?: ImageMetadata;
 }
 
 const { title, description, category, categorySlug, date, href, featured = false, image } = Astro.props;
@@ -39,7 +42,7 @@ const formattedDate = new Date(date).toLocaleDateString('de-DE', {
 >
   {featured && (
     image
-      ? <img src={image} alt={title} class="h-48 w-full object-cover rounded-t-xl" loading="lazy" />
+      ? <Image src={image} alt={title} class="h-48 w-full object-cover rounded-t-xl" loading="lazy" widths={[320, 480, 640]} sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw" />
       : <div class={`h-48 rounded-t-xl bg-gradient-to-br ${gradient}`} />
   )}
 

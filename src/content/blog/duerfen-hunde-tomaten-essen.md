@@ -7,7 +7,7 @@ tags: ["dürfen Hunde Tomaten", "Hund Tomate", "Solanin", "grüne Tomaten", "Tom
 date: "2026-02-17"
 featured: false
 draft: false
-image: "/images/duerfen-hunde-tomaten-essen.webp"
+image: "../../assets/images/duerfen-hunde-tomaten-essen.webp"
 imageAlt: "Hund neben reifen roten Tomaten auf einer Wiese"
 faqs:
   - question: "Dürfen Hunde reife Tomaten essen?"
@@ -44,7 +44,7 @@ Reife, rote Tomaten dürfen Hunde in kleinen Mengen essen -- grüne Tomaten hing
 
 Viele Hundehalter sind unsicher, ob ihr Hund Tomaten fressen darf. Die kurze Antwort: Ja, aber nur unter bestimmten Bedingungen. In diesem Ratgeber erfährst du alles über Solanin, die richtige Menge, Tomatensoße, gekochte Tomaten und was du bei einer Tomaten-Allergie beim Hund beachten musst.
 
-![Hund neben reifen roten Tomaten auf einer Wiese](/images/duerfen-hunde-tomaten-essen.webp)
+![Hund neben reifen roten Tomaten auf einer Wiese](../../assets/images/duerfen-hunde-tomaten-essen.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Dürfen Hunde Tomaten essen?</h4>
@@ -78,7 +78,7 @@ Viele Hundehalter sind unsicher, ob ihr Hund Tomaten fressen darf. Die kurze Ant
 
 ## Sind Tomaten giftig für Hunde?
 
-![Sind Tomaten giftig für Hunde?](/images/tomaten-giftig-hunde.webp)
+![Sind Tomaten giftig für Hunde?](../../assets/images/tomaten-giftig-hunde.webp)
 
 Tomaten gehören zur Familie der Nachtschattengewächse (*Solanaceae*) -- genau wie Kartoffeln, Paprika und Auberginen. Alle Nachtschattengewächse enthalten das Glykoalkaloid Solanin, das in höheren Dosen für Hunde giftig ist.
 
@@ -96,7 +96,7 @@ Neben Solanin enthalten Tomaten auch das Alkaloid Tomatin. Tomatin kommt vor all
 
 ## Warum dürfen Hunde keine grünen Tomaten essen?
 
-![Warum dürfen Hunde keine grünen Tomaten essen?](/images/duerfen-hunde-keine-gruenen-tomaten-essen.webp)
+![Warum dürfen Hunde keine grünen Tomaten essen?](../../assets/images/duerfen-hunde-keine-gruenen-tomaten-essen.webp)
 
 Grüne Tomaten sind für Hunde aus zwei Gründen gefährlich: Sie enthalten sowohl Solanin als auch Tomatin in hoher Konzentration. Beide Stoffe können bei Hunden bereits in relativ geringen Mengen Vergiftungssymptome auslösen.
 

@@ -56,6 +56,9 @@ const formattedUpdated = updated
 
 const canonicalURL = `https://hundewissen-mit-kopf.de/${categorySlug}/${entry.id}/`;
 
+// Bild-URL fuer OG-Tags und Schema.org (absolute URL)
+const imageURL = image ? new URL(image.src, Astro.url).href : undefined;
+
 // Schema.org: Article
 const articleSchema = {
   "@context": "https://schema.org",
@@ -78,7 +81,7 @@ const articleSchema = {
     "@type": "WebPage",
     "@id": canonicalURL
   },
-  ...(image && { "image": image }),
+  ...(imageURL && { "image": imageURL }),
 };
 
 // Schema.org: BreadcrumbList
@@ -130,7 +133,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
   title={title}
   description={description}
   type="article"
-  image={image}
+  image={imageURL}
   schemas={schemas}
 >
   <article class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12" data-pagefind-body>
@@ -175,7 +178,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
         {title}
       </h1>
 
-      {image && <span data-pagefind-meta={`image:${image}`} class="hidden"></span>}
+      {image && <span data-pagefind-meta={`image:${image.src}`} class="hidden"></span>}
 
       <!-- Meta -->
       <div class="flex items-center gap-4 mt-4 text-sm text-slate-500 flex-wrap">

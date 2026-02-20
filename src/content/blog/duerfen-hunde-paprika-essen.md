@@ -7,7 +7,7 @@ tags: ["Dürfen Hunde Paprika", "Dürfen Hunde Paprika essen", "Paprika Hund", "
 date: "2026-02-17"
 featured: false
 draft: false
-image: "/images/duerfen-hunde-paprika-essen.webp"
+image: "../../assets/images/duerfen-hunde-paprika-essen.webp"
 imageAlt: "Hund neben frischen roten Paprikaschoten auf einem Holztisch"
 faqs:
   - question: "Dürfen Hunde rohe Paprika essen?"
@@ -44,7 +44,7 @@ Dürfen Hunde Paprika essen? Die kurze Antwort: Ja -- aber nur reife, rote Papri
 
 Viele Hundehalter sind unsicher, ob sie ihrem Hund ein Stück Paprika vom Schneidebrett geben dürfen. In diesem Ratgeber erfährst du, welche Paprikafarben für Hunde geeignet sind, welche Mengen unbedenklich sind und wann du lieber auf Alternativen zurückgreifen solltest. Außerdem zeigen wir dir, wie du bei einer Solanin-Vergiftung richtig reagierst.
 
-![Hund neben frischen roten Paprikaschoten auf einem Holztisch](/images/duerfen-hunde-paprika-essen.webp)
+![Hund neben frischen roten Paprikaschoten auf einem Holztisch](../../assets/images/duerfen-hunde-paprika-essen.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Dürfen Hunde Paprika essen?</h4>
@@ -78,7 +78,7 @@ Viele Hundehalter sind unsicher, ob sie ihrem Hund ein Stück Paprika vom Schnei
 
 ## Warum Paprika für Hunde problematisch sein kann
 
-![Warum Paprika für Hunde problematisch sein kann](/images/paprika-hunde-problematisch.webp)
+![Warum Paprika für Hunde problematisch sein kann](../../assets/images/paprika-hunde-problematisch.webp)
 
 Paprika (*Capsicum annuum*) gehört zur Familie der Nachtschattengewächse -- genau wie Tomaten, Kartoffeln und Auberginen. Diese Pflanzenfamilie enthält Solanin, eine natürliche chemische Verbindung, die als Fraßschutz dient.
 
@@ -284,7 +284,7 @@ Paprikapulver, scharfe Peperoni und Gewürzpaprika sind für Hunde grundsätzlic
 
 Achte auch darauf, dass Speisereste mit Paprikagewürz nicht in den Futternapf gelangen. Viele Fertiggerichte, Soßen und Marinaden enthalten Paprikapulver in Kombination mit Zwiebeln und Knoblauch -- beides ist für Hunde giftig.
 
-![Verschiedene Paprikasorten in rot gelb und grün auf einem Küchentisch](/images/paprika-sorten-hund-vergleich.webp)
+![Verschiedene Paprikasorten in rot gelb und grün auf einem Küchentisch](../../assets/images/paprika-sorten-hund-vergleich.webp)
 
 ## Gesunde Alternativen zur Paprika für Hunde
 

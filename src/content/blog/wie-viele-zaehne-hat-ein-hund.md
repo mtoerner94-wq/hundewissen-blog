@@ -7,7 +7,7 @@ tags: ["wie viele Zähne hat ein Hund", "Anzahl Zähne Hund", "Hundegebiss", "Za
 date: "2026-02-18"
 featured: false
 draft: false
-image: "/images/wie-viele-zaehne-hat-ein-hund.webp"
+image: "../../assets/images/wie-viele-zaehne-hat-ein-hund.webp"
 imageAlt: "Erwachsener Hund zeigt sein vollständiges Gebiss mit 42 Zähnen"
 faqs:
   - question: "Wie viele Zähne hat ein erwachsener Hund?"
@@ -44,7 +44,7 @@ Ein erwachsener Hund hat 42 Zähne -- 20 im Oberkiefer und 22 im Unterkiefer. Da
 
 Ob Welpe mit 28 Milchzähnen oder ausgewachsener Hund mit vollständigem Gebiss -- wie viele Zähne ein Hund hat, hängt vom Alter ab. In diesem Ratgeber erfährst du alles über die verschiedenen Zahnarten, den Ablauf des Zahnwechsels, typische Zahnprobleme und die richtige Zahnpflege für deinen Hund.
 
-![Hund zeigt sein gesundes Gebiss mit allen Zahnarten](/images/wie-viele-zaehne-hat-ein-hund.webp)
+![Hund zeigt sein gesundes Gebiss mit allen Zahnarten](../../assets/images/wie-viele-zaehne-hat-ein-hund.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Wie viele Zähne hat ein Hund?</h4>
@@ -78,7 +78,7 @@ Ob Welpe mit 28 Milchzähnen oder ausgewachsener Hund mit vollständigem Gebiss 
 
 ## Wie viele Zähne hat ein erwachsener Hund?
 
-![Wie viele Zähne hat ein erwachsener Hund?](/images/viele-zaehne-erwachsener-hund.webp)
+![Wie viele Zähne hat ein erwachsener Hund?](../../assets/images/viele-zaehne-erwachsener-hund.webp)
 
 Ein ausgewachsener Hund hat genau 42 bleibende Zähne. Diese Anzahl ist bei allen Hunderassen identisch -- vom Chihuahua bis zur Deutschen Dogge. Der Oberkiefer enthält 20 Zähne, der Unterkiefer 22 Zähne. Der Unterschied entsteht durch zwei zusätzliche Molaren im Unterkiefer.
 
@@ -135,7 +135,7 @@ Tierärzte achten bei Zahnkontrollen besonders auf die Reißzähne, da sie aufgr
 
 ## Wie viele Milchzähne hat ein Welpe?
 
-![Wie viele Milchzähne hat ein Welpe?](/images/viele-milchzaehne-welpe.webp)
+![Wie viele Milchzähne hat ein Welpe?](../../assets/images/viele-milchzaehne-welpe.webp)
 
 Ein Welpe hat 28 Milchzähne. Das Milchgebiss ist kleiner als das bleibende Gebiss, weil die Molaren (hintere Backenzähne) komplett fehlen. Im Milchgebiss befinden sich 12 Schneidezähne, 4 Fangzähne und 12 Prämolaren.
 

@@ -7,7 +7,7 @@ tags: ["Dürfen Hunde Äpfel essen", "Hund Apfel", "Apfel für Hunde", "Hund Apf
 date: "2026-02-17"
 featured: false
 draft: false
-image: "/images/duerfen-hunde-aepfel-essen.webp"
+image: "../../assets/images/duerfen-hunde-aepfel-essen.webp"
 imageAlt: "Hund schaut neugierig auf einen frischen Apfel auf einer Wiese"
 faqs:
   - question: "Dürfen Hunde Äpfel mit Schale essen?"
@@ -46,7 +46,7 @@ Hunde dürfen Äpfel essen -- und die meisten lieben den süßen, knackigen Snac
 
 In diesem Ratgeber erfährst du, welche Mengen Apfel für deinen Hund unbedenklich sind, ob die Schale dran bleiben darf und welche Apfelsorten sich besonders gut eignen. Außerdem klären wir, wann Äpfel als Hausmittel bei Verdauungsproblemen helfen und in welchen Fällen du lieber auf Äpfel verzichten solltest.
 
-![Hund schaut neugierig auf einen frischen Apfel auf einer Wiese](/images/duerfen-hunde-aepfel-essen.webp)
+![Hund schaut neugierig auf einen frischen Apfel auf einer Wiese](../../assets/images/duerfen-hunde-aepfel-essen.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Äpfel für Hunde</h4>
@@ -80,7 +80,7 @@ In diesem Ratgeber erfährst du, welche Mengen Apfel für deinen Hund unbedenkli
 
 ## Warum Äpfel gesund für Hunde sind
 
-![Warum Äpfel gesund für Hunde sind](/images/aepfel-gesund-hunde.webp)
+![Warum Äpfel gesund für Hunde sind](../../assets/images/aepfel-gesund-hunde.webp)
 
 Äpfel enthalten eine Kombination aus Vitaminen, Mineralien und sekundären Pflanzenstoffen, die auch für Hunde gesundheitliche Vorteile bieten. Besonders der hohe Gehalt an Vitamin C (12 mg pro 100 g), Vitamin A und Kalium macht den Apfel zu einem wertvollen Ergänzungssnack.
 
@@ -108,7 +108,7 @@ Laut der Tierärztlichen Hochschule Hannover können Hunde Vitamin C zwar selbst
 
 ## Nährstofftabelle: Was im Apfel steckt
 
-![Nährstofftabelle: Was im Apfel steckt](/images/naehrstofftabelle-apfel-steckt.webp)
+![Nährstofftabelle: Was im Apfel steckt](../../assets/images/naehrstofftabelle-apfel-steckt.webp)
 
 Die folgende Tabelle zeigt die wichtigsten Nährstoffe pro 100 g frischem Apfel, die für Hunde relevant sind:
 

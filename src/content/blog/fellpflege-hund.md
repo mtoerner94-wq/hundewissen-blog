@@ -1,6 +1,6 @@
 ---
 title: "Fellpflege beim Hund: Bürsten, Baden & Unterwolle entfernen"
-image: "/images/golden-retriever-fellpflege-hund.webp"
+image: "../../assets/images/golden-retriever-fellpflege-hund.webp"
 description: "Fellpflege beim Hund richtig gemacht: Alles zu Bürstentechnik, Felltypen, Unterwolle entfernen, Baden und den häufigsten Pflegefehlern – mit Werkzeugübersicht."
 category: "Hundepflege"
 categorySlug: "hundepflege"
@@ -97,7 +97,7 @@ Regelmäßige Fellpflege stärkt die Mensch-Hund-Beziehung durch körperliche N�
 
 ## Fellpflege nach Felltyp: Von Kurzhaar bis Langhaar
 
-![Verschiedene Hundebürsten und Kämme professionell arrangiert auf hellem Holzuntergrund](/images/hundebuersten_kaemme_holzuntergrund.webp)
+![Verschiedene Hundebürsten und Kämme professionell arrangiert auf hellem Holzuntergrund](../../assets/images/hundebuersten_kaemme_holzuntergrund.webp)
 
 Die richtige Fellpflege beim Hund hängt entscheidend vom Felltyp ab. Jeder Felltyp stellt unterschiedliche Anforderungen an Werkzeuge, Pflegefrequenz und Technik. Grundsätzlich unterscheidet man zwischen einschichtigem Fell (nur Deckhaar) und zweischichtigem Fell (Deckhaar plus Unterwolle).
 
@@ -156,7 +156,7 @@ Professionelles Trimmen ist bei Drahthaar-Rassen alle 8–12 Wochen empfehlenswe
 
 Das Entfernen der Unterwolle ist ein zentraler Bestandteil der Fellpflege bei Hunden mit doppelschichtigem Fell. Die Unterwolle dient als Isolationsschicht: Im Winter hält sie warm, im Sommer schützt sie vor Überhitzung -- vorausgesetzt, sie wird regelmäßig ausgebürstet. Verbleibt abgestorbene Unterwolle im Fell, blockiert sie die Luftzirkulation und der Hund kann seine Körpertemperatur nicht mehr effektiv regulieren.
 
-![Hund beim Ausbürsten im Fellwechsel, lose Unterwolle deutlich sichtbar](/images/fellwechsel_hund_ausbuersten_unterwolle.webp)
+![Hund beim Ausbürsten im Fellwechsel, lose Unterwolle deutlich sichtbar](../../assets/images/fellwechsel_hund_ausbuersten_unterwolle.webp)
 
 Rassen wie Husky, Golden Retriever, Berner Sennenhund oder Deutscher Schäferhund besitzen eine besonders dichte Unterwolle. Bei diesen Hunden fallen während des Fellwechsels täglich große Mengen an loser Unterwolle an. Wird diese nicht entfernt, verfilzt das Fell, die Haut kann nicht mehr atmen und es entstehen feuchte, warme Hohlräume, in denen Bakterien und Pilze ideale Wachstumsbedingungen finden.
 
@@ -203,7 +203,7 @@ Unterwollbürsten mit leicht gekrümmten Zinken gelten als effektivstes Werkzeug
 
 Hunde sollten nur bei tatsächlicher Verschmutzung oder auf tierärztliche Anordnung gebadet werden -- nicht aus Gewohnheit. Die Hundehaut besitzt einen natürlichen Säureschutzmantel mit einem pH-Wert von 6,5–7,5, der durch zu häufiges Baden zerstört wird. Tierärzte empfehlen maximal alle 6–8 Wochen ein Vollbad, es sei denn, medizinische Gründe erfordern häufigeres Waschen.
 
-![Hund in der Badewanne beim Waschen mit Hundeshampoo, zufriedener Gesichtsausdruck und warme Atmosphäre](/images/hund_badewanne_hundeshampoo_warme_atmosphaere.webp)
+![Hund in der Badewanne beim Waschen mit Hundeshampoo, zufriedener Gesichtsausdruck und warme Atmosphäre](../../assets/images/hund_badewanne_hundeshampoo_warme_atmosphaere.webp)
 
 Die goldene Regel der Fellpflege lautet: Bürsten geht vor Baden. In den meisten Fällen lässt sich Schmutz bereits durch gründliches Bürsten nach dem Trocknen entfernen. Nach einem Spaziergang im Regen oder einem Bad im See genügt es, den Hund mit klarem Wasser abzuspülen und anschließend gut abzutrocknen.
 
@@ -244,7 +244,7 @@ Der Fellwechsel beim Hund findet zweimal jährlich statt: Im Frühjahr (März bi
 
 Während des Fellwechsels verlieren manche Hunde erstaunliche Mengen an Haaren. Ein mittelgroßer Hund wie ein Golden Retriever kann in der Fellwechselphase täglich mehrere Handvoll Unterwolle verlieren. In dieser Phase ist tägliches Bürsten und gezieltes Entfernen der Unterwolle besonders wichtig. Ohne regelmäßige Pflege verfilzt das abgestorbene Fell mit den nachwachsenden Haaren und es bilden sich plattenartige Verfilzungen, die die Haut darunter schädigen.
 
-![Husky und Berner Sennenhund beim Fellwechsel – Unterwolle wird ausgebürstet](/images/husky_berner_sennenhund_fellwechsel_ausbuersten.webp)
+![Husky und Berner Sennenhund beim Fellwechsel – Unterwolle wird ausgebürstet](../../assets/images/husky_berner_sennenhund_fellwechsel_ausbuersten.webp)
 
 <div class="not-prose info-box info-box-info">
 <span class="info-box-icon">ℹ️</span>

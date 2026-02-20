@@ -7,7 +7,7 @@ tags: ["dürfen hunde bananen essen", "dürfen hunde banane", "dürfen hunde ban
 date: "2026-02-15"
 featured: false
 draft: false
-image: "/images/duerfen-hunde-bananen-essen.webp"
+image: "../../assets/images/duerfen-hunde-bananen-essen.webp"
 imageAlt: "Hund schaut neugierig auf eine geschälte Banane auf einem Holztisch"
 faqs:
   - question: "Dürfen Hunde Bananen essen?"
@@ -46,7 +46,7 @@ Hunde dürfen Bananen essen – und die meisten Vierbeiner lieben den süßen Ge
 
 In diesem Ratgeber erfährst du genau, wie viel Banane dein Hund je nach Körpergröße fressen darf, welche Nährstoffe die Frucht liefert und wann du besser darauf verzichten solltest. Außerdem klären wir, ob Bananenschale, Bananenchips und getrocknete Bananen für Hunde geeignet sind.
 
-![Hund schaut neugierig auf eine geschälte Banane auf einem Holztisch](/images/hund-schaut-auf-banane.webp)
+![Hund schaut neugierig auf eine geschälte Banane auf einem Holztisch](../../assets/images/hund-schaut-auf-banane.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Bananen für Hunde</h4>
@@ -386,4 +386,4 @@ Verzichte auf Bananenschale, prüfe bei Bananenchips und getrockneten Bananen di
 
 Wenn du die 10-Prozent-Regel beachtest und Banane als gelegentlichen Snack – nicht als tägliche Routine – einsetzt, steht dem Bananengenuss für deinen Hund nichts im Weg.
 
-![Hund frisst glücklich ein Stück Banane aus der Hand seines Besitzers](/images/hund-frisst-banane-snack.webp)
+![Hund frisst glücklich ein Stück Banane aus der Hand seines Besitzers](../../assets/images/hund-frisst-banane-snack.webp)

@@ -1,6 +1,6 @@
 ---
 title: "Vergiftung beim Hund: Symptome & Sofortmaßnahmen"
-image: "/images/vergiftung-hund-erste-hilfe.webp"
+image: "../../assets/images/vergiftung-hund-erste-hilfe.webp"
 description: "Vergiftung beim Hund erkennen und richtig handeln: Alle Symptome, Erste-Hilfe-Maßnahmen, häufige Giftquellen und tierärztliche Behandlungsmöglichkeiten im Überblick."
 category: "Hundegesundheit"
 categorySlug: "hundegesundheit"
@@ -246,7 +246,7 @@ Zu den besonders gefährlichen Pflanzen gehören:
 
 Humanmedikamente wie Ibuprofen, Diclofenac und Paracetamol können bei Hunden schon in geringen Dosen Nieren- und Leberschäden verursachen. Paracetamol ist bereits ab 150 mg pro Kilogramm potenziell tödlich. Medikamente sollten grundsätzlich für Hunde unzugänglich aufbewahrt werden.
 
-![Erste Hilfe bei Vergiftung beim Hund](/images/vergiftung-hund-erste-hilfe.webp)
+![Erste Hilfe bei Vergiftung beim Hund](../../assets/images/vergiftung-hund-erste-hilfe.webp)
 
 ## Erste Hilfe bei Vergiftung: Sofortmaßnahmen
 

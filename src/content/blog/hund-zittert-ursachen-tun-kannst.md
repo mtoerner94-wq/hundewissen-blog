@@ -7,7 +7,7 @@ tags: ["hund zittert", "hund zittert ursachen", "warum zittert mein hund", "zitt
 date: "2026-02-15"
 featured: false
 draft: false
-image: "/images/hund-zittert-ursachen.webp"
+image: "../../assets/images/hund-zittert-ursachen.webp"
 imageAlt: "Hund zittert und wird von Besitzer beruhigt"
 faqs:
   - question: "Warum zittert mein Hund plötzlich?"
@@ -46,7 +46,7 @@ Zittern beim Hund gehört zu den häufigsten Symptomen, die Hundehalter verunsic
 
 In diesem Ratgeber erfährst du die 10 häufigsten Ursachen, warum dein Hund zittert, welche Symptome auf einen Notfall hindeuten und wann du sofort zum Tierarzt solltest. Dazu bekommst du konkrete Handlungsempfehlungen für jede Situation.
 
-![Hund zittert und wird von seinem Besitzer beruhigt](/images/hund-zittert-ursachen.webp)
+![Hund zittert und wird von seinem Besitzer beruhigt](../../assets/images/hund-zittert-ursachen.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Hund zittert -- Ursachen & Handlung</h4>
@@ -80,7 +80,7 @@ In diesem Ratgeber erfährst du die 10 häufigsten Ursachen, warum dein Hund zit
 
 ## Warum zittert mein Hund? Die 10 häufigsten Ursachen
 
-![Warum zittert mein Hund? Die 10 häufigsten Ursachen](/images/zittert-hund-10-haeufigsten-ursachen.webp)
+![Warum zittert mein Hund? Die 10 häufigsten Ursachen](../../assets/images/zittert-hund-10-haeufigsten-ursachen.webp)
 
 Hunde zittern aus sehr unterschiedlichen Gründen. Manche Ursachen sind harmlos und erfordern keine Behandlung, andere sind ernsthafte Warnsignale. Die folgende Übersicht hilft dir, das Zittern deines Hundes richtig einzuordnen.
 

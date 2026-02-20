@@ -7,7 +7,7 @@ tags: ["Leinenführigkeit trainieren", "Leinenführigkeit", "Training Leinenfüh
 date: "2026-02-15"
 featured: false
 draft: false
-image: "/images/leinenfuehrigkeit-trainieren-hund.webp"
+image: "../../assets/images/leinenfuehrigkeit-trainieren-hund.webp"
 imageAlt: "Hund läuft entspannt an lockerer Leine neben seinem Halter"
 faqs:
   - question: "Wie lange dauert es, Leinenführigkeit zu trainieren?"
@@ -44,7 +44,7 @@ Leinenführigkeit trainieren gehört zu den wichtigsten Grundlagen in der Hundee
 
 Die gute Nachricht: Mit der richtigen Methode, Geduld und Konsequenz lernt jeder Hund, entspannt an lockerer Leine zu laufen. In diesem Ratgeber findest du eine Schritt-für-Schritt-Anleitung, bewährte Übungen für Welpen, Junghunde und erwachsene Hunde sowie Lösungen für typische Probleme wie Leinenziehen und Leinenaggression.
 
-![Hund läuft entspannt an lockerer Leine neben seinem Halter](/images/leinenfuehrigkeit-trainieren-hund.webp)
+![Hund läuft entspannt an lockerer Leine neben seinem Halter](../../assets/images/leinenfuehrigkeit-trainieren-hund.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Leinenführigkeit trainieren</h4>
@@ -258,7 +258,7 @@ Bleibe in dieser Phase konsequent bei deinem Trainingsplan. Reduziere die Anford
 | 7-8 | Reize als Belohnung nutzen | 15 Min | Verschiedene Umgebungen |
 | 9-12 | Belohnungsintervalle vergrößern | Ganzer Spaziergang | Alle Umgebungen |
 
-![Junghund trainiert Leinenführigkeit auf einem ruhigen Spazierweg](/images/leinenfuehrigkeit-junghund-training.webp)
+![Junghund trainiert Leinenführigkeit auf einem ruhigen Spazierweg](../../assets/images/leinenfuehrigkeit-junghund-training.webp)
 
 ## Leinenaggression: Wenn der Hund an der Leine ausrastet
 
@@ -357,7 +357,7 @@ Verschiedene Hunderassen bringen unterschiedliche Voraussetzungen für das Leine
 
 Wenn du noch überlegst, welche Rasse zu dir passt, hilft dir unser Ratgeber [Hunderasse für Anfänger](/hunderassen/hunderasse-fuer-anfaenger/) bei der Entscheidung.
 
-![Verschiedene Hunderassen beim Leinentraining im Park](/images/leinenfuehrigkeit-verschiedene-rassen.webp)
+![Verschiedene Hunderassen beim Leinentraining im Park](../../assets/images/leinenfuehrigkeit-verschiedene-rassen.webp)
 
 ## Trainingsplan: Leinenführigkeit in 8 Wochen
 

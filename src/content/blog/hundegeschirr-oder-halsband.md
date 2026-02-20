@@ -1,6 +1,6 @@
 ---
 title: "Hundegeschirr oder Halsband: Was ist besser für meinen Hund?"
-image: "/images/hund_im_park_hundegeschirr_halsband.webp"
+image: "../../assets/images/hund_im_park_hundegeschirr_halsband.webp"
 description: "Hundegeschirr oder Halsband? Erfahre, welche Option für deinen Hund die beste ist, welche Gesundheitsrisiken bestehen und wie du die richtige Passform findest."
 category: "Hundeausstattung"
 categorySlug: "hundeausstattung"
@@ -95,7 +95,7 @@ In vielen deutschen Städten gilt eine Leinenpflicht. Verstöße können mit Bu�
 
 Dauerhaftes Ziehen am Halsband kann zu chronischen Entzündungen von Kehlkopf und oberer Luftröhre führen. Hunde, die regelmäßig in die Leine rennen, riskieren Verletzungen an der empfindlichen Halswirbelsäule -- besonders bei seitlichen Beschleunigungen, wenn der Hund plötzlich zur Seite springt.
 
-![Nahaufnahme eines mittelgroßen Hundes mit ergonomischem Hundegeschirr in Y-Form, seitliche Ansicht mit freier Schulterbewegung](/images/hundegeschirr-y-form-seitenansicht.webp)
+![Nahaufnahme eines mittelgroßen Hundes mit ergonomischem Hundegeschirr in Y-Form, seitliche Ansicht mit freier Schulterbewegung](../../assets/images/hundegeschirr-y-form-seitenansicht.webp)
 
 Wissenschaftliche Untersuchungen zeigen, dass starker Leinenzug am Halsband den Augeninnendruck erhöhen kann. Auch die Schilddrüse, die nur von wenig Gewebe umgeben direkt unter der Halshaut liegt, ist bei chronischem Druck gefährdet. Eine Schädigung der Halswirbelsäule äußert sich unter anderem durch schief getragenen Kopf, Schwanken oder Schmerzreaktionen beim Berühren des Halsbereichs.
 
@@ -159,7 +159,7 @@ Das Norwegergeschirr besitzt einen horizontalen Brustriemen und einen Rückenste
 
 Ein Hundehalsband sollte mindestens so breit sein wie der Nasenschwamm des Hundes. Der Nasenschwamm ist der vordere, meist schwarze Teil der Hundenase. Bei einem mittelgroßen Hund wie einem Labrador entspricht das etwa **3--4 cm** Breite. Zu schmale Halsbänder schnüren ein und verteilen den Druck auf eine noch kleinere Fläche.
 
-![Verschiedene Hundehalsband-Materialien im Vergleich: Biothane-, Nylon- und Lederhalsband nebeneinander angeordnet](/images/hundehalsband-materialien-vergleich_v2.webp)
+![Verschiedene Hundehalsband-Materialien im Vergleich: Biothane-, Nylon- und Lederhalsband nebeneinander angeordnet](../../assets/images/hundehalsband-materialien-vergleich_v2.webp)
 
 ### Halsband-Materialien im Vergleich
 
@@ -216,7 +216,7 @@ Voraussetzung für die Verwendung eines Halsbandes beim Training ist allerdings,
 
 Welpen sollten in den ersten 12 Lebensmonaten überwiegend ein Geschirr tragen. Das Skelett eines Welpen ist noch nicht vollständig ausgewachsen -- Knochen, Gelenke und Halswirbel sind weicher und empfindlicher als bei einem ausgewachsenen Hund. Ein Geschirr verteilt den Leinenzug gleichmäßig auf den gesamten Rumpf, statt die empfindliche Halsregion zu belasten.
 
-![Verspielter Welpe mit mitwachsendem Hundegeschirr im Garten beim Spielen auf der Wiese](/images/welpe-mitwachsendes-geschirr-garten.webp)
+![Verspielter Welpe mit mitwachsendem Hundegeschirr im Garten beim Spielen auf der Wiese](../../assets/images/welpe-mitwachsendes-geschirr-garten.webp)
 
 Ab einem Alter von 8 bis 10 Wochen kann ein leichtes Geschirr für Welpen eingeführt werden. Die Gewöhnung sollte schrittweise in der Wohnung oder im Garten erfolgen -- zunächst nur für wenige Minuten am Tag. Welpen kauen mit ihren spitzen Milchzähnen Geschirre und Halsbänder gerne durch, weshalb das Equipment nicht unbeaufsichtigt getragen werden sollte.
 

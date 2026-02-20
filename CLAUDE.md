@@ -38,32 +38,35 @@ src/
 │   ├── haftungsausschluss.astro
 │   ├── ueber-mich.astro
 │   └── kontakt.astro
-├── content/blog/*.md            # Blogartikel (Markdown + YAML-Frontmatter)
+├── content/
+│   ├── blog/*.md                # Blogartikel (Markdown + YAML-Frontmatter)
+│   └── content.config.ts        # Content Collection Schema (blog mit image() Helper)
+├── assets/images/               # Blog-Bilder (WebP) — Astro optimiert automatisch (srcset, Resizing)
 └── styles/global.css            # Farb-Tokens, Eyecatcher-Klassen, Custom-Styles
 public/
-├── images/                      # Bilder (WebP, werden 1:1 kopiert)
 ├── robots.txt
-└── favicon.svg
+├── favicon.webp
+└── og-image.jpg                 # Statische Assets (werden 1:1 kopiert, keine Optimierung)
 ```
 
 ## Content-Schema (Frontmatter)
 
 ```yaml
-title: "Titel (max 60 Zeichen)"          # Pflicht
-description: "Meta-Description"            # Pflicht
-category: "Hundeernährung"                 # Display-Name
-categorySlug: "hundeernaehrung"            # URL-Slug
-tags: ["Tag1", "Tag2"]                     # Optional, default []
-date: "2026-02-14"                         # Pflicht
-updated: "2026-02-14"                      # Optional
-image: "/images/bild.webp"                 # Optional
-imageAlt: "Alt-Text"                       # Optional
-featured: false                            # Optional
-draft: false                               # Optional
-faqs:                                      # Optional → FAQ-Accordion
+title: "Titel (max 60 Zeichen)"                       # Pflicht
+description: "Meta-Description"                         # Pflicht
+category: "Hundeernährung"                              # Display-Name
+categorySlug: "hundeernaehrung"                         # URL-Slug
+tags: ["Tag1", "Tag2"]                                  # Optional, default []
+date: "2026-02-14"                                      # Pflicht
+updated: "2026-02-14"                                   # Optional
+image: "../../assets/images/bild.webp"                  # Optional, relativer Pfad zu src/assets/images/
+imageAlt: "Alt-Text"                                    # Optional
+featured: false                                         # Optional
+draft: false                                            # Optional
+faqs:                                                   # Optional → FAQ-Accordion
   - question: "Frage?"
     answer: "Antwort"
-sources:                                   # Optional → Quellenverzeichnis
+sources:                                                # Optional → Quellenverzeichnis
   - name: "Quelle"
     url: "https://..."
 ```
@@ -174,14 +177,26 @@ Alle Custom-HTML-Blöcke in `.md`-Dateien brauchen `class="not-prose ..."`:
 - **robots.txt:** Alle Bots erlaubt
 - **Sitemap:** Automatisch via `@astrojs/sitemap`
 
+## Bilder & Responsive Images
+
+- **Ablage:** `src/assets/images/` (NICHT `public/images/`)
+- **Format:** WebP, idealerweise 1536px breit (dient als 2x-Retina-Quelle)
+- **Optimierung:** Astro generiert automatisch `srcset` mit 6 Größen (640, 750, 828, 1080, 1280, 1536px)
+- **Config:** `image.layout: 'constrained'` in `astro.config.mjs`
+- **Frontmatter-Pfad:** `image: "../../assets/images/bild.webp"` (relativ von `src/content/blog/`)
+- **Inline-Markdown:** `![Alt-Text](../../assets/images/bild.webp)`
+- **BlogCard:** Nutzt `<Image>` aus `astro:assets` mit eigenen `widths` (320, 480, 640)
+- **OG/Schema:** `[id].astro` wandelt `image.src` in absolute URL um
+
 ## Neuen Artikel veröffentlichen
 
 1. `.md`-Datei in `src/content/blog/` anlegen (Dateiname = URL-Slug)
 2. Frontmatter mit allen Pflichtfeldern ausfüllen
-3. Bilder als WebP in `public/images/` legen
-4. `npm run build` zum Testen
-5. `git add . && git commit -m "Neuer Artikel: Titel" && git push`
-6. Cloudflare baut automatisch in 1-2 Minuten
+3. Bilder als WebP in `src/assets/images/` legen
+4. Bild-Pfade als relative Pfade: `../../assets/images/bild.webp`
+5. `npm run build` zum Testen
+6. `git add . && git commit -m "Neuer Artikel: Titel" && git push`
+7. Cloudflare baut automatisch in 1-2 Minuten
 
 ## Betreiber
 

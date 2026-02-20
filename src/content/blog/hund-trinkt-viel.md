@@ -7,7 +7,7 @@ tags: ["Hund trinkt viel", "Hund trinkt viel Wasser", "Hund trinkt sehr viel", "
 date: "2026-02-18"
 featured: false
 draft: false
-image: "/images/hund-trinkt-viel-wasser.webp"
+image: "../../assets/images/hund-trinkt-viel-wasser.webp"
 imageAlt: "Hund trinkt viel Wasser aus einem Napf in der Küche"
 faqs:
   - question: "Wie viel Wasser am Tag ist normal für einen Hund?"
@@ -46,7 +46,7 @@ Ein Hund trinkt viel Wasser -- und du fragst dich, ob das noch normal ist oder e
 
 In diesem Ratgeber erfährst du, welche Trinkmenge für Hunde normal ist, wie du den Wasserverbrauch deines Hundes zuverlässig misst und welche Ursachen hinter übermäßigem Durst stecken können. Außerdem zeigen wir dir, ab wann ein Tierarzt aufgesucht werden sollte und was du selbst tun kannst.
 
-![Hund trinkt viel Wasser aus einem Napf in der Küche](/images/hund-trinkt-viel-wasser.webp)
+![Hund trinkt viel Wasser aus einem Napf in der Küche](../../assets/images/hund-trinkt-viel-wasser.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Hund trinkt viel Wasser</h4>
@@ -259,7 +259,7 @@ Die folgende Tabelle hilft dir, die häufigsten Erkrankungen anhand ihrer Beglei
 | Herzinsuffizienz | Husten, Leistungsschwäche, schnelle Ermüdung | Ältere Hunde, bestimmte Rassen |
 | Lebererkrankung | Gelbfärbung der Schleimhäute, Erbrechen, Durchfall | Alle Altersgruppen |
 
-![Tierarzt untersucht Hund wegen vermehrtem Trinken](/images/hund-trinkt-viel-tierarzt-untersuchung.webp)
+![Tierarzt untersucht Hund wegen vermehrtem Trinken](../../assets/images/hund-trinkt-viel-tierarzt-untersuchung.webp)
 
 ## Alter Hund trinkt viel: Besonderheiten im Seniorenalter
 
@@ -330,7 +330,7 @@ Bei einem Hund, der auffällig viel trinkt, beginnt die tierärztliche Diagnosti
 
 Die Kosten für eine Basisdiagnostik (Blut + Urin) liegen laut Gebührenordnung für Tierärzte (GOT) zwischen 80 und 150 Euro. Weiterführende Untersuchungen wie Ultraschall oder Hormontests können zusätzlich 100 bis 300 Euro kosten.
 
-![Blutuntersuchung beim Hund in der Tierarztpraxis](/images/hund-trinkt-viel-blutuntersuchung.webp)
+![Blutuntersuchung beim Hund in der Tierarztpraxis](../../assets/images/hund-trinkt-viel-blutuntersuchung.webp)
 
 ## Prävention: So unterstützt du den Flüssigkeitshaushalt deines Hundes
 

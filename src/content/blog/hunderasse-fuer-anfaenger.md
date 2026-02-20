@@ -7,7 +7,7 @@ tags: ["Hunderasse für Anfänger", "Anfängerhund", "Hunde für Anfänger", "Fa
 date: "2026-02-13"
 featured: true
 draft: false
-image: "/images/hunderasse-fuer-anfaenger.webp"
+image: "../../assets/images/hunderasse-fuer-anfaenger.webp"
 imageAlt: "Hunderasse für Anfänger -- freundlicher Golden Retriever auf einer Wiese"
 faqs:
   - question: "Welche Hunderasse ist die beste für Anfänger?"
@@ -46,7 +46,7 @@ Die richtige Hunderasse für Anfänger zeichnet sich durch ein gutmütiges Wesen
 
 Doch welche Hunderasse für Anfänger ist die richtige Wahl? Die Antwort hängt von Faktoren wie Wohnsituation, Aktivitätslevel und Familienstruktur ab. Dieser Ratgeber stellt 15 Hunderassen für Anfänger in drei Größenkategorien vor -- mit konkreten Vergleichsdaten zu Pflegeaufwand, Bewegungsbedarf und Erziehbarkeit. Dazu gibt es eine Checkliste für die Anschaffung und Tipps, welche Rassen Einsteiger besser meiden sollten.
 
-![Hunderasse für Anfänger -- freundlicher Hund auf einer Wiese](/images/hunderasse-fuer-anfaenger.webp)
+![Hunderasse für Anfänger -- freundlicher Hund auf einer Wiese](../../assets/images/hunderasse-fuer-anfaenger.webp)
 
 <div class="not-prose tldr-box">
 <h4>Zusammenfassung: Hunderasse für Anfänger</h4>
@@ -162,7 +162,7 @@ Mittelgroße Hunde für Anfänger bieten einen guten Kompromiss zwischen Handhab
 
 ### Pudel (Kleinpudel) -- der Allrounder
 
-![Hunderasse für Anfänger -- Pudel auf einem Spaziergang im Park](/images/hunderasse-fuer-anfaenger-pudel.webp)
+![Hunderasse für Anfänger -- Pudel auf einem Spaziergang im Park](../../assets/images/hunderasse-fuer-anfaenger-pudel.webp)
 
 Der Kleinpudel (35-45 cm, 10-15 kg) ist eine der vielseitigsten Hunderassen für Anfänger überhaupt. Pudel gelten als hochintelligent -- sie belegen Platz 2 der lernfähigsten Hunderassen nach Stanley Corens Intelligenz-Ranking. Ihr lockiges Fell haart nicht, muss aber alle 6-8 Wochen geschoren werden. Pudel eignen sich besonders gut für Allergiker.
 
@@ -421,4 +421,4 @@ Golden Retriever und Labrador sind die beliebtesten Hunderassen für Anfänger, 
 
 Unabhängig von der gewählten Hunderasse für Anfänger gilt: Besuche eine Hundeschule, plane genügend Zeit ein und informiere dich über die [richtige Ausstattung](https://hundewissen-mit-kopf.de/hundeausstattung/hundegeschirr-oder-halsband/). Dein Hund wird es dir mit bedingungsloser Treue danken.
 
-![Hunderasse für Anfänger -- Familie mit Hund im Garten](/images/hunderasse-fuer-anfaenger-familie.webp)
+![Hunderasse für Anfänger -- Familie mit Hund im Garten](../../assets/images/hunderasse-fuer-anfaenger-familie.webp)

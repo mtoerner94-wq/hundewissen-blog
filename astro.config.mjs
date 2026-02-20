@@ -8,6 +8,9 @@ export default defineConfig({
   build: {
     inlineStylesheets: 'always'
   },
+  image: {
+    layout: 'constrained',
+  },
   integrations: [sitemap()],
   markdown: {
     rehypePlugins: [
