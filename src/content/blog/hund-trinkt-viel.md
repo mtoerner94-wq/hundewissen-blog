@@ -24,6 +24,11 @@ faqs:
     answer: "Die Kombination aus vermehrtem Trinken und häufigem Urinieren wird medizinisch als Polyurie-Polydipsie-Komplex bezeichnet. Häufige Ursachen sind Diabetes mellitus, Cushing Syndrom, Nierenerkrankungen oder eine Gebärmutterentzündung bei Hündinnen. Ein Tierarzt kann durch Blut- und Urinanalyse die genaue Ursache feststellen."
   - question: "Welche Krankheiten verursachen übermäßigen Durst beim Hund?"
     answer: "Zu den häufigsten Krankheiten, die vermehrten Durst beim Hund auslösen, gehören Diabetes mellitus, Cushing Syndrom, chronische Niereninsuffizienz, Lebererkrankungen und Gebärmutterentzündungen. Auch Herzinsuffizienz und bestimmte Medikamente wie Cortison können dazu führen, dass ein Hund deutlich mehr Wasser trinkt als üblich."
+clippy:
+  - "Hunde trinken, indem sie die Zungenspitze nach hinten rollen und eine Wassersäule hochschleudern – bis zu 4-mal pro Sekunde."
+  - "Nassfutter enthält 70–80 % Wasser – deshalb trinken Trockenfutter-Hunde deutlich mehr."
+  - "Ab 100 ml pro kg Körpergewicht am Tag sprechen Tierärzte von Polydipsie – krankhaft erhöhtem Durst."
+  - "Welpen brauchen relativ mehr Wasser als erwachsene Hunde – bis zu 100 ml pro Kilogramm am Tag."
 sources:
   - name: "Bundestierärztekammer -- Informationen zur Tiergesundheit"
     url: "https://www.bundestieraerztekammer.de/"

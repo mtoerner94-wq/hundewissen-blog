@@ -24,6 +24,11 @@ faqs:
     answer: "Leinenaggression entsteht häufig durch Frustration oder Unsicherheit, da der Hund an der Leine nicht frei reagieren kann. Erhöhe den Abstand zum auslösenden Hund und belohne ruhiges Verhalten. Systematisches Training mit kontrollierter Annäherung an andere Hunde hilft, die Reaktionsschwelle langfristig zu senken."
   - question: "Wie oft sollte ich Leinenführigkeit trainieren?"
     answer: "Trainiere Leinenführigkeit bei jedem Spaziergang in kurzen Einheiten von 5-10 Minuten. Tägliches, konsequentes Üben ist wirksamer als seltene, lange Trainingseinheiten. Zwischen den Trainingseinheiten darf der Hund an längerer Leine entspannt schnüffeln, damit der Spaziergang nicht nur aus Übungen besteht."
+clippy:
+  - "Hunde laufen natürlicherweise 4–6 km/h – Menschen nur 3–4 km/h. Kein Wunder, dass sie an der Leine ziehen."
+  - "Positive Verstärkung wirkt beim Leinentraining bis zu 5-mal schneller als strafbasierte Methoden."
+  - "Ein 30-kg-Hund kann beim Ziehen eine Kraft von über 50 kg auf die Leine ausüben."
+  - "Schon 5 Minuten konzentriertes Leinentraining pro Spaziergang zeigen nach 2–4 Wochen erste Erfolge."
 sources:
   - name: "Bundestierärztekammer -- Tierschutzgerechte Hundeerziehung"
     url: "https://www.bundestieraerztekammer.de/"

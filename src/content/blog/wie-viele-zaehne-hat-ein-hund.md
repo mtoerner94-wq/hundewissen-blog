@@ -24,6 +24,11 @@ faqs:
     answer: "Tierärzte empfehlen, die Hundezähne idealerweise täglich zu putzen -- mindestens jedoch 3-mal pro Woche. Verwendet werden sollte ausschließlich Hundezahnpasta, da menschliche Zahnpasta für Hunde giftige Inhaltsstoffe wie Xylit enthalten kann."
   - question: "Welche Zahnprobleme treten bei Hunden häufig auf?"
     answer: "Rund 80 % aller Hunde über 3 Jahre leiden laut Studien an Zahnerkrankungen. Die häufigsten Probleme sind Zahnstein, Parodontitis (Zahnfleischentzündung), abgebrochene Zähne und persistierende Milchzähne. Regelmäßige Zahnkontrollen beim Tierarzt können schwere Folgeerkrankungen verhindern."
+clippy:
+  - "Ein Hund hat 42 Zähne – das sind 10 mehr als beim Menschen mit seinen 32."
+  - "Die Fangzähne eines Hundes können bis zu 2 cm lang sein und haben die stärkste Verankerung im Kiefer."
+  - "Über 80 % aller Hunde über 3 Jahre haben bereits Anzeichen von Zahnerkrankungen."
+  - "Welpen verschlucken ihre Milchzähne oft unbemerkt beim Fressen – das ist völlig ungefährlich."
 sources:
   - name: "Bundestierärztekammer -- Zahngesundheit beim Hund"
     url: "https://www.bundestieraerztekammer.de/"

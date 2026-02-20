@@ -24,6 +24,11 @@ faqs:
     answer: "Wenn dein Hund gleichzeitig zittert und schlapp ist, können Infektionskrankheiten, Fieber, Schmerzen oder eine Vergiftung dahinterstecken. Miss zunächst die Körpertemperatur -- die Normaltemperatur liegt bei 38,0 bis 39,0 Grad Celsius. Bei Fieber über 39,5 Grad oder anhaltender Schlappheit ist ein Tierarzt-Besuch dringend empfohlen."
   - question: "Können bestimmte Hunderassen mehr zittern als andere?"
     answer: "Ja, kleine Hunderassen wie Chihuahua, Yorkshire Terrier und Zwergpinscher zittern häufiger als große Rassen. Das liegt an ihrem schnelleren Stoffwechsel, der geringeren Körpermasse und dem damit verbundenen höheren Wärmeverlust. Auch das sogenannte White-Dog-Shaker-Syndrom betrifft bevorzugt kleine, weiße Hunderassen."
+clippy:
+  - "Hunde verbringen etwa 10–12 % ihrer Schlafzeit in der REM-Phase – dabei zittern sie oft ganz harmlos."
+  - "Kleine Rassen wie Chihuahuas zittern häufiger, weil sie durch ihr Körpergewicht schneller auskühlen."
+  - "Die normale Körpertemperatur beim Hund liegt zwischen 38,0 und 39,0 °C – erst ab 39,5 °C spricht man von Fieber."
+  - "Stress-Zittern ist ein Überbleibsel der Evolution: Es aktiviert die Muskulatur für Flucht oder Kampf."
 sources:
   - name: "Bundestierärztekammer -- Informationen zur Tiergesundheit"
     url: "https://www.bundestieraerztekammer.de/"

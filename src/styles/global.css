@@ -826,6 +826,18 @@ html {
   50% { transform: rotate(15deg); }
 }
 
+/* ===== DOG CLIPPY ===== */
+
+.dog-clippy-tail {
+  animation: clippyTailWag 0.5s ease-in-out infinite;
+  transform-origin: 49px 42px;
+}
+
+@keyframes clippyTailWag {
+  0%, 100% { transform: rotate(-8deg); }
+  50% { transform: rotate(12deg); }
+}
+
 /* ===== HERO ANIMATIONS ===== */
 
 /* Keyword rotation – slide out/in */
@@ -962,5 +974,14 @@ html {
   .hero-leg-fl, .hero-leg-fr, .hero-leg-bl, .hero-leg-br,
   .hero-dog-body, .hero-dog-tail {
     animation: none !important;
+  }
+  .dog-clippy-tail {
+    animation: none !important;
+  }
+  #dog-clippy {
+    transition: none !important;
+  }
+  .dog-clippy-bubble {
+    transition: none !important;
   }
 }

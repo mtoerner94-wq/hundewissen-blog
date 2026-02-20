@@ -23,6 +23,11 @@ faqs:
     answer: "Nein, in den meisten Fällen ist das eigenständige Auslösen von Erbrechen kontraproduktiv und gefährlich. Bei ätzenden Substanzen würde Erbrechen die Speiseröhre zusätzlich schädigen. Das Auslösen von Erbrechen sollte ausschließlich dem Tierarzt überlassen werden."
   - question: "Wie schützt man seinen Hund vor Giftködern?"
     answer: "Die wirksamste Maßnahme ist ein professionelles Anti-Giftköder-Training. Zusätzlich hilft es, den Hund beim Spaziergang aufmerksam zu beobachten, lokale Warngruppen in sozialen Medien zu verfolgen und bekannte Giftköder-Gebiete zu meiden. Ein Maulkorb kann sinnvoll sein, wenn der Hund zum unkontrollierten Fressen neigt."
+clippy:
+  - "Die häufigsten Vergiftungsursachen bei Hunden sind Schokolade, Rattengift, Trauben und Medikamente."
+  - "Aktivkohle kann Giftstoffe im Magen binden – aber nur innerhalb der ersten 1–2 Stunden nach Aufnahme."
+  - "Schon 10 g Trauben pro kg Körpergewicht können bei manchen Hunden Nierenversagen auslösen."
+  - "Schneckenkorn wirkt bereits nach 30 Minuten – Rattengift zeigt Symptome erst nach 3–5 Tagen."
 sources:
   - name: "Bundestierärztekammer – Vergiftung beim Hund: Richtig helfen"
     url: "https://www.bundestieraerztekammer.de/"

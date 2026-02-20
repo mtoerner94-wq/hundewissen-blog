@@ -23,6 +23,11 @@ faqs:
     answer: "Im Paw Patrol Team sind insgesamt 10 verschiedene Hunderassen vertreten: Deutscher Schäferhund, Dalmatiner, Cockapoo, Englische Bulldogge, Mischling, Labrador Retriever, Husky, Chihuahua, Dackel und Berner Sennenhund."
   - question: "Warum sollte man sich keine Englische Bulldogge wie Rubble kaufen?"
     answer: "Englische Bulldoggen leiden häufig unter dem Brachycephalen Syndrom mit schweren Atemproblemen, Hautfalten-Entzündungen und Gelenkproblemen. Die Bundestierärztekammer stuft die Zucht als tierschutzrelevant ein."
+clippy:
+  - "Chase ist ein Deutscher Schäferhund – die weltweit meisteingesetzte Polizeihunderasse."
+  - "Marshall ist ein Dalmatiner – die Rasse wurde früher tatsächlich als Feuerwehrbegleithund eingesetzt."
+  - "Everest ist ein Husky – diese Rasse kann Temperaturen bis minus 60 °C aushalten."
+  - "In Deutschland sind Mischlinge die häufigsten Hunde – genau wie Rocky aus Paw Patrol einer ist."
 sources:
   - name: "Verband für das Deutsche Hundewesen (VDH)"
     url: "https://www.vdh.de/"

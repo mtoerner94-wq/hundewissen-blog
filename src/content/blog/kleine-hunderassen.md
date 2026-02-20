@@ -24,6 +24,11 @@ faqs:
     answer: "Cavalier King Charles Spaniel, Beagle, Havaneser und Bichon Frisé gelten als besonders kinderfreundlich. Sie sind geduldig, verspielt und robust genug für das Zusammenleben mit Kindern. Sehr zierliche Rassen wie der Chihuahua sind für Familien mit Kleinkindern weniger geeignet."
   - question: "Was kosten kleine Hunderassen in der Haltung?"
     answer: "Die monatlichen Haltungskosten für kleine Hunderassen liegen bei 80–150 Euro. Darin enthalten sind Futter (30–60 Euro), Versicherung (5–15 Euro), Tierarzt-Rücklage (20–40 Euro) und Zubehör. Kleine Hunde verursachen damit deutlich geringere Kosten als große Rassen."
+clippy:
+  - "Kleine Hunde leben im Schnitt 12–16 Jahre – deutlich länger als große Rassen mit 8–10 Jahren."
+  - "Der Chihuahua ist die kleinste Hunderasse der Welt – manche wiegen ausgewachsen nur 500 Gramm."
+  - "Das Herz eines kleinen Hundes schlägt bis zu 180-mal pro Minute – bei großen Rassen nur 60–100-mal."
+  - "Kleine Hunde haben einen schnelleren Stoffwechsel und brauchen pro Kilogramm mehr Kalorien als große."
 sources:
   - name: "VDH – Verband für das Deutsche Hundewesen"
     url: "https://www.vdh.de/"

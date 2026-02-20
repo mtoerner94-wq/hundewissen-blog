@@ -23,6 +23,11 @@ faqs:
     answer: "Eine Überfütterung mit Erdbeeren führt typischerweise zu Verdauungsbeschwerden wie Durchfall, Blähungen oder Bauchschmerzen. Der Fruchtzucker kann bei übermäßigem Verzehr den Magen-Darm-Trakt reizen. Die Symptome klingen meist innerhalb von 24 Stunden ab. Bei anhaltenden Beschwerden sollte ein Tierarzt konsultiert werden."
   - question: "Welches Obst dürfen Hunde nicht essen?"
     answer: "Weintrauben und Rosinen sind hochgiftig für Hunde und können bereits in kleinen Mengen Nierenversagen auslösen. Auch Avocados sind aufgrund des enthaltenen Persins toxisch. Steinobst-Kerne (Kirschen, Pfirsiche) enthalten Blausäure und sollten nicht verfüttert werden. Erdbeeren, Äpfel (ohne Kerne), Bananen, Wassermelonen und Heidelbeeren sind hingegen unbedenklich."
+clippy:
+  - "Erdbeeren enthalten mehr Vitamin C als Orangen – 62 mg pro 100 g gegenüber 53 mg."
+  - "Hunde besitzen Süß-Rezeptoren auf der Zunge und können den Geschmack von Erdbeeren tatsächlich wahrnehmen."
+  - "Gefrorene Erdbeerstücke sind im Sommer ein beliebter und gesunder Kühl-Snack für Hunde."
+  - "Botanisch sind Erdbeeren gar keine Beeren, sondern Sammelnussfrüchte – die Punkte sind die echten Früchte."
 sources:
   - name: "Bundesverband Praktizierender Tierärzte e.V."
     url: "https://www.tieraerzteverband.de/"

@@ -23,6 +23,11 @@ faqs:
     answer: "Ein Hundehalsband sollte mindestens so breit sein wie der Nasenschwamm des Hundes – also der vordere, meist schwarze Teil der Hundenase. Bei einem mittelgroßen Hund entspricht das etwa 3 bis 4 Zentimetern Breite. Zwischen Halsband und Hundehals sollten zwei Finger Platz haben, um Einschnüren zu verhindern, aber ein Herauswinden zu erschweren."
   - question: "Darf man Halsband und Geschirr gleichzeitig verwenden?"
     answer: "Halsband und Geschirr gleichzeitig zu tragen ist eine empfohlene Praxis vieler Hundetrainer. Dabei wird die Leine je nach Situation umgeklickt: Am Geschirr befestigt, darf der Hund etwas ziehen, etwa beim Schnüffeln. Am Halsband befestigt, wird konzentriert an der Leinenführigkeit gearbeitet. Diese Methode kombiniert gesundheitlichen Schutz mit effektivem Training."
+clippy:
+  - "Schon 2 kg Zug am Halsband können den Augeninnendruck bei Hunden messbar erhöhen."
+  - "Y-Geschirre gelten als ergonomischste Form – sie lassen Schultern und Ellenbogen frei beweglich."
+  - "Der Hals eines Hundes enthält Schilddrüse, Luft- und Speiseröhre – alles empfindlich bei Druck durch ein Halsband."
+  - "Viele Hundetrainer empfehlen, Halsband und Geschirr gleichzeitig zu tragen und je nach Situation umzuklicken."
 sources:
   - name: "Dr. Ralph Rückert – Die ewige Frage: Halsband oder Geschirr?"
     url: "https://www.ralph-rueckert.de/blog/die-ewige-frage-halsband-oder-geschirr/"

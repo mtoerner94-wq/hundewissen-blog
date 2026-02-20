@@ -5,6 +5,7 @@ import FAQ from '../../components/FAQ.astro';
 import AuthorBox from '../../components/AuthorBox.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import RelatedArticles from '../../components/RelatedArticles.astro';
+import DogClippy from '../../components/DogClippy.astro';
 
 const categoriesMap: Record<string, { name: string; emoji: string }> = {
   hundeernaehrung: { name: 'Hundeernaehrung', emoji: '\uD83C\uDF56' },
@@ -30,7 +31,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await render(entry);
 
-const { title, description, category, categorySlug, date, updated, tags, faqs, sources, image, imageAlt } = entry.data;
+const { title, description, category, categorySlug, date, updated, tags, faqs, sources, image, imageAlt, clippy } = entry.data;
 
 // Lesezeit berechnen (ca. 200 Woerter pro Minute + 12 Sek. pro Bild)
 const wordCount = entry.body ? entry.body.split(/\s+/).length : 0;
@@ -274,4 +275,8 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
       </a>
     </div>
   </article>
+
+  {clippy && clippy.length > 0 && (
+    <DogClippy facts={clippy} articleId={entry.id} />
+  )}
 </BaseLayout>

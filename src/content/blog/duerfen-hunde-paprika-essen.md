@@ -24,6 +24,11 @@ faqs:
     answer: "Gekochte Paprika ist für Hunde sogar besser verträglich als rohe. Durch das Kochen wird der Solanin-Gehalt reduziert, und die Nährstoffe wie Beta-Carotin werden leichter vom Hundekörper aufgenommen. Wichtig ist, die Paprika ohne Salz, Gewürze oder Öl zu kochen."
   - question: "Dürfen Hunde auch Paprikapulver oder Gewürzpaprika fressen?"
     answer: "Paprikapulver und Gewürzpaprika sind für Hunde nicht geeignet. Die konzentrierten Mengen an Capsaicin und anderen scharfen chemischen Verbindungen reizen die Schleimhäute und können Magen-Darm-Beschwerden auslösen. Auch milde Paprikagewürze sollten nicht ins Hundefutter gelangen."
+clippy:
+  - "Rote Paprika enthält doppelt so viel Vitamin C wie grüne – sie ist einfach die reifere Version derselben Pflanze."
+  - "Paprika gehört zur Familie der Nachtschattengewächse – genau wie Tomaten, Kartoffeln und Auberginen."
+  - "Hunde haben nur 1.700 Geschmacksknospen, Menschen besitzen 9.000. Schärfe nehmen Hunde trotzdem wahr."
+  - "Durch Kochen sinkt der Solanin-Gehalt in Paprika deutlich – und die Nährstoffe werden besser aufgenommen."
 sources:
   - name: "Bundestierärztekammer -- Giftige Lebensmittel für Haustiere"
     url: "https://www.bundestieraerztekammer.de/"

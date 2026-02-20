@@ -24,6 +24,11 @@ faqs:
     answer: "Eine Hunderasse für Anfänger kann auch für Berufstätige geeignet sein, wenn bestimmte Voraussetzungen erfüllt sind. Der Hund sollte maximal 4-5 Stunden allein bleiben. Ruhigere Rassen wie Englische Bulldogge oder Basset Hound kommen mit weniger Aktivität aus. Ein Hundesitter oder die Möglichkeit, den Hund ins Büro mitzunehmen, sind empfehlenswert."
   - question: "Welcher mittelgroße Hund ist gut für Anfänger?"
     answer: "Mittelgroße Hunderassen für Anfänger sind Pudel (Kleinpudel, bis 45 cm), Cocker Spaniel, Beagle und Elo. Der Pudel gilt als besonders intelligent und haart kaum -- ideal für Allergiker. Der Cocker Spaniel ist anhänglich und verspielt. Der Beagle ist robust und familienfreundlich, braucht aber konsequente Erziehung."
+clippy:
+  - "Es gibt über 360 anerkannte Hunderassen weltweit – der VDH erkennt davon rund 350 an."
+  - "Der Labrador Retriever ist seit über 30 Jahren die beliebteste Hunderasse in den USA und Großbritannien."
+  - "Die monatlichen Kosten für einen Hund liegen bei 100–200 Euro – große Rassen sind teurer im Unterhalt."
+  - "Ein erwachsener Mischling aus dem Tierschutz hat oft bereits Grundgehorsam gelernt – ideal für Anfänger."
 sources:
   - name: "VDH -- Verband für das Deutsche Hundewesen"
     url: "https://www.vdh.de/"

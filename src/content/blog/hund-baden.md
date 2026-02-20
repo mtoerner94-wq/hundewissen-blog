@@ -23,6 +23,11 @@ faqs:
     answer: "Hunde mit Badeangst sollten schrittweise und mit positiver Verstärkung an das Wasser gewöhnt werden. Eine rutschfeste Gummimatte in der Wanne gibt Sicherheit. Schleckmatten mit Erdnussbutter oder Leberwurst am Wannenrand lenken zuverlässig ab. Das Training beginnt damit, den Hund nur in die leere Wanne zu setzen und zu belohnen – ohne Wasser."
   - question: "Darf man einen Hund im Winter baden?"
     answer: "Hunde sollten im Winter nur in Ausnahmefällen gebadet werden. Besonders kurzhaarige Rassen sind nach dem Bad anfällig für Unterkühlung. Das Fell muss vor dem nächsten Spaziergang vollständig getrocknet sein – bei dichter Unterwolle kann das bis zu 24 Stunden dauern. Langhaarige Rassen können bei Bedarf abends gebadet werden, damit das Fell über Nacht trocknet."
+clippy:
+  - "Die Hundehaut hat einen pH-Wert von 6,5–7,5 – Menschenhaut liegt bei 5,5. Deshalb kein Menschenshampoo verwenden!"
+  - "Nach dem Baden schütteln sich Hunde mit bis zu 4 Drehungen pro Sekunde – und werden so 70 % des Wassers los."
+  - "Hunde besitzen eine natürliche Fettschicht auf der Haut – zu häufiges Baden zerstört diesen Schutzfilm."
+  - "Bei dichter Unterwolle kann das vollständige Trocknen des Fells nach dem Baden bis zu 24 Stunden dauern."
 sources:
   - name: "AniCura – Fellpflege und Baden beim Hund"
     url: "https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/fellpflege-hund/"

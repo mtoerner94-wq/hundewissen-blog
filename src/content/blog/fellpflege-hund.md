@@ -23,6 +23,11 @@ faqs:
     answer: "Die Gewöhnung an die Fellpflege sollte idealerweise ab der 8. Lebenswoche beginnen. Bei älteren Hunden hilft schrittweises Desensibilisieren: Zuerst mit der Hand streicheln, dann eine weiche Bürste einführen. Mit unkritischen Körperstellen wie Rücken und Flanke starten und empfindliche Bereiche erst später einbeziehen. Positive Verstärkung durch Leckerlis und ruhige Atmosphäre erleichtern die Gewöhnung."
   - question: "Wann findet der Fellwechsel beim Hund statt?"
     answer: "Der Fellwechsel beim Hund findet zweimal jährlich statt: Im Frühjahr (März bis Mai) wird das dichte Winterfell abgestoßen, im Herbst (September bis November) wächst wärmendes Winterfell nach. Die Dauer beträgt 4–8 Wochen. Hunde mit einschichtigem Fell ohne Unterwolle (z. B. Whippet, Pudel) durchlaufen keinen saisonalen Fellwechsel, sondern haaren gleichmäßig über das ganze Jahr. Während des Fellwechsels ist tägliches Bürsten und gezieltes Entfernen der Unterwolle besonders wichtig."
+clippy:
+  - "Ein Hund hat je nach Rasse 1.000 bis 9.000 Haare pro cm² – ein Mensch nur 100 bis 150."
+  - "Pudel und Malteser haben Haar statt Fell – es wächst kontinuierlich und fällt nicht saisonbedingt aus."
+  - "Regelmäßiges Bürsten fördert die Durchblutung der Haut und verteilt natürliches Hautfett im Fell."
+  - "Der Fellwechsel dauert 4–8 Wochen und findet zweimal jährlich statt: im Frühling und im Herbst."
 sources:
   - name: "Bundestierärztekammer – Hauterkrankungen bei Hunden"
     url: "https://www.bundestieraerztekammer.de/"

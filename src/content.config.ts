@@ -23,6 +23,7 @@ const blog = defineCollection({
       name: z.string(),
       url: z.string(),
     })).default([]),
+    clippy: z.array(z.string()).default([]),
   }),
 });
 

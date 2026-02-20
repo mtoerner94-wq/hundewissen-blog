@@ -24,6 +24,11 @@ faqs:
     answer: "Beobachte deinen Hund genau auf Symptome wie Erbrechen, Durchfall, Zittern oder Apathie. Bei kleinen Mengen reicht Beobachtung über 6-12 Stunden. Hat dein Hund größere Mengen unreifer Tomaten gefressen oder zeigt Symptome, kontaktiere sofort den Tierarzt oder die Tierärztliche Giftzentrale."
   - question: "Dürfen Hunde Tomatenmark essen?"
     answer: "Tomatenmark aus reifen Tomaten ist in kleinen Mengen unbedenklich, da es stark eingekocht und solaninarm ist. Achte auf Produkte ohne Salz- und Gewürzzusatz. Ein halber Teelöffel als Geschmackszugabe im Futter ist für die meisten Hunde verträglich."
+clippy:
+  - "Reife Tomaten enthalten nur 0,7 mg Solanin pro 100 g – grüne Tomaten dagegen bis zu 32 mg."
+  - "Tomaten bestehen zu 95 % aus Wasser und haben nur 18 Kalorien pro 100 g."
+  - "Das Lycopin in roten Tomaten ist ein starkes Antioxidans, das auch in der Tiermedizin erforscht wird."
+  - "Durch Kochen wird das Lycopin in Tomaten besser bioverfügbar – gekocht also gesünder als roh."
 sources:
   - name: "Bundestieräztekammer -- Giftige Lebensmittel für Haustiere"
     url: "https://www.bundestieraerztekammer.de/"

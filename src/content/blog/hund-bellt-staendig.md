@@ -23,6 +23,11 @@ faqs:
     answer: "Hunde bellen in der Wohnung meist aus territorialen Gründen oder wegen Reizüberflutung. Effektive Maßnahmen sind: den Liegeplatz weg von Fenstern und Türen verlegen, Sichtschutzfolie anbringen und ein Ruhe-Signal trainieren. Wichtig ist, dass der Hund nicht die Aufgabe übernimmt, die Wohnung zu bewachen. 2-3 kurze Trainingseinheiten von je 5 Minuten pro Tag reichen, um innerhalb von 3-6 Wochen erste Erfolge zu erzielen."
   - question: "Welche Hunderassen bellen besonders viel?"
     answer: "Zu den bellfreudigsten Hunderassen zählen Beagle, Dackel, Deutscher Spitz, Jack Russell Terrier, Yorkshire Terrier und Chihuahua. Diese Rassen wurden teilweise für Jagd- oder Wachaufgaben gezüchtet und haben eine genetisch niedrigere Reizschwelle. Ruhigere Rassen sind etwa Basenji, Bernhardiner, Neufundländer und Windhunde. Die individuelle Erziehung hat jedoch einen größeren Einfluss als die Rasse allein."
+clippy:
+  - "Wölfe bellen kaum – häufiges Bellen wurde durch Domestizierung verstärkt, weil Menschen darauf reagierten."
+  - "Ein Hund kann bis zu 100 Dezibel laut bellen – das entspricht einem Presslufthammer."
+  - "Studien zeigen, dass Menschen die Stimmung eines bellenden Hundes zu 60–70 % richtig einschätzen."
+  - "Etwa 28 % der Hunde über 11 Jahre zeigen Symptome einer Demenz, die sich durch vermehrtes Bellen äußern kann."
 sources:
   - name: "Bundestierärztekammer"
     url: "https://www.bundestieraerztekammer.de/"

@@ -23,6 +23,11 @@ faqs:
     answer: "Auch ohne sofortige Symptome sollte ein Tierarzt kontaktiert werden. Vergiftungserscheinungen treten häufig erst 2–4 Stunden nach dem Verzehr auf, in manchen Fällen sogar erst nach 12 Stunden. Die aufgenommene Theobromin-Menge wird langsam resorbiert und kann zeitverzögert wirken. Besonders bei dunkler Schokolade oder kleinen Hunden ist Vorsicht geboten, selbst wenn der Hund zunächst unauffällig erscheint."
   - question: "Gibt es Hausmittel bei Schokoladenvergiftung beim Hund?"
     answer: "Tierärzte raten dringend davon ab, bei einer Schokoladenvergiftung auf Hausmittel zu setzen. Das früher empfohlene Salzwasser zum Auslösen von Erbrechen kann zu einer gefährlichen Natriumvergiftung führen. Auch Milch oder Aktivkohle ohne tierärztliche Anleitung sind nicht empfehlenswert. Die einzig sichere Maßnahme ist der sofortige Gang zum Tierarzt, der mit professionellen Mitteln eine Entgiftung einleiten kann."
+clippy:
+  - "Hunde bauen Theobromin 3x langsamer ab als Menschen – die Halbwertszeit beträgt 17,5 Stunden."
+  - "Bereits 2 Stücke Zartbitterschokolade können bei einem 5-kg-Hund Vergiftungssymptome auslösen."
+  - "Weiße Schokolade enthält fast kein Theobromin – dafür kann ihr Fettgehalt eine Pankreatitis auslösen."
+  - "Kakaopulver ist die gefährlichste Form: Es enthält bis zu 26 mg Theobromin pro Gramm."
 sources:
   - name: "Justus-Liebig-Universität Gießen – Schokoladenvergiftung bei Hund und Katze"
     url: "https://www.uni-giessen.de/de/fbz/fb10/institute_klinikum/klinikum/kleintierklinik"

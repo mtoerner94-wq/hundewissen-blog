@@ -24,6 +24,11 @@ faqs:
     answer: "Grüne Äpfel wie Granny Smith sind für Hunde unbedenklich. Sie enthalten etwas mehr Fruchtsäure als rote Sorten, was bei empfindlichen Hunden zu leichten Magenbeschwerden führen kann. Süßere Sorten wie Gala oder Fuji werden von den meisten Hunden besser vertragen."
   - question: "Kann ich meinem Hund Apfelmus geben?"
     answer: "Selbstgemachtes Apfelmus ohne Zucker und Gewürze ist für Hunde unbedenklich und sogar besonders leicht verdaulich. Fertiges Apfelmus aus dem Supermarkt enthält häufig zugesetzten Zucker oder Zimt und sollte daher nicht verfüttert werden. Pürierter Apfel ist die bessere Alternative."
+clippy:
+  - "Apfelkerne enthalten Amygdalin, das im Körper zu Blausäure wird – einzelne Kerne sind aber ungefährlich."
+  - "Äpfel bestehen zu 85 % aus Wasser und sind damit ein besonders kalorienarmer Hundesnack."
+  - "Das Pektin in Äpfeln wirkt wie ein natürlicher Ballaststoff und kann die Verdauung deines Hundes unterstützen."
+  - "Getrocknete Äpfel haben 4-mal so viel Zucker pro Gramm wie frische – deshalb viel weniger füttern."
 sources:
   - name: "Bundestierärztekammer – Ernährung von Hunden"
     url: "https://www.bundestieraerztekammer.de/"

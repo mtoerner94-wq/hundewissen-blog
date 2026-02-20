@@ -24,6 +24,11 @@ faqs:
     answer: "Natuerliche Appetitanreger fuer Hunde sind lauwarme Huehner- oder Rinderbruehe (ungewuerzt) ueber das Futter, leichtes Anwaermen des Nassfutters auf Koerpertemperatur und das Untermischen von gekochtem Huehnchenbrustfleisch. Auch regelmaessige Bewegung vor den Mahlzeiten foerdert den Appetit. Bei anhaltendem Appetitverlust kann der Tierarzt medikamentoese Appetitanreger verschreiben."
   - question: "Kann Stress dazu fuehren, dass ein Hund nicht frisst?"
     answer: "Stress ist eine der haeufigsten psychischen Ursachen fuer Appetitlosigkeit beim Hund. Umzuege, neue Familienmitglieder, laute Geraeusche wie Silvester oder der Verlust einer Bezugsperson koennen Futterverweigerung ausloesen. In solchen Situationen helfen feste Futterroutinen, ein ruhiger Futterplatz und Geduld -- die meisten Hunde fressen innerhalb weniger Tage wieder normal."
+clippy:
+  - "Hunde haben nur 1.700 Geschmacksknospen, Menschen 9.000 – Geruch ist beim Fressen viel wichtiger als Geschmack."
+  - "Ein gesunder Hund kann 3–5 Tage ohne Futter auskommen – ohne Wasser wird es nach 24 Stunden kritisch."
+  - "Wölfe fressen in der Wildnis manchmal tagelang nichts zwischen großen Mahlzeiten – Fasten liegt in der Natur."
+  - "Leicht erwärmtes Futter riecht für Hunde intensiver und kann den Appetit deutlich steigern."
 sources:
   - name: "Bundestieraerztekammer -- Informationen zur Tiergesundheit"
     url: "https://www.bundestieraerztekammer.de/"

@@ -24,6 +24,11 @@ faqs:
     answer: "Bananen können bei leichtem Durchfall helfen, da sie Pektin enthalten, das Wasser im Darm bindet und den Stuhl festigt. Tierärzte empfehlen zerdrückte Banane als Teil einer Schonkost zusammen mit gekochtem Reis und Huhn. Bei anhaltendem Durchfall über 24 Stunden solltest du jedoch einen Tierarzt aufsuchen."
   - question: "Ab welchem Alter dürfen Welpen Bananen essen?"
     answer: "Welpen dürfen ab einem Alter von etwa 8-10 Wochen kleine Stücke reifer Banane probieren. Beginne mit einer einzelnen dünnen Scheibe und beobachte, ob der Welpe sie verträgt. Der Magen-Darm-Trakt von Welpen ist empfindlicher als bei erwachsenen Hunden, daher ist besondere Vorsicht bei der Menge geboten."
+clippy:
+  - "Bananen enthalten nur 0,3 g Fett pro 100 g – perfekt als leichter Hundesnack zwischendurch."
+  - "Das Pektin in Bananen kann bei leichtem Durchfall helfen, indem es Wasser im Darm bindet."
+  - "Eine mittelgroße Banane hat etwa 89 Kalorien – für einen 10-kg-Hund schon 5 % des Tagesbedarfs."
+  - "Bananen enthalten natürliches Tryptophan, das im Körper zu Serotonin umgewandelt wird."
 sources:
   - name: "Bundestierärztekammer – Ernährung von Hunden"
     url: "https://www.bundestieraerztekammer.de/"
