@@ -1,27 +1,27 @@
 ---
-title: "Grundgehorsam Hund: Die 7 wichtigsten Kommandos"
-description: "Grundgehorsam beim Hund trainieren: Die 7 wichtigsten Kommandos mit Schritt-für-Schritt-Anleitung. Übungen für Welpen & erwachsene Hunde."
+title: "Kommandos Hund: Die 7 wichtigsten Hundekommandos mit Anleitung"
+description: "Kommandos für den Hund trainieren: Die 7 wichtigsten Hundekommandos mit Schritt-für-Schritt-Anleitung. Übungen für Welpen & erwachsene Hunde."
 category: "Erziehung & Verhalten"
 categorySlug: "erziehung-verhalten"
-tags: ["Grundgehorsam Hund", "Grundkommandos Hund", "Grundgehorsam Hund Übungen", "7 Grundkommandos Hund", "7 Grundregeln für Hunde", "Hund Kommandos beibringen", "Grundgehorsam Jagdhund", "Hundeerziehung Kommandos"]
+tags: ["Kommandos Hund", "Hundekommandos", "Hund Kommandos beibringen", "Grundkommandos Hund", "7 Grundkommandos Hund", "Kommandos Hund Liste", "Hund Kommandos Liste", "Hundeerziehung Kommandos"]
 date: "2026-02-28"
 featured: false
 draft: false
 image: "../../assets/images/grundgehorsam-hund-kommandos.webp"
-imageAlt: "Hund sitzt aufmerksam vor seinem Besitzer beim Grundgehorsam-Training"
+imageAlt: "Hund sitzt aufmerksam vor seinem Besitzer beim Kommando-Training"
 faqs:
-  - question: "Welche Kommandos gehören zum Grundgehorsam beim Hund?"
-    answer: "Zum Grundgehorsam gehören die 7 Grundkommandos Sitz, Platz, Bleib, Hier (Rückruf), Fuß, Aus und Nein. Diese Kommandos bilden die Basis für ein sicheres Zusammenleben und lassen sich auf weitere Signale aufbauen."
-  - question: "Ab welchem Alter kann ich mit dem Grundgehorsam beginnen?"
-    answer: "Welpen können ab der 8. Lebenswoche erste einfache Kommandos wie Sitz und Hier lernen. In den ersten Wochen stehen kurze Übungseinheiten von 2–3 Minuten im Vordergrund. Komplexere Kommandos wie Bleib oder Fuß folgen ab der 12.–16. Woche."
-  - question: "Wie lange dauert es, bis ein Hund den Grundgehorsam beherrscht?"
-    answer: "Bei konsequentem Training mit 2–3 kurzen Einheiten täglich zeigen die meisten Hunde nach 4–8 Wochen zuverlässige Ergebnisse bei den Basiskommandos. Bis der Grundgehorsam auch unter starker Ablenkung sitzt, dauert es in der Regel 3–6 Monate."
+  - question: "Welche Kommandos sollte ein Hund können?"
+    answer: "Zu den wichtigsten Kommandos für den Hund gehören die 7 Grundkommandos Sitz, Platz, Bleib, Hier (Rückruf), Fuß, Aus und Nein. Diese Hundekommandos bilden die Basis für ein sicheres Zusammenleben und lassen sich auf weitere Signale aufbauen."
+  - question: "Ab welchem Alter kann ich meinem Hund Kommandos beibringen?"
+    answer: "Welpen können ab der 8. Lebenswoche erste einfache Kommandos wie Sitz und Hier lernen. In den ersten Wochen stehen kurze Übungseinheiten von 2–3 Minuten im Vordergrund. Komplexere Hundekommandos wie Bleib oder Fuß folgen ab der 12.–16. Woche."
+  - question: "Wie lange dauert es, bis ein Hund alle Kommandos beherrscht?"
+    answer: "Bei konsequentem Training mit 2–3 kurzen Einheiten täglich zeigen die meisten Hunde nach 4–8 Wochen zuverlässige Ergebnisse bei den Basiskommandos. Bis die Kommandos auch unter starker Ablenkung sitzen, dauert es in der Regel 3–6 Monate."
   - question: "Was tun, wenn der Hund nicht auf Kommandos hört?"
     answer: "Überprüfe zuerst die Trainingsumgebung -- zu viele Ablenkungen überfordern den Hund. Gehe einen Trainingsschritt zurück, belohne zuverlässig und halte Übungseinheiten kurz. Bei anhaltenden Problemen hilft ein zertifizierter Hundetrainer mit individueller Analyse."
-  - question: "Wie oft sollte ich den Grundgehorsam mit meinem Hund üben?"
-    answer: "Tierärzte und Hundetrainer empfehlen 2–3 kurze Trainingseinheiten pro Tag mit jeweils 5–10 Minuten Dauer. Kurze, häufige Einheiten sind deutlich effektiver als eine lange Übungsstunde pro Woche. Zusätzlich lässt sich der Grundgehorsam im Alltag integrieren."
-  - question: "Kann ein erwachsener Hund noch Grundgehorsam lernen?"
-    answer: "Erwachsene Hunde können in jedem Alter neue Kommandos lernen. Studien zeigen, dass ältere Hunde zwar etwas langsamer lernen, das Gelernte dafür aber oft zuverlässiger abrufen. Geduld und positive Verstärkung sind dabei der Schlüssel zum Erfolg."
+  - question: "Wie oft sollte ich die Kommandos mit meinem Hund üben?"
+    answer: "Tierärzte und Hundetrainer empfehlen 2–3 kurze Trainingseinheiten pro Tag mit jeweils 5–10 Minuten Dauer. Kurze, häufige Einheiten sind deutlich effektiver als eine lange Übungsstunde pro Woche. Zusätzlich lassen sich Hundekommandos im Alltag integrieren."
+  - question: "Wie viele Kommandos kann ein Hund lernen?"
+    answer: "Hunde können bis zu 250 verschiedene Wörter und Gesten verstehen. Besonders intelligente Rassen wie Border Collies können sogar über 1.000 Objektnamen unterscheiden. Für den Alltag reichen die 7 Grundkommandos als solide Basis aus."
   - question: "Welche Belohnungen eignen sich am besten für das Kommando-Training?"
     answer: "Hochwertige, weiche Leckerlis in erbsengroßen Stücken eignen sich ideal, weil der Hund sie schnell schlucken kann. Für besonders motivierte Hunde funktionieren auch Spielzeug oder kurze Spieleinheiten als Belohnung. Wichtig ist, dass die Belohnung innerhalb von 1–2 Sekunden nach dem richtigen Verhalten erfolgt."
 clippy:
@@ -40,17 +40,17 @@ sources:
     url: "https://link.springer.com/journal/10071"
 ---
 
-Ein zuverlässiger Grundgehorsam beim Hund ist die Basis für ein sicheres und entspanntes Zusammenleben -- ob im Alltag, beim Spaziergang oder in unerwarteten Situationen. Die 7 wichtigsten Grundkommandos schützen deinen Hund vor Gefahren, erleichtern die Kommunikation und stärken eure Bindung nachhaltig.
+Die richtigen Kommandos für den Hund sind die Basis für ein sicheres und entspanntes Zusammenleben -- ob im Alltag, beim Spaziergang oder in unerwarteten Situationen. Mit den 7 wichtigsten Hundekommandos schützt du deinen Hund vor Gefahren, erleichterst die Kommunikation und stärkst eure Bindung nachhaltig.
 
-In diesem Ratgeber erfährst du, welche Kommandos zum Grundgehorsam gehören, wie du sie Schritt für Schritt trainierst und welche typischen Fehler du vermeiden solltest. Die Übungen funktionieren für Welpen ab 8 Wochen genauso wie für erwachsene Hunde -- mit konkreten Trainingsanleitungen und Zeitangaben.
+In diesem Ratgeber erfährst du, welche Kommandos dein Hund können sollte, wie du sie Schritt für Schritt trainierst und welche typischen Fehler du vermeiden solltest. Die Übungen funktionieren für Welpen ab 8 Wochen genauso wie für erwachsene Hunde -- mit konkreten Trainingsanleitungen und Zeitangaben.
 
-![Hund sitzt aufmerksam vor seinem Besitzer beim Grundgehorsam-Training](../../assets/images/grundgehorsam-hund-kommandos.webp)
+![Hund sitzt aufmerksam vor seinem Besitzer beim Kommando-Training](../../assets/images/grundgehorsam-hund-kommandos.webp)
 
 <div class="not-prose tldr-box">
-<p class="box-title">Zusammenfassung: Grundgehorsam beim Hund</p>
+<p class="box-title">Zusammenfassung: Die wichtigsten Kommandos für den Hund</p>
 <ul>
-<li><strong>7 Grundkommandos</strong> -- Sitz, Platz, Bleib, Hier, Fuß, Aus und Nein bilden den kompletten Grundgehorsam</li>
-<li><strong>Trainingsstart ab 8 Wochen</strong> -- Welpen lernen erste Kommandos in kurzen Einheiten von 2–3 Minuten</li>
+<li><strong>7 Grundkommandos</strong> -- Sitz, Platz, Bleib, Hier, Fuß, Aus und Nein sind die wichtigsten Hundekommandos</li>
+<li><strong>Kommandos beibringen ab 8 Wochen</strong> -- Welpen lernen erste Kommandos in kurzen Einheiten von 2–3 Minuten</li>
 <li><strong>Positive Verstärkung</strong> -- Belohnung innerhalb von 1–2 Sekunden ist laut Studien 4x effektiver als Strafe</li>
 <li><strong>2–3 Einheiten täglich</strong> -- Jeweils 5–10 Minuten reichen für sichtbare Fortschritte innerhalb von 4–8 Wochen</li>
 <li><strong>Konsequenz ist entscheidend</strong> -- Einheitliche Signalwörter und Regeln für alle Familienmitglieder</li>
@@ -68,7 +68,7 @@ In diesem Ratgeber erfährst du, welche Kommandos zum Grundgehorsam gehören, wi
 </div>
 <div class="stat-item stat-item--petrol">
 <div class="stat-number">4–8 Wochen</div>
-<div class="stat-label">bis zum Grundgehorsam</div>
+<div class="stat-label">bis alle Kommandos sitzen</div>
 </div>
 <div class="stat-item">
 <div class="stat-number">1–2 Sek</div>
@@ -76,31 +76,31 @@ In diesem Ratgeber erfährst du, welche Kommandos zum Grundgehorsam gehören, wi
 </div>
 </div>
 
-## Warum ist Grundgehorsam beim Hund so wichtig?
+## Warum sind die richtigen Kommandos beim Hund so wichtig?
 
-Grundgehorsam beim Hund bedeutet, dass dein Hund die wichtigsten Kommandos zuverlässig ausführt -- auch unter Ablenkung. Laut der Bundestierärztekammer ist ein solider Grundgehorsam die Voraussetzung für einen sicheren Freilauf und ein stressfreies Miteinander im Alltag.
+Kommandos für den Hund bedeuten mehr als bloßer Gehorsam -- sie ermöglichen eine klare Kommunikation zwischen dir und deinem Vierbeiner. Laut der Bundestierärztekammer sind zuverlässig trainierte Hundekommandos die Voraussetzung für einen sicheren Freilauf und ein stressfreies Miteinander im Alltag.
 
-Ein Hund ohne Grundgehorsam stellt ein Sicherheitsrisiko dar. Ohne zuverlässigen Rückruf kann ein Hund auf die Straße laufen, andere Hunde oder Menschen bedrängen oder Wild jagen. Rund 70 % aller Beißvorfälle lassen sich laut Tierärzteverband auf mangelnde Erziehung und fehlende Impulskontrolle zurückführen.
+Ein Hund ohne verlässliche Kommandos stellt ein Sicherheitsrisiko dar. Ohne zuverlässigen Rückruf kann ein Hund auf die Straße laufen, andere Hunde oder Menschen bedrängen oder Wild jagen. Rund 70 % aller Beißvorfälle lassen sich laut Tierärzteverband auf mangelnde Erziehung und fehlende Impulskontrolle zurückführen.
 
-### Grundgehorsam schützt deinen Hund
+### Kommandos schützen deinen Hund
 
 Der Rückruf kann im Ernstfall lebensrettend sein -- etwa wenn dein Hund auf eine befahrene Straße zuläuft. Das Kommando "Aus" verhindert, dass dein Hund giftige Substanzen aufnimmt. Gerade bei [Vergiftungsgefahren](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/) zählt jede Sekunde, und ein zuverlässiges "Aus" kann den Tierarztbesuch ersparen.
 
-### Grundgehorsam stärkt die Bindung
+### Hundekommandos stärken die Bindung
 
-Training mit positiver Verstärkung fördert die Kommunikation zwischen dir und deinem Hund. Studien der Veterinärmedizinischen Universität Wien zeigen, dass Hunde, die über positive Methoden trainiert werden, eine stärkere Bindung zu ihrem Halter aufbauen als Hunde, die mit Strafe erzogen werden. Dein Hund lernt, auf dich zu achten, und du lernst, seine Körpersprache zu lesen.
+Training mit positiver Verstärkung fördert die Kommunikation zwischen dir und deinem Hund. Studien der Veterinärmedizinischen Universität Wien zeigen, dass Hunde, die über positive Methoden trainiert werden, eine stärkere Bindung zu ihrem Halter aufbauen als Hunde, die mit Strafe erzogen werden. Beim gemeinsamen Üben der Kommandos lernt dein Hund, auf dich zu achten, und du lernst, seine Körpersprache zu lesen.
 
 <div class="not-prose info-box info-box-info">
 <span class="info-box-icon">ℹ️</span>
 <div>
-<strong>Grundgehorsam vs. Grundkommandos</strong>
-<p>Grundgehorsam umfasst mehr als einzelne Kommandos. Er beinhaltet auch allgemeine Verhaltensregeln wie Leinenführigkeit, Ruhe im Haus und sozialverträgliches Verhalten gegenüber Menschen und anderen Hunden.</p>
+<strong>Kommandos vs. Grundgehorsam</strong>
+<p>Einzelne Hundekommandos sind nur ein Teil des Grundgehorsams. Dieser umfasst auch allgemeine Verhaltensregeln wie Leinenführigkeit, Ruhe im Haus und sozialverträgliches Verhalten gegenüber Menschen und anderen Hunden.</p>
 </div>
 </div>
 
-## Die 7 Grundkommandos im Überblick
+## Die 7 wichtigsten Kommandos für den Hund im Überblick
 
-Die folgenden 7 Grundkommandos bilden das Fundament des Grundgehorsams beim Hund. Jedes Kommando erfüllt eine bestimmte Funktion im Alltag und baut auf dem vorherigen auf. Die Reihenfolge entspricht dem empfohlenen Trainingsaufbau.
+Die folgende Kommandos-Hund-Liste zeigt die 7 Grundkommandos, die jeder Hund beherrschen sollte. Jedes Kommando erfüllt eine bestimmte Funktion im Alltag und baut auf dem vorherigen auf. Die Reihenfolge entspricht dem empfohlenen Trainingsaufbau.
 
 | Kommando | Funktion | Schwierigkeit | Trainingsstart |
 |---|---|---|---|
@@ -116,7 +116,7 @@ Die folgenden 7 Grundkommandos bilden das Fundament des Grundgehorsams beim Hund
 <div class="card-grid-item">
 <span class="card-grid-icon">🐕</span>
 <p class="box-title">Sitz & Platz</p>
-<p>Basiskommandos für Impulskontrolle und Ruhe. Der Einstieg in den Grundgehorsam.</p>
+<p>Die beiden Basiskommandos für Impulskontrolle und Ruhe. Der ideale Einstieg, um deinem Hund Kommandos beizubringen.</p>
 </div>
 <div class="card-grid-item card-grid-item--beige">
 <span class="card-grid-icon">⏸️</span>
@@ -131,15 +131,15 @@ Die folgenden 7 Grundkommandos bilden das Fundament des Grundgehorsams beim Hund
 <div class="card-grid-item card-grid-item--accent">
 <span class="card-grid-icon">🚫</span>
 <p class="box-title">Aus & Nein</p>
-<p>Abbruchsignale schützen deinen Hund vor Gefahren und unerwünschtem Verhalten.</p>
+<p>Diese Abbruch-Kommandos schützen deinen Hund vor Gefahren und unerwünschtem Verhalten.</p>
 </div>
 </div>
 
-## Kommando 1: Sitz -- Das Einstiegskommando
+## Kommando 1: Sitz -- Das Einstiegskommando für jeden Hund
 
-"Sitz" ist das einfachste und gleichzeitig vielseitigste Grundkommando. Hunde setzen sich von Natur aus häufig hin, weshalb dieses Verhalten leicht mit einem Signalwort verknüpft werden kann. Die meisten Welpen lernen "Sitz" innerhalb von 5–10 Trainingseinheiten zuverlässig.
+"Sitz" ist das einfachste und gleichzeitig vielseitigste aller Hundekommandos. Hunde setzen sich von Natur aus häufig hin, weshalb dieses Verhalten leicht mit einem Signalwort verknüpft werden kann. Die meisten Welpen lernen dieses Kommando innerhalb von 5–10 Trainingseinheiten zuverlässig.
 
-### Schritt-für-Schritt-Anleitung für "Sitz"
+### Schritt-für-Schritt-Anleitung: Dem Hund "Sitz" beibringen
 
 Halte ein Leckerli zwischen Daumen und Zeigefinger direkt vor die Nase deines Hundes. Führe das Leckerli langsam über seinen Kopf nach hinten. Dein Hund wird automatisch den Kopf heben und sich dabei hinsetzen. Sobald sein Hinterteil den Boden berührt, sagst du "Sitz" und gibst die Belohnung sofort -- innerhalb von 1–2 Sekunden.
 
@@ -166,15 +166,15 @@ Halte ein Leckerli zwischen Daumen und Zeigefinger direkt vor die Nase deines Hu
 </div>
 </div>
 
-### Typische Fehler beim "Sitz"-Training
+### Typische Fehler beim "Sitz"-Kommando
 
 Viele Hundehalter wiederholen das Kommando mehrfach, wenn der Hund nicht sofort reagiert. Das führt dazu, dass der Hund lernt, erst beim dritten "Sitz" zu reagieren. Sage das Signalwort immer nur einmal und warte 3–5 Sekunden. Reagiert dein Hund nicht, starte die Übung von vorn mit Leckerli-Hilfe.
 
 ## Kommando 2: Platz -- Die Ruheposition
 
-"Platz" ist die natürliche Erweiterung von "Sitz" und bedeutet, dass dein Hund sich komplett hinlegt. Dieses Kommando eignet sich besonders für längere Wartezeiten -- etwa im Restaurant, beim Tierarzt oder wenn Besuch kommt. Ein Hund in der Platz-Position ist entspannter als im Sitz, da die Muskulatur weniger beansprucht wird.
+"Platz" ist die natürliche Erweiterung von "Sitz" und bedeutet, dass dein Hund sich komplett hinlegt. Dieses Hundekommando eignet sich besonders für längere Wartezeiten -- etwa im Restaurant, beim Tierarzt oder wenn Besuch kommt. Ein Hund in der Platz-Position ist entspannter als im Sitz, da die Muskulatur weniger beansprucht wird.
 
-### So trainierst du "Platz"
+### So trainierst du das Kommando "Platz"
 
 Bringe deinen Hund zunächst ins "Sitz". Halte ein Leckerli vor seine Nase und führe es langsam senkrecht zum Boden zwischen seine Vorderpfoten. Sobald dein Hund dem Leckerli folgt und sich hinlegt, sagst du "Platz" und belohnst sofort. Manche Hunde strecken zunächst nur die Vorderbeine aus -- belohne auch diesen Zwischenschritt.
 
@@ -190,9 +190,9 @@ Ein häufiger Fehler beim Platz-Training: Das Leckerli wird zu weit nach vorne g
 
 ## Kommando 3: Bleib -- Geduld trainieren
 
-Das Kommando "Bleib" lehrt deinen Hund, auf seiner Position zu verweilen, bis du ihn auflöst. Es baut direkt auf "Sitz" und "Platz" auf und erfordert Impulskontrolle. Laut Hundetrainern ist "Bleib" eines der schwierigsten Grundkommandos, weil der Hund seinem natürlichen Bewegungsdrang widerstehen muss.
+Das Kommando "Bleib" lehrt deinen Hund, auf seiner Position zu verweilen, bis du ihn auflöst. Es baut direkt auf "Sitz" und "Platz" auf und erfordert Impulskontrolle. Laut Hundetrainern zählt "Bleib" zu den schwierigsten Hundekommandos, weil der Hund seinem natürlichen Bewegungsdrang widerstehen muss.
 
-### Die 3-D-Methode für "Bleib"
+### Die 3-D-Methode für das "Bleib"-Kommando
 
 Professionelle Hundetrainer arbeiten beim Bleib-Training mit der 3-D-Methode: Duration (Dauer), Distance (Distanz) und Distraction (Ablenkung). Entscheidend ist, immer nur einen Parameter gleichzeitig zu steigern.
 
@@ -215,11 +215,11 @@ Beginne im "Sitz" oder "Platz". Sage "Bleib", zeige die flache Handfläche als S
 
 ## Kommando 4: Hier -- Der lebensrettende Rückruf
 
-Ein zuverlässiger Rückruf ist das wichtigste Sicherheitskommando im Grundgehorsam. "Hier" bedeutet, dass dein Hund sofort alles stehen und liegen lässt und zu dir zurückkommt -- egal ob ein Reh im Wald steht, ein anderer Hund vorbeiläuft oder ein Radfahrer naht.
+Ein zuverlässiger Rückruf ist das wichtigste Sicherheitskommando in der Hund-Kommandos-Liste. "Hier" bedeutet, dass dein Hund sofort alles stehen und liegen lässt und zu dir zurückkommt -- egal ob ein Reh im Wald steht, ein anderer Hund vorbeiläuft oder ein Radfahrer naht.
 
-### Rückruf-Training aufbauen
+### Rückruf-Kommando aufbauen
 
-Der Rückruf funktioniert am besten mit einem exklusiven Signalwort, das du ausschließlich für den Rückruf verwendest. Viele Hundetrainer empfehlen ein spezielles Wort wie "Hier" oder einen Pfiff statt des Hundenamens, da der Name im Alltag zu häufig ohne Konsequenz genutzt wird.
+Der Rückruf funktioniert am besten mit einem exklusiven Signalwort, das du ausschließlich für dieses Kommando verwendest. Viele Hundetrainer empfehlen ein spezielles Rückruf-Wort wie "Hier" oder einen Pfiff statt des Hundenamens, da der Name im Alltag zu häufig ohne Konsequenz genutzt wird.
 
 Starte das Rückruf-Training in der Wohnung ohne Ablenkung. Sage "Hier" in einem fröhlichen, hohen Ton und belohne deinen Hund mit einem besonders hochwertigen Leckerli -- etwas, das er nur beim Rückruf bekommt. Käse, gekochtes Hühnchen oder Leberwurst eignen sich als Jackpot-Belohnung.
 
@@ -227,21 +227,21 @@ Starte das Rückruf-Training in der Wohnung ohne Ablenkung. Sage "Hier" in einem
 
 ### Die goldene Rückruf-Regel
 
-Rufe deinen Hund niemals zu dir, um etwas Unangenehmes zu tun -- etwa Anleinen, Baden oder Schimpfen. Jeder negative Rückruf-Erlebnis schwächt das Kommando. Wenn du deinen Hund anleinen musst, gehe stattdessen zu ihm hin. Der Rückruf muss immer zu 100 % positiv verknüpft sein.
+Rufe deinen Hund niemals zu dir, um etwas Unangenehmes zu tun -- etwa Anleinen, Baden oder Schimpfen. Jedes negative Rückruf-Erlebnis schwächt das Kommando. Wenn du deinen Hund anleinen musst, gehe stattdessen zu ihm hin. Der Rückruf muss immer zu 100 % positiv verknüpft sein.
 
 <div class="not-prose info-box info-box-danger">
 <span class="info-box-icon">🚫</span>
 <div>
-<strong>Achtung: Rückruf bei Jagdtrieb</strong>
-<p>Hunde mit starkem Jagdtrieb (z. B. Beagle, Dackel, Weimaraner) benötigen ein spezielles Anti-Jagd-Training. Ein normaler Rückruf reicht bei Wildkontakt oft nicht aus, da der Jagdinstinkt stärker ist als die Belohnung. Lasse solche Hunde nur in sicherer Umgebung von der Leine.</p>
+<strong>Achtung: Rückruf bei Hunden mit Jagdtrieb</strong>
+<p>Hunde mit starkem Jagdtrieb (z. B. Beagle, Dackel, Weimaraner) benötigen ein spezielles Anti-Jagd-Training. Ein normales Rückruf-Kommando reicht bei Wildkontakt oft nicht aus, da der Jagdinstinkt stärker ist als die Belohnung. Lasse solche Hunde nur in sicherer Umgebung von der Leine.</p>
 </div>
 </div>
 
 ## Kommando 5: Fuß -- Entspannt an der Leine gehen
 
-"Fuß" bedeutet, dass dein Hund kontrolliert neben dir geht, ohne an der Leine zu ziehen. Dieses Kommando gehört zu den anspruchsvollsten Grundgehorsam-Übungen, da es dem natürlichen Erkundungsdrang des Hundes widerspricht. Laut einer Umfrage des VDH ist Leinenziehen das häufigste Verhaltensproblem bei Hunden.
+"Fuß" bedeutet, dass dein Hund kontrolliert neben dir geht, ohne an der Leine zu ziehen. Dieses Kommando gehört zu den anspruchsvollsten Hundekommandos, da es dem natürlichen Erkundungsdrang des Hundes widerspricht. Laut einer Umfrage des VDH ist Leinenziehen das häufigste Verhaltensproblem bei Hunden.
 
-### Fuß-Training: Methode "Richtungswechsel"
+### Fuß-Kommando trainieren: Methode "Richtungswechsel"
 
 Gehe mit deinem Hund an lockerer Leine los. Sobald die Leine straff wird, bleibst du abrupt stehen oder wechselst die Richtung. Dein Hund lernt: Ziehen führt nicht zum Ziel. Läuft er neben dir mit lockerer Leine, belohnst du ihn alle 3–5 Schritte mit einem Leckerli auf Kniehöhe.
 
@@ -255,9 +255,9 @@ Für ein vertieftes Training der [Leinenführigkeit](https://hundewissen-mit-kop
 
 ## Kommando 6: Aus -- Gegenstand loslassen
 
-"Aus" ist ein Sicherheitskommando, das deinen Hund dazu bringt, einen Gegenstand aus dem Maul fallen zu lassen. Hunde nehmen beim Spaziergang regelmäßig Dinge vom Boden auf -- von Stöcken über Müll bis hin zu potenziell giftigen Substanzen. Ein zuverlässiges "Aus" kann im Ernstfall lebensrettend sein.
+"Aus" ist ein Sicherheitskommando, das deinen Hund dazu bringt, einen Gegenstand aus dem Maul fallen zu lassen. Hunde nehmen beim Spaziergang regelmäßig Dinge vom Boden auf -- von Stöcken über Müll bis hin zu potenziell giftigen Substanzen. Dieses Kommando kann im Ernstfall für den Hund lebensrettend sein.
 
-### Tauschgeschäft-Methode
+### Tauschgeschäft-Methode zum Kommando beibringen
 
 Biete deinem Hund einen Gegenstand (z. B. Spielzeug) an. Sobald er es im Maul hat, zeigst du ihm ein besonders hochwertiges Leckerli und sagst "Aus". Dein Hund lässt den Gegenstand fallen, um das Leckerli zu nehmen. Wichtig: Gib ihm den Gegenstand anschließend zurück. So lernt er, dass "Aus" kein Verlust bedeutet, sondern ein Tausch.
 
@@ -265,7 +265,7 @@ Biete deinem Hund einen Gegenstand (z. B. Spielzeug) an. Sobald er es im Maul ha
 <span class="info-box-icon">✅</span>
 <div>
 <strong>Tauschprinzip funktioniert</strong>
-<p>Hunde, die nach dem "Aus" ihren Gegenstand zurückbekommen, geben laut Studien der University of Lincoln 3x schneller ab als Hunde, denen der Gegenstand dauerhaft weggenommen wird. Das Tauschprinzip baut Vertrauen auf und macht "Aus" zuverlässiger.</p>
+<p>Hunde, die nach dem "Aus" ihren Gegenstand zurückbekommen, geben laut Studien der University of Lincoln 3x schneller ab als Hunde, denen der Gegenstand dauerhaft weggenommen wird. Das Tauschprinzip baut Vertrauen auf und macht das Kommando zuverlässiger.</p>
 </div>
 </div>
 
@@ -273,13 +273,13 @@ Vermeide es, dem Hund Gegenstände gewaltsam aus dem Maul zu nehmen. Das erzeugt
 
 ## Kommando 7: Nein -- Das Abbruchsignal
 
-"Nein" ist ein universelles Abbruchsignal, das unerwünschtes Verhalten unterbricht -- etwa Anspringen, Betteln am Tisch oder das Schnüffeln an fremden Hunden. Im Gegensatz zu "Aus" (Gegenstand loslassen) bezieht sich "Nein" auf Handlungen und Verhaltensweisen.
+"Nein" ist ein universelles Abbruchsignal und eines der wichtigsten Hundekommandos im Alltag. Es unterbricht unerwünschtes Verhalten -- etwa Anspringen, Betteln am Tisch oder das Schnüffeln an fremden Hunden. Im Gegensatz zum Kommando "Aus" (Gegenstand loslassen) bezieht sich "Nein" auf Handlungen und Verhaltensweisen.
 
-### Nein richtig einsetzen
+### Dem Hund "Nein" richtig beibringen
 
 Sage "Nein" in einem ruhigen, bestimmten Ton -- nicht laut oder aggressiv. Lenke deinen Hund sofort auf eine erwünschte Alternative um. Beispiel: Dein Hund springt einen Besucher an. Du sagst "Nein", leitest ihn ins "Sitz" und belohnst das Sitzen. So lernt dein Hund nicht nur, was er nicht tun soll, sondern auch, was er stattdessen tun soll.
 
-Wenn dein Hund in bestimmten Situationen übermäßig [bellt](https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/), kann das Abbruchsignal "Nein" in Kombination mit einer Alternativhandlung helfen, das unerwünschte Verhalten zu reduzieren.
+Wenn dein Hund in bestimmten Situationen übermäßig [bellt](https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/), kann das Abbruch-Kommando "Nein" in Kombination mit einer Alternativhandlung helfen, das unerwünschte Verhalten zu reduzieren.
 
 <div class="not-prose definition-box">
 <div class="def-icon">📖</div>
@@ -289,9 +289,9 @@ Wenn dein Hund in bestimmten Situationen übermäßig [bellt](https://hundewisse
 </div>
 </div>
 
-## Die 7 Grundregeln für erfolgreiches Hundetraining
+## Die 7 Grundregeln: So bringst du deinem Hund Kommandos richtig bei
 
-Neben den 7 Grundkommandos gibt es 7 Grundregeln, die den Trainingserfolg maßgeblich beeinflussen. Diese Prinzipien gelten für jedes Kommando und jede Übung im Grundgehorsam.
+Neben den 7 Grundkommandos gibt es 7 Grundregeln, die den Trainingserfolg maßgeblich beeinflussen. Diese Prinzipien gelten für jedes Kommando und jede Übung, die du deinem Hund beibringen möchtest.
 
 <div class="not-prose steps-grid">
 <div class="step-item">
@@ -307,7 +307,7 @@ Neben den 7 Grundkommandos gibt es 7 Grundregeln, die den Trainingserfolg maßge
 <div class="step-item">
 <div class="step-number">3</div>
 <p class="box-title">Immer positiv enden</p>
-<p>Beende jede Trainingseinheit mit einer Übung, die dein Hund sicher beherrscht. Erfolg motiviert.</p>
+<p>Beende jede Trainingseinheit mit einem Kommando, das dein Hund sicher beherrscht. Erfolg motiviert.</p>
 </div>
 <div class="step-item">
 <div class="step-number">4</div>
@@ -331,13 +331,13 @@ Neben den 7 Grundkommandos gibt es 7 Grundregeln, die den Trainingserfolg maßge
 </div>
 </div>
 
-## Grundgehorsam-Übungen für den Alltag
+## Hundekommandos im Alltag üben und festigen
 
-Die besten Grundgehorsam-Übungen finden nicht auf dem Trainingsplatz statt, sondern im Alltag. Jede Alltagssituation bietet Gelegenheiten, Kommandos zu festigen und zu generalisieren -- also auf verschiedene Umgebungen und Ablenkungsgrade zu übertragen.
+Die besten Übungen für Hundekommandos finden nicht auf dem Trainingsplatz statt, sondern im Alltag. Jede Alltagssituation bietet Gelegenheiten, Kommandos zu festigen und zu generalisieren -- also auf verschiedene Umgebungen und Ablenkungsgrade zu übertragen.
 
 ### Übung vor dem Fressnapf
 
-Lasse deinen Hund vor jeder Mahlzeit "Sitz" und "Bleib" ausführen. Stelle den Napf hin und warte 5–10 Sekunden, bevor du mit einem Auflösewort ("Okay" oder "Friss") die Freigabe gibst. Diese Übung trainiert Impulskontrolle und festigt zwei Grundkommandos gleichzeitig -- ohne zusätzlichen Zeitaufwand.
+Lasse deinen Hund vor jeder Mahlzeit "Sitz" und "Bleib" ausführen. Stelle den Napf hin und warte 5–10 Sekunden, bevor du mit einem Auflösewort ("Okay" oder "Friss") die Freigabe gibst. Diese Übung trainiert Impulskontrolle und festigt zwei Kommandos gleichzeitig -- ohne zusätzlichen Zeitaufwand.
 
 ### Übung an der Haustür
 
@@ -345,15 +345,15 @@ Bevor die Haustür geöffnet wird, setzt sich dein Hund und wartet. Diese Übung
 
 ### Übung beim Spaziergang
 
-Baue während des Spaziergangs alle 5–10 Minuten ein kurzes Kommando ein. Ein spontanes "Sitz" an der Straßenecke, ein "Platz-Bleib" auf einer Parkbank oder ein Rückruf beim Freilauf. So wird der Grundgehorsam unter verschiedenen Ablenkungsgraden gefestigt.
+Baue während des Spaziergangs alle 5–10 Minuten ein kurzes Kommando ein. Ein spontanes "Sitz" an der Straßenecke, ein "Platz-Bleib" auf einer Parkbank oder ein Rückruf beim Freilauf. So werden die Hundekommandos unter verschiedenen Ablenkungsgraden gefestigt.
 
 ![Hund übt Platz-Kommando im Park mit Besitzer](../../assets/images/grundgehorsam-uebungen-park.webp)
 
-## Grundgehorsam beim Jagdhund -- Besonderheiten
+## Kommandos beim Jagdhund -- Besonderheiten
 
-Jagdhunde wie Deutsch Drahthaar, Weimaraner oder Beagle bringen einen genetisch verankerten Jagdtrieb mit, der das Grundgehorsam-Training vor besondere Herausforderungen stellt. Der Grundgehorsam beim Jagdhund muss deshalb noch zuverlässiger sitzen als bei anderen Rassen.
+Jagdhunde wie Deutsch Drahthaar, Weimaraner oder Beagle bringen einen genetisch verankerten Jagdtrieb mit, der das Training der Kommandos vor besondere Herausforderungen stellt. Bei einem Jagdhund müssen die Hundekommandos deshalb noch zuverlässiger sitzen als bei anderen Rassen.
 
-### Jagdtrieb und Grundgehorsam
+### Jagdtrieb und Kommandos für den Hund
 
 Bei Jagdhunden steht der Rückruf an erster Stelle der Prioritäten. Laut dem Jagdgebrauchshundverband (JGHV) sollte der Rückruf bei Jagdhunden über eine Pfeife (Acme-Pfeife) konditioniert werden, da der Pfeifton auch über große Distanzen von 200–300 Metern hörbar ist und immer gleich klingt.
 
@@ -375,13 +375,13 @@ Bei Jagdhunden steht der Rückruf an erster Stelle der Prioritäten. Laut dem Ja
 
 ## Positive Verstärkung vs. Strafe -- Was sagt die Wissenschaft?
 
-Positive Verstärkung ist laut aktueller Forschung die effektivste Trainingsmethode für den Grundgehorsam beim Hund. Eine Studie der University of Porto (2020) mit 92 Hunden zeigte, dass Hunde, die mit positiver Verstärkung trainiert wurden, Kommandos 4x schneller lernten als Hunde, die mit aversiven Methoden (Leinenruck, Sprühhalsbänder) trainiert wurden.
+Positive Verstärkung ist laut aktueller Forschung die effektivste Trainingsmethode, um einem Hund Kommandos beizubringen. Eine Studie der University of Porto (2020) mit 92 Hunden zeigte, dass Hunde, die mit positiver Verstärkung trainiert wurden, Kommandos 4x schneller lernten als Hunde, die mit aversiven Methoden (Leinenruck, Sprühhalsbänder) trainiert wurden.
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
 <p class="box-title">Positive Verstärkung</p>
 <ul>
-<li>Hund lernt schneller und behält Kommandos länger</li>
+<li>Hund lernt Kommandos schneller und behält sie länger</li>
 <li>Stärkere Bindung zwischen Hund und Halter</li>
 <li>Weniger Stresshormone (Cortisol) beim Hund</li>
 <li>Hund zeigt mehr Eigeninitiative und Kreativität</li>
@@ -400,11 +400,11 @@ Positive Verstärkung ist laut aktueller Forschung die effektivste Trainingsmeth
 </div>
 </div>
 
-Die Bundestierärztekammer positioniert sich eindeutig gegen aversive Trainingsmethoden. Stachelhalsbänder, Stromhalsbänder und andere Schmerzreize sind in Deutschland gemäß Tierschutzgesetz § 3 Nr. 11 verboten. Positive Verstärkung durch Leckerlis, Lob und Spiel ist die tierschutzkonforme und wissenschaftlich überlegene Methode.
+Die Bundestierärztekammer positioniert sich eindeutig gegen aversive Trainingsmethoden. Stachelhalsbänder, Stromhalsbänder und andere Schmerzreize sind in Deutschland gemäß Tierschutzgesetz § 3 Nr. 11 verboten. Positive Verstärkung durch Leckerlis, Lob und Spiel ist die tierschutzkonforme und wissenschaftlich überlegene Methode, um deinem Hund Kommandos beizubringen.
 
-## Häufige Fehler beim Grundgehorsam-Training
+## Häufige Fehler beim Kommando-Training mit dem Hund
 
-Selbst motivierte Hundehalter machen beim Grundgehorsam-Training typische Fehler, die den Fortschritt bremsen oder sogar kontraproduktiv wirken. Die folgenden 5 Fehler treten laut Hundetrainern am häufigsten auf.
+Selbst motivierte Hundehalter machen beim Training der Hundekommandos typische Fehler, die den Fortschritt bremsen oder sogar kontraproduktiv wirken. Die folgenden 5 Fehler treten laut Hundetrainern am häufigsten auf.
 
 ### Fehler 1: Zu lange Trainingseinheiten
 
@@ -416,18 +416,18 @@ Wenn du "Sitz, Sitz, SITZ!" sagst, lernt dein Hund, dass er erst beim dritten Ma
 
 ### Fehler 3: Inkonsequenz in der Familie
 
-Wenn ein Familienmitglied "Platz" sagt und ein anderes "Leg dich hin", ist der Hund verwirrt. Erstelle eine Liste mit den vereinbarten Signalwörtern und hänge sie sichtbar auf.
+Wenn ein Familienmitglied "Platz" sagt und ein anderes "Leg dich hin", ist der Hund verwirrt. Erstelle eine Kommandos-Liste für den Hund mit den vereinbarten Signalwörtern und hänge sie sichtbar auf.
 
-### Fehler 4: Training nur auf dem Hundeplatz
+### Fehler 4: Kommandos nur auf dem Hundeplatz üben
 
-Ein Kommando, das nur auf dem Hundeplatz funktioniert, ist im Alltag wertlos. Grundgehorsam-Übungen müssen in mindestens 5–10 verschiedenen Umgebungen trainiert werden, damit der Hund das Kommando generalisiert.
+Ein Kommando, das nur auf dem Hundeplatz funktioniert, ist im Alltag wertlos. Hundekommandos müssen in mindestens 5–10 verschiedenen Umgebungen trainiert werden, damit der Hund das Kommando generalisiert.
 
 ### Fehler 5: Zu schnelle Steigerung der Ablenkung
 
 Vom Wohnzimmer direkt in den belebten Park -- das überfordert jeden Hund. Steigere die Ablenkung schrittweise: Wohnung → Garten → ruhige Straße → Park ohne Hunde → Park mit Hunden → belebte Innenstadt.
 
 <div class="not-prose checklist">
-<p class="box-title">✅ Checkliste: Grundgehorsam-Training richtig gemacht</p>
+<p class="box-title">✅ Checkliste: Kommandos beim Hund richtig trainieren</p>
 <div class="checklist-item checklist-item--checked">
 <div class="check-icon">✓</div>
 <span>Einheitliche Signalwörter für alle Familienmitglieder festgelegt</span>
@@ -454,9 +454,9 @@ Vom Wohnzimmer direkt in den belebten Park -- das überfordert jeden Hund. Steig
 </div>
 </div>
 
-## Grundgehorsam-Trainingsplan für 8 Wochen
+## Trainingsplan: Alle 7 Hundekommandos in 8 Wochen
 
-Ein strukturierter Trainingsplan hilft, den Grundgehorsam systematisch aufzubauen. Der folgende 8-Wochen-Plan eignet sich für Welpen ab 10 Wochen und erwachsene Hunde gleichermaßen. Bei erwachsenen Hunden mit Vorerfahrung können einzelne Phasen schneller durchlaufen werden.
+Ein strukturierter Trainingsplan hilft, die wichtigsten Kommandos für den Hund systematisch aufzubauen. Der folgende 8-Wochen-Plan eignet sich für Welpen ab 10 Wochen und erwachsene Hunde gleichermaßen. Bei erwachsenen Hunden mit Vorerfahrung können einzelne Phasen schneller durchlaufen werden.
 
 | Woche | Kommandos | Übungsdauer | Umgebung | Ziel |
 |---|---|---|---|---|
@@ -469,7 +469,7 @@ Ein strukturierter Trainingsplan hilft, den Grundgehorsam systematisch aufzubaue
 <span class="info-box-icon">ℹ️</span>
 <div>
 <strong>Nach dem 8-Wochen-Plan</strong>
-<p>Der 8-Wochen-Plan legt das Fundament. Bis der Grundgehorsam auch unter starker Ablenkung (andere Hunde, Wild, Radfahrer) zuverlässig funktioniert, vergehen weitere 2–4 Monate regelmäßiges Training. Grundgehorsam ist kein Projekt mit Enddatum, sondern ein fortlaufender Prozess.</p>
+<p>Der 8-Wochen-Plan legt das Fundament. Bis die Hundekommandos auch unter starker Ablenkung (andere Hunde, Wild, Radfahrer) zuverlässig funktionieren, vergehen weitere 2–4 Monate regelmäßiges Training. Das Festigen der Kommandos beim Hund ist kein Projekt mit Enddatum, sondern ein fortlaufender Prozess.</p>
 </div>
 </div>
 
@@ -481,10 +481,10 @@ Achte bei der Wahl der Hundeschule auf folgende Qualitätsmerkmale: Der Trainer 
 
 Für [Anfänger-Hunderassen](https://hundewissen-mit-kopf.de/hunderassen/hunderasse-fuer-anfaenger/) ist der Besuch einer Hundeschule besonders empfehlenswert, da Ersthundehalter von der professionellen Anleitung und dem Austausch mit anderen Hundebesitzern profitieren.
 
-## Fazit: Grundgehorsam beim Hund -- Sicherheit durch klare Kommunikation
+## Fazit: Die richtigen Kommandos machen den Hund zum zuverlässigen Begleiter
 
-Ein solider Grundgehorsam beim Hund basiert auf 7 Grundkommandos -- Sitz, Platz, Bleib, Hier, Fuß, Aus und Nein -- die mit positiver Verstärkung trainiert werden. Mit 2–3 kurzen Trainingseinheiten von jeweils 5–10 Minuten pro Tag zeigen die meisten Hunde innerhalb von 4–8 Wochen zuverlässige Ergebnisse.
+Die 7 wichtigsten Kommandos für den Hund -- Sitz, Platz, Bleib, Hier, Fuß, Aus und Nein -- bilden die Grundlage für ein sicheres Zusammenleben. Mit positiver Verstärkung und 2–3 kurzen Trainingseinheiten von jeweils 5–10 Minuten pro Tag zeigen die meisten Hunde innerhalb von 4–8 Wochen zuverlässige Ergebnisse.
 
-Der Schlüssel zum Erfolg liegt in Konsequenz, Geduld und dem richtigen Timing der Belohnung. Starte mit einfachen Kommandos in reizarmer Umgebung und steigere die Ablenkung schrittweise. Vermeide die typischen Fehler -- zu lange Einheiten, wiederholte Kommandos und inkonsequente Regeln.
+Der Schlüssel zum Erfolg liegt in Konsequenz, Geduld und dem richtigen Timing der Belohnung. Starte mit einfachen Hundekommandos in reizarmer Umgebung und steigere die Ablenkung schrittweise. Vermeide die typischen Fehler -- zu lange Einheiten, wiederholte Kommandos und inkonsequente Regeln.
 
-Grundgehorsam ist keine einmalige Aufgabe, sondern ein fortlaufender Prozess, der die Bindung zwischen dir und deinem Hund stärkt. Beginne heute mit dem ersten Kommando -- dein Hund wird es dir mit Vertrauen und Zuverlässigkeit danken.
+Das Trainieren von Kommandos beim Hund ist keine einmalige Aufgabe, sondern ein fortlaufender Prozess, der die Bindung zwischen dir und deinem Vierbeiner stärkt. Beginne heute mit dem ersten Kommando -- dein Hund wird es dir mit Vertrauen und Zuverlässigkeit danken.
