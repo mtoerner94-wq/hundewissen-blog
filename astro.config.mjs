@@ -16,7 +16,13 @@ export default defineConfig({
     rehypePlugins: [
       [rehypeExternalLinks, {
         target: '_blank',
-        rel: ['nofollow', 'noopener', 'noreferrer']
+        rel: ['nofollow', 'noopener', 'noreferrer'],
+        test: (element) => {
+          const href = element.properties?.href;
+          return typeof href === 'string' &&
+            !href.startsWith('https://hundewissen-mit-kopf.de') &&
+            !href.startsWith('/');
+        }
       }]
     ]
   },
