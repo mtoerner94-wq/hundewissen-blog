@@ -214,7 +214,7 @@ Reifes, trimmfähiges Fell lässt sich leicht und schmerzfrei auszupfen. Folgend
 - **Vermehrtes Kratzen** -- abgestorbene Haare können die Haut reizen
 - **Fell steht ab oder wirkt struppig** -- die Haare haben ihre natürliche Spannung verloren
 
-Wenn dein Hund [vermehrt Fell verliert](https://hundewissen-mit-kopf.de/hundegesundheit/hund-verliert-viel-fell-fellwechsel-krankheit/), kann das bei drahthaarigen Rassen ein zusätzliches Zeichen für überfälliges Trimmen sein.
+Wenn dein Hund vermehrt Fell verliert, kann das bei drahthaarigen Rassen ein zusätzliches Zeichen für überfälliges Trimmen sein.
 
 <div class="not-prose info-box info-box-tip">
 <span class="info-box-icon">💡</span>

@@ -181,7 +181,7 @@ Welpen unter 12 Wochen sollten grundsätzlich keine Tomaten bekommen. Ihr Verdau
 
 Gekochte reife Tomaten sind für Hunde sogar besser geeignet als rohe. Durch das Erhitzen auf über 100 °C wird verbleibendes Solanin weiter abgebaut. Gleichzeitig steigt die Bioverfügbarkeit von Lycopin um das 2- bis 3-Fache.
 
-Wichtig beim Kochen: Verwende ausschließlich reife Tomaten und verzichte komplett auf Gewürze, Salz, Zwiebeln und Knoblauch. Zwiebeln und Knoblauch sind für Hunde giftig und können eine hämolytische Anämie (Zerstörung der roten Blutkörperchen) auslösen -- mehr dazu in unserem Ratgeber zu [giftigen Lebensmitteln für Hunde](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/).
+Wichtig beim Kochen: Verwende ausschließlich reife Tomaten und verzichte komplett auf Gewürze, Salz, Zwiebeln und Knoblauch. Zwiebeln und Knoblauch sind für Hunde giftig und können eine hämolytische Anämie (Zerstörung der roten Blutkörperchen) auslösen -- mehr dazu in unserem Ratgeber zu giftigen Lebensmitteln für Hunde.
 
 <div class="not-prose comparison-grid">
 <div class="comparison-pro">
@@ -313,7 +313,7 @@ Die Symptome einer Solanin-Vergiftung beim Hund reichen von mild bis lebensbedro
 </div>
 </div>
 
-Wenn dein Hund Symptome wie starkes Zittern, Kreislaufprobleme oder Atemnot zeigt, ist das ein Notfall. Bringe ihn sofort zum Tierarzt. Mehr Informationen zu Vergiftungsnotfällen findest du in unserem Ratgeber zur [Vergiftung beim Hund](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/).
+Wenn dein Hund Symptome wie starkes Zittern, Kreislaufprobleme oder Atemnot zeigt, ist das ein Notfall. Bringe ihn sofort zum Tierarzt. Mehr Informationen zu Vergiftungsnotfällen findest du in unserem Ratgeber zur Vergiftung beim Hund.
 
 ## Tomaten-Allergie beim Hund erkennen
 
@@ -377,4 +377,4 @@ Reife, rote Tomaten dürfen Hunde in kleinen Mengen essen und liefern sogar wert
 
 Die wichtigsten Regeln auf einen Blick: Nur vollreife rote Tomaten füttern, den Stielansatz entfernen, kleine Mengen geben und auf Fertigprodukte mit Zwiebeln und Salz verzichten. Gekochte Tomaten sind sogar besser verträglich als rohe. Bei Anzeichen einer Tomaten-Allergie oder nach dem Verzehr grüner Tomaten solltest du deinen Tierarzt kontaktieren.
 
-Wenn du dich generell fragst, welche Lebensmittel für deinen Hund sicher sind, hilft dir unser Ratgeber zu [giftigen Lebensmitteln und Vergiftungen beim Hund](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/) weiter. So kannst du deinen Vierbeiner sicher und abwechslungsreich ernähren.
+Wenn du dich generell fragst, welche Lebensmittel für deinen Hund sicher sind, hilft dir unser Ratgeber zu giftigen Lebensmitteln und Vergiftungen beim Hund weiter. So kannst du deinen Vierbeiner sicher und abwechslungsreich ernähren.

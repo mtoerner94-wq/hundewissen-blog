@@ -150,7 +150,7 @@ Mildes, hypoallergenes Hundeshampoo eignet sich für die meisten Hunde und ist d
 
 Kokosöl kann als natürliches Hausmittel die Hundehaut pflegen und ist in kleinen Mengen als Fellkur geeignet. Es wirkt rückfettend und hat leicht antibakterielle Eigenschaften. Als alleiniger Ersatz für ein Hundeshampoo reicht Kokosöl allerdings nicht aus, da es Schmutz nicht ausreichend löst. Apfelessig verdünnt mit Wasser (Verhältnis 1:10) kann als natürlicher Conditioner nach dem Waschen das Fell zum Glänzen bringen.
 
-Spülmittel, Seife oder andere Haushaltsreiniger dürfen niemals zum Hunde waschen verwendet werden. Diese Produkte entfetten die Haut extrem stark und können zu schweren Hautreizungen führen. Auch Baby-Feuchttücher mit Duftstoffen sind für die Hundepflege ungeeignet. Bei Unsicherheit bezüglich [giftigen Substanzen für Hunde](/hundegesundheit/vergiftung-hund/) hilft der verlinkte Ratgeber weiter.
+Spülmittel, Seife oder andere Haushaltsreiniger dürfen niemals zum Hunde waschen verwendet werden. Diese Produkte entfetten die Haut extrem stark und können zu schweren Hautreizungen führen. Auch Baby-Feuchttücher mit Duftstoffen sind für die Hundepflege ungeeignet. Bei Unsicherheit bezüglich giftigen Substanzen für Hunde hilft ein Tierarzt weiter.
 
 ## Hund baden: Schritt-für-Schritt-Anleitung
 
@@ -312,7 +312,7 @@ Ein weiterer verbreiteter Fehler ist das Baden bei niedrigen Außentemperaturen 
 
 Hunde mit Hauterkrankungen wie atopischer Dermatitis, Pilzinfektionen oder Parasitenbefall benötigen unter Umständen häufigere medizinische Bäder. Tierärzte verschreiben in solchen Fällen spezielle medizinische Hundeshampoos, die je nach Diagnose antimykotisch (gegen Pilze), antiparasitär oder beruhigend wirken. Die Häufigkeit und das verwendete Produkt sollten immer in Absprache mit dem Tierarzt festgelegt werden.
 
-Hunde mit Allergien profitieren oft von hypoallergenen, parfümfreien Hundeshampoos. Einige Tierärzte empfehlen bei starkem Juckreiz auch Bäder mit kolloidalem Hafermehl, das die Haut beruhigt und Feuchtigkeit spendet. Bei Verdacht auf eine hautbezogene Erkrankung sollte immer zuerst eine tierärztliche Diagnose eingeholt werden, bevor eigenständig Behandlungsmaßnahmen ergriffen werden. Allgemeine Informationen zu häufigen Erkrankungen finden sich in der Rubrik [Hundegesundheit](/hundegesundheit/).
+Hunde mit Allergien profitieren oft von hypoallergenen, parfümfreien Hundeshampoos. Einige Tierärzte empfehlen bei starkem Juckreiz auch Bäder mit kolloidalem Hafermehl, das die Haut beruhigt und Feuchtigkeit spendet. Bei Verdacht auf eine hautbezogene Erkrankung sollte immer zuerst eine tierärztliche Diagnose eingeholt werden, bevor eigenständig Behandlungsmaßnahmen ergriffen werden. Allgemeine Informationen zu häufigen Erkrankungen kann ein Tierarzt geben.
 
 ## Fazit: Hund baden – weniger ist mehr
 

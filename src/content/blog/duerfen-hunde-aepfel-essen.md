@@ -168,7 +168,7 @@ Apfelkerne enthalten den Stoff Amygdalin, der im Verdauungstrakt zu Blausäure (
 </div>
 </div>
 
-Ein einzelner versehentlich verschluckter Kern ist in der Regel kein Notfall -- die Blausäuremenge reicht bei einem Kern nicht aus, um toxisch zu wirken. Trotzdem ist es wichtig, das Kerngehäuse konsequent zu entfernen, bevor du deinem Hund Apfel gibst. Bei Verdacht auf eine [Vergiftung beim Hund](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/) solltest du sofort einen Tierarzt aufsuchen.
+Ein einzelner versehentlich verschluckter Kern ist in der Regel kein Notfall -- die Blausäuremenge reicht bei einem Kern nicht aus, um toxisch zu wirken. Trotzdem ist es wichtig, das Kerngehäuse konsequent zu entfernen, bevor du deinem Hund Apfel gibst. Bei Verdacht auf eine Vergiftung beim Hund solltest du sofort einen Tierarzt aufsuchen.
 
 ## Apfel richtig zubereiten: Schritt-für-Schritt
 
@@ -302,7 +302,7 @@ Hunde mit Diabetes sollten Äpfel nur in Absprache mit dem Tierarzt erhalten, da
 
 ### Allergien und Unverträglichkeiten
 
-Apfelallergien bei Hunden sind selten, kommen aber vor. Symptome einer Unverträglichkeit sind Juckreiz, Hautausschlag, Erbrechen oder Durchfall nach dem Verzehr. Tritt eine dieser Reaktionen auf, solltest du Äpfel vom Speiseplan streichen und einen Tierarzt aufsuchen. Auch bei einem Hund, der generell [nicht fressen will](https://hundewissen-mit-kopf.de/hundegesundheit/hund-frisst-nicht/), können gesundheitliche Ursachen dahinterstecken.
+Apfelallergien bei Hunden sind selten, kommen aber vor. Symptome einer Unverträglichkeit sind Juckreiz, Hautausschlag, Erbrechen oder Durchfall nach dem Verzehr. Tritt eine dieser Reaktionen auf, solltest du Äpfel vom Speiseplan streichen und einen Tierarzt aufsuchen. Auch bei einem Hund, der generell nicht fressen will, können gesundheitliche Ursachen dahinterstecken.
 
 ## Äpfel im Vergleich zu anderem Obst für Hunde
 
@@ -323,7 +323,7 @@ Der Apfel ist nicht das einzige Obst, das Hunde fressen dürfen. Die folgende Ta
 <span class="info-box-icon">🚫</span>
 <div>
 <strong>Weintrauben und Rosinen sind für Hunde giftig!</strong>
-<p>Im Gegensatz zu Äpfeln sind Weintrauben und Rosinen für Hunde hochgiftig. Bereits kleine Mengen können akutes Nierenversagen auslösen. Halte diese Lebensmittel immer außer Reichweite deines Hundes. Mehr dazu in unserem Artikel über <a href="https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/">Vergiftungen beim Hund</a>.</p>
+<p>Im Gegensatz zu Äpfeln sind Weintrauben und Rosinen für Hunde hochgiftig. Bereits kleine Mengen können akutes Nierenversagen auslösen. Halte diese Lebensmittel immer außer Reichweite deines Hundes. Mehr dazu in unserem Artikel über Vergiftungen beim Hund.</p>
 </div>
 </div>
 

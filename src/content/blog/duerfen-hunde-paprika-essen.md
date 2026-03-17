@@ -239,7 +239,7 @@ Bei einer schweren Solanin-Vergiftung -- etwa nach dem Verzehr großer Mengen gr
 </div>
 </div>
 
-Weitere Informationen zum Thema Vergiftungen findest du in unserem ausführlichen Ratgeber zur [Vergiftung beim Hund](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/).
+Weitere Informationen zum Thema Vergiftungen findest du in unserem ausführlichen Ratgeber zur Vergiftung beim Hund.
 
 ## Was tun, wenn dein Hund zu viel Paprika gefressen hat?
 
@@ -268,7 +268,7 @@ Hat dein Hund eine größere Menge Paprika gefressen -- etwa eine ganze Schote o
 </div>
 </div>
 
-Löse kein Erbrechen aus, ohne vorher mit einem Tierarzt gesprochen zu haben. Erzwungenes Erbrechen kann bei Hunden zusätzliche Komplikationen verursachen. Wenn dein [Hund nicht frisst](https://hundewissen-mit-kopf.de/hundegesundheit/hund-frisst-nicht/) oder sich ungewöhnlich verhält, ist ein Tierarztbesuch immer die sicherste Entscheidung.
+Löse kein Erbrechen aus, ohne vorher mit einem Tierarzt gesprochen zu haben. Erzwungenes Erbrechen kann bei Hunden zusätzliche Komplikationen verursachen. Wenn dein Hund nicht frisst oder sich ungewöhnlich verhält, ist ein Tierarztbesuch immer die sicherste Entscheidung.
 
 ## Paprikapulver und Gewürzpaprika: Tabu für Hunde
 

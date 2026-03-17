@@ -310,7 +310,7 @@ Große Langhaar-Hunde haben unterschiedliche Fellstrukturen, die verschiedene Pf
 
 ### Fellwechsel bei großen Langhaar-Hunden
 
-Große Langhaar-Hunderassen durchlaufen zweimal jährlich einen intensiven Fellwechsel -- im Frühjahr und im Herbst. Während dieser 4 bis 8 Wochen verlieren sie große Mengen Unterwolle. Tägliches Bürsten ist in dieser Phase unverzichtbar. Wenn dein Hund [außerhalb des Fellwechsels übermäßig viel Fell verliert](https://hundewissen-mit-kopf.de/hundegesundheit/hund-verliert-viel-fell-fellwechsel-krankheit/), kann das auf eine Erkrankung hindeuten.
+Große Langhaar-Hunderassen durchlaufen zweimal jährlich einen intensiven Fellwechsel -- im Frühjahr und im Herbst. Während dieser 4 bis 8 Wochen verlieren sie große Mengen Unterwolle. Tägliches Bürsten ist in dieser Phase unverzichtbar. Wenn dein Hund außerhalb des Fellwechsels übermäßig viel Fell verliert, kann das auf eine Erkrankung hindeuten.
 
 <div class="not-prose info-box info-box-warning">
 <span class="info-box-icon">⚠️</span>

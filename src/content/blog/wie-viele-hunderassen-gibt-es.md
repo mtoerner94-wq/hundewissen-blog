@@ -401,7 +401,7 @@ Jede Hunderasse hat genetische Veranlagungen für bestimmte Erkrankungen. Diese 
 
 Der Deutsche Schäferhund neigt zu Hüftdysplasie, der Dackel zu Bandscheibenvorfällen, der Cavalier King Charles Spaniel zu Herzerkrankungen. Seriöse Züchter lassen ihre Zuchttiere auf rassetypische Erkrankungen testen und schließen belastete Tiere von der Zucht aus.
 
-Wenn dein Hund gesundheitliche Auffälligkeiten zeigt -- etwa [vermehrtes Trinken](https://hundewissen-mit-kopf.de/hundegesundheit/hund-trinkt-viel/) oder [starken Fellverlust](https://hundewissen-mit-kopf.de/hundegesundheit/hund-verliert-viel-fell-fellwechsel-krankheit/) -- kann das rassebedingte Ursachen haben. Ein Tierarzt mit Rassekenntnissen kann gezielt nach typischen Erkrankungen suchen.
+Wenn dein Hund gesundheitliche Auffälligkeiten zeigt -- etwa vermehrtes Trinken oder starken Fellverlust -- kann das rassebedingte Ursachen haben. Ein Tierarzt mit Rassekenntnissen kann gezielt nach typischen Erkrankungen suchen.
 
 <div class="not-prose info-box info-box-fact">
 <span class="info-box-icon">📖</span>

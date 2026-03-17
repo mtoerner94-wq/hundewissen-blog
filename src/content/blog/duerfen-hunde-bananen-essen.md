@@ -269,7 +269,7 @@ Bananenallergien sind bei Hunden selten, kommen aber vor. Symptome einer allergi
 <span class="info-box-icon">🚫</span>
 <div>
 <strong>Achtung bei Xylit-haltigen Bananen-Produkten!</strong>
-<p>Manche Bananenprodukte wie Smoothies oder Joghurts enthalten den Süßungsstoff Xylit (Xylitol). Xylit ist für Hunde hochgiftig – bereits 0,1 g pro Kilogramm Körpergewicht kann lebensgefährlich sein. Prüfe bei verarbeiteten Produkten immer die Zutatenliste. Mehr dazu im Ratgeber zu <a href="https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/">Vergiftungen beim Hund</a>.</p>
+<p>Manche Bananenprodukte wie Smoothies oder Joghurts enthalten den Süßungsstoff Xylit (Xylitol). Xylit ist für Hunde hochgiftig – bereits 0,1 g pro Kilogramm Körpergewicht kann lebensgefährlich sein. Prüfe bei verarbeiteten Produkten immer die Zutatenliste. Mehr dazu im Ratgeber zu Vergiftungen beim Hund.</p>
 </div>
 </div>
 
@@ -324,7 +324,7 @@ Eine bewährte Schonkost-Kombination besteht aus gekochtem Hühnchenfleisch (ohn
 <span class="info-box-icon">⚠️</span>
 <div>
 <strong>Banane ersetzt keinen Tierarztbesuch</strong>
-<p>Banane kann bei leichten Verdauungsbeschwerden unterstützend wirken, ersetzt aber keine tierärztliche Behandlung. Bei anhaltendem Erbrechen, blutigem Durchfall oder Apathie ist ein sofortiger Tierarztbesuch notwendig. Mehr Informationen findest du im Ratgeber <a href="https://hundewissen-mit-kopf.de/hundegesundheit/hund-frisst-nicht/">Hund frisst nicht</a>.</p>
+<p>Banane kann bei leichten Verdauungsbeschwerden unterstützend wirken, ersetzt aber keine tierärztliche Behandlung. Bei anhaltendem Erbrechen, blutigem Durchfall oder Apathie ist ein sofortiger Tierarztbesuch notwendig. Mehr Informationen findest du im Ratgeber Hund frisst nicht.</p>
 </div>
 </div>
 

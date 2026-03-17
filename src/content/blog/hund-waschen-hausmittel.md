@@ -393,7 +393,7 @@ Nicht jedes vermeintlich natürliche Hausmittel ist automatisch sicher für Hund
 | Unverdünnter Essig | ⚠️ Reizend | Zu hohe Säurekonzentration reizt Haut und Schleimhäute |
 | Parfüm / Deo | ❌ Giftig | Alkohol und synthetische Duftstoffe sind für Hunde schädlich |
 
-Falls dein Hund versehentlich mit einem giftigen Stoff in Kontakt gekommen ist, findest du in unserem Artikel über [Vergiftungen beim Hund](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/) wichtige Erste-Hilfe-Maßnahmen.
+Falls dein Hund versehentlich mit einem giftigen Stoff in Kontakt gekommen ist, findest du in unserem Artikel über Vergiftungen beim Hund wichtige Erste-Hilfe-Maßnahmen.
 
 ## Hund stinkt: Ursachen und wann Hausmittel nicht ausreichen
 
@@ -416,7 +416,7 @@ Wenn dein Hund trotz regelmäßiger Pflege unangenehm riecht, steckt nicht immer
 </div>
 </div>
 
-Verliert dein Hund neben dem Geruch auch auffällig viel Fell, könnte eine Erkrankung dahinterstecken. Unser Ratgeber zu [übermäßigem Fellverlust beim Hund](https://hundewissen-mit-kopf.de/hundegesundheit/hund-verliert-viel-fell-fellwechsel-krankheit/) hilft dir, die Ursache einzugrenzen.
+Verliert dein Hund neben dem Geruch auch auffällig viel Fell, könnte eine Erkrankung dahinterstecken. Unser Ratgeber zu übermäßigem Fellverlust beim Hund hilft dir, die Ursache einzugrenzen.
 
 ## Tipps für ein stressfreies Hundebad mit Hausmitteln
 

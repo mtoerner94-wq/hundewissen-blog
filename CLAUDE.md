@@ -76,7 +76,7 @@ sources:                                                # Optional → Quellenve
 | Display-Name | Slug | URL |
 |---|---|---|
 | Hundeernährung | hundeernaehrung | /hundeernaehrung/ |
-| Hundegesundheit | hundegesundheit | /hundegesundheit/ |
+| Reisen | reisen | /reisen/ |
 | Erziehung & Verhalten | erziehung-verhalten | /erziehung-verhalten/ |
 | Hundeausstattung | hundeausstattung | /hundeausstattung/ |
 | Hunderassen | hunderassen | /hunderassen/ |

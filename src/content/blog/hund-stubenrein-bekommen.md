@@ -262,7 +262,7 @@ Bei einem plötzlichen Verlust der Stubenreinheit sollte immer zuerst ein Tierar
 - **Harnsteine** -- schmerzhaftes Urinieren, tröpfchenweiser Urinverlust
 - **Diabetes mellitus** -- vermehrtes Trinken und Urinieren, Gewichtsverlust
 - **Cushing-Syndrom** -- übermäßiger Durst, aufgeblähter Bauch, Haarausfall
-- **Nierenerkrankungen** -- vermehrtes [Trinken](https://hundewissen-mit-kopf.de/hundegesundheit/hund-trinkt-viel/) und Urinieren
+- **Nierenerkrankungen** -- vermehrtes Trinken und Urinieren
 - **Altersbedingte Inkontinenz** -- besonders bei kastrierten Hündinnen
 
 ### Verhaltensbedingte Ursachen

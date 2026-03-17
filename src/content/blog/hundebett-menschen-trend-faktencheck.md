@@ -369,7 +369,7 @@ Große Hunde ab 30 kg benötigen ein XXL Hundebett für Menschen mit mindestens 
 
 ### Ältere und kranke Hunde
 
-Für Hunde mit Gelenkproblemen, Arthrose oder nach Operationen bietet ein Memory-Foam-Hundebett für Menschen echte gesundheitliche Vorteile. Die Druckentlastung schont schmerzende Gelenke, und der niedrige Einstieg (direkt am Boden) erleichtert das Hinlegen. Wenn dein [Hund zittert](https://hundewissen-mit-kopf.de/hundegesundheit/hund-zittert-ursachen-tun-kannst/) oder Anzeichen von Schmerzen zeigt, kann ein orthopädisches Hundebett für Menschen eine sinnvolle Ergänzung zur tierärztlichen Behandlung sein.
+Für Hunde mit Gelenkproblemen, Arthrose oder nach Operationen bietet ein Memory-Foam-Hundebett für Menschen echte gesundheitliche Vorteile. Die Druckentlastung schont schmerzende Gelenke, und der niedrige Einstieg (direkt am Boden) erleichtert das Hinlegen. Wenn dein Hund zittert oder Anzeichen von Schmerzen zeigt, kann ein orthopädisches Hundebett für Menschen eine sinnvolle Ergänzung zur tierärztlichen Behandlung sein.
 
 <div class="not-prose info-box info-box-success">
 <span class="info-box-icon">✅</span>

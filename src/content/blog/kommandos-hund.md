@@ -84,7 +84,7 @@ Ein Hund ohne verlässliche Kommandos stellt ein Sicherheitsrisiko dar. Ohne zuv
 
 ### Kommandos schützen deinen Hund
 
-Der Rückruf kann im Ernstfall lebensrettend sein -- etwa wenn dein Hund auf eine befahrene Straße zuläuft. Das Kommando "Aus" verhindert, dass dein Hund giftige Substanzen aufnimmt. Gerade bei [Vergiftungsgefahren](https://hundewissen-mit-kopf.de/hundegesundheit/vergiftung-hund/) zählt jede Sekunde, und ein zuverlässiges "Aus" kann den Tierarztbesuch ersparen.
+Der Rückruf kann im Ernstfall lebensrettend sein -- etwa wenn dein Hund auf eine befahrene Straße zuläuft. Das Kommando "Aus" verhindert, dass dein Hund giftige Substanzen aufnimmt. Gerade bei Vergiftungsgefahren zählt jede Sekunde, und ein zuverlässiges "Aus" kann den Tierarztbesuch ersparen.
 
 ### Hundekommandos stärken die Bindung
 

@@ -246,7 +246,7 @@ Milchschokolade enthält 1,5–2 mg Theobromin pro Gramm und ist damit weniger g
 
 Theobromin ist nicht nur in Schokoladentafeln enthalten. Schokoladenkuchen, Muffins, Kekse, Plätzchen, Dominosteine, Trinkschokolade und Kakaopulver zum Backen enthalten ebenfalls relevante Mengen des Giftstoffs. Besonders gefährlich sind Backzutaten wie reines Kakaopulver mit 14–26 mg Theobromin pro Gramm – die höchste Konzentration aller Kakaoprodukte.
 
-Zusätzlich zur Schokolade können andere in Süßwaren enthaltene Zutaten für Hunde giftig sein. Laut der Kleintierpraxis Beate Loch sind Rosinen, Macadamia-Nüsse und Bittermandeln (in Marzipan) ebenfalls toxisch. Ein Schokokuchen mit Rosinen stellt daher eine doppelte Gefahr dar. Weitere Informationen zu giftigen Lebensmitteln bietet der Artikel über [Vergiftungen beim Hund](/hundegesundheit/vergiftung-hund/).
+Zusätzlich zur Schokolade können andere in Süßwaren enthaltene Zutaten für Hunde giftig sein. Laut der Kleintierpraxis Beate Loch sind Rosinen, Macadamia-Nüsse und Bittermandeln (in Marzipan) ebenfalls toxisch. Ein Schokokuchen mit Rosinen stellt daher eine doppelte Gefahr dar. Weitere Informationen zu giftigen Lebensmitteln bietet der Artikel über Vergiftungen beim Hund.
 
 ## Warum Hunde keine Schokolade dürfen: Behandlung und Kosten
 
@@ -339,4 +339,4 @@ Warum dürfen Hunde keine Schokolade? Weil die enthaltene Substanz Theobromin be
 
 Die beste Prävention ist, Schokolade und alle kakaohaltigen Produkte konsequent außerhalb der Reichweite von Hunden aufzubewahren. Wenn ein Hund Schokolade gefressen hat, gilt: Sofort den Tierarzt kontaktieren, auch wenn noch keine Symptome sichtbar sind. Jede Minute zählt. Mit schnellem Handeln und professioneller Behandlung stehen die Heilungschancen gut.
 
-Grundlegende Informationen zur sicheren Hundeernährung helfen dabei, weitere Gefahrenquellen im Haushalt zu erkennen und den Vierbeiner vor versehentlichen Vergiftungen zu schützen. Auch ein Blick in den Ratgeber zur [Vergiftung beim Hund](/hundegesundheit/vergiftung-hund/) ist für jeden Hundehalter empfehlenswert.
+Grundlegende Informationen zur sicheren Hundeernährung helfen dabei, weitere Gefahrenquellen im Haushalt zu erkennen und den Vierbeiner vor versehentlichen Vergiftungen zu schützen. Auch ein Blick in den Ratgeber zur Vergiftung beim Hund ist für jeden Hundehalter empfehlenswert.

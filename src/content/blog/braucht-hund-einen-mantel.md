@@ -106,7 +106,7 @@ Der wichtigste Faktor ist das Fell deines Hundes. Hunde mit dichter Unterwolle b
 
 Einschichtiges Fell (sogenanntes "Single Coat") bietet deutlich weniger Wärmeisolierung als doppelschichtiges Fell. Hunde mit kurzem, dünnem Fell verlieren Körperwärme bis zu 3-mal schneller als Hunde mit dichter Unterwolle.
 
-Auch frisch geschorene Hunde oder Vierbeiner, die [viel Fell verlieren](https://hundewissen-mit-kopf.de/hundegesundheit/hund-verliert-viel-fell-fellwechsel-krankheit/), können vorübergehend einen Mantel benötigen. Die regelmäßige [Fellpflege](https://hundewissen-mit-kopf.de/hundepflege/fellpflege-hund/) unterstützt die natürliche Isolierfunktion des Fells.
+Auch frisch geschorene Hunde oder Vierbeiner, die viel Fell verlieren, können vorübergehend einen Mantel benötigen. Die regelmäßige [Fellpflege](https://hundewissen-mit-kopf.de/hundepflege/fellpflege-hund/) unterstützt die natürliche Isolierfunktion des Fells.
 
 ### Faktor 2: Körpergröße und Körperfettanteil
 
@@ -129,7 +129,7 @@ Kranke Hunde, Hunde nach Operationen und Vierbeiner mit chronischen Erkrankungen
 - **Schilddrüsenunterfunktion (Hypothyreose)** -- verringerte Wärmeproduktion
 - **Immunschwäche oder Krebserkrankungen** -- geschwächter Organismus friert schneller
 
-Wenn dein [Hund zittert](https://hundewissen-mit-kopf.de/hundegesundheit/hund-zittert-ursachen-tun-kannst/) und sich bei Kälte unwohl fühlen sollte, ist ein Tierarztbesuch und ein Mantel gleichermaßen ratsam.
+Wenn dein Hund zittert und sich bei Kälte unwohl fühlen sollte, ist ein Tierarztbesuch und ein Mantel gleichermaßen ratsam.
 
 ### Faktor 5: Wetterbedingungen
 
