@@ -1,0 +1,184 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund an der Ostsee: Die besten Tipps & Strände
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund an der Ostsee: Strände, Tipps & Unterkünfte
+  Title-Laenge:     59 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund an der Ostsee planen: Die schönsten Hundestrände, hundefreundliche Unterkünfte und wichtige Regeln für entspannte Ferien mit Vierbeiner.
+  Desc-Laenge:      152 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-ostsee
+  URL:              https://hundewissen-mit-kopf.de/erziehung-verhalten/urlaub-hund-ostsee/
+  Kategorie:        Erziehung & Verhalten (erziehung-verhalten)
+  Tags:             Urlaub mit Hund Ostsee, Hundestrand Ostsee, Ferienhaus Ostsee mit Hund, Urlaub Ostsee, Hund Strand, Hundestrände Ostsee, Fischland-Darß-Zingst, Lübecker Bucht
+  Datum:            2026-03-17
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund ostsee
+  Suchvolumen:      3100/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $60
+  Traffic Pot.:     5700
+
+  Einbau-Check:
+    Vorkommen:      0x
+    Keyword-Dichte: 0.0% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          0x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    32    9900       218x
+  timmendorfer strand                       79000     0   43000         5x
+  strand                                    40000     5    2800        68x
+  hunde                                     30000     0   12000       150x
+  sankt peter ording                        21000    27   16000      FEHLT
+  cd player                                 11000     0    2200      FEHLT
+  dvd player                                 9100     0    1000      FEHLT
+  google bewertungen                         7900     2   12000      FEHLT
+  urlaub ostsee                              7900    46   38000         1x
+  lübecker bucht                             7700     0    1600         6x
+  blu ray player                             7700     0      50      FEHLT
+  hundeurlaub de                             6500    43   48000      FEHLT
+  fischland darß zingst                      3800    19    4800      FEHLT
+  ferienhaus ostsee mit hund                 3800     0    1900         1x
+  urlaub mit hund ostsee                     3100     0    5700         1x
+  binz rügen                                 3000    28    2600      FEHLT
+  insel usedom                               2900    44    3300      FEHLT
+  ostsee urlaub mit hund                     2700     0    5700      FEHLT
+  ostseebad boltenhagen                      2700    23    5000      FEHLT
+  hundestrand                                2700     4     350        10x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  urlaub mit hund ostsee                          3100     0         1x
+  urlaub mit hund ostsee ferienhaus eingezäunt günstig   1500     0      FEHLT
+  urlaub mit hund an der ostsee                    600     0        15x
+  urlaub mit hund polnische ostsee                 500     0      FEHLT
+  urlaub mit hund ostsee ferienhaus eingezäunt     450     0      FEHLT
+  urlaub mit hund ferienhaus eingezäunt alleinlage ostsee    150     0      FEHLT
+  urlaub mit hund dänemark ostsee                  150     0      FEHLT
+  urlaub mit hund ostsee hotel                     150     0      FEHLT
+  urlaub mit hund ostsee polen                     100     0      FEHLT
+  urlaub mit hund ostsee ferienhaus eingezäunt direkt am strand    100     0      FEHLT
+  ostsee urlaub mit hund geheimtipp                 90     1      FEHLT
+  urlaub mit hund polnische ostsee swinemünde       80     0      FEHLT
+  last minute urlaub mit hund ostsee                80     0      FEHLT
+  urlaub mit hund am meer ostsee                    80     0      FEHLT
+  urlaub mit hund ostsee direkt am strand           80     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   1453
+  Durchschn. DR:        22.8
+  Unser Wortanzahl:     3107
+
+  Pos 1: https://www.hundeurlaub.de/ostsee
+    DR: 70.0, Traffic: 5857, Keywords: 178
+  Pos 2: https://www.hunde-urlaub.net/deutschland/ostsee/
+    DR: 48.0, Traffic: 417, Keywords: 41
+  Pos 3: https://www.ostsee24.de/dein-urlaub/hundefreundlich
+    DR: 64.0, Traffic: 3125, Keywords: 125
+  Pos 4: http://www.hundeurlaub.net/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.kurz-mal-weg.de/reisemagazin/reisen-mit-hund/hundestraende-ostsee
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.dirtypawstravel.de/l/summer-bucket-list-die-besten-reiseziele-mit-hund-im-sommer/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.ostsee-schleswig-holstein.de/entdecken/ausfluege/geheimtipps/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.tui.com/blog/das-sind-die-top-hundestraende-in-deutschland/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.hunde-urlaub.net/deutschland/ostsee/ (~1474 Woerter):
+    - Strände, Inseln und viel Gastfreundschaft: Dein bester Urlaub mit Hund an der Ostsee
+    - Finde Deinen Traumurlaub mit Hund
+    - Wunderschöne Sandstrände
+
+  http://www.hundeurlaub.net/ (~118 Woerter):
+    - Urlaub mit Hund und Katz zwischen Himmel und Meer
+
+  https://www.kurz-mal-weg.de/reisemagazin/reisen-mit-hund/hundestraende-ostsee (~1252 Woerter):
+    - Das sind die schönsten Hundestrände an der Ostsee
+    - 
+
+  https://www.dirtypawstravel.de/l/summer-bucket-list-die-besten-reiseziele-mit-hund-im-sommer/ (~12 Woerter):
+    - 1. Sommerurlaub in der Provence mit Hund
+    - 2. Cote D'Azur mit Hund
+    - 3. Mit Hund nach Südengland und Cornwall
+    - 4. Urlaub mit Hund in der Bretagne
+    - 5. Urlaub mit Hund in der Schweiz
+    - 6. Sommerurlaub mit Hund in der Maremma
+    - 7. Sommerurlaub mit Hund in Slowenien
+    - 8. Skandinavien Roadtrip mit Hund im Sommer
+
+  https://www.ostsee-schleswig-holstein.de/entdecken/ausfluege/geheimtipps/ (~3506 Woerter):
+    - UnsereInsidertipps -Das sind die verborgenenSchätzeder Regionen
+    - MehrTipps
+    - VersteckteStrände& unberührteNatur
+    - Naturreservate& stilleWanderwege
+    - Wusstestdu schon? – KurioseOstsee-Fakten
+    - Deine Fragen,unsere Antworten
+    - Weitere Tipps für deinenOstseeurlaub
+
+  https://www.tui.com/blog/das-sind-die-top-hundestraende-in-deutschland/ (~2360 Woerter):
+    - Strandabenteuer für Pfoten: Die besten Hundestrände an Nord- und Ostsee
+    - Vierbeiner-Paradiese: Wo dein Hund an Nord- und Ostsee die Wellen genießen kann
+    - Wau-Erlebnis: Ranking der Hundestrände an Nord- und Ostseeküste
+    - Freiheit am Meer: Die Top-Hundestrände an Ostsee und Nordsee laut Google-Bewertungen
+    - Tierisch gute Strände: Die Spitzenreiter unter den Hundestränden an Nord- und Ostsee laut Google-Suchanfragen
+    - Freilauf am Meer! Aber nicht überall: Regeln und Bedingungen für einen unbeschwerten Strandurlaub
+    - Nord- und Ostsee: Vielfalt an Hundestränden
+    - Die TOP 10 Hundestrände an Ost- und Nordsee mit Hoteltipps
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/hundeernaehrung/duerfen-hunde-aepfel-essen/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            67/100
+  Status:           BESTANDEN
+  Wortanzahl:       3107 (Ziel: >=2000)
+  H2-Headings:      12
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.00% (0x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+    ✗ Haupt-Keyword nur in 0 H2 (min. 2)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund ostsee - Ratgeber"  Datei: urlaub-mit-hund-ostsee.webp
+  Content-Bild:  Alt="urlaub mit hund ostsee - Detail"    Datei: urlaub-mit-hund-ostsee-detail.webp
+  Content-Bild:  Alt="urlaub mit hund ostsee - Praxis"    Datei: urlaub-mit-hund-ostsee-praxis.webp
+
+======================================================================
