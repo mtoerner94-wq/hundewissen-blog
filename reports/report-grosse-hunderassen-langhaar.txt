@@ -1,0 +1,180 @@
+======================================================================
+  KONTROLL-REPORT: Große Hunderassen mit langem Fell: Majestätisch & imposant
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Große Hunderassen Langhaar: 12 majestätische Rassen
+  Title-Laenge:     51 Zeichen (Ziel: <=60)
+  Meta-Description: Große Hunderassen mit langem Fell im Überblick: Von Golden Retriever bis Afghanischer Windhund. Charakter, Pflege & Haltung aller Langhaar-Riesen.
+  Desc-Laenge:      146 Zeichen (Ziel: <=160)
+  Slug:             grosse-hunderassen-langhaar
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/grosse-hunderassen-langhaar/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             große Hunderassen Langhaar, große Hunderassen, Hunderassen groß, Golden Retriever, Berner Sennenhund, Australian Shepherd, Afghanischer Windhund, Chow Chow
+  Datum:            2026-03-17
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          große hunderassen langhaar
+  Suchvolumen:      1300/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $6
+  Traffic Pot.:     800
+
+  Einbau-Check:
+    Vorkommen:      1x
+    Keyword-Dichte: 0.03% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          0x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  golden retriever                         111000    13   11000        27x
+  australian shepherd                       95000     3   10000        13x
+  hunderassen                               74000     3   20000        66x
+  berner sennenhund                         43000     2    6800        20x
+  orange                                    30000     6   12000      FEHLT
+  yorkshire terrier                         27000     0    1700      FEHLT
+  chow chow                                 26000     0    3800         8x
+  shih tzu                                  24000     1    1000      FEHLT
+  king charles                              18000     2   22000      FEHLT
+  bichon frise                              16000     2    2300      FEHLT
+  the                                       11000     1     600      FEHLT
+  große hunderassen                         11000     0   11000        14x
+  hunderassen groß                          10000     0   11000         1x
+  afghanischer windhund                      9200     1    2700         8x
+  king charles spaniel                       8700     7    4400      FEHLT
+  alaskan malamute                           7400     0    2800      FEHLT
+  bearded collie                             7300     0     350      FEHLT
+  shetland sheepdog                          6700     0     500      FEHLT
+  lhasa apso                                 6000     0     600      FEHLT
+  and                                        4900    30     300        31x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  große hunderassen langhaar                      1300     0         3x
+  sehr große hunderassen langhaar                  250     0      FEHLT
+  langhaar hunderassen groß                        150     0      FEHLT
+  leonberger große hunderassen langhaar             90     0      FEHLT
+  große hunderassen langhaar schwarz                40     0      FEHLT
+  neufundländer große hunderassen langhaar          20     0      FEHLT
+  große hunderassen langhaar braun                  20     0      FEHLT
+  große hunderassen langhaar weiß                   10     0      FEHLT
+  welche große hunderasse haart nicht               10     0         1x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   1731
+  Durchschn. DR:        33.8
+  Unser Wortanzahl:     3535
+
+  Pos 1: https://www.rover.com/de/blog/hunde-mit-langen-haaren/
+    DR: 84.0, Traffic: 1036, Keywords: 142
+  Pos 2: https://www.purina.de/wahl-eines-haustieres/hunderassen/langhaar-hunde
+    DR: 63.0, Traffic: 1642, Keywords: 166
+  Pos 3: https://www.irish-pure.de/die-10-groessten-hunderassen-der-welt/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.fressnapf.de/magazin/hund/rassen/grosse-hunderassen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.purina.de/wahl-eines-haustieres/hunderassen/langhaar-hunde
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.petmd.com/dog/general-health/fluffy-dog-breeds
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.petsdeli.de/magazin/hunde/hunderassen/3-grosse-langhaar-hunderassen-die-sehr-beliebt-sind
+    DR: 49.0, Traffic: 175, Keywords: 38
+  Pos 5: https://www.fressnapf.de/magazin/hund/rassen/langhaar/
+    DR: 74.0, Traffic: 1557, Keywords: 182
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.irish-pure.de/die-10-groessten-hunderassen-der-welt/ (~4914 Woerter):
+    - Die größten Hunde der Welt
+    - Platz 10: Tibet Mastiff
+    - Platz 9: Kaukasischer Owtscharka
+    - Platz 8: Scottish Deerhound
+    - Platz 7: Großer Pyrenäenhund (Great Pyrenees)
+    - Platz 6: Leonberger
+    - Platz 5: Kangal / Anatolischer Hirtenhund
+    - Platz 4: Bernhardiner (Saint Bernard)
+
+  https://www.fressnapf.de/magazin/hund/rassen/grosse-hunderassen/ (~893 Woerter):
+    - Berner Sennenhund – liebevoller Schmusehund im Großformat
+    - Welcher Hund passt zu mir?
+    - Themen in diesem Artikel
+    - Große Hunde – gelassene Giganten mit viel Herz
+    - Haltung von großen Hunderassen
+    - Wichtige Überlegungen vor der Anschaffung
+    - Große Hunde konsequent erziehen
+    - Große Hunderassen: die wichtigsten Fakten
+
+  https://www.petmd.com/dog/general-health/fluffy-dog-breeds (~1672 Woerter):
+    - 1. Great Pyrenees
+    - 2. Samoyed
+    - 3. Collie
+    - 4. Newfoundland
+    - 5. Pomeranian
+    - 6. Schipperke
+    - 7. American Eskimo Dog
+    - 8. Tibetan Mastiff
+
+  https://www.petsdeli.de/magazin/hunde/hunderassen/3-grosse-langhaar-hunderassen-die-sehr-beliebt-sind (~465 Woerter):
+    - 3 große Langhaar-Hunderassen, die jeder mag
+    - Australian Shepherd - die Schönheit
+    - Golden Retriever - der Vorzeigehunde
+    - Doodles - die "Neuen" in der Gang
+    - Die richtige Fellpflege für große Langhaar-Hunde
+
+  https://www.fressnapf.de/magazin/hund/rassen/langhaar/ (~711 Woerter):
+    - Chow-Chow – der würdevolle „Löwenhund“ mit der blauen Zunge
+    - Kleine Hunde mit langem Fell im Überblick
+    - Langfellige, mittelgroße Hunderassen
+    - Langhaarige, große Hunderassen im Überblick
+    - Themen in diesem Artikel
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 1
+  Eingebaute Links: 10
+
+  - "hunderassen" -> https://hundewissen-mit-kopf.de/hunderassen/japanische-hunderassen-akita-bis-shiba-inu/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            67/100
+  Status:           BESTANDEN
+  Wortanzahl:       3535 (Ziel: >=2000)
+  H2-Headings:      16
+  Eyecatcher:       7
+  FAQs:             8
+  Quellen:          5
+  Interne Links:    10
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.03% (1x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+    ✗ Haupt-Keyword nur in 0 H2 (min. 2)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="große hunderassen langhaar - Ratgeber"  Datei: große-hunderassen-langhaar.webp
+  Content-Bild:  Alt="große hunderassen langhaar - Detail"    Datei: große-hunderassen-langhaar-detail.webp
+  Content-Bild:  Alt="große hunderassen langhaar - Praxis"    Datei: große-hunderassen-langhaar-praxis.webp
+
+======================================================================

@@ -1,0 +1,43 @@
+{
+  "date": "2026-03-17T12:19:55.956174",
+  "total_articles": 1,
+  "successful": 1,
+  "failed": 0,
+  "results": [
+    {
+      "title": "Große Hunderassen mit langem Fell: Majestätisch & imposant",
+      "slug": "grosse-hunderassen-langhaar",
+      "success": true,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/grosse-hunderassen-langhaar.md",
+      "quality_score": 67,
+      "word_count": 3535,
+      "issues": [
+        "Keyword-Dichte zu niedrig: 0.03% (1x, Ziel: 1-2%)",
+        "Haupt-Keyword NICHT in den ersten 100 Woertern",
+        "Haupt-Keyword nur in 0 H2 (min. 2)",
+        "Haupt-Keyword in keiner H3-Ueberschrift"
+      ]
+    }
+  ],
+  "costs": {
+    "claude_input_tokens": 4115,
+    "claude_output_tokens": 12518,
+    "claude_cache_write_tokens": 13572,
+    "claude_cache_read_tokens": 0,
+    "ahrefs_requests": 4,
+    "image_count": 5,
+    "image_cost_usd": 0.335,
+    "total_cost_usd": 0.7533,
+    "per_article": [
+      {
+        "title": "Große Hunderassen mit langem Fell: Majestätisch & imposant",
+        "claude_input": 4115,
+        "claude_output": 12518,
+        "claude_cache_write": 13572,
+        "claude_cache_read": 0,
+        "ahrefs_requests": 4,
+        "images": 5
+      }
+    ]
+  }
+}
