@@ -1,8 +1,8 @@
 ---
 title: "Urlaub mit Hund an der Ostsee: Strände, Tipps & Unterkünfte"
 description: "Urlaub mit Hund an der Ostsee planen: Die schönsten Hundestrände, hundefreundliche Unterkünfte und wichtige Regeln für entspannte Ferien mit Vierbeiner."
-category: "Erziehung & Verhalten"
-categorySlug: "erziehung-verhalten"
+category: "Reisen"
+categorySlug: "reisen"
 tags: ["Urlaub mit Hund Ostsee", "Hundestrand Ostsee", "Ferienhaus Ostsee mit Hund", "Urlaub Ostsee", "Hund Strand", "Hundestrände Ostsee", "Fischland-Darß-Zingst", "Lübecker Bucht"]
 date: "2026-03-17"
 featured: false
