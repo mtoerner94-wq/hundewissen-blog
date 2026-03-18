@@ -1,0 +1,183 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund in Holland: Strände, Regeln & Einreise
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund in Holland: Strände, Regeln & Einreise
+  Title-Laenge:     54 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund in Holland planen: Einreisebestimmungen, hundefreundliche Strände, Ferienhaus-Tipps & die besten Regionen an der Nordsee. Jetzt informieren!
+  Desc-Laenge:      156 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-holland
+  URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-holland/
+  Kategorie:        Reisen (reisen)
+  Tags:             Urlaub mit Hund Holland, Holland Urlaub, Urlaub mit Hund am Meer, Ferienhaus Holland, Ferienwohnung Holland, Niederlande, Strand, Hunde
+  Datum:            2026-03-18
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund holland
+  Suchvolumen:      2300/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $50
+  Traffic Pot.:     6700
+
+  Einbau-Check:
+    Vorkommen:      0x
+    Keyword-Dichte: 0.0% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          0x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    32    9900       242x
+  niederlande                               79000    12   19000        36x
+  holland                                   49000    35    4200        84x
+  last minute                               45000    33  126000      FEHLT
+  strand                                    40000     5    2800        70x
+  hunde                                     30000     0   12000       153x
+  cd player                                 11000     0    2200      FEHLT
+  darüber hinaus                             9600     0    3100      FEHLT
+  dvd player                                 9100     0    1000      FEHLT
+  ferienhaus holland                         8500     1    4100         1x
+  holland urlaub                             8200     2    2500         1x
+  blu ray player                             7700     0      50      FEHLT
+  finden                                     7000     6     900         1x
+  urlaub mit hund am meer                    5600    10   47000         6x
+  ferienwohnung holland                      5300     0    2500         1x
+  urlaub holland meer                        4100     1    1900      FEHLT
+  urlaub holland                             3500     2    4900      FEHLT
+  ferienhaus holland meer                    2800     0    4800      FEHLT
+  urlaub mit hund holland                    2300     0    6700         1x
+  ferienhäuser holland                       2100     3    3800      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  urlaub mit hund holland                         2300     0         1x
+  urlaub mit hund holland ferienhaus eingezäunt am meer   1300     0      FEHLT
+  urlaub mit hund in holland                      1000     0        19x
+  urlaub mit hund in holland am meer               300     0      FEHLT
+  urlaub mit hund am meer holland                  200     0      FEHLT
+  urlaub mit hund in holland direkt am meer        200     2      FEHLT
+  urlaub mit hund holland zeeland                  150     0      FEHLT
+  urlaub mit hund holland ferienhaus eingezäunt    150     0      FEHLT
+  urlaub mit hund nordholland                      150     0      FEHLT
+  urlaub mit hund holland am meer                  150     0      FEHLT
+  urlaub mit hund holland eingezäuntes grundstück zeeland    150     0      FEHLT
+  urlaub mit hund nordsee holland                  100     0      FEHLT
+  urlaub mit hund holland zandvoort                100     0      FEHLT
+  billig urlaub mit hund in holland                 90     0      FEHLT
+  urlaub mit hund südholland                        60     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   854
+  Durchschn. DR:        22.2
+  Unser Wortanzahl:     3841
+
+  Pos 1: https://www.hundeurlaub.de/holland
+    DR: 70.0, Traffic: 5514, Keywords: 274
+  Pos 2: https://www.ferienhaus-mit-hunden.de/urlaub-mit-hund/Niederlande/
+    DR: 27.0, Traffic: 1236, Keywords: 158
+  Pos 3: https://www.weg.de/inspiration/straende/hundestraende-niederlande
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.ferienhaus-mit-hund.de/einreisebestimmungen/niederlande/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.nrz.de/niederlande/article401533487/holland-ausflug-fuenf-tipps-fuer-den-kurzurlaub-an-der-nordsee.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://visitzandvoort.de/strand/hunde/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.holland-hund.de/
+    DR: 25.0, Traffic: 2394, Keywords: 216
+  Pos 5: https://www.europarcs.de/urlaub/urlaub-mit-hund/nordsee-mit-hund
+    DR: 56.0, Traffic: 1623, Keywords: 180
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.ferienhaus-mit-hunden.de/urlaub-mit-hund/Niederlande/ (~749 Woerter):
+    - Ihr Ferienhaus Holland mit Hund finden
+
+  https://www.ferienhaus-mit-hund.de/einreisebestimmungen/niederlande/ (~577 Woerter):
+    - EU-Heimtierausweis mit Impfvermerken
+    - Mikrochip oder Tätowierung zur Identifizierung des Hundes
+    - Einreise von Hundewelpen nach Holland
+    - Einreise mit Hund nach Holland: Keine Beschränkungen für bestimmte Hunderassen
+    - Verhaltensregeln im Ferienhaus Urlaub mit Hund in Holland
+
+  https://www.nrz.de/niederlande/article401533487/holland-ausflug-fuenf-tipps-fuer-den-kurzurlaub-an-der-nordsee.html (~917 Woerter):
+    - Holland-Ausflug: Fünf Tipps für den Kurzurlaub an der Nordsee
+
+  https://visitzandvoort.de/strand/hunde/ (~24 Woerter):
+    - Hundespaßin Zandvoort
+    - Strandspaziergangmit deinem Hund
+    - Dünenspaziergangmit deinem Hund
+    - Freilaufgebiete
+    - Bleib auf dem Laufenden
+
+  https://www.holland-hund.de/ (~1854 Woerter):
+    - Hotels und Ferienhäuser für Urlaub mit Hund in Holland
+    - Beliebte Reiseregionen für Holland mit Hund
+    - Top-Badeorte für Urlaub mit Hund am Meer in Holland
+    - Westfriesische Inseln mit Hund
+    - Urlaub mit Hund in Holland – Ferienhaus mieten
+    - Die Niederlande – ein hundefreundliches Land lädt ein
+    - Einreisebestimmungen für Hunde nach Holland
+    - Aktivitäten mit Hunden in Holland
+
+  https://www.europarcs.de/urlaub/urlaub-mit-hund/nordsee-mit-hund (~1006 Woerter):
+    - EuroParcs Cadzand-Bad
+    - 
+    - 
+    - 
+    - EuroParcs Parc du Soleil
+    - 
+    - 
+    - 
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "urlaub mit hund holland" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-ostsee/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            67/100
+  Status:           BESTANDEN
+  Wortanzahl:       3841 (Ziel: >=2000)
+  H2-Headings:      13
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.00% (0x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+    ✗ Haupt-Keyword nur in 0 H2 (min. 2)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund holland - Ratgeber"  Datei: urlaub-mit-hund-holland.webp
+  Content-Bild:  Alt="urlaub mit hund holland - Detail"    Datei: urlaub-mit-hund-holland-detail.webp
+  Content-Bild:  Alt="urlaub mit hund holland - Praxis"    Datei: urlaub-mit-hund-holland-praxis.webp
+
+======================================================================

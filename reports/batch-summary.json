@@ -1,16 +1,16 @@
 {
-  "date": "2026-03-17T15:35:59.508088",
+  "date": "2026-03-18T12:57:18.128805",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Urlaub mit Hund an der Ostsee: Die besten Tipps & Strände",
-      "slug": "urlaub-hund-ostsee",
+      "title": "Urlaub mit Hund in Holland: Strände, Regeln & Einreise",
+      "slug": "urlaub-hund-holland",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-ostsee.md",
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-holland.md",
       "quality_score": 67,
-      "word_count": 3107,
+      "word_count": 3841,
       "issues": [
         "Keyword-Dichte zu niedrig: 0.00% (0x, Ziel: 1-2%)",
         "Haupt-Keyword NICHT in den ersten 100 Woertern",
@@ -20,23 +20,23 @@
     }
   ],
   "costs": {
-    "claude_input_tokens": 4093,
-    "claude_output_tokens": 11228,
-    "claude_cache_write_tokens": 13572,
+    "claude_input_tokens": 3838,
+    "claude_output_tokens": 12866,
+    "claude_cache_write_tokens": 13561,
     "claude_cache_read_tokens": 0,
     "ahrefs_requests": 4,
-    "image_count": 5,
-    "image_cost_usd": 0.335,
-    "total_cost_usd": 0.721,
+    "image_count": 3,
+    "image_cost_usd": 0.201,
+    "total_cost_usd": 0.6266,
     "per_article": [
       {
-        "title": "Urlaub mit Hund an der Ostsee: Die besten Tipps & Strände",
-        "claude_input": 4093,
-        "claude_output": 11228,
-        "claude_cache_write": 13572,
+        "title": "Urlaub mit Hund in Holland: Strände, Regeln & Einreise",
+        "claude_input": 3838,
+        "claude_output": 12866,
+        "claude_cache_write": 13561,
         "claude_cache_read": 0,
         "ahrefs_requests": 4,
-        "images": 5
+        "images": 3
       }
     ]
   }
