@@ -1,0 +1,280 @@
+======================================================================
+  KONTROLL-REPORT: Warum fressen Hunde Kot? Ursachen & was du tun kannst
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Warum fressen Hunde Kot? Ursachen & was du tun kannst
+  Title-Laenge:     53 Zeichen (Ziel: <=60)
+  Meta-Description: Hund frisst Kot? Erfahre die häufigsten Ursachen für Koprophagie, wann es gefährlich wird und welche Maßnahmen wirklich helfen. Tierärztlich fundiert.
+  Desc-Laenge:      150 Zeichen (Ziel: <=160)
+  Slug:             fressen-hunde-kot
+  URL:              https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/
+  Kategorie:        Erziehung & Verhalten (erziehung-verhalten)
+  Tags:             warum fressen hunde kot, hund frisst kot, Koprophagie, hund frisst eigenen kot, Kotfressen Hund, Verhalten Hund, Magen Darm Hund, ausgewogene Ernährung
+  Datum:            2026-03-21
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          warum fressen hunde kot
+  Suchvolumen:      1300/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $0
+  Traffic Pot.:     2300
+
+  Einbau-Check:
+    Vorkommen:      5x
+    Keyword-Dichte: 0.15% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          2x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    32    9900       152x
+  magen darm                                34000    26   87000         1x
+  hunde                                     30000    18   14000        96x
+  warum                                     19000     6      30        17x
+  parasiten                                 11000     2    9800        23x
+  dass                                       9400     4    1200         6x
+  verhalten                                  5400     1     450        52x
+  kot                                        5400     3     500       170x
+  harzer käse                                4100     0    2500         7x
+  ausgewogene ernährung                      3400    33   21000         5x
+  hund frisst kot                            3400     0    1400         2x
+  fressen                                    2200     3     100        92x
+  grenzen setzen                             1600     5     350         2x
+  hund frisst eigenen kot                    1400     0    2000         2x
+  warum fressen hunde kot                    1300     0    2300         7x
+  gras und kotfresser drops                  1100     0     300      FEHLT
+  warum frisst mein hund kot                  900     0     600      FEHLT
+  hund frisst kot hausmittel                  900     0     200      FEHLT
+  hund frisst katzenkot                       700     0     400      FEHLT
+  frisst                                      600     0      10        13x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  warum fressen hunde kot                         1300     0         7x
+  warum fressen hunde katzenkot                    300     0         2x
+  warum fressen hunde ihren kot                    200     0      FEHLT
+  warum fressen hunde ihren eigenen kot            150     0         1x
+  warum fressen hunde hundekot                      70     0      FEHLT
+  wieso fressen hunde kot                           70     0      FEHLT
+  warum fressen hunde kot von anderen tieren        50     0      FEHLT
+  warum fressen hunde kot von anderen hunden        40     0      FEHLT
+  warum fressen hunde eigenen kot                   30     0      FEHLT
+  warum fressen hunde kot von katzen                20     0      FEHLT
+  warum fressen hunde anderen hundekot              10     0      FEHLT
+  warum fressen manche hunde kot                    10     0         1x
+  warum fressen hunde kot von menschen              10     0      FEHLT
+  warum fressen hunde fremden kot                   10     0      FEHLT
+  wieso fressen hunde ihren kot                     10     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    22
+  Durchschn. Woerter:   1155
+  Durchschn. DR:        6.5
+  Unser Wortanzahl:     3274
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.vtg-tiergesundheit.de/magazin/hunde/koprophagie-warum-hunde-kot-fressen
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.purina.de/artikel/hunde/verhalten/haeufige-fragen/warum-fressen-hunde-kot
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.santevet.de/artikel/hund-frisst-kot-ursachen-folgen
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.martinruetter.com/wien/aktuelles/warum-fressen-manche-hunde-kot
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://bugbell.de/blogs/magen-darm/hund-frisst-kot-so-gefahrlich-ist-es-wirklich-und-das-kannst-du-tun
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.rinti.de/magazin/hund-frisst-hundekot
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://hundpur.com/blogs/ratgeber-uebersicht/hund-frisst-kot
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.youtube.com/watch?v=w80QuJH71IA&t=293
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://talesandtails.de/blogs/news/hund-frisst-kot-alles-uber-das-unappetitliche-hobby
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.naturavetal.de/ratgeber/hunderatgeber/mein-hund-frisst-kot-was-kann-ich-tun
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.josera.de/ratgeber/ratgeber-hunde/ungewoehnliches-fressverhalten.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.ruhr24.de/service/warum-fressen-hunde-kot-mythos-widerlegt-studie-experten-forschung-aufklaerung-tierarzt-wissenschaft-93914449.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.martinruetter.com/wien/aktuelles/warum-fressen-manche-hunde-kot
+    DR: 69.0, Traffic: 2500, Keywords: 70
+  Pos 3: https://vetevo.de/blogs/hund-ratgeber/warum-fressen-hunde-kot
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://rp-online.de/panorama/wenn-der-hund-kot-frisst_aid-19059437
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.naturavetal.de/ratgeber/hunderatgeber/mein-hund-frisst-kot-was-kann-ich-tun
+    DR: 54.0, Traffic: 2582, Keywords: 103
+  Pos 5: https://leoloewenherz.de/blogs/pflege/warum-hunde-gras-und-kot-fressen-eine-erklarung-fur-besorgte-hundebesitzer
+    DR: 21.0, Traffic: 565, Keywords: 80
+  Pos 5: https://leoloewenherz.de/blogs/pflege/warum-hunde-gras-und-kot-fressen-eine-erklarung-fur-besorgte-hundebesitzer#warum-hunde-gras-und-kot-fressen-eine-erklarung-fur-besorgte-hundebesitzer
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://leoloewenherz.de/blogs/pflege/warum-hunde-gras-und-kot-fressen-eine-erklarung-fur-besorgte-hundebesitzer#warum-frisst-mein-hund-kot
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~1292 Woerter):
+    - Koprophagie – natürliches Verhalten oder nicht
+
+  https://www.purina.de/artikel/hunde/verhalten/haeufige-fragen/warum-fressen-hunde-kot (~2156 Woerter):
+    - Das Wichtigste in Kürze (TL;DR):
+    - Mögliche Ursachen für das Fressen von Kot
+    - Der Hund frisst Kot: Ist das gefährlich?
+    - Mögliche Kosten für Untersuchungen und Maßnahmen
+    - Online-Kostenvoranschlag anfordern
+    - Weitere Informationen direkt bei Santévet
+    - Maßnahmen zum Abgewöhnen von Kotfressen
+    - Kotfressen verhindern – praktische Tipps
+
+  https://www.santevet.de/artikel/hund-frisst-kot-ursachen-folgen (~266 Woerter):
+
+  https://www.martinruetter.com/wien/aktuelles/warum-fressen-manche-hunde-kot (~908 Woerter):
+    - Warum frisst meinHundKot? Ursachen, Risiken & was wirklich hilft
+    - WarumHunde Kot fressen– und was du sofort tun kannst
+    - Was istKoprophagie?
+    - Hauptursachen fürKotfressen beim Hund
+    - IstKotfressengefährlich?
+    - Risiken für Menschen?
+    - Was tun gegenKoprophagie?
+    - Wissenschaftliche Artikel & Quellen
+
+  https://bugbell.de/blogs/magen-darm/hund-frisst-kot-so-gefahrlich-ist-es-wirklich-und-das-kannst-du-tun (~12 Woerter):
+    - 8 mögliche Gründe und was Sie unternehmen können, wenn Ihr Hund Hundekot frisst
+
+  https://www.rinti.de/magazin/hund-frisst-hundekot (~1721 Woerter):
+    - Warum frisst mein Hund Kot?
+    - Hund frisst eigenen Kot: Mögliche Ursachen im Detail
+    - Gesundheitsrisiken: Was passiert, wenn mein Hund Kot frisst?
+    - Ernährungstipps zur Vorbeugung von Kotfressen
+    - Training und Verhaltensänderung: So kannst Du es verhindern
+    - Fazit
+    - FAQ
+
+  https://hundpur.com/blogs/ratgeber-uebersicht/hund-frisst-kot (~26 Woerter):
+
+  https://www.youtube.com/watch?v=w80QuJH71IA&t=293 (~1435 Woerter):
+    - Warum frisst mein Hund Kot?
+    - Junghund oder Welpe frisst Kot – aber warum?
+    - Hund frisst Kot – warum die Ernährung eine Rolle spielt
+    - Was tun, wenn der Hund Kot frisst?
+    - Hund frisst Kot – darum kann es gefährlich werden
+    - Fazit: Hund frisst Kot
+
+  https://talesandtails.de/blogs/news/hund-frisst-kot-alles-uber-das-unappetitliche-hobby (~3373 Woerter):
+    - Wenn der Hund Kot frisst, kann es Probleme im Darm geben
+    - Hund frisst Kot von fremden Tieren – ein Verhalten mit vielen Ursachen
+    - Gefahren, die durch das Kotfressen entstehen
+    - Mein Hund frisst Kot, aber ich weiß nicht warum
+    - Mein Hund ist gesund und frisst trotzdem Kot – wie kann ich es ihm abgewöhnen?
+
+  https://www.josera.de/ratgeber/ratgeber-hunde/ungewoehnliches-fressverhalten.html (~602 Woerter):
+    - Warum fressen Hunde eigenen Kot? Großer Irrtum aufgeklärt
+    - Warum fressen Hunde Kot? Das sagt die Wissenschaft
+    - Warum fressen Hunde Kot? Diese Gründe können eine Rolle spielen
+    - Warum fressen Hunde den eigenen Kot? Ab wann sollten Halter zum Tierarzt.
+    - Warum fressen Hunde Kot: Das können Halter tun
+    - Warum fressen Hunde Kot: Mythos vom Nährstoffmangel widerlegt
+
+  https://www.ruhr24.de/service/warum-fressen-hunde-kot-mythos-widerlegt-studie-experten-forschung-aufklaerung-tierarzt-wissenschaft-93914449.html (~266 Woerter):
+
+  https://www.martinruetter.com/wien/aktuelles/warum-fressen-manche-hunde-kot (~984 Woerter):
+    - Inhaltsverzeichnis:
+    - Warum fressen Hunde Kot?
+    - Wenn Kotfressen krankheitsbedingt ist
+    - Wie du das Kotfressen deinem Hund abgewöhnen kannst
+    - 
+    - Schüßler-Salze und Homöopathie
+    - 
+    - Hausmittel gegen das Fressen von Kot
+
+  https://vetevo.de/blogs/hund-ratgeber/warum-fressen-hunde-kot (~454 Woerter):
+
+  https://rp-online.de/panorama/wenn-der-hund-kot-frisst_aid-19059437 (~3373 Woerter):
+    - Wenn der Hund Kot frisst, kann es Probleme im Darm geben
+    - Hund frisst Kot von fremden Tieren – ein Verhalten mit vielen Ursachen
+    - Gefahren, die durch das Kotfressen entstehen
+    - Mein Hund frisst Kot, aber ich weiß nicht warum
+    - Mein Hund ist gesund und frisst trotzdem Kot – wie kann ich es ihm abgewöhnen?
+
+  None (~924 Woerter):
+    - Warum Hunde Gras und Kot fressen: Eine Erklärung für besorgte Hundebesitzer
+    - Warum frisst mein Hund Gras?
+    - Warum frisst mein Hund Kot?
+    - Ist es schlimm, wenn mein Hund Gras oder Kot frisst?
+    - Wie kann ich meinem Hund das Gras- oder Kotfressen abgewöhnen?
+    - GRASS AND MINERALS: Die natürliche Lösung für Hunde, die Gras oder Kot fressen
+    - Weiterlesen
+
+  None (~924 Woerter):
+    - Warum Hunde Gras und Kot fressen: Eine Erklärung für besorgte Hundebesitzer
+    - Warum frisst mein Hund Gras?
+    - Warum frisst mein Hund Kot?
+    - Ist es schlimm, wenn mein Hund Gras oder Kot frisst?
+    - Wie kann ich meinem Hund das Gras- oder Kotfressen abgewöhnen?
+    - GRASS AND MINERALS: Die natürliche Lösung für Hunde, die Gras oder Kot fressen
+    - Weiterlesen
+
+  https://www.naturavetal.de/ratgeber/hunderatgeber/mein-hund-frisst-kot-was-kann-ich-tun (~924 Woerter):
+    - Warum Hunde Gras und Kot fressen: Eine Erklärung für besorgte Hundebesitzer
+    - Warum frisst mein Hund Gras?
+    - Warum frisst mein Hund Kot?
+    - Ist es schlimm, wenn mein Hund Gras oder Kot frisst?
+    - Wie kann ich meinem Hund das Gras- oder Kotfressen abgewöhnen?
+    - GRASS AND MINERALS: Die natürliche Lösung für Hunde, die Gras oder Kot fressen
+    - Weiterlesen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 5
+
+  - "warum fressen hunde kot" -> https://hundewissen-mit-kopf.de/hundeernaehrung/warum-duerfen-hunde-keine-schokolade/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/hundeernaehrung/duerfen-hunde-aepfel-essen/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            82/100
+  Status:           BESTANDEN
+  Wortanzahl:       3274 (Ziel: >=2000)
+  H2-Headings:      12
+  Eyecatcher:       8
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.15% (5x, Ziel: 1-2%)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="warum fressen hunde kot - Ratgeber"  Datei: warum-fressen-hunde-kot.webp
+  Content-Bild:  Alt="warum fressen hunde kot - Detail"    Datei: warum-fressen-hunde-kot-detail.webp
+  Content-Bild:  Alt="warum fressen hunde kot - Praxis"    Datei: warum-fressen-hunde-kot-praxis.webp
+
+======================================================================
