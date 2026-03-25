@@ -1,0 +1,184 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund in Deutschland: 12 hundefreundliche Regionen
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund in Deutschland: 12 hundefreundliche Regionen
+  Title-Laenge:     60 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund in Deutschland planen: 12 hundefreundliche Regionen von Ostsee bis Alpen mit Tipps zu Unterkünften, Hundestränden & Aktivitäten.
+  Desc-Laenge:      144 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-deutschland
+  URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-deutschland/
+  Kategorie:        Reisen (reisen)
+  Tags:             Urlaub mit Hund Deutschland, Hundeurlaub, Ferienhaus mit Hund, Ferienwohnung mit Hund, Kurzurlaub mit Hund, Urlaub mit Hund Ostsee, Urlaub mit Hund Bayern, Urlaub mit Hund Geheimtipp
+  Datum:            2026-03-25
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund deutschland
+  Suchvolumen:      2700/Monat
+  Keyword Diff:     2/100
+  CPC:              $35
+  Traffic Pot.:     2100
+
+  Einbau-Check:
+    Vorkommen:      0x
+    Keyword-Dichte: 0.0% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          0x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000     1     300       256x
+  ostsee                                   134000    36    3000        28x
+  hunde                                     30000    18   14000       154x
+  mecklenburgische seenplatte               23000     0      30         7x
+  wald                                      22000     8    2500        43x
+  cd player                                 11000     0    1600      FEHLT
+  hundeurlaub                               10000    42   50000        22x
+  dvd player                                 9100     0    1600      FEHLT
+  thüringer wald                             7900    34     800        10x
+  blu ray player                             7700     0      50      FEHLT
+  hundeurlaub de                             6500    48   49000      FEHLT
+  ferienhaus mit hund                        6300    26    2700         6x
+  gibt                                       5900     2     300        14x
+  ferienwohnung mit hund                     5500    30   50000         2x
+  kurzurlaub mit hund                        3900     3   49000         9x
+  blu ray                                    2800     0     N/A      FEHLT
+  urlaub mit hund deutschland                2700     2    2100         1x
+  hotel mit hund                             2600     0    3000         1x
+  seen                                       2400     0     N/A        27x
+  hundehotel                                 2400    13    3000      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  urlaub mit hund ostsee                          3100     0         1x
+  urlaub mit hund deutschland                     2700     2         1x
+  urlaub mit hund holland                         2300     0      FEHLT
+  urlaub mit hund nordsee                         2200     0      FEHLT
+  urlaub mit hund ferienhaus eingezäunt           1900    26      FEHLT
+  urlaub mit hund geheimtipp                      1800     2         3x
+  urlaub mit hund bayern                          1600     0         1x
+  urlaub mit hund ostsee ferienhaus eingezäunt günstig   1500     0      FEHLT
+  urlaub mit hund holland ferienhaus eingezäunt am meer   1300     0      FEHLT
+  urlaub mit hund österreich                      1200     0      FEHLT
+  urlaub mit hund dänemark                        1100    28      FEHLT
+  urlaub mit hund eingezäuntes grundstück         1000     0      FEHLT
+  urlaub mit hund in deutschland                   900     0        13x
+  urlaub mit hund eingezäuntes grundstück am wasser    800     0      FEHLT
+  urlaub mit hund schwarzwald                      800     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   1849
+  Durchschn. DR:        27.0
+  Unser Wortanzahl:     3674
+
+  Pos 1: https://www.hundeurlaub.de/deutschland
+    DR: 71.0, Traffic: 2392, Keywords: 127
+  Pos 2: https://www.4pfoten-urlaub.de/urlaub-mit-hund-in-deutschland/
+    DR: 55.0, Traffic: 1007, Keywords: 49
+  Pos 3: https://www.fressnapf.de/magazin/hund/reisen/top-10-reiseziele-deutschland/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.petbook.de/hunde/die-hundefreundlichsten-staedte-deutschlands
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.lidl-reisen.de/reisetipps/urlaub-hund-deutschland
+    DR: 41.0, Traffic: 431, Keywords: 57
+  Pos 5: https://www.hunde-urlaub.net/deutschland/
+    DR: 49.0, Traffic: 286, Keywords: 77
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.hundeurlaub.de/deutschland (~4863 Woerter):
+    - 4680Ferienwohnungen & Ferienhäuser Deutschland mit Hund
+    - Hundeurlaub in Deutschland - von den Alpen bis zur Ostsee
+
+  https://www.4pfoten-urlaub.de/urlaub-mit-hund-in-deutschland/ (~871 Woerter):
+    - Warum Urlaub mit Hund in Deutschland?
+    - Die schönsten Regionen für Urlaub mit Hund in Deutschland
+    - Aktivitäten für Hunde in Deutschland
+    - Wichtige Tipps für den Urlaub mit Hund in Deutschland
+    - Fazit: Deutschland ist ein perfektes Reiseziel für deinen Hundeurlaub
+
+  https://www.fressnapf.de/magazin/hund/reisen/top-10-reiseziele-deutschland/ (~940 Woerter):
+    - 1. Ostsee
+    - 2. Nordsee
+    - 3. Bayerischer Wald
+    - 4. Bodensee
+    - 5. Mosel
+    - 6. Harz
+    - 7. Thüringer Wald
+    - 8. Allgäu
+
+  None (~723 Woerter):
+    - So wurde die hundefreundlichste Stadt Deutschlands ermittelt
+    - 1. Platz Hannover
+    - 2. Platz Leipzig
+    - 3. Platz Essen
+    - 3. PlatzHamburg
+    - 4. Platz Köln
+    - So haben die restlichen Städte abgeschnitten
+    - Quellen
+
+  https://www.petbook.de/hunde/die-hundefreundlichsten-staedte-deutschlands (~1536 Woerter):
+    - Deutschland Urlaub mit Hund in allen Facetten
+    - FAQ und Tipps für einen stressfreien Deutschland Urlaub mit Hund
+
+  None (~2161 Woerter):
+    - Dein Traum Urlaub mit Hund in Deutschland
+    - Finde Deinen Traumurlaub mit Hund
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 4
+  Eingebaute Links: 5
+
+  - "urlaub mit hund deutschland" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-holland/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "ostsee" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-ostsee/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            67/100
+  Status:           BESTANDEN
+  Wortanzahl:       3674 (Ziel: >=2000)
+  H2-Headings:      22
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.00% (0x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+    ✗ Haupt-Keyword nur in 0 H2 (min. 2)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund deutschland - Ratgeber"  Datei: urlaub-mit-hund-deutschland.webp
+  Content-Bild:  Alt="urlaub mit hund deutschland - Detail"    Datei: urlaub-mit-hund-deutschland-detail.webp
+  Content-Bild:  Alt="urlaub mit hund deutschland - Praxis"    Datei: urlaub-mit-hund-deutschland-praxis.webp
+
+======================================================================

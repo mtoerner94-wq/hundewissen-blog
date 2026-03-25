@@ -1,36 +1,38 @@
 {
-  "date": "2026-03-21T17:24:31.114701",
+  "date": "2026-03-25T11:17:13.336194",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Warum fressen Hunde Kot? Ursachen & was du tun kannst",
-      "slug": "fressen-hunde-kot",
+      "title": "Urlaub mit Hund in Deutschland: 12 hundefreundliche Regionen",
+      "slug": "urlaub-hund-deutschland",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/fressen-hunde-kot.md",
-      "quality_score": 82,
-      "word_count": 3274,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-deutschland.md",
+      "quality_score": 67,
+      "word_count": 3674,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.15% (5x, Ziel: 1-2%)",
+        "Keyword-Dichte zu niedrig: 0.00% (0x, Ziel: 1-2%)",
+        "Haupt-Keyword NICHT in den ersten 100 Woertern",
+        "Haupt-Keyword nur in 0 H2 (min. 2)",
         "Haupt-Keyword in keiner H3-Ueberschrift"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 6687,
-    "claude_output_tokens": 11965,
+    "claude_input_tokens": 3884,
+    "claude_output_tokens": 12720,
     "claude_cache_write_tokens": 13649,
     "claude_cache_read_tokens": 0,
     "ahrefs_requests": 4,
     "image_count": 3,
     "image_cost_usd": 0.201,
-    "total_cost_usd": 0.6189,
+    "total_cost_usd": 0.6237,
     "per_article": [
       {
-        "title": "Warum fressen Hunde Kot? Ursachen & was du tun kannst",
-        "claude_input": 6687,
-        "claude_output": 11965,
+        "title": "Urlaub mit Hund in Deutschland: 12 hundefreundliche Regionen",
+        "claude_input": 3884,
+        "claude_output": 12720,
         "claude_cache_write": 13649,
         "claude_cache_read": 0,
         "ahrefs_requests": 4,
