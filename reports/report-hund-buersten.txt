@@ -1,0 +1,183 @@
+======================================================================
+  KONTROLL-REPORT: Hund bürsten: Wie oft & welche Bürste für welches Fell?
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hund bürsten: Wie oft & welche Bürste für welches Fell?
+  Title-Laenge:     55 Zeichen (Ziel: <=60)
+  Meta-Description: Hund bürsten leicht gemacht: Erfahre, wie oft du bürsten solltest, welche Hundebürste für welches Fell passt und was bei Verfilzungen hilft.
+  Desc-Laenge:      140 Zeichen (Ziel: <=160)
+  Slug:             hund-buersten
+  URL:              https://hundewissen-mit-kopf.de/hundepflege/hund-buersten/
+  Kategorie:        Hundepflege (hundepflege)
+  Tags:             Hund bürsten, Hundebürste, Fellpflege, Bürste Hund, Hundebürste Unterwolle, Hundebürste Langhaar, Kurzhaar Hunde bürsten, Fell
+  Datum:            2026-03-26
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hund bürsten
+  Suchvolumen:      200/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $20
+  Traffic Pot.:     700
+
+  Einbau-Check:
+    Vorkommen:      8x
+    Keyword-Dichte: 0.25% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          6x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000     1     300       170x
+  martin rütter                             46000     0      20      FEHLT
+  hunde                                     30000    18   14000       102x
+  bürste                                     4000     0     400       204x
+  fell                                       3500     0      30       108x
+  hundebürste                                2300     0     250        21x
+  bürsten                                    1300     9      30       109x
+  kurzhaar hunde                             1100     0    2400         1x
+  hundebürste unterwolle                      800     0     400         1x
+  günstig kaufen                              700     0     N/A      FEHLT
+  sollten                                     600     0     500         5x
+  hunde shop                                  500    34    2200      FEHLT
+  borsten                                     500     0      20        14x
+  afghanische windhund                        500     0    2700         4x
+  hundebürste langhaar                        500     0     350         1x
+  unterwolle bürste hund                      450     0     400      FEHLT
+  fellbürste hund                             450     0     800      FEHLT
+  hunde bürste                                300     0     150         2x
+  fellpflege                                  300     0     400        14x
+  hund trimmen                                300     0     300      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  hund bürsten                                     200     0        13x
+  hund lässt sich nicht bürsten                    150     0         2x
+  wie oft hund bürsten                              70     0      FEHLT
+  hund schnappt beim bürsten                        50     0         1x
+  hund bürsten gegen strich                         30     0      FEHLT
+  hundebürsten kurzhaar                             30     0      FEHLT
+  hund bürsten wie oft                              20     0      FEHLT
+  hundebürsten test                                 20     0      FEHLT
+  hund will sich nicht bürsten lassen               20     0      FEHLT
+  hundebürsten unterwolle                           20     0      FEHLT
+  wie lange hund bürsten                            20     0      FEHLT
+  hund richtig bürsten                              20     0         1x
+  hund bürsten beibringen                           20     0      FEHLT
+  welpen bürsten                                    20     0      FEHLT
+  hund schuppt beim bürsten                         10     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    10
+  Durchschn. Woerter:   1165
+  Durchschn. DR:        27.4
+  Unser Wortanzahl:     3173
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.amazon.de/Hundebuersten/b?ie=UTF8&node=470639031
+    DR: 93.0, Traffic: 610, Keywords: 12
+  Pos 3: https://www.ehaso.de/de/kaemme-buersten/
+    DR: 45.0, Traffic: 191, Keywords: 26
+  Pos 3: https://www.ehaso.de/de/kaemme-buersten/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://herz-fuer-tiere.de/haustiere/hunde/pflege-und-hygiene-bei-hunden/kaemmen-buersten-von-hunden
+    DR: 67.0, Traffic: 31, Keywords: 8
+  Pos 5: https://shop.martinruetter.com/collections/fellpflege
+    DR: 69.0, Traffic: 312, Keywords: 57
+  Pos 5: https://shop.martinruetter.com/collections/fellpflege
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~2520 Woerter):
+    - 1-24 von mehr als 30.000 Ergebnissen oder Vorschlägen für"Hundebürsten"
+    - Ergebnisse
+    - Fellwunder Bürste hund, Pfotenmond Bürste, Groomify Pet Care Brush, Hunde Bürsten, Deshedding Brush, Hundebürste für Hunde, Haustier-Enthaarungskamm, Pflegekämme für Katze und Hund
+    - pecute Hundebürste Langhaar, Katzenbürste Haustierbürste, Selbstreinigende Zupfbürste, Hundekamm Fellbürste Hund Sanft Entfernt Unterwolle, Massage Fellpflege Bürste für Katzen Hunde Kurzhaar
+    - Recycled Claim Standard Blended
+    - Trixie 2315 Bürste, Holz, beidseitig, 6 × 21 cm, schwarz
+    - Weitere Ergebnisse
+    - TESTURTEIL SEHR GUT Softbürste verbesserte Version **VERGLEICHSSIEGER** Katzenbürste, Hundebürste Pudel mit Schutznoppen für besonders empfindliche Tiere
+
+  None (~1051 Woerter):
+    - Bestseller
+    - Hundekamm, Hundebürste oder Striegel?
+    - Kämme für Hunde
+    - Bürsten für Hunde
+    - Hundestriegel
+    - Entfilzer
+
+  None (~1051 Woerter):
+    - Bestseller
+    - Hundekamm, Hundebürste oder Striegel?
+    - Kämme für Hunde
+    - Bürsten für Hunde
+    - Hundestriegel
+    - Entfilzer
+
+  None (~1731 Woerter):
+
+  https://www.amazon.de/Hundebuersten/b?ie=UTF8&node=470639031 (~319 Woerter):
+    - KUNDENSERVICE
+    - UNTERNEHMEN
+    - RECHTLICHES
+
+  https://www.ehaso.de/de/kaemme-buersten/ (~319 Woerter):
+    - KUNDENSERVICE
+    - UNTERNEHMEN
+    - RECHTLICHES
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 7
+
+  - "hund bürsten" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-stubenrein-bekommen/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            85/100
+  Status:           BESTANDEN
+  Wortanzahl:       3173 (Ziel: >=2000)
+  H2-Headings:      13
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    7
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.25% (8x, Ziel: 1-2%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hund bürsten - Ratgeber"  Datei: hund-bürsten.webp
+  Content-Bild:  Alt="hund bürsten - Detail"    Datei: hund-bürsten-detail.webp
+  Content-Bild:  Alt="hund bürsten - Praxis"    Datei: hund-bürsten-praxis.webp
+
+======================================================================
