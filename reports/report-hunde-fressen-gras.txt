@@ -1,0 +1,307 @@
+======================================================================
+  KONTROLL-REPORT: Warum fressen Hunde Gras? Harmlos oder Warnsignal?
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hund frisst Gras: Harmlos oder Warnsignal?
+  Title-Laenge:     42 Zeichen (Ziel: <=60)
+  Meta-Description: Warum fressen Hunde Gras? Erfahre die 7 häufigsten Ursachen, wann ein Tierarzt nötig ist und was du bei Erbrechen nach dem Grasfressen tun kannst.
+  Desc-Laenge:      146 Zeichen (Ziel: <=160)
+  Slug:             hunde-fressen-gras
+  URL:              https://hundewissen-mit-kopf.de/erziehung-verhalten/hunde-fressen-gras/
+  Kategorie:        Erziehung & Verhalten (erziehung-verhalten)
+  Tags:             hund frisst gras, warum fressen hunde gras, hunde fressen gras, Magen Darm, Grasfressen Hund Tierarzt, warum frisst mein hund gras, Hund frisst Gras und erbricht
+  Datum:            2026-03-28
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hunde fressen gras
+  Suchvolumen:      400/Monat
+  Keyword Diff:     1/100
+  CPC:              $25
+  Traffic Pot.:     2600
+
+  Einbau-Check:
+    Vorkommen:      3x
+    Keyword-Dichte: 0.11% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          5x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000     1     300       145x
+  tierarzt                                  62000    39    3100        34x
+  magen darm                                34000     0    1200         1x
+  hunde                                     30000     1   16000        87x
+  magen                                     25000     0     400        43x
+  hund frisst gras                          11000     4    8400         9x
+  gras                                      11000     2    2100       176x
+  dass                                       9400     0      30         8x
+  verhalten                                  5400     0      10        32x
+  warum fressen hunde gras                   3200     4    8300         7x
+  fressen                                    2200     3     100       115x
+  chronische schmerzen                       1700    12     250         7x
+  magen darm trakt                           1400     2    1000      FEHLT
+  ab wann                                    1400     0    2000         2x
+  warum frisst mein hund gras                1200     2    3900         1x
+  gras und kotfresser drops                  1100     0     300      FEHLT
+  hund frisst viel gras                       800     0     700      FEHLT
+  gras fressen hund                           700     0     800      FEHLT
+  hund frisst gras und erbricht               700     1     250         2x
+  frisst                                      600     0      10        21x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  warum fressen hunde gras                        3200     4         7x
+  wenn hunde gras fressen                          500     4      FEHLT
+  hunde fressen gras                               400     1         5x
+  dürfen hunde gras fressen                        400     2         1x
+  wieso fressen hunde gras                         100     3      FEHLT
+  wann fressen hunde gras                           60     5      FEHLT
+  hunde gras fressen lassen                         40     0      FEHLT
+  soll man hunde gras fressen lassen                40     5      FEHLT
+  warum fressen hunde gras und übergeben sich       30     0         1x
+  wenn hunde gras fressen und erbrechen             30     3      FEHLT
+  warum fressen hunde gras und erbrechen            30     0      FEHLT
+  wenn hunde viel gras fressen                      20     3      FEHLT
+  sollten hunde gras fressen                        20     0      FEHLT
+  warum fressen hunde gras und erde                 20     0      FEHLT
+  ist es schlimm wenn hunde gras fressen            20     4      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    19
+  Durchschn. Woerter:   1093
+  Durchschn. DR:        12.2
+  Unser Wortanzahl:     2856
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.dogslove.com/de/der-hund-frisst-gras
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.purina.de/artikel/hunde/fuettern/was-hunde-fressen/hund-frisst-gras
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.rosengarten-tierbestattung.de/magazin/detail/warum-frisst-mein-hund-gras-gruende-und-ursachen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.wolfsblut.com/magazin/kategorie-gesundheit/hund-frisst-gras/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.br.de/radio/bayern1/warum-fressen-hunde-gras-100.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.martinruetter.com/schwerin/aktuelles/mein-hund-der-grasfresser
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hund-frisst-gras/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.fressnapf.de/magazin/hund/ernaehrung/warum-fressen-hunde-gras/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://lila-loves-it.com/de/magazin/wenn-hunde-gras-fressen-normal-oder-grund-zur-sorge/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.vegdog.de/blogs/gesundheit/mein-hund-frisst-gras
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://tractive.com/blog/de/gesundheit/hund-frisst-gras-4-gruende-warum
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.fressnapf.de/magazin/hund/ernaehrung/warum-fressen-hunde-gras/
+    DR: 74.0, Traffic: 8226, Keywords: 151
+  Pos 3: https://www.naturavetal.de/ratgeber/hunderatgeber/mein-hund-frisst-gras-was-kann-ich-tun
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.rinti.de/magazin/hund-frisst-gras-was-tun
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.fressnapf.de/magazin/hund/ernaehrung/warum-fressen-hunde-gras/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.agila.de/tiergesundheit/hundegesundheit/krankheiten/1746-vergiftung-beim-hund
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.martinruetter.com/schwerin/aktuelles/mein-hund-der-grasfresser
+    DR: 69.0, Traffic: 1671, Keywords: 99
+  Pos 5: https://www.br.de/radio/bayern1/warum-fressen-hunde-gras-100.html
+    DR: 89.0, Traffic: 2392, Keywords: 119
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~1270 Woerter):
+    - Warum fressen Hunde Gras?
+    - Ist es gefährlich, wenn mein Hund Gras frisst?
+    - Mein Hund frisst viel Gras – was dagegen hilft
+    - Mein Hund frisst Gras und erbricht – was steckt dahinter?
+    - Hund frisst Gras und leckt sich die Pfoten – gibt es einen Zusammenhang?
+    - Wann ist ein Tierarztbesuch notwendig?
+    - Darf mein Hund Gras fressen – ja oder nein?
+    - Weitere Artikel
+
+  https://www.purina.de/artikel/hunde/fuettern/was-hunde-fressen/hund-frisst-gras (~1106 Woerter):
+
+  https://www.rosengarten-tierbestattung.de/magazin/detail/warum-frisst-mein-hund-gras-gruende-und-ursachen/ (~385 Woerter):
+    - Warum Hunde Gras fressen – der Stand der Wissenschaft
+    - Die wichtigsten Gründe, warum Hunde Gras fressen
+    - Ist Grasfressen für Hunde gefährlich?
+    - Wie Hundebesitzer reagieren sollten
+    - Fazit
+
+  https://www.wolfsblut.com/magazin/kategorie-gesundheit/hund-frisst-gras/ (~1137 Woerter):
+    - Inhalt
+    - Hund frisst Gras - Vitaminmangel?
+    - Warum fressen Hunde Gras und übergeben sich?
+    - Erste Hilfe bei gefressenen Geflügelknochen
+    - Warum fressen Hunde Gras - Studie
+    - Ab wann sollte ich mit meinem Hund zum Tierarzt?
+    - Ist Grasfressen für Hunde gefährlich?
+    - Hund Gras fressen lassen
+
+  https://www.br.de/radio/bayern1/warum-fressen-hunde-gras-100.html (~821 Woerter):
+    - Ähnliche Artikel
+    - Der Ölkäfer - ein Käfer der hochgiftig ist
+    - Eier in der Hundefütterung
+    - Demenz beim Hund
+    - Tetanus beim Hund
+    - Wenn der eigene Hund zubeißt
+    - Salmonellen im Hundefutter
+    - Epilepsie beim Hund
+
+  https://www.martinruetter.com/schwerin/aktuelles/mein-hund-der-grasfresser (~7 Woerter):
+    - Hund frisst Gras: Das ist normal#
+    - Warum frisst mein Hund Gras?#
+    - Hund frisst Gras: Beruhigende Wirkung#
+    - Hund frisst oft Gras: Was kann man dagegen tun?#
+    - Error
+
+  https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hund-frisst-gras/ (~1644 Woerter):
+    - Mein Hund frisst Gras: Ist das normal?
+    - Warum fressen Hunde Gras?
+    - Gründe, warum Hunde Gras fressen
+    - Mein Hund frisst immer Gras: Wann wird das Grasfressen zum Problem?
+    - Lungenwürmer durch Grasfressen
+    - Mein Hund frisst Gras – die Folgen und was dagegen hilft
+    - Das gibt es noch zu beachten, wenn der Hund Gras frisst
+    - Graskonsum reduzieren
+
+  https://www.fressnapf.de/magazin/hund/ernaehrung/warum-fressen-hunde-gras/ (~1041 Woerter):
+    - Warum fressen Hunde Gras? Es schmeckt und entspannt!
+    - Natürliche Ballaststoffe für die Darmtätigkeit
+    - Hund frisst Gras – und erbricht
+    - Symptom Grasfressen, Schmatzen, Aufstoßen: Fokus auf die Magensäure
+    - Hausmittel bei Magenübersäuerung und Gras fressen – Ulmenrinde
+    - Zusammenfassende Tipps – Ihr Hund frisst Gras: Was tun?
+    - Mehr zum Thema Verdauung bei Hunden
+    - Die beliebtesten Anliegen unserer Kunden im Überblick
+
+  https://lila-loves-it.com/de/magazin/wenn-hunde-gras-fressen-normal-oder-grund-zur-sorge/ (~52 Woerter):
+    - Warum fressen Hunde Gras?
+    - Gesundheitliche Ursachen für das Grasfressen beim Hund
+    - Achte auf die Symptome deiner Fellnase
+    - Kann das Grasfressen gefährlich werden?
+    - Was tun, wenn der Hund Gras frisst?
+    - Fazit: Dürfen Hunde Gras fressen?
+    - Hilfe & Service
+    - Gesetzliches
+
+  https://www.vegdog.de/blogs/gesundheit/mein-hund-frisst-gras (~21 Woerter):
+    - Das Wichtigste vorweg
+    - Überblick
+    - Warum fressen Hunde Gras?
+    - Erhalte Gesundheitswarnungen für deinen Hund
+    - Soll ich meinen Hund Gras fressen lassen?
+    - Ist Grasfressen für Hunde gefährlich?
+    - Ab wann sollte ich mir Sorgen machen?
+    - Fazit: Dein Hund frisst Gras?
+
+  https://tractive.com/blog/de/gesundheit/hund-frisst-gras-4-gruende-warum (~1644 Woerter):
+    - Mein Hund frisst Gras: Ist das normal?
+    - Warum fressen Hunde Gras?
+    - Gründe, warum Hunde Gras fressen
+    - Mein Hund frisst immer Gras: Wann wird das Grasfressen zum Problem?
+    - Lungenwürmer durch Grasfressen
+    - Mein Hund frisst Gras – die Folgen und was dagegen hilft
+    - Das gibt es noch zu beachten, wenn der Hund Gras frisst
+    - Graskonsum reduzieren
+
+  https://www.fressnapf.de/magazin/hund/ernaehrung/warum-fressen-hunde-gras/ (~4787 Woerter):
+    - Warum frisst mein Hund Gras? Die häufigsten Gründe und Ursachen
+    - Ist Grasfressen gefährlich und ab wann ist das Verhalten bedenklich?
+    - Welche Arten von Gras darf mein Hund fressen?
+    - Welchen Einfluss hat die Ernährung auf das Grasfressen beim Hund?
+    - Was kann ich tun, wenn mein Hund Gras frisst und danach erbricht?
+    - Kann ich meinem Hund das Grasfressen abtrainieren?
+    - Dem Grasfressen beim Hund auf der Spur - Beobachten Sie Ihren Hund genau!
+
+  https://www.naturavetal.de/ratgeber/hunderatgeber/mein-hund-frisst-gras-was-kann-ich-tun (~1 Woerter):
+    - Wann Grasfressen normal ist und wann es auf eine Erkrankung Ihres Hundes hinweisen kann
+
+  https://www.rinti.de/magazin/hund-frisst-gras-was-tun (~1644 Woerter):
+    - Mein Hund frisst Gras: Ist das normal?
+    - Warum fressen Hunde Gras?
+    - Gründe, warum Hunde Gras fressen
+    - Mein Hund frisst immer Gras: Wann wird das Grasfressen zum Problem?
+    - Lungenwürmer durch Grasfressen
+    - Mein Hund frisst Gras – die Folgen und was dagegen hilft
+    - Das gibt es noch zu beachten, wenn der Hund Gras frisst
+    - Graskonsum reduzieren
+
+  https://www.fressnapf.de/magazin/hund/ernaehrung/warum-fressen-hunde-gras/ (~1064 Woerter):
+    - Vergiftung bei Hunden erkennen
+    - Vergiftung bei Hunden – Was tun?
+    - Vergiftung bei Hunden behandeln
+    - Vergiftung bei Hunden verhindern
+
+  https://www.agila.de/tiergesundheit/hundegesundheit/krankheiten/1746-vergiftung-beim-hund (~821 Woerter):
+    - Ähnliche Artikel
+    - Der Ölkäfer - ein Käfer der hochgiftig ist
+    - Eier in der Hundefütterung
+    - Demenz beim Hund
+    - Tetanus beim Hund
+    - Wenn der eigene Hund zubeißt
+    - Salmonellen im Hundefutter
+    - Epilepsie beim Hund
+
+  https://www.martinruetter.com/schwerin/aktuelles/mein-hund-der-grasfresser (~1137 Woerter):
+    - Inhalt
+    - Hund frisst Gras - Vitaminmangel?
+    - Warum fressen Hunde Gras und übergeben sich?
+    - Erste Hilfe bei gefressenen Geflügelknochen
+    - Warum fressen Hunde Gras - Studie
+    - Ab wann sollte ich mit meinem Hund zum Tierarzt?
+    - Ist Grasfressen für Hunde gefährlich?
+    - Hund Gras fressen lassen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 7
+
+  - "hunde fressen gras" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/hundeernaehrung/duerfen-hunde-aepfel-essen/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            85/100
+  Status:           BESTANDEN
+  Wortanzahl:       2856 (Ziel: >=2000)
+  H2-Headings:      10
+  Eyecatcher:       8
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    7
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.11% (3x, Ziel: 1-2%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hunde fressen gras - Ratgeber"  Datei: hunde-fressen-gras.webp
+  Content-Bild:  Alt="hunde fressen gras - Detail"    Datei: hunde-fressen-gras-detail.webp
+  Content-Bild:  Alt="hunde fressen gras - Praxis"    Datei: hunde-fressen-gras-praxis.webp
+
+======================================================================

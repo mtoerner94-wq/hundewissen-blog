@@ -1,35 +1,35 @@
 {
-  "date": "2026-03-26T23:15:29.530795",
+  "date": "2026-03-28T11:00:23.702770",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Hund bürsten: Wie oft & welche Bürste für welches Fell?",
-      "slug": "hund-buersten",
+      "title": "Warum fressen Hunde Gras? Harmlos oder Warnsignal?",
+      "slug": "hunde-fressen-gras",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hund-buersten.md",
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hunde-fressen-gras.md",
       "quality_score": 85,
-      "word_count": 3173,
+      "word_count": 2856,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.25% (8x, Ziel: 1-2%)"
+        "Keyword-Dichte zu niedrig: 0.11% (3x, Ziel: 1-2%)"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 3929,
-    "claude_output_tokens": 11320,
+    "claude_input_tokens": 7054,
+    "claude_output_tokens": 11007,
     "claude_cache_write_tokens": 13649,
     "claude_cache_read_tokens": 0,
     "ahrefs_requests": 4,
     "image_count": 3,
     "image_cost_usd": 0.201,
-    "total_cost_usd": 0.589,
+    "total_cost_usd": 0.5968,
     "per_article": [
       {
-        "title": "Hund bürsten: Wie oft & welche Bürste für welches Fell?",
-        "claude_input": 3929,
-        "claude_output": 11320,
+        "title": "Warum fressen Hunde Gras? Harmlos oder Warnsignal?",
+        "claude_input": 7054,
+        "claude_output": 11007,
         "claude_cache_write": 13649,
         "claude_cache_read": 0,
         "ahrefs_requests": 4,
