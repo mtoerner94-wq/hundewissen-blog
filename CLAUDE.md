@@ -31,7 +31,7 @@ src/
 ├── pages/
 │   ├── index.astro              # Startseite
 │   ├── [category]/[id].astro    # Artikel-Template (dynamische Route)
-│   ├── [category]/index.astro   # Kategorie-Übersicht
+│   ├── [category]/[...page].astro # Paginierte Kategorieseite (Bento-Grid + Editorial-Liste)
 │   ├── 404.astro                # Fehlerseite
 │   ├── impressum.astro          # Rechtliche Seiten
 │   ├── datenschutzerklaerung.astro
@@ -90,6 +90,17 @@ sources:                                                # Optional → Quellenve
 - **Petrol:** `#2C5F6E` → `var(--color-petrol)`
 - **Beige:** `#F5E6D3` → `var(--color-beige)`
 - **Danger:** `#e17055` → `var(--color-danger)`
+- **Font Display:** `'Playfair Display Variable'` → `var(--font-display)` (Serif-Headings, via @fontsource)
+- **Font Sans:** `'Inter'` → `var(--font-sans)` (Body)
+
+## Kategorie-Seiten Layout
+
+- **Pagination**: Astro `paginate()`, 9 Posts/Seite, URLs: `/kategorie/`, `/kategorie/2/`
+- **Seite 1**: Bento-Grid (4 Posts) + Editorial-Liste (5 Posts) + SEO-Outro in 2 Spalten
+- **Folgeseiten**: Nur Editorial-Liste, `noindex, follow`
+- **Fallback**: Bei < 4 Posts kein Bento-Grid, alle Posts in Editorial-Liste
+- **Komponenten**: `EditorialSection.astro`, `Pagination.astro`
+- **BaseLayout Props**: `noindex`, `prevUrl`, `nextUrl` für SEO
 
 ## Eyecatcher-Klassen (in Markdown-Artikeln)
 
