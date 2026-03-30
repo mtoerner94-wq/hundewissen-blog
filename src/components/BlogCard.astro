@@ -36,14 +36,14 @@ const formattedDate = new Date(date).toLocaleDateString('de-DE', {
 <a
   href={href}
   class:list={[
-    'group block bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-300 overflow-hidden',
+    'group block rounded-sm overflow-hidden',
     featured ? '' : 'flex flex-col',
   ]}
 >
   {featured && (
     image
-      ? <Image src={image} alt={title} class="h-48 w-full object-cover rounded-t-xl" loading="lazy" widths={[320, 480, 640]} sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw" />
-      : <div class={`h-48 rounded-t-xl bg-gradient-to-br ${gradient}`} />
+      ? <Image src={image} alt={title} class="h-48 w-full object-cover rounded-t-sm" loading="lazy" widths={[320, 480, 640]} sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw" />
+      : <div class={`h-48 rounded-t-sm bg-gradient-to-br ${gradient}`} />
   )}
 
   <div class="p-6 flex flex-col flex-1">

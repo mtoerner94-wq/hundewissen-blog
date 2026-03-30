@@ -10,36 +10,21 @@ interface Props {
 const { icon, title, description, tags, href } = Astro.props;
 ---
 
-<a href={href} class="scroll-fade-in block card-flip-container group" aria-label={`${title} – ${description}`}>
-  <div class="card-flip-inner">
-    <!-- Front: Icon + Title + Tags -->
-    <div class="card-flip-front bg-white p-6 shadow-sm flex flex-col items-center justify-center text-center">
-      <div class="text-5xl mb-4" aria-hidden="true">{icon}</div>
-      <h3 class="text-lg font-semibold text-slate-900 mb-3">
-        {title}
-      </h3>
-      <div class="flex flex-wrap justify-center gap-2">
-        {tags.map((tag) => (
-          <span class="inline-block text-xs font-medium bg-primary/10 text-primary-dark px-2.5 py-1 rounded-full">
-            {tag}
-          </span>
-        ))}
-      </div>
-    </div>
-
-    <!-- Back: Description + CTA -->
-    <div class="card-flip-back bg-gradient-to-br from-primary-dark to-[#A05A10] p-6 flex flex-col items-center justify-center text-center">
-      <div class="text-3xl mb-3 opacity-90" aria-hidden="true">{icon}</div>
-      <h3 class="text-lg font-semibold text-white mb-3">
-        {title}
-      </h3>
-      <p class="text-sm text-white leading-relaxed mb-5">
-        {description}
-      </p>
-      <span class="inline-flex items-center text-sm font-semibold text-white bg-white/25 rounded-full px-5 py-2 group-hover:bg-white/35 transition-colors duration-200">
-        Entdecken
-        <span class="ml-1.5" aria-hidden="true">&rarr;</span>
-      </span>
+<a href={href} class="scroll-fade-in block group border border-slate-200 rounded-sm overflow-hidden" aria-label={`${title} – ${description}`}>
+  <div class="p-6 text-center">
+    <div class="text-5xl mb-4" aria-hidden="true">{icon}</div>
+    <h3 class="text-lg font-semibold text-slate-900 mb-2 group-hover:text-[var(--color-primary-text)] transition-colors duration-200">
+      {title}
+    </h3>
+    <p class="text-sm text-slate-500 leading-relaxed mb-3">
+      {description}
+    </p>
+    <div class="flex flex-wrap justify-center gap-2">
+      {tags.map((tag) => (
+        <span class="inline-block text-xs font-medium text-slate-500 border border-slate-200 px-2.5 py-1">
+          {tag}
+        </span>
+      ))}
     </div>
   </div>
 </a>

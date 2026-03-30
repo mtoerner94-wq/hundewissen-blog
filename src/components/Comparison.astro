@@ -25,17 +25,17 @@ const comparisons = [
       {comparisons.map((pair, i) => (
         <div class={`scroll-fade-in stagger-${i + 1} flex flex-col gap-4`}>
           {/* Myth Card */}
-          <div class="bg-white rounded-xl p-6 border-l-4 border-accent-red shadow-sm">
+          <div class="p-6 border-l-3 border-[var(--color-accent-red)]">
             <div class="flex items-start gap-3">
-              <span class="text-accent-red text-lg font-bold shrink-0" aria-hidden="true">&#10060;</span>
+              <span class="text-[var(--color-accent-red)] text-lg font-bold shrink-0" aria-hidden="true">&#10060;</span>
               <p class="text-slate-700 text-sm leading-relaxed">{pair.myth}</p>
             </div>
           </div>
 
           {/* Fact Card */}
-          <div class="bg-white rounded-xl p-6 border-l-4 border-accent-green shadow-sm">
+          <div class="p-6 border-l-3 border-[var(--color-accent-green)]">
             <div class="flex items-start gap-3">
-              <span class="text-accent-green text-lg font-bold shrink-0" aria-hidden="true">&#10004;</span>
+              <span class="text-[var(--color-accent-green)] text-lg font-bold shrink-0" aria-hidden="true">&#10004;</span>
               <p class="text-slate-700 text-sm leading-relaxed">{pair.fact}</p>
             </div>
           </div>
