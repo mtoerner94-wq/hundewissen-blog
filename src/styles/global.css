@@ -122,26 +122,13 @@ html {
 
 /* Lesebreite wird durch den max-w-4xl Container gesteuert */
 
-/* Tabellen: Print-Stil, volle Breite, Scroll bei Ueberlauf */
+/* Tabellen: Print-Stil, volle Breite */
 .prose :where(table) {
-  display: block;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+  display: table;
+  border-collapse: collapse;
   border-top: 2px solid var(--color-primary);
   width: 100%;
   max-width: none;
-  scrollbar-width: none;
-}
-
-.prose :where(table)::-webkit-scrollbar {
-  display: none;
-}
-
-.prose :where(thead),
-.prose :where(tbody) {
-  display: table;
-  width: 100%;
-  border-collapse: collapse;
 }
 
 .prose thead tr {
