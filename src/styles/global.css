@@ -122,28 +122,26 @@ html {
 
 /* Lesebreite wird durch den max-w-4xl Container gesteuert */
 
-/* Tabellen: Print-Stil + horizontaler Scroll auf Mobile */
+/* Tabellen: Print-Stil, volle Breite, Scroll nur auf Mobile */
 .prose :where(table) {
   display: table;
   border-collapse: collapse;
+  border-top: 2px solid var(--color-primary);
   width: 100%;
   max-width: none;
-  min-width: 500px;
-  border-top: 2px solid var(--color-primary);
 }
 
-.prose :where(figure:has(table)),
-.prose :where(div:has(> table)) {
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  max-width: none;
-}
-
-@supports not selector(:has(table)) {
+@media (max-width: 767px) {
   .prose :where(table) {
     display: block;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+  }
+  .prose :where(thead),
+  .prose :where(tbody) {
+    display: table;
+    width: 100%;
+    border-collapse: collapse;
   }
 }
 
