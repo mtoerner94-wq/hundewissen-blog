@@ -8,21 +8,21 @@ const { faqs } = Astro.props;
 
 {faqs && faqs.length > 0 && (
   <section class="faq-section mt-12">
-    <h2 class="text-2xl font-bold text-slate-900 mb-6">
+    <h2 class="font-[var(--font-display)] text-2xl font-bold text-slate-900 mb-6">
       H&auml;ufig gestellte Fragen
     </h2>
 
-    <div class="rounded-xl border border-slate-200 overflow-hidden">
+    <div class="border-t border-slate-200">
       {faqs.map((faq, index) => (
         <div
           class:list={[
             'faq-item',
-            index < faqs.length - 1 ? 'border-b border-slate-200' : '',
+            'border-b border-slate-200',
           ]}
         >
           <button
             type="button"
-            class="faq-trigger w-full font-medium text-slate-900 py-4 px-6 cursor-pointer flex items-center justify-between gap-4 hover:bg-slate-50 transition-colors duration-200 text-left"
+            class="faq-trigger w-full font-medium text-slate-900 py-4 cursor-pointer flex items-center justify-between gap-4 transition-colors duration-200 text-left"
             aria-expanded="false"
           >
             <span>{faq.question}</span>
@@ -38,7 +38,7 @@ const { faqs } = Astro.props;
           </button>
           <div class="faq-answer" aria-hidden="true">
             <div class="faq-answer-inner">
-              <div class="pb-4 px-6 text-slate-600">
+              <div class="pb-4 text-slate-600">
                 <p>{faq.answer}</p>
               </div>
             </div>

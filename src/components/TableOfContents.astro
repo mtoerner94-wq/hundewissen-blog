@@ -32,15 +32,15 @@ while ((match = headingRegex.exec(body)) !== null) {
 ---
 
 {headings.length >= 3 && (
-  <nav class="mb-10 bg-[#FFF8F0] rounded-2xl overflow-hidden">
+  <nav class="mb-10 border-y border-slate-200 py-6">
     <details open>
-      <summary class="flex items-center gap-2 px-6 py-4 cursor-pointer select-none font-semibold text-slate-900 hover:bg-[#F5E6D3]/50 transition-colors">
+      <summary class="flex items-center gap-2 py-1 cursor-pointer select-none font-semibold text-slate-900 transition-colors">
         <svg class="w-5 h-5 text-[var(--color-primary)]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
         </svg>
         Inhaltsverzeichnis
       </summary>
-      <ol class="px-6 pb-5 pt-1 space-y-1.5 list-decimal list-inside">
+      <ol class="pt-3 space-y-1.5 list-decimal list-inside">
         {headings.map((heading) => (
           <li class="text-sm">
             <a
