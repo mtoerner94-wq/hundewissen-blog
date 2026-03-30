@@ -1,5 +1,6 @@
 ---
 import { ClientRouter } from 'astro:transitions';
+import '@fontsource-variable/playfair-display';
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
@@ -13,6 +14,9 @@ interface Props {
   image?: string;
   type?: 'website' | 'article';
   schemas?: object[];
+  noindex?: boolean;
+  prevUrl?: string;
+  nextUrl?: string;
 }
 
 const {
@@ -21,6 +25,9 @@ const {
   image = '/og-image.jpg',
   type = 'website',
   schemas = [],
+  noindex = false,
+  prevUrl,
+  nextUrl,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || 'https://hundewissen-mit-kopf.de');
@@ -49,8 +56,10 @@ const allSchemas = schemas.length > 0 ? schemas : [defaultSchema];
     <!-- SEO -->
     <title>{title}</title>
     <meta name="description" content={description} />
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content={noindex ? "noindex, follow" : "index, follow"} />
     <link rel="canonical" href={canonicalURL} />
+    {prevUrl && <link rel="prev" href={prevUrl} />}
+    {nextUrl && <link rel="next" href={nextUrl} />}
 
     <!-- Open Graph -->
     <meta property="og:title" content={title} />
