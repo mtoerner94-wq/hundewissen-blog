@@ -10,7 +10,7 @@ interface Props {
 const { icon, title, description, tags, href } = Astro.props;
 ---
 
-<a href={href} class="scroll-fade-in block group border border-slate-200 rounded-sm overflow-hidden" aria-label={`${title} – ${description}`}>
+<a href={href} class="scroll-fade-in block group" aria-label={`${title} – ${description}`}>
   <div class="p-6 text-center">
     <div class="text-5xl mb-4" aria-hidden="true">{icon}</div>
     <h3 class="text-lg font-semibold text-slate-900 mb-2 group-hover:text-[var(--color-primary-text)] transition-colors duration-200">
