@@ -120,12 +120,7 @@ html {
   color: #1e293b;
 }
 
-/* Optimal reading width for body text */
-.prose p,
-.prose > ul,
-.prose > ol {
-  max-width: 65ch;
-}
+/* Lesebreite wird durch den max-w-4xl Container gesteuert */
 
 /* Tabellen: Print-Stil + horizontaler Scroll auf Mobile */
 .prose :where(table) {
