@@ -98,8 +98,10 @@ const isFirstPage = page.currentPage === 1;
 
 // Seite 1: 4 Bento-Grid + 5 Editorial-Liste = 9
 // Folgeseiten: 9 Editorial-Liste
-const bentoPosts = isFirstPage ? page.data.slice(0, 4) : [];
-const editorialPosts = isFirstPage ? page.data.slice(4) : page.data;
+// Bento-Grid nur wenn >= 4 Posts, sonst alles in Editorial-Liste
+const hasEnoughForBento = isFirstPage && page.data.length >= 4;
+const bentoPosts = hasEnoughForBento ? page.data.slice(0, 4) : [];
+const editorialPosts = hasEnoughForBento ? page.data.slice(4) : page.data;
 
 // Lead-Text: Erster Satz des Intro-Textes
 const firstSentence = categoryIntroText ? categoryIntroText.split(/(?<=\.)\s/)[0] : '';
