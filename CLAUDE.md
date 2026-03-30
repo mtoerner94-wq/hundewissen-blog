@@ -93,6 +93,18 @@ sources:                                                # Optional → Quellenve
 - **Font Display:** `'Playfair Display Variable'` → `var(--font-display)` (Serif-Headings, via @fontsource)
 - **Font Sans:** `'Inter'` → `var(--font-sans)` (Body)
 
+## Blog-Artikel Design (Editorial Magazin-Stil)
+
+- **Headings**: H1-H4 nutzen `font-display` (Playfair Display Serif). H2 getrennt durch `border-top: 1px` + grosser `margin-top`, KEINE seitlichen Balken
+- **Lead-Paragraph**: `.prose > p:first-of-type` groesser (1.125rem) und kraeftiger
+- **TL;DR / Definition-Box**: Kein Rahmen/Hintergrund, nur `border-left: 2px solid primary`
+- **Inhaltsverzeichnis**: Kein Hintergrund, nur `border-y border-slate-200`
+- **FAQ**: Kein Hintergrund, nur feine `border-b border-slate-200` Trennlinien
+- **Tabellen**: Print-Stil — `border-top: 2px solid primary`, uppercase Header, Zebra-Muster, erste Spalte hervorgehoben. `display: block` + `overflow-x: auto` (scrollbar bei Ueberlauf), thead/tbody als `display: table`. Prose-Container hat `overflow-x-hidden`.
+- **Info-Boxen**: `border-left: 3px`, halbtransparente Hintergrundfarben
+- **Card-Grid**: Transparent, kein Box-Effekt
+- **Comparison / Stat-Grid**: Schlicht mit feinen Borders
+
 ## Kategorie-Seiten Layout
 
 - **Pagination**: Astro `paginate()`, 9 Posts/Seite, URLs: `/kategorie/`, `/kategorie/2/`
@@ -106,7 +118,7 @@ sources:                                                # Optional → Quellenve
 
 Alle Custom-HTML-Blöcke in `.md`-Dateien brauchen `class="not-prose ..."`:
 
-- `tldr-box` — Zusammenfassungs-Box (orange Gradient)
+- `tldr-box` — Zusammenfassungs-Box (border-left Akzent)
 - `info-box info-box-warning` — Warnung (orange)
 - `info-box info-box-danger` — Kritisch (rot)
 - `info-box info-box-tip` — Tipp (beige)
