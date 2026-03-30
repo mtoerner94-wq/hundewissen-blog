@@ -27,12 +27,48 @@ export const getStaticPaths = (async ({ paginate }) => {
   const allPosts = await getCollection('blog', ({ data }) => !data.draft);
 
   const categories = [
-    { name: 'Hundeernährung', slug: 'hundeernaehrung', emoji: '🍖', seoTitle: 'Hundeernährung: Ratgeber für gesundes Hundefutter', description: 'Alles über die richtige Ernährung deines Hundes.' },
-    { name: 'Reisen', slug: 'reisen', emoji: '✈️', seoTitle: 'Reisen mit Hund: Tipps & hundefreundliche Ziele', description: 'Reisen mit Hund – Tipps für Urlaub, Transport und hundefreundliche Ziele.' },
-    { name: 'Erziehung & Verhalten', slug: 'erziehung-verhalten', emoji: '🎓', seoTitle: 'Hundeerziehung: Training & Verhaltenstipps', description: 'Training, Erziehung und Verhaltenstipps für deinen Hund.' },
-    { name: 'Hundeausstattung', slug: 'hundeausstattung', emoji: '🦴', seoTitle: 'Hundeausstattung: Die beste Ausrüstung für deinen Hund', description: 'Die beste Ausstattung für deinen Vierbeiner.' },
-    { name: 'Hunderassen', slug: 'hunderassen', emoji: '🐕', seoTitle: 'Hunderassen: Porträts & Rassenvergleiche', description: 'Rasseporträts und Rassenvergleiche für alle Hunderassen.' },
-    { name: 'Hundepflege', slug: 'hundepflege', emoji: '🛁', seoTitle: 'Hundepflege: Fell, Baden & Gesundheit', description: 'Pflege, Baden und Fellpflege für deinen Hund.' },
+    { name: 'Hundeernährung', slug: 'hundeernaehrung', emoji: '🍖', seoTitle: 'Hundeernährung: Ratgeber für gesundes Hundefutter', description: 'Alles über die richtige Ernährung deines Hundes.', introText: `Die richtige Ernährung ist das Fundament für ein langes, gesundes Hundeleben. Was im Napf landet, beeinflusst nicht nur Gewicht und Energielevel, sondern auch Fell, Gelenke, Verdauung und sogar das Verhalten deines Vierbeiners. Doch zwischen Trockenfutter, Nassfutter, BARF und selbst gekochtem Futter den Überblick zu behalten, ist gar nicht so einfach.
+
+Hochwertiges Hundefutter erkennt man nicht am Preis, sondern an der Zusammensetzung. Ein hoher Fleischanteil, klar deklarierte Zutaten und der Verzicht auf Zucker, künstliche Farb- und Konservierungsstoffe sind die wichtigsten Qualitätsmerkmale. Dabei hat jeder Hund individuelle Bedürfnisse: Welpen brauchen energiereiches Futter für das Wachstum, Senioren profitieren von gelenkunterstützenden Nährstoffen, und Allergiker benötigen spezielle Ausschlussdiäten.
+
+BARF — biologisch artgerechtes rohes Futter — erfreut sich wachsender Beliebtheit. Befürworter schätzen die Kontrolle über jede einzelne Zutat, Kritiker warnen vor Nährstoffimbalancen und Hygienerisiken. Wer barfen möchte, sollte sich gründlich einarbeiten oder einen Ernährungsberater für Hunde hinzuziehen. Auch Leckerlis und Kauartikel gehören zur Gesamternährung dazu und sollten nicht unterschätzt werden.
+
+In unseren Artikeln findest du fundierte Ratgeber zur Hundeernährung, Futtervergleiche, BARF-Anleitungen und Tipps für Hunde mit besonderen Ernährungsbedürfnissen. Wissenschaftlich fundiert und praxiserprobt — damit du die beste Entscheidung für deinen Hund triffst.` },
+    { name: 'Reisen', slug: 'reisen', emoji: '✈️', seoTitle: 'Reisen mit Hund: Tipps & hundefreundliche Ziele', description: 'Reisen mit Hund – Tipps für Urlaub, Transport und hundefreundliche Ziele.', introText: `Urlaub mit Hund ist für viele Hundebesitzer die schönste Art zu reisen. Ob Nordsee, Alpen oder Mittelmeer — immer mehr Hotels, Ferienwohnungen und Campingplätze heißen Vierbeiner willkommen. Damit der gemeinsame Urlaub entspannt wird, braucht es allerdings gute Vorbereitung: von der Wahl des Reiseziels über die Anreise bis zur Packliste für den Hund.
+
+Die Anreise ist oft die größte Herausforderung. Im Auto sollte der Hund in einer stabilen Transportbox oder mit einem crashgetesteten Sicherheitsgurt gesichert sein. Regelmäßige Pausen alle zwei Stunden, frisches Wasser und ein schattiger Parkplatz sind Pflicht. Flugreisen mit Hund unterliegen strengen Regeln: Kleine Hunde dürfen meist in der Kabine mitfliegen, größere Hunde reisen im klimatisierten Frachtraum. Für Reisen ins EU-Ausland braucht dein Hund einen EU-Heimtierausweis, eine gültige Tollwutimpfung und einen Mikrochip.
+
+Hundefreundliche Reiseziele bieten Hundestrände, markierte Wanderwege und Restaurants mit Wassernäpfen. Die deutsche Nordsee- und Ostseeküste, Österreich, die Niederlande und Dänemark gelten als besonders hundefreundlich. In südlichen Ländern ist es wichtig, auf Hitze, Parasiten wie Sandmücken und regionale Krankheiten wie Leishmaniose zu achten — Prophylaxe und Zeckenschutz sind hier unerlässlich.
+
+Unsere Artikel bieten Reiseführer für hundefreundliche Urlaubsziele, Checklisten für die Anreise, Tipps zur Einreise in verschiedene Länder und Ratgeber für stressfreies Reisen mit Hund. Damit der nächste Urlaub für alle Beteiligten zum Erlebnis wird.` },
+    { name: 'Erziehung & Verhalten', slug: 'erziehung-verhalten', emoji: '🎓', seoTitle: 'Hundeerziehung: Training & Verhaltenstipps', description: 'Training, Erziehung und Verhaltenstipps für deinen Hund.', introText: `Gute Hundeerziehung basiert auf Verständnis, Geduld und Konsequenz — nicht auf Strafe oder Einschüchterung. Moderne Trainingsmethoden setzen auf positive Verstärkung: erwünschtes Verhalten wird belohnt, unerwünschtes wird umgelenkt. So entsteht eine vertrauensvolle Bindung zwischen Mensch und Hund, die das Zusammenleben deutlich entspannter macht.
+
+Die Grundkommandos — Sitz, Platz, Bleib, Hier und Fuß — bilden das Fundament jeder Hundeerziehung. Sie geben dem Hund Orientierung und Sicherheit im Alltag. Besonders der zuverlässige Rückruf kann im Ernstfall Leben retten. Wichtig ist, das Training in kleinen Schritten aufzubauen, Ablenkungen langsam zu steigern und jede Trainingseinheit positiv zu beenden. Welpen lernen spielerisch in kurzen Einheiten, erwachsene Hunde brauchen oft mehr Wiederholungen, sind dafür aber konzentrierter.
+
+Verhaltensprobleme wie Leinenaggression, übermäßiges Bellen, Trennungsangst oder Ressourcenverteidigung haben fast immer eine Ursache — sei es Unsicherheit, Unterforderung, schlechte Erfahrungen oder mangelnde Sozialisierung. Ein genauer Blick auf die Körpersprache des Hundes hilft, Auslöser zu erkennen und gezielt daran zu arbeiten. Bei komplexen Verhaltensproblemen lohnt sich die Zusammenarbeit mit einem zertifizierten Hundetrainer oder Verhaltensberater.
+
+In unseren Artikeln findest du Schritt-für-Schritt-Anleitungen für Grundkommandos, Lösungsansätze für häufige Verhaltensprobleme, Tipps zur Welpenerziehung und Ratgeber zum Thema Hundekommunikation und Körpersprache. Damit du deinen Hund besser verstehst und er dich.` },
+    { name: 'Hundeausstattung', slug: 'hundeausstattung', emoji: '🦴', seoTitle: 'Hundeausstattung: Die beste Ausrüstung für deinen Hund', description: 'Die beste Ausstattung für deinen Vierbeiner.', introText: `Die richtige Ausstattung macht den Hundealltag für Mensch und Tier komfortabler und sicherer. Vom passenden Geschirr über das ideale Hundebett bis zum Spielzeug, das wirklich hält — bei der Fülle an Produkten auf dem Markt ist es nicht leicht, die richtige Wahl zu treffen. Qualität, Passform und die individuellen Bedürfnisse deines Hundes sollten dabei immer vor dem Preis stehen.
+
+Halsband oder Geschirr? Diese Frage beschäftigt viele Hundebesitzer. Für Hunde, die an der Leine ziehen, ist ein gut sitzendes Brustgeschirr oft die bessere Wahl, da es den Druck vom empfindlichen Halsbereich auf die Brust verteilt. Halsbänder eignen sich gut für leinenführige Hunde und als Träger für die Hundemarke. Bei der Leine kommt es auf den Einsatzzweck an: Schleppleinen für das Rückruftraining, kurze Führleinen für die Stadt und flexible Leinen für entspannte Spaziergänge.
+
+Der Schlafplatz ist für Hunde ein wichtiger Rückzugsort. Orthopädische Hundebetten mit Memory-Foam unterstützen die Gelenke — besonders wichtig für große Rassen und Senioren. Für Welpen empfehlen sich waschbare Decken und Betten mit erhöhtem Rand, die Geborgenheit vermitteln. Im Auto sorgen crashgetestete Transportboxen oder Sicherheitsgeschirre für den nötigen Schutz.
+
+Unsere Artikel vergleichen Hundegeschirre, Hundebetten, Transportboxen und Spielzeug, geben Kaufempfehlungen für jede Hundegröße und zeigen, worauf du bei Material, Verarbeitung und Passform achten solltest. Damit du das Beste für deinen Hund findest — ohne Marketing-Versprechen, nur ehrliche Bewertungen.` },
+    { name: 'Hunderassen', slug: 'hunderassen', emoji: '🐕', seoTitle: 'Hunderassen: Porträts & Rassenvergleiche', description: 'Rasseporträts und Rassenvergleiche für alle Hunderassen.', introText: `Jede Hunderasse bringt ihre eigenen Charaktereigenschaften, Bedürfnisse und Besonderheiten mit. Ob du nach einem aktiven Begleiter für lange Wanderungen suchst, einem ruhigen Familienhund oder einem kleinen Stadthund — die Wahl der richtigen Rasse ist eine der wichtigsten Entscheidungen für zukünftige Hundebesitzer. Ein Hund, dessen Wesen zum Lebensstil passt, ist ein glücklicher Hund.
+
+Die über 350 anerkannten Hunderassen der FCI unterscheiden sich nicht nur in Größe und Aussehen, sondern vor allem in Temperament, Bewegungsbedarf, Pflegeaufwand und gesundheitlichen Veranlagungen. Ein Border Collie braucht täglich mehrere Stunden geistige und körperliche Auslastung, während ein Basset Hound auch mit gemütlichen Spaziergängen zufrieden ist. Manche Rassen wie der Labrador sind ausgezeichnete Anfängerhunde, andere wie der Malinois gehören in erfahrene Hände.
+
+Auch gesundheitliche Aspekte spielen bei der Rassenwahl eine Rolle. Viele Rassen neigen zu bestimmten Erbkrankheiten: Hüftdysplasie bei großen Rassen, Atemprobleme bei kurzschnäuzigen Hunden, Herzerkrankungen bei Cavalier King Charles Spaniels. Seriöse Züchter lassen ihre Zuchttiere auf diese Erkrankungen untersuchen und können entsprechende Befunde vorlegen. Auch Mischlingshunde aus dem Tierschutz sind wunderbare Begleiter und verdienen eine Chance.
+
+In unseren Artikeln findest du ausführliche Rasseporträts mit Informationen zu Charakter, Pflegebedarf, Gesundheit und Eignung, Vergleiche ähnlicher Rassen und Entscheidungshilfen für die Wahl des richtigen Hundes. Ehrlich, fundiert und ohne Rasse-Romantisierung.` },
+    { name: 'Hundepflege', slug: 'hundepflege', emoji: '🛁', seoTitle: 'Hundepflege: Fell, Baden & Gesundheit', description: 'Pflege, Baden und Fellpflege für deinen Hund.', introText: `Regelmäßige Pflege hält deinen Hund nicht nur sauber und gepflegt, sondern ist auch ein wichtiger Beitrag zu seiner Gesundheit. Beim Bürsten erkennst du frühzeitig Hautveränderungen, Zecken oder Knoten im Fell. Ohrenpflege, Zahnpflege und Krallenschneiden gehören genauso zur Routine wie das gelegentliche Bad — und die meisten Hunde genießen die Zuwendung, wenn sie von klein auf behutsam daran gewöhnt werden.
+
+Die Fellpflege richtet sich nach dem Felltyp: Kurzhaarhunde wie Boxer oder Dalmatiner kommen mit wöchentlichem Bürsten aus, während Langhaarhunde wie der Yorkshire Terrier oder der Afghanische Windhund tägliche Pflege brauchen. Doppelt behaarte Rassen wie Huskies und Golden Retriever durchleben im Frühling und Herbst einen intensiven Fellwechsel, bei dem die Unterwolle gründlich ausgebürstet werden muss. Das richtige Werkzeug — Unterwollkamm, Slicker-Bürste oder Furminator — macht dabei den Unterschied.
+
+Baden sollte die Ausnahme bleiben, nicht die Regel. Die natürliche Fettschicht der Hundehaut schützt vor Umwelteinflüssen und hält das Fell geschmeidig. Alle vier bis acht Wochen reicht für die meisten Hunde völlig aus — und dann nur mit einem milden, pH-neutralen Hundeshampoo. Menschenshampoo ist tabu, da es den Säureschutzmantel der Hundehaut zerstört. Auch die Ohren verdienen regelmäßige Aufmerksamkeit: Hängeohrhunde wie Cocker Spaniels sind besonders anfällig für Ohrinfektionen.
+
+Unsere Artikel bieten Pflegeanleitungen für verschiedene Felltypen, Produktvergleiche von Hundeshampoos und Bürsten, Tipps zur Zahnpflege und Krallenpflege sowie Ratgeber zum Umgang mit Fellwechsel, Hautproblemen und empfindlichen Hundeohren.` },
   ];
 
   return categories.flatMap((cat) => {
@@ -47,6 +83,7 @@ export const getStaticPaths = (async ({ paginate }) => {
         categoryEmoji: cat.emoji,
         categorySeoTitle: cat.seoTitle,
         categoryDescription: cat.description,
+        categoryIntroText: cat.introText,
       },
       pageSize: 9,
     });
@@ -54,7 +91,7 @@ export const getStaticPaths = (async ({ paginate }) => {
 }) satisfies GetStaticPaths;
 
 const { category } = Astro.params;
-const { categoryName, categoryEmoji, categorySeoTitle, categoryDescription } = Astro.props;
+const { categoryName, categoryEmoji, categorySeoTitle, categoryDescription, categoryIntroText } = Astro.props;
 const page = Astro.props.page;
 
 const isFirstPage = page.currentPage === 1;
@@ -63,6 +100,10 @@ const isFirstPage = page.currentPage === 1;
 // Folgeseiten: 9 Editorial-Liste
 const bentoPosts = isFirstPage ? page.data.slice(0, 4) : [];
 const editorialPosts = isFirstPage ? page.data.slice(4) : page.data;
+
+// Lead-Text: Erster Satz des Intro-Textes
+const firstSentence = categoryIntroText ? categoryIntroText.split(/(?<=\.)\s/)[0] : '';
+const paragraphs = categoryIntroText ? categoryIntroText.split('\n\n') : [];
 
 const pageTitle = isFirstPage
   ? categorySeoTitle
@@ -133,9 +174,15 @@ const breadcrumbSchema = {
       <h1 class="font-[var(--font-display)] text-4xl md:text-5xl lg:text-6xl font-bold text-slate-900 mt-2">
         {categoryName}
       </h1>
-      <p class="text-xl italic text-slate-500 mt-5 max-w-2xl leading-relaxed">
-        {categoryDescription}
-      </p>
+      {isFirstPage && firstSentence ? (
+        <p class="text-xl italic text-slate-500 mt-5 max-w-2xl leading-relaxed">
+          {firstSentence}
+        </p>
+      ) : (
+        <p class="text-xl italic text-slate-500 mt-5 max-w-2xl leading-relaxed">
+          {categoryDescription}
+        </p>
+      )}
     </div>
   </header>
 
@@ -258,5 +305,18 @@ const breadcrumbSchema = {
       nextUrl={page.url.next}
       baseUrl={`/${category}`}
     />
+  )}
+
+  <!-- SEO Outro (page 1 only) — Zeitungs-Spalten auf Off-White -->
+  {isFirstPage && paragraphs.length > 0 && (
+    <section class="bg-[var(--color-secondary)] mt-12">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+        <div class="prose prose-slate max-w-none md:columns-2 gap-12" style="column-rule: 1px solid #e2e8f0;">
+          {paragraphs.map((paragraph: string) => (
+            <p class="break-inside-avoid">{paragraph}</p>
+          ))}
+        </div>
+      </div>
+    </section>
   )}
 </BaseLayout>
