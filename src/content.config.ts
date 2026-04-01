@@ -15,8 +15,6 @@ const blog = defineCollection({
     imageAlt: z.string().optional(),
     featured: z.boolean().default(false),
     draft: z.boolean().default(false),
-    aiContent: z.boolean().default(false),
-    aiImages: z.boolean().default(false),
     faqs: z.array(z.object({
       question: z.string(),
       answer: z.string(),

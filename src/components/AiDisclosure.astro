@@ -1,28 +1,11 @@
 ---
-interface Props {
-  aiContent?: boolean;
-  aiImages?: boolean;
-}
-
-const { aiContent = false, aiImages = false } = Astro.props;
-
-let text = '';
-if (aiContent && aiImages) {
-  text = 'Dieser Beitrag wurde mit Unterstützung von KI erstellt und redaktionell überprüft. Enthaltene Bilder wurden mittels KI generiert.';
-} else if (aiContent) {
-  text = 'Dieser Beitrag wurde mit Unterstützung von KI erstellt und redaktionell überprüft.';
-} else if (aiImages) {
-  text = 'Enthaltene Bilder in diesem Beitrag wurden mittels KI generiert.';
-}
 ---
 
-{text && (
-  <div class="mt-10 pt-6 border-t border-slate-200">
-    <p class="flex items-start gap-2 text-xs text-slate-400 leading-relaxed">
-      <svg class="w-3.5 h-3.5 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-      </svg>
-      <span>{text} <a href="/ki-hinweis/" class="underline hover:text-slate-600 transition-colors">Mehr erfahren</a></span>
-    </p>
-  </div>
-)}
+<div class="mt-10 pt-6 border-t border-slate-200">
+  <p class="flex items-start gap-2 text-xs text-slate-400 leading-relaxed">
+    <svg class="w-3.5 h-3.5 mt-0.5 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+    </svg>
+    <span>Dieser Beitrag wurde mit Unterstützung von KI erstellt und redaktionell überprüft. Enthaltene Bilder wurden mittels KI generiert. <a href="/ki-hinweis/" class="underline hover:text-slate-600 transition-colors">Mehr erfahren</a></span>
+  </p>
+</div>

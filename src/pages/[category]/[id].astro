@@ -32,7 +32,7 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await render(entry);
 
-const { title, description, category, categorySlug, date, updated, tags, faqs, sources, image, imageAlt, clippy, aiContent, aiImages } = entry.data;
+const { title, description, category, categorySlug, date, updated, tags, faqs, sources, image, imageAlt, clippy } = entry.data;
 
 // Lesezeit berechnen (ca. 200 Woerter pro Minute + 12 Sek. pro Bild)
 const wordCount = entry.body ? entry.body.split(/\s+/).length : 0;
@@ -260,7 +260,7 @@ const schemas = [articleSchema, breadcrumbSchema, ...(faqSchema ? [faqSchema] : 
     <AuthorBox />
 
     <!-- KI-Hinweis -->
-    <AiDisclosure aiContent={aiContent} aiImages={aiImages} />
+    <AiDisclosure />
 
     <!-- Back Link -->
     <div class="mt-8 pt-8 border-t border-slate-200">
