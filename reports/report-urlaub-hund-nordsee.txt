@@ -1,0 +1,134 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund an der Nordsee: Was du wissen musst
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund an der Nordsee: Strände, Tipps & Unterkünfte
+  Title-Laenge:     60 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund an der Nordsee planen: Hundestrände, eingezäunte Ferienhäuser, Packliste & Regeln für Ostfriesland, Norddeich & Co. Jetzt informieren!
+  Desc-Laenge:      150 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-nordsee
+  URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-nordsee/
+  Kategorie:        Reisen (reisen)
+  Tags:             Urlaub mit Hund Nordsee, Nordsee Ferienhaus, Hundestrände Nordsee, Urlaub Hund, Norddeich, Ostfriesland, Nordsee urlaub mit Hund direkt am Meer, Ferienhaus eingezäunt
+  Datum:            2026-04-01
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund nordsee
+  Suchvolumen:      2200/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $45
+  Traffic Pot.:     2100
+
+  Einbau-Check:
+    Vorkommen:      13x
+    Keyword-Dichte: 0.41% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          7x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  nordsee                                   52000     0      80        98x
+  hunde                                     30000     1   16000       142x
+  garten                                    27000     0     N/A        12x
+  norddeich                                 25000     0    7100        21x
+  ab                                        22000     9   51000        47x
+  ostfriesland                              19000    30     350        17x
+  zwei                                       8100     0    5500         5x
+  norden norddeich                           2400    11    5000      FEHLT
+  bieten                                     2300     1     400         8x
+  nordsee ferienhaus                         1500     5    5800         1x
+  hage                                       1000    22      30         9x
+  urlaub hund                                 350    42   46000         1x
+  freies wlan                                 200     3     500         1x
+  mensch tier                                 100     0      10      FEHLT
+  hage ostfriesland                           100     6     150      FEHLT
+  garten garage                               100     0     200      FEHLT
+  hunde kosten                                100     2    1700      FEHLT
+  beste hunde                                  80     2    2200      FEHLT
+  urlaub hund nordsee                          70     0    3700      FEHLT
+  gemütliche einrichtung                       60     1     100      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  urlaub mit hund nordsee                         2200     0         1x
+  nordsee urlaub mit hund direkt am meer           400     0         1x
+  urlaub mit hund an der nordsee                   300     0        13x
+  urlaub mit hund nordsee ferienhaus eingezäunt    300     0      FEHLT
+  urlaub mit hund am meer nordsee                  150     0      FEHLT
+  urlaub mit hund dänemark nordsee                 150    24      FEHLT
+  urlaub mit hund nordsee holland                  100     0      FEHLT
+  urlaub mit hund nordsee ferienhaus eingezäunt privat    100     0      FEHLT
+  urlaub mit hund an nordsee                        70     0      FEHLT
+  urlaub mit hund nordsee ferienhaus                60     0      FEHLT
+  last minute urlaub mit hund nordsee               60     0      FEHLT
+  urlaub mit hund nordsee hotel                     60     0      FEHLT
+  urlaub mit hund nordsee deutschland               40     0      FEHLT
+  urlaub mit hund nordseeküste                      40     0      FEHLT
+  urlaub mit hund an der nordsee eingezäuntes grundstück     40     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    1
+  Durchschn. Woerter:   351
+  Durchschn. DR:        0.0
+  Unser Wortanzahl:     3145
+
+  Pos 1: https://www.urlaub-hunde.de/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.urlaub-hunde.de/ (~351 Woerter):
+    - Apartements und Ferienwohnung
+    - Ferienhäuser (Doppelhaushälfte)
+    - Hunde willkommen
+    - WLAN kostenfrei
+    - Parkplatz kostenfrei
+    - Eingezäunte Terrassen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "urlaub mit hund nordsee" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-deutschland/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            85/100
+  Status:           BESTANDEN
+  Wortanzahl:       3145 (Ziel: >=2000)
+  H2-Headings:      12
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.41% (13x, Ziel: 1-2%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund nordsee - Ratgeber"  Datei: urlaub-mit-hund-nordsee.webp
+  Content-Bild:  Alt="urlaub mit hund nordsee - Detail"    Datei: urlaub-mit-hund-nordsee-detail.webp
+  Content-Bild:  Alt="urlaub mit hund nordsee - Praxis"    Datei: urlaub-mit-hund-nordsee-praxis.webp
+
+======================================================================
