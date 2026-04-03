@@ -124,24 +124,9 @@ html {
 
 /* Tabellen: Print-Stil, volle Breite, scrollbar bei Ueberlauf */
 .prose :where(table) {
-  display: block;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  border-top: 2px solid var(--color-primary);
-  max-width: none;
-}
-
-.prose :where(table) > :where(thead),
-.prose :where(table) > :where(tbody),
-.prose :where(table) > :where(tfoot) {
-  display: table;
   width: 100%;
   border-collapse: collapse;
-}
-
-.prose :where(table) > :where(thead) > :where(tr) > :where(th),
-.prose :where(table) > :where(tbody) > :where(tr) > :where(td) {
-  white-space: normal;
+  border-top: 2px solid var(--color-primary);
 }
 
 .prose thead tr {
