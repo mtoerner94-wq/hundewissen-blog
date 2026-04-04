@@ -1,40 +1,48 @@
 {
-  "date": "2026-04-01T11:16:54.900924",
+  "date": "2026-04-04T22:31:10.516506",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Urlaub mit Hund an der Nordsee: Was du wissen musst",
-      "slug": "urlaub-hund-nordsee",
+      "title": "Unkaputtbares Hundespielzeug: Was steckt dahinter?",
+      "slug": "hundespielzeug-unkaputtbar",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-nordsee.md",
-      "quality_score": 85,
-      "word_count": 3145,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hundespielzeug-unkaputtbar.md",
+      "quality_score": 82,
+      "word_count": 3200,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.41% (13x, Ziel: 1-2%)"
+        "Keyword-Dichte zu niedrig: 0.19% (6x, Ziel: 1-2%)",
+        "Haupt-Keyword in keiner H3-Ueberschrift"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 3012,
-    "claude_output_tokens": 11317,
+    "claude_input_tokens": 4027,
+    "claude_output_tokens": 11460,
     "claude_cache_write_tokens": 13649,
     "claude_cache_read_tokens": 0,
-    "ahrefs_requests": 4,
+    "ahrefs_requests": 5,
     "image_count": 3,
     "image_cost_usd": 0.201,
-    "total_cost_usd": 0.5843,
+    "total_cost_usd": 0.5929,
     "per_article": [
       {
-        "title": "Urlaub mit Hund an der Nordsee: Was du wissen musst",
-        "claude_input": 3012,
-        "claude_output": 11317,
+        "title": "Unkaputtbares Hundespielzeug: Was steckt dahinter?",
+        "claude_input": 4027,
+        "claude_output": 11460,
         "claude_cache_write": 13649,
         "claude_cache_read": 0,
-        "ahrefs_requests": 4,
+        "ahrefs_requests": 5,
         "images": 3
       }
-    ]
+    ],
+    "providers": {
+      "anthropic": {
+        "inputTokens": 4027,
+        "outputTokens": 11460,
+        "costUsd": 0.3919
+      }
+    }
   }
 }
