@@ -1,0 +1,98 @@
+======================================================================
+  KONTROLL-REPORT: Die 20 beliebtesten kleinen Hunderassen bis 10 kg
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Kleine Hunderassen: Die 20 beliebtesten Minis bis 10 kg
+  Title-Laenge:     55 Zeichen (Ziel: <=60)
+  Meta-Description: Die beliebtesten kleinen Hunderassen bis 10 kg im Überblick. Mit Steckbriefen, Pflegetipps und Empfehlungen für Anfänger, Allergiker und Familien.
+  Desc-Laenge:      146 Zeichen (Ziel: <=160)
+  Slug:             kleine-hunderassen
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/kleine-hunderassen/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             kleine Hunderassen, kleine Hunderassen bis 10 kg, kleine Hunderassen bis 5 kg, kleine Hunderassen die nicht haaren, sehr kleine Hunderassen, kleine Hunderassen für Anfänger, ruhige kleine Hunderassen, süße kleine Hunderassen
+  Datum:            2026-04-05
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          kleine hunderassen
+  Suchvolumen:      22000/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $10
+  Traffic Pot.:     28000
+
+  Einbau-Check:
+    Vorkommen:      31x
+    Keyword-Dichte: 0.7% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          13x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  kleine hunderassen                             22000     0        45x
+  kleine hunderassen die nicht haaren             4200     1         1x
+  kleine hunderassen bis 5 kg                     3600     0         3x
+  süße kleine hunderassen                         1600     1         1x
+  kleine hunderassen bis 10 kg                    1500     0         3x
+  labradoodle kleine hunderassen die nicht haaren   1200     1      FEHLT
+  kleine hunderassen bis 15 kg                     800     0      FEHLT
+  sehr kleine hunderassen                          800     0         3x
+  kleine hunderassen für anfänger                  700     2         2x
+  kleine hunderassen kurzhaar                      600     1      FEHLT
+  kleine hunderassen braun                         350     0      FEHLT
+  beste kleine hunderassen                         350     1      FEHLT
+  kleine weiße hunderassen                         300     0      FEHLT
+  kleine ruhige hunderassen                        250     3      FEHLT
+  kleine hunderassen kaufen                        200     1      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    0
+  Durchschn. Woerter:   0
+  Durchschn. DR:        0
+  Unser Wortanzahl:     4419
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 1
+  Eingebaute Links: 9
+
+  - "kleine hunderassen" -> https://hundewissen-mit-kopf.de/hunderassen/grosse-hunderassen-langhaar/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            100/100
+  Status:           BESTANDEN
+  Wortanzahl:       4419 (Ziel: >=2000)
+  H2-Headings:      15
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    9
+
+  Keine Issues gefunden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="kleine hunderassen - Ratgeber"  Datei: kleine-hunderassen.webp
+  Content-Bild:  Alt="kleine hunderassen - Detail"    Datei: kleine-hunderassen-detail.webp
+  Content-Bild:  Alt="kleine hunderassen - Praxis"    Datei: kleine-hunderassen-praxis.webp
+
+======================================================================
