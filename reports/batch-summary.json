@@ -1,44 +1,47 @@
 {
-  "date": "2026-04-05T22:14:39.570999",
+  "date": "2026-04-08T20:41:15.409111",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Die 20 beliebtesten kleinen Hunderassen bis 10 kg",
-      "slug": "kleine-hunderassen",
+      "title": "Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa",
+      "slug": "urlaub-hund-geheimtipp",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/kleine-hunderassen.md",
-      "quality_score": 100,
-      "word_count": 4419,
-      "issues": []
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-geheimtipp.md",
+      "quality_score": 82,
+      "word_count": 3225,
+      "issues": [
+        "Keyword-Dichte zu niedrig: 0.19% (6x, Ziel: 1-2%)",
+        "Haupt-Keyword in keiner H3-Ueberschrift"
+      ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 2812,
-    "claude_output_tokens": 14009,
+    "claude_input_tokens": 6240,
+    "claude_output_tokens": 11815,
     "claude_cache_write_tokens": 13649,
     "claude_cache_read_tokens": 0,
-    "ahrefs_requests": 2,
+    "ahrefs_requests": 5,
     "image_count": 3,
     "image_cost_usd": 0.201,
-    "total_cost_usd": 0.6506,
+    "total_cost_usd": 0.6129,
     "per_article": [
       {
-        "title": "Die 20 beliebtesten kleinen Hunderassen bis 10 kg",
-        "claude_input": 2812,
-        "claude_output": 14009,
+        "title": "Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa",
+        "claude_input": 6240,
+        "claude_output": 11815,
         "claude_cache_write": 13649,
         "claude_cache_read": 0,
-        "ahrefs_requests": 2,
+        "ahrefs_requests": 5,
         "images": 3
       }
     ],
     "providers": {
       "anthropic": {
-        "inputTokens": 2812,
-        "outputTokens": 14009,
-        "costUsd": 0.4496
+        "inputTokens": 6240,
+        "outputTokens": 11815,
+        "costUsd": 0.4119
       }
     }
   }

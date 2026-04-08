@@ -1,0 +1,236 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa
+  Title-Laenge:     55 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund Geheimtipp gesucht? Entdecke 10 traumhafte Reiseziele in Deutschland & Europa – von Strand bis Berge. Jetzt inspirieren lassen!
+  Desc-Laenge:      143 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-geheimtipp
+  URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-geheimtipp/
+  Kategorie:        Reisen (reisen)
+  Tags:             Urlaub mit Hund Geheimtipp, Hundeurlaub, Urlaub mit Hund, Ostsee Urlaub mit Hund, Mecklenburgische Seenplatte, Urlaub mit Hund Deutschland, Urlaub mit Hund Österreich
+  Datum:            2026-04-08
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund geheimtipp
+  Suchvolumen:      1800/Monat
+  Keyword Diff:     1/100
+  CPC:              $25
+  Traffic Pot.:     700
+
+  Einbau-Check:
+    Vorkommen:      6x
+    Keyword-Dichte: 0.19% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          3x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  deutschland                              328000     0   17000        29x
+  adobe stock                              199000     0   45000      FEHLT
+  hund                                     170000    35    1500       256x
+  urlaub                                   152000     0      80        80x
+  baden württemberg                         69000     0    1100      FEHLT
+  strand                                    40000     0     100        12x
+  herzlich willkommen                       35000     0    4200         2x
+  hunde                                     30000     2   20000       178x
+  urlaub mit hund                           28000    45    6900        33x
+  mecklenburgische seenplatte               23000    30    3000         6x
+  sankt peter ording                        21000    18    8400      FEHLT
+  ostsee urlaub                             20000     6   23000         2x
+  mecklenburg vorpommern                    15000     0     900      FEHLT
+  hundeurlaub                               10000    43   34000        27x
+  viele                                      4900     0    1800        18x
+  kurzurlaub mit hund                        3900     0     500         1x
+  fischland darß zingst                      3800    12    3800      FEHLT
+  urlaub mit hund deutschland                2700     0    1300         1x
+  fischland darß                             2500     0    1100      FEHLT
+  deutschland urlaub                         2200     3     700      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    15
+  Durchschn. Woerter:   1980
+  Durchschn. DR:        13.5
+  Unser Wortanzahl:     3225
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.bornmuehle.de/blog/urlaub-mit-hund-geheimtipp-verborgenes-traumziel-entdecken
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.hundeurlaub.de/urlaub-mit-hund-geheimtipps
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.tui.com/blog/geheimtipps-fuer-urlaub-mit-hund/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://hundefutter-vital.com/ratgeber/urlaub-mit-hund/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.travelontoast.de/hundeurlaub-reiseziele/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://herz-fuer-tiere.de/haustiere/hunde/urlaub-mit-hunden/traumziele-fuer-den-urlaub-mit-hund
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.instagram.com/reel/DMf7zUooXZ-/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.youtube.com/watch?v=3s6AVlkE_UU&t=885
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.tiktok.com/@hundeparadieseifel/video/7394004748216716577
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.tui.com/blog/top-100-campingplaetze-mit-hund-im-vergleich/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.hundeurlaub.de/urlaub-mit-hund-geheimtipps
+    DR: 70.0, Traffic: 740, Keywords: 5
+  Pos 3: https://www.travelontoast.de/hundeurlaub-reiseziele/
+    DR: 42.0, Traffic: 487, Keywords: 53
+  Pos 4: https://www.bornmuehle.de/blog/urlaub-mit-hund-geheimtipp-verborgenes-traumziel-entdecken
+    DR: 24.0, Traffic: 252, Keywords: 8
+  Pos 5: https://herz-fuer-tiere.de/haustiere/hunde/urlaub-mit-hunden/traumziele-fuer-den-urlaub-mit-hund
+    DR: 67.0, Traffic: 230, Keywords: 17
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~2019 Woerter):
+    - Geheimtipp Urlaub mit Hund in Deutschland
+    - Urlaub mit Hund in der Mecklenburgischen Seenplatte
+    - Urlaub mit Hund Geheimtipp - Hotel Bornmühle
+    - Unser Angebot für 4-Beiner
+    - Urlaub mit Hund am Meer
+    - Urlaub mit Hund am See
+    - Hundetaugliche Aktivitäten und Abenteuer
+    - Ferienunterkünfte für Hundeliebhaber
+
+  https://www.bornmuehle.de/blog/urlaub-mit-hund-geheimtipp-verborgenes-traumziel-entdecken (~1993 Woerter):
+    - Abseits der Massen: Die Vorteile eines Hundeurlaubs an versteckten Orten
+    - Geheimtipps für Urlaub mit Hund in Deutschland
+    - Urlaub mit Hund: Geheimtipps in den Niederlanden
+    - Österreich: Alpenluft für Mensch & Tier
+    - 
+    - Checkliste: Das solltest du für deinen Hund einpacken
+    - Tipps für einen entspannten Ablauf
+    - Urlaub mit Hund – am schönsten abseits der Massen
+
+  https://www.hundeurlaub.de/urlaub-mit-hund-geheimtipps (~2663 Woerter):
+    - Urlaub mit Hund Geheimtipp Karte
+    - Urlaub mit Hund inDeutschland
+    - Urlaub mit Hundim Ausland
+    - Wichtig zu wissen für deinen Urlaub mit Hund
+    - Häufige Fragen zu Urlaub mit Hund
+
+  https://www.tui.com/blog/geheimtipps-fuer-urlaub-mit-hund/ (~1181 Woerter):
+    - Inhaltsverzeichnis:
+    - Unser Geheimtipp: Urlaub mit Hund in Deutschland
+    - Unser Geheimtipp: Urlaub mit Hund in Deutschland
+    - Ostsee Urlaub mit Hund: Geheimtipp für Strandliebhaber
+    - Ostsee Urlaub mit Hund: Geheimtipp für Strandliebhaber
+    - Urlaub mit Hund: der Geheimtipp in Österreich
+    - Urlaub mit Hund: der Geheimtipp in Österreich
+    - Urlaub mit Hund in Holland: eine tierisch schöne Zeit
+
+  https://hundefutter-vital.com/ratgeber/urlaub-mit-hund/ (~5255 Woerter):
+    - Schöne Urlaubsziele mit Hund finden
+    - Travel on Toast: Urlaub mit Hund – Holland, Geheimtipp polnische Ostsee und Eifel
+    - Fratuschi Blog: Hundeurlaub auf Sylt (Deutschlandtipp)
+    - Lill’s Blog: Reiseziele mit Hund –Tegernsee, deutsche Ostsee & Griechenland
+    - Blog Mallorca talks: Urlaubsziele mit Hund – Harz, Campingplatz NRW & Mallorca
+    - HundeReisenMehr Blog: Texel, Geheimtipp Westerwald & Österreich
+    - Blog Chien Normandie: Hundeurlaub in dieser Region Frankreichs
+    - Blog Movin’n’Groovin: Reiseziele mit Hund in Griechenland & Spanien
+
+  https://www.travelontoast.de/hundeurlaub-reiseziele/ (~2044 Woerter):
+
+  https://herz-fuer-tiere.de/haustiere/hunde/urlaub-mit-hunden/traumziele-fuer-den-urlaub-mit-hund (~0 Woerter):
+
+  https://www.instagram.com/reel/DMf7zUooXZ-/ (~26 Woerter):
+
+  https://www.youtube.com/watch?v=3s6AVlkE_UU&t=885 (~0 Woerter):
+
+  https://www.tiktok.com/@hundeparadieseifel/video/7394004748216716577 (~1235 Woerter):
+    - Die ultimative Top-100-Rangliste der besten deutschen Campingplätze mit Hund
+    - Die bestbewerteten Campingplätze aus unseren Top 100
+    - Meiste Campingplätze in den Top 100: Diese Bundesländer schneiden am besten ab
+    - Dein perfekter Campingplatz mit Hund – Entspannt und feuerwerksfrei an Silvester
+    - Der ideale Campingplatz für dich und deinen Hund
+
+  https://www.tui.com/blog/top-100-campingplaetze-mit-hund-im-vergleich/ (~1993 Woerter):
+    - Abseits der Massen: Die Vorteile eines Hundeurlaubs an versteckten Orten
+    - Geheimtipps für Urlaub mit Hund in Deutschland
+    - Urlaub mit Hund: Geheimtipps in den Niederlanden
+    - Österreich: Alpenluft für Mensch & Tier
+    - 
+    - Checkliste: Das solltest du für deinen Hund einpacken
+    - Tipps für einen entspannten Ablauf
+    - Urlaub mit Hund – am schönsten abseits der Massen
+
+  https://www.hundeurlaub.de/urlaub-mit-hund-geheimtipps (~5255 Woerter):
+    - Schöne Urlaubsziele mit Hund finden
+    - Travel on Toast: Urlaub mit Hund – Holland, Geheimtipp polnische Ostsee und Eifel
+    - Fratuschi Blog: Hundeurlaub auf Sylt (Deutschlandtipp)
+    - Lill’s Blog: Reiseziele mit Hund –Tegernsee, deutsche Ostsee & Griechenland
+    - Blog Mallorca talks: Urlaubsziele mit Hund – Harz, Campingplatz NRW & Mallorca
+    - HundeReisenMehr Blog: Texel, Geheimtipp Westerwald & Österreich
+    - Blog Chien Normandie: Hundeurlaub in dieser Region Frankreichs
+    - Blog Movin’n’Groovin: Reiseziele mit Hund in Griechenland & Spanien
+
+  https://www.travelontoast.de/hundeurlaub-reiseziele/ (~2019 Woerter):
+    - Geheimtipp Urlaub mit Hund in Deutschland
+    - Urlaub mit Hund in der Mecklenburgischen Seenplatte
+    - Urlaub mit Hund Geheimtipp - Hotel Bornmühle
+    - Unser Angebot für 4-Beiner
+    - Urlaub mit Hund am Meer
+    - Urlaub mit Hund am See
+    - Hundetaugliche Aktivitäten und Abenteuer
+    - Ferienunterkünfte für Hundeliebhaber
+
+  https://www.bornmuehle.de/blog/urlaub-mit-hund-geheimtipp-verborgenes-traumziel-entdecken (~2044 Woerter):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 4
+  Eingebaute Links: 6
+
+  - "urlaub mit hund geheimtipp" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-deutschland/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "urlaub" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-holland/  [Eingebaut: JA]
+  - "baden württemberg" -> https://hundewissen-mit-kopf.de/hundepflege/hund-baden/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            82/100
+  Status:           BESTANDEN
+  Wortanzahl:       3225 (Ziel: >=2000)
+  H2-Headings:      13
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    6
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.19% (6x, Ziel: 1-2%)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund geheimtipp - Ratgeber"  Datei: urlaub-mit-hund-geheimtipp.webp
+  Content-Bild:  Alt="urlaub mit hund geheimtipp - Detail"    Datei: urlaub-mit-hund-geheimtipp-detail.webp
+  Content-Bild:  Alt="urlaub mit hund geheimtipp - Praxis"    Datei: urlaub-mit-hund-geheimtipp-praxis.webp
+
+======================================================================
