@@ -7,13 +7,13 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   SEO-Title:        Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa
   Title-Laenge:     55 Zeichen (Ziel: <=60)
-  Meta-Description: Urlaub mit Hund Geheimtipp gesucht? Entdecke 10 traumhafte Reiseziele in Deutschland & Europa – von Strand bis Berge. Jetzt inspirieren lassen!
-  Desc-Laenge:      143 Zeichen (Ziel: <=160)
+  Meta-Description: Urlaub mit Hund Geheimtipp gesucht? 10 traumhafte Reiseziele abseits der Massen in Deutschland, Österreich & Holland – mit Packliste und Insiderwissen.
+  Desc-Laenge:      151 Zeichen (Ziel: <=160)
   Slug:             urlaub-hund-geheimtipp
   URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-geheimtipp/
   Kategorie:        Reisen (reisen)
-  Tags:             Urlaub mit Hund Geheimtipp, Hundeurlaub, Urlaub mit Hund, Ostsee Urlaub mit Hund, Mecklenburgische Seenplatte, Urlaub mit Hund Deutschland, Urlaub mit Hund Österreich
-  Datum:            2026-04-08
+  Tags:             Urlaub mit Hund Geheimtipp, Hundeurlaub, Urlaub mit Hund, Ostsee Urlaub mit Hund, Mecklenburgische Seenplatte, Urlaub mit Hund Deutschland, Urlaub mit Hund Österreich, Urlaub mit Hund Holland
+  Datum:            2026-04-09
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 2. HAUPT-KEYWORD (Ahrefs-Daten)
@@ -25,32 +25,32 @@
   Traffic Pot.:     700
 
   Einbau-Check:
-    Vorkommen:      6x
-    Keyword-Dichte: 0.19% (Ziel: 1-2%)
-    In ersten 100W: JA
-    In H2:          3x (Ziel: >=2)
+    Vorkommen:      1x
+    Keyword-Dichte: 0.03% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          5x (Ziel: >=2)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 3. NEBENKEYWORDS (Ahrefs Related Terms)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Keyword                                     Vol  Diff      TP  Eingebaut
   ──────────────────────────────────────── ────── ───── ───────  ─────────
-  deutschland                              328000     0   17000        29x
+  deutschland                              328000     0   17000        28x
   adobe stock                              199000     0   45000      FEHLT
-  hund                                     170000    35    1500       256x
+  hund                                     170000    35    1500       239x
   urlaub                                   152000     0      80        80x
   baden württemberg                         69000     0    1100      FEHLT
-  strand                                    40000     0     100        12x
-  herzlich willkommen                       35000     0    4200         2x
-  hunde                                     30000     2   20000       178x
-  urlaub mit hund                           28000    45    6900        33x
-  mecklenburgische seenplatte               23000    30    3000         6x
+  strand                                    40000     0     100        14x
+  herzlich willkommen                       35000     0    4200         3x
+  hunde                                     30000     2   20000       146x
+  urlaub mit hund                           28000    45    6900        36x
+  mecklenburgische seenplatte               23000    30    3000         9x
   sankt peter ording                        21000    18    8400      FEHLT
-  ostsee urlaub                             20000     6   23000         2x
+  ostsee urlaub                             20000     6   23000         1x
   mecklenburg vorpommern                    15000     0     900      FEHLT
-  hundeurlaub                               10000    43   34000        27x
-  viele                                      4900     0    1800        18x
-  kurzurlaub mit hund                        3900     0     500         1x
+  hundeurlaub                               10000    43   34000        30x
+  viele                                      4900     0    1800        12x
+  kurzurlaub mit hund                        3900     0     500      FEHLT
   fischland darß zingst                      3800    12    3800      FEHLT
   urlaub mit hund deutschland                2700     0    1300         1x
   fischland darß                             2500     0    1100      FEHLT
@@ -68,7 +68,7 @@
   Anzahl analysiert:    15
   Durchschn. Woerter:   1980
   Durchschn. DR:        13.5
-  Unser Wortanzahl:     3225
+  Unser Wortanzahl:     3626
 
   Pos 1: None
     DR: N/A, Traffic: N/A, Keywords: N/A
@@ -203,7 +203,7 @@
 7. INTERNE VERLINKUNG
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   Empfohlene Links: 4
-  Eingebaute Links: 6
+  Eingebaute Links: 7
 
   - "urlaub mit hund geheimtipp" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-deutschland/  [Eingebaut: JA]
   - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
@@ -213,18 +213,17 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 8. QUALITY-CHECK
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Score:            82/100
+  Score:            85/100
   Status:           BESTANDEN
-  Wortanzahl:       3225 (Ziel: >=2000)
+  Wortanzahl:       3626 (Ziel: >=2000)
   H2-Headings:      13
   Eyecatcher:       7
   FAQs:             7
   Quellen:          5
-  Interne Links:    6
+  Interne Links:    7
 
   ISSUES:
-    ✗ Keyword-Dichte zu niedrig: 0.19% (6x, Ziel: 1-2%)
-    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+    ✗ Keyword-Dichte zu niedrig: 0.03% (1x, Ziel: 1-2%)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 9. BILDVORSCHLAEGE + ALT-TAGS
