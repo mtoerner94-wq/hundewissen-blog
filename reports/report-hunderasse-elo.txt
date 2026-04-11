@@ -1,0 +1,155 @@
+======================================================================
+  KONTROLL-REPORT: ELO Hund: Charakter, Pflege & für wen er geeignet ist
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hunderasse Elo: Charakter, Pflege & Eignung
+  Title-Laenge:     43 Zeichen (Ziel: <=60)
+  Meta-Description: Der Elo ist ein ruhiger Familienhund aus Deutschland. Alles zu Charakter, Pflege, Größen, Kosten und Züchtern der Hunderasse Elo im Überblick.
+  Desc-Laenge:      142 Zeichen (Ziel: <=160)
+  Slug:             hunderasse-elo
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/hunderasse-elo/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             Hunderasse Elo, Elo Hund, Familienhund, Elo Hunderasse, Elo Hund kaufen, Hunderasse
+  Datum:            2026-04-11
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hunderasse elo
+  Suchvolumen:      2800/Monat
+  Keyword Diff:     7/100
+  CPC:              $7
+  Traffic Pot.:     5100
+
+  Einbau-Check:
+    Vorkommen:      5x
+    Keyword-Dichte: 0.17% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          3x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    13    1500       129x
+  chow chow                                 26000     2    1400        10x
+  elo                                       20000     0     100       182x
+  elo hund                                  13000     7    1200        25x
+  hunderasse                                11000     4   22000        31x
+  dass                                       9400     7    2000         1x
+  hunderasse elo                             2800     7    5100         8x
+  japan spitz                                2500     0    1100         6x
+  elo hunderasse                             1700     0     500         1x
+  familienhund                               1600     0    1800        14x
+  hund elo                                   1400     6    5100      FEHLT
+  elos                                        900    14     350        26x
+  elo hund kaufen                             800    12    1100         2x
+  fci                                         800     0     N/A         7x
+  elo (hunderasse)                            700     0    2300      FEHLT
+  gerader rücken                              700     0     150      FEHLT
+  chow                                        700     0      50        20x
+  elo hund kritik                             600     0     250      FEHLT
+  elo hund charakter                          600     3    1400      FEHLT
+  eloschaboro                                 600     3    5100      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  hunderasse elo                                  2800     7         8x
+  hunderasse elo bilder                            150     0      FEHLT
+  hunderasse elo welpe                             100    10      FEHLT
+  hunderasse elo klein                              90     4      FEHLT
+  was ist ein elo hund                              70     0         2x
+  hunderasse elo preis                              50     0      FEHLT
+  hunderasse elo groß                               40     0      FEHLT
+  deutsche hunderasse elo                           30     0      FEHLT
+  elo hunderasse charakter                          30     0      FEHLT
+  elo hunderasse welpe                              20     2      FEHLT
+  hunderasse elos                                   20     0      FEHLT
+  wie sieht die hunderasse elo aus                  10     0      FEHLT
+  hunderasse elo kaufen                             10     0      FEHLT
+  hunderasse mit elo                                10     0      FEHLT
+  die hunderasse elo                                10     0         3x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   198
+  Durchschn. DR:        30.1
+  Unser Wortanzahl:     2976
+
+  Pos 1: https://de.wikipedia.org/wiki/Elo_(Hunderasse)
+    DR: 97.0, Traffic: 5024, Keywords: 64
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.zooplus.de/magazin/hund/hunderassen/elo
+    DR: 75.0, Traffic: 531, Keywords: 50
+  Pos 5: https://ezfg.de/
+    DR: 69.0, Traffic: 677, Keywords: 30
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~47 Woerter):
+    - Inhaltsübersicht
+    - Aussehen des Elos: Die Optik ist nicht alles …
+    - Charakter: Das Wesen eines Elos
+    - Haltung: Die Erziehung eines Elo
+    - Ernährung: Was frisst der Elo gern?
+    - Pflege: Das Elo-Fell richtig bändigen
+    - Gesundheit: Optimale Zucht ist entscheidend
+    - Herkunft: Welche Rassen sind in einem Elo?
+
+  None (~350 Woerter):
+    - Der Familienhund Elo® - familienfreundlich, vielseitig, robust
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 8
+
+  - "hunderasse elo" -> https://hundewissen-mit-kopf.de/hunderassen/hunderasse-fuer-anfaenger/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "elo hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-stubenrein-bekommen/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            82/100
+  Status:           BESTANDEN
+  Wortanzahl:       2976 (Ziel: >=2000)
+  H2-Headings:      13
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    8
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.17% (5x, Ziel: 1-2%)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hunderasse elo - Ratgeber"  Datei: hunderasse-elo.webp
+  Content-Bild:  Alt="hunderasse elo - Detail"    Datei: hunderasse-elo-detail.webp
+  Content-Bild:  Alt="hunderasse elo - Praxis"    Datei: hunderasse-elo-praxis.webp
+
+======================================================================

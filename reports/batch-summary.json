@@ -1,46 +1,47 @@
 {
-  "date": "2026-04-09T11:31:23.783214",
+  "date": "2026-04-11T13:13:46.133541",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa",
-      "slug": "urlaub-hund-geheimtipp",
+      "title": "ELO Hund: Charakter, Pflege & für wen er geeignet ist",
+      "slug": "hunderasse-elo",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-geheimtipp.md",
-      "quality_score": 85,
-      "word_count": 3626,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hunderasse-elo.md",
+      "quality_score": 82,
+      "word_count": 2976,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.03% (1x, Ziel: 1-2%)"
+        "Keyword-Dichte zu niedrig: 0.17% (5x, Ziel: 1-2%)",
+        "Haupt-Keyword in keiner H3-Ueberschrift"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 6293,
-    "claude_output_tokens": 12638,
+    "claude_input_tokens": 3710,
+    "claude_output_tokens": 11666,
     "claude_cache_write_tokens": 13649,
     "claude_cache_read_tokens": 0,
-    "ahrefs_requests": 1,
-    "image_count": 2,
-    "image_cost_usd": 0.134,
-    "total_cost_usd": 0.5667,
+    "ahrefs_requests": 5,
+    "image_count": 3,
+    "image_cost_usd": 0.201,
+    "total_cost_usd": 0.5965,
     "per_article": [
       {
-        "title": "Urlaub mit Hund: 10 Geheimtipps in Deutschland & Europa",
-        "claude_input": 6293,
-        "claude_output": 12638,
+        "title": "ELO Hund: Charakter, Pflege & für wen er geeignet ist",
+        "claude_input": 3710,
+        "claude_output": 11666,
         "claude_cache_write": 13649,
         "claude_cache_read": 0,
-        "ahrefs_requests": 1,
-        "images": 2
+        "ahrefs_requests": 5,
+        "images": 3
       }
     ],
     "providers": {
       "anthropic": {
-        "inputTokens": 6293,
-        "outputTokens": 12638,
-        "costUsd": 0.4327
+        "inputTokens": 3710,
+        "outputTokens": 11666,
+        "costUsd": 0.3955
       }
     }
   }
