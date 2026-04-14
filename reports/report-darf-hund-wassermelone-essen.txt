@@ -1,0 +1,169 @@
+======================================================================
+  KONTROLL-REPORT: Darf ein Hund Wassermelone essen? Menge, Kerne & Tipps
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Darf ein Hund Wassermelone essen? Menge, Kerne & Tipps
+  Title-Laenge:     54 Zeichen (Ziel: <=60)
+  Meta-Description: Hunde dürfen Wassermelone essen, aber ohne Kerne und Schale. Erfahre alles zu Menge, Zubereitung und worauf du beim Füttern achten musst.
+  Desc-Laenge:      137 Zeichen (Ziel: <=160)
+  Slug:             darf-hund-wassermelone-essen
+  URL:              https://hundewissen-mit-kopf.de/hundeernaehrung/darf-hund-wassermelone-essen/
+  Kategorie:        Hundeernaehrung (hundeernaehrung)
+  Tags:             darf ein hund wassermelone essen, dürfen hunde wassermelone essen, wie viel wassermelone darf ein hund essen, wassermelone für hunde, hund wassermelone kerne, wassermelone hund menge, obst für hunde, sommer snack hund
+  Datum:            2026-04-14
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          darf ein hund wassermelone essen
+  Suchvolumen:      450/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $2
+  Traffic Pot.:     4400
+
+  Einbau-Check:
+    Vorkommen:      1x
+    Keyword-Dichte: 0.04% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          1x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  darf ein hund wassermelone essen                 450     0         3x
+  darf hund wassermelone essen                     250     0      FEHLT
+  wie viel wassermelone dürfen hunde essen          50     0      FEHLT
+  wieviel wassermelone darf ein hund essen          50     0      FEHLT
+  darf der hund wassermelone essen                  40     0      FEHLT
+  wie viel wassermelone darf ein hund essen         40     0         3x
+  darf ein hund wassermelone                        40     0         3x
+  darf ein hund wassermelone fressen                30     0      FEHLT
+  darf hund wassermelone fressen                    10     0      FEHLT
+  darf ein hund eine wassermelone essen             10     0      FEHLT
+  wie viel wassermelone darf ein hund               10     0         3x
+  darf ein hund wassermelonenschale essen           10     0      FEHLT
+  darf ein welpe wassermelone essen                 10     0      FEHLT
+  essen hunde wassermelone                          10     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    11
+  Durchschn. Woerter:   764
+  Durchschn. DR:        17.4
+  Unser Wortanzahl:     2439
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.futterhaus.de/r/duerfen-hunde-wassermelone-essen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.barfers-wellfood.de/blogs/obst-gemuese/duerfen-hunde-wassermelone-essen
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.fressnapf.at/magazin/hund/ernaehrung/duerfen-hunde-wassermelone-essen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.fressnapf.de/magazin/hund/ernaehrung/duerfen-hunde-wassermelone-essen/
+    DR: 74.0, Traffic: 4128, Keywords: 75
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.futterhaus.de/r/duerfen-hunde-wassermelone-essen/
+    DR: 65.0, Traffic: 1842, Keywords: 63
+  Pos 5: https://www.barfers-wellfood.de/blogs/obst-gemuese/duerfen-hunde-wassermelone-essen
+    DR: 52.0, Traffic: 1047, Keywords: 62
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~266 Woerter):
+    - Wassermelone als gesunder Snack im Sommer – auch für Hunde?
+    - Wassermelone für Hunde
+    - Melonen-Verträglichkeit
+    - Weitere Ratgeber zur Hundeernährung
+
+  https://www.futterhaus.de/r/duerfen-hunde-wassermelone-essen/ (~1111 Woerter):
+    - Ist Wassermelone für Hunde gesund?
+    - Wie viel Wassermelone darf mein Hund essen?
+    - Worauf sollte ich bei der Fütterung achten?
+    - Passt Wassermelone in einen BARF-Plan?
+    - Fazit - Erfrischend, aber in Maßen
+    - Häufige Fragen zur Wassermelone für Hunde
+
+  https://www.barfers-wellfood.de/blogs/obst-gemuese/duerfen-hunde-wassermelone-essen (~915 Woerter):
+    - Dürfen Hunde Wassermelone essen?
+    - Die für Hunde gesunden Aspekte von Wassermelone
+    - Keine Schale und keine Kerne für Hunde
+    - Das erste Mal Wassermelone füttern
+    - Weitere Beiträge, die dich auch interessieren könnten
+    - Weitere Themen im Überblick
+
+  https://www.fressnapf.at/magazin/hund/ernaehrung/duerfen-hunde-wassermelone-essen/ (~915 Woerter):
+    - Dürfen Hunde Wassermelone essen?
+    - Die für Hunde gesunden Aspekte von Wassermelone
+    - Keine Schale und keine Kerne für Hunde
+    - Das erste Mal Wassermelone füttern
+    - Weitere Beiträge, die dich auch interessieren könnten
+    - Weitere Themen im Überblick
+
+  https://www.fressnapf.de/magazin/hund/ernaehrung/duerfen-hunde-wassermelone-essen/ (~266 Woerter):
+    - Wassermelone als gesunder Snack im Sommer – auch für Hunde?
+    - Wassermelone für Hunde
+    - Melonen-Verträglichkeit
+    - Weitere Ratgeber zur Hundeernährung
+
+  None (~1111 Woerter):
+    - Ist Wassermelone für Hunde gesund?
+    - Wie viel Wassermelone darf mein Hund essen?
+    - Worauf sollte ich bei der Fütterung achten?
+    - Passt Wassermelone in einen BARF-Plan?
+    - Fazit - Erfrischend, aber in Maßen
+    - Häufige Fragen zur Wassermelone für Hunde
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 0
+  Eingebaute Links: 8
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            77/100
+  Status:           BESTANDEN
+  Wortanzahl:       2439 (Ziel: >=2000)
+  H2-Headings:      12
+  Eyecatcher:       9
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    8
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.04% (1x, Ziel: 1-2%)
+    ✗ Haupt-Keyword nur in 1 H2 (min. 2)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="darf ein hund wassermelone essen - Ratgeber"  Datei: darf-ein-hund-wassermelone-essen.webp
+  Content-Bild:  Alt="darf ein hund wassermelone essen - Detail"    Datei: darf-ein-hund-wassermelone-essen-detail.webp
+  Content-Bild:  Alt="darf ein hund wassermelone essen - Praxis"    Datei: darf-ein-hund-wassermelone-essen-praxis.webp
+
+======================================================================

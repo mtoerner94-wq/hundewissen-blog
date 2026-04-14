@@ -1,47 +1,48 @@
 {
-  "date": "2026-04-11T13:13:46.133541",
+  "date": "2026-04-14T19:02:44.660632",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "ELO Hund: Charakter, Pflege & für wen er geeignet ist",
-      "slug": "hunderasse-elo",
+      "title": "Darf ein Hund Wassermelone essen? Menge, Kerne & Tipps",
+      "slug": "darf-hund-wassermelone-essen",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hunderasse-elo.md",
-      "quality_score": 82,
-      "word_count": 2976,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/darf-hund-wassermelone-essen.md",
+      "quality_score": 77,
+      "word_count": 2439,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.17% (5x, Ziel: 1-2%)",
+        "Keyword-Dichte zu niedrig: 0.04% (1x, Ziel: 1-2%)",
+        "Haupt-Keyword nur in 1 H2 (min. 2)",
         "Haupt-Keyword in keiner H3-Ueberschrift"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 3710,
-    "claude_output_tokens": 11666,
-    "claude_cache_write_tokens": 13649,
+    "claude_input_tokens": 4248,
+    "claude_output_tokens": 9311,
+    "claude_cache_write_tokens": 13937,
     "claude_cache_read_tokens": 0,
-    "ahrefs_requests": 5,
+    "ahrefs_requests": 4,
     "image_count": 3,
     "image_cost_usd": 0.201,
-    "total_cost_usd": 0.5965,
+    "total_cost_usd": 0.5421,
     "per_article": [
       {
-        "title": "ELO Hund: Charakter, Pflege & für wen er geeignet ist",
-        "claude_input": 3710,
-        "claude_output": 11666,
-        "claude_cache_write": 13649,
+        "title": "Darf ein Hund Wassermelone essen? Menge, Kerne & Tipps",
+        "claude_input": 4248,
+        "claude_output": 9311,
+        "claude_cache_write": 13937,
         "claude_cache_read": 0,
-        "ahrefs_requests": 5,
+        "ahrefs_requests": 4,
         "images": 3
       }
     ],
     "providers": {
       "anthropic": {
-        "inputTokens": 3710,
-        "outputTokens": 11666,
-        "costUsd": 0.3955
+        "inputTokens": 4248,
+        "outputTokens": 9311,
+        "costUsd": 0.3411
       }
     }
   }
