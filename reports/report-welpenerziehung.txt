@@ -1,0 +1,157 @@
+======================================================================
+  KONTROLL-REPORT: Welpenerziehung: Der komplette Guide für die ersten Monate
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Welpenerziehung: Der komplette Guide für die ersten Monate
+  Title-Laenge:     58 Zeichen (Ziel: <=60)
+  Meta-Description: Welpenerziehung Schritt für Schritt: Stubenreinheit, Grundkommandos, Sozialisierung und Grenzen setzen. Der komplette Guide für die ersten Monate.
+  Desc-Laenge:      146 Zeichen (Ziel: <=160)
+  Slug:             welpenerziehung
+  URL:              https://hundewissen-mit-kopf.de/erziehung-verhalten/welpenerziehung/
+  Kategorie:        Erziehung & Verhalten (erziehung-verhalten)
+  Tags:             Welpenerziehung, Welpen erziehen, Welpe, Grenzen setzen, Welpentraining, Sozialisierung, Stubenreinheit
+  Datum:            2026-04-17
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          welpenerziehung
+  Suchvolumen:      1100/Monat
+  Keyword Diff:     2/100
+  CPC:              $15
+  Traffic Pot.:     400
+
+  Einbau-Check:
+    Vorkommen:      24x
+    Keyword-Dichte: 1.03% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          6x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    34    1500        44x
+  welpe                                     16000    18    1700       100x
+  dass                                       9400     7    1000         5x
+  gerade                                     8400     4    1000      FEHLT
+  welpen                                     7700     7   27000        73x
+  schon mal                                  5600     0    5500      FEHLT
+  immer                                      4500     6      10         5x
+  schon                                      3800     4     350         2x
+  kannst                                     1900     0     100         1x
+  grenzen setzen                             1600     7     300         6x
+  welpen erziehen                            1200     2     400         1x
+  welpenerziehung                            1100     2     400        32x
+  soziale interaktion                         700     0     150         1x
+  ersten                                      700     0     100        15x
+  mensch hund                                 350    10     N/A      FEHLT
+  martin rütter welpen                        350     0     200      FEHLT
+  welpen alleine lassen martin rütter         300     0     150      FEHLT
+  wann werden welpen ruhiger                  250     0     200      FEHLT
+  welpen erziehung                            250     1     400      FEHLT
+  hundeerziehung welpen                       250     3    1300      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  welpenerziehung                                 1100     2        32x
+  welpenerziehung tipps                            150     2      FEHLT
+  welpenerziehung für anfänger                     100     0      FEHLT
+  welpenerziehung martin rütter                     50     0      FEHLT
+  welpenerziehung buch                              50     0      FEHLT
+  martin rütter welpenerziehung                     40     0      FEHLT
+  welpenerziehung plan                              40     0      FEHLT
+  welpenerziehung ab wann                           40     2      FEHLT
+  welpenerziehung video                             40     0      FEHLT
+  tipps zur welpenerziehung                         30     0      FEHLT
+  tipps für welpenerziehung                         30     0      FEHLT
+  welpenerziehung stubenrein                        30     0      FEHLT
+  welpenerziehung pdf                               30     0      FEHLT
+  welpenerziehung erste tage                        20     0      FEHLT
+  welpenerziehung app                               20     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   912
+  Durchschn. DR:        21.9
+  Unser Wortanzahl:     2324
+
+  Pos 1: https://happydog.de/hunderatgeber/welpen-welt/grundlagen-der-welpenerziehung
+    DR: 68.0, Traffic: 1071, Keywords: 42
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.martinruetter.com/wien/aktuelles/welpenerziehung
+    DR: 69.0, Traffic: 434, Keywords: 42
+  Pos 4: https://doguniversity.de/welpe/welpenerziehung/
+    DR: 38.0, Traffic: 393, Keywords: 27
+  Pos 5: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://happydog.de/hunderatgeber/welpen-welt/grundlagen-der-welpenerziehung (~1791 Woerter):
+    - Stubenreinheit mit deinem Welpen trainieren
+    - Allein bleiben geht nicht von allein
+    - Wichtiges Kommando, das Freiheit verschafft: Komm!
+    - Kommando zum Unterbinden: Lass das!
+    - Beginne mit folgender Übung:
+    - Puppy & Junior Snacks
+
+  None (~33 Woerter):
+    - Das Wichtigste auf einen Blick
+    - Die wichtigsten Grundlagen der Welpenerziehung
+    - So lernen Welpen
+    - Dem Welpen Grenzen setzen
+    - Die Grundlagen im Welpentraining
+    - Regeln bei der Welpenerziehung
+    - Struktur bei der Erziehung von Welpen
+    - Welpe erziehen mit diesen Übungen
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 1
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            97/100
+  Status:           BESTANDEN
+  Wortanzahl:       2324 (Ziel: >=2000)
+  H2-Headings:      13
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="welpenerziehung - Ratgeber"  Datei: welpenerziehung.webp
+  Content-Bild:  Alt="welpenerziehung - Detail"    Datei: welpenerziehung-detail.webp
+  Content-Bild:  Alt="welpenerziehung - Praxis"    Datei: welpenerziehung-praxis.webp
+
+======================================================================
