@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": [
+    "/_astro/*",
+    "/fonts/*",
+    "/pagefind/*",
+    "/*.css",
+    "/*.js",
+    "/*.png",
+    "/*.webp",
+    "/*.jpg",
+    "/*.jpeg",
+    "/*.svg",
+    "/*.ico",
+    "/*.woff",
+    "/*.woff2",
+    "/*.xml",
+    "/*.txt",
+    "/*.md"
+  ]
+}

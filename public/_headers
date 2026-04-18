@@ -1,0 +1,16 @@
+# ===== Security Headers + Agent Discovery (RFC 8288) =====
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Link: </sitemap-index.xml>; rel="sitemap", </llms.txt>; rel="describedby", </llms-full.txt>; rel="alternate"; type="text/markdown"
+
+# ===== Statische Assets: Aggressives Caching =====
+# Astro hasht Dateinamen → Cache-Busting automatisch
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts ebenfalls langfristig cachen
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
