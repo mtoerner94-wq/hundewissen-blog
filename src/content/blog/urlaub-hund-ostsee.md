@@ -348,7 +348,7 @@ Wenn dein Hund in aufregenden Situationen zum [Bellen neigt](https://hundewissen
 
 ## Urlaub mit Hund an der Ostsee planen: Schritt für Schritt
 
-Die richtige Planung ist der Schlüssel zu einem entspannten Urlaub mit Hund an der Ostsee. Mit dieser Schritt-für-Schritt-Anleitung vergisst du nichts Wichtiges.
+Die richtige Planung ist der Schlüssel zu einem entspannten Urlaub mit Hund an der Ostsee. Mit dieser Schritt für Schritt Anleitung vergisst du nichts Wichtiges.
 
 <div class="not-prose steps-grid">
 <div class="step-item">

@@ -1,6 +1,6 @@
 ---
 title: "Hund trimmen: Welche Rassen & Anleitung"
-description: "Hund trimmen statt scheren – welche Rassen getrimmt werden müssen, welches Werkzeug du brauchst und eine Schritt-für-Schritt-Anleitung für zu Hause."
+description: "Hund trimmen statt scheren – welche Rassen getrimmt werden müssen, welches Werkzeug du brauchst und eine Schritt für Schritt Anleitung für zu Hause."
 category: "Hundepflege"
 categorySlug: "hundepflege"
 tags: ["Hund trimmen", "Trimmen", "Fell", "Terrier", "Hundefriseur", "Hund scheren", "Grooming Hund"]

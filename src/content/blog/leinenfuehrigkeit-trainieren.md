@@ -1,6 +1,6 @@
 ---
 title: "Leinenführigkeit trainieren: So klappt es"
-description: "Leinenführigkeit trainieren leicht gemacht. Schritt-für-Schritt-Anleitung für Welpen, Junghunde und erwachsene Hunde mit bewährten Übungen und Tipps."
+description: "Leinenführigkeit trainieren leicht gemacht. Schritt für Schritt Anleitung für Welpen, Junghunde und erwachsene Hunde mit bewährten Übungen und Tipps."
 category: "Erziehung & Verhalten"
 categorySlug: "erziehung-verhalten"
 tags: ["Leinenführigkeit trainieren", "Leinenführigkeit", "Training Leinenführigkeit Hund", "Übungen Leinenführigkeit", "Leinenführigkeit trainieren Junghund", "Leinenführigkeit trainieren Welpe", "Leinentraining Hund"]
@@ -42,7 +42,7 @@ sources:
 
 Leinenführigkeit trainieren gehört zu den wichtigsten Grundlagen in der Hundeerziehung -- und gleichzeitig zu den häufigsten Herausforderungen. Rund 60% aller Hundehalter berichten, dass ihr Hund regelmäßig an der Leine zieht. Das frustriert nicht nur dich, sondern belastet auch deinen Hund körperlich und emotional.
 
-Die gute Nachricht: Mit der richtigen Methode, Geduld und Konsequenz lernt jeder Hund, entspannt an lockerer Leine zu laufen. In diesem Ratgeber findest du eine Schritt-für-Schritt-Anleitung, bewährte Übungen für Welpen, Junghunde und erwachsene Hunde sowie Lösungen für typische Probleme wie Leinenziehen und Leinenaggression.
+Die gute Nachricht: Mit der richtigen Methode, Geduld und Konsequenz lernt jeder Hund, entspannt an lockerer Leine zu laufen. In diesem Ratgeber findest du eine Schritt für Schritt Anleitung, bewährte Übungen für Welpen, Junghunde und erwachsene Hunde sowie Lösungen für typische Probleme wie Leinenziehen und Leinenaggression.
 
 ![Hund läuft entspannt an lockerer Leine neben seinem Halter](../../assets/images/leinenfuehrigkeit-trainieren-hund.webp)
 

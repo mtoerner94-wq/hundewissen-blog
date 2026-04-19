@@ -1,7 +1,7 @@
 ---
 title: "Hund baden: Wie oft & womit waschen?"
 image: "../../assets/images/hund_baden.webp"
-description: "Hunde sollten so selten wie möglich und so oft wie nötig gebadet werden. Alles zu Häufigkeit, Wassertemperatur, Hundeshampoo und Schritt-für-Schritt-Anleitung."
+description: "Hunde sollten so selten wie möglich und so oft wie nötig gebadet werden. Alles zu Häufigkeit, Wassertemperatur, Hundeshampoo und Schritt für Schritt Anleitung."
 category: "Hundepflege"
 categorySlug: "hundepflege"
 tags: ["Hund baden", "Hundeshampoo", "Fellpflege", "Hundepflege", "Welpe baden"]
@@ -43,7 +43,7 @@ sources:
 
 Hund baden gehört zur Fellpflege, ist aber deutlich seltener nötig als viele Hundehalter vermuten. Hunde verfügen über ein selbstreinigendes Fell mit einem natürlichen Schutzfilm aus Talg und Lipiden, der Schmutz abweist und die Haut vor Keimen schützt. Zu häufiges Baden zerstört diese Schutzschicht und kann zu trockener Haut, Juckreiz und Hauterkrankungen führen. Die Faustregel lautet daher: Hunde so selten wie möglich und so oft wie nötig waschen.
 
-Doch wann ist ein Bad tatsächlich notwendig? Welches Shampoo eignet sich für Hunde? Und wie funktioniert das Hund baden stressfrei für Tier und Mensch? Dieser Ratgeber liefert tierärztlich fundierte Antworten zu Häufigkeit, Wassertemperatur, richtigen Pflegeprodukten und einer bewährten Schritt-für-Schritt-Anleitung – von der Vorbereitung bis zum Trocknen.
+Doch wann ist ein Bad tatsächlich notwendig? Welches Shampoo eignet sich für Hunde? Und wie funktioniert das Hund baden stressfrei für Tier und Mensch? Dieser Ratgeber liefert tierärztlich fundierte Antworten zu Häufigkeit, Wassertemperatur, richtigen Pflegeprodukten und einer bewährten Schritt für Schritt Anleitung – von der Vorbereitung bis zum Trocknen.
 
 ![Hund baden – Wie oft und womit waschen?](../../assets/images/hund_baden.webp)
 
@@ -152,7 +152,7 @@ Kokosöl kann als natürliches Hausmittel die Hundehaut pflegen und ist in klein
 
 Spülmittel, Seife oder andere Haushaltsreiniger dürfen niemals zum Hunde waschen verwendet werden. Diese Produkte entfetten die Haut extrem stark und können zu schweren Hautreizungen führen. Auch Baby-Feuchttücher mit Duftstoffen sind für die Hundepflege ungeeignet. Bei Unsicherheit bezüglich giftigen Substanzen für Hunde hilft ein Tierarzt weiter.
 
-## Hund baden: Schritt-für-Schritt-Anleitung
+## Hund baden: Schritt für Schritt Anleitung
 
 Ein Hundebad verläuft am besten mit guter Vorbereitung und einer ruhigen, strukturierten Vorgehensweise. Die folgende Anleitung zeigt, wie das Hund baden in 7 Schritten stressfrei gelingt – für Anfänger und erfahrene Hundehalter gleichermaßen.
 

@@ -191,7 +191,7 @@ Hunde mit lockigem oder wolligem Fell -- etwa Pudel oder Bichon Frisé -- neigen
 | Metallkamm (fein) | Flohkontrolle, Gesicht | Dichtes Fell, großflächig | Metallzinken, eng stehend |
 | Entfilzungskamm | Verfilzungen, Locken | Kurzhaar, feines Fell | Klingen oder gebogene Zinken |
 
-## Hund richtig bürsten: Schritt-für-Schritt-Anleitung
+## Hund richtig bürsten: Schritt für Schritt Anleitung
 
 Die richtige Bürst-Technik ist genauso wichtig wie die Wahl der passenden Bürste. Falsches Bürsten kann Hautreizungen verursachen, Fell ausreißen oder deinen Hund verängstigen.
 

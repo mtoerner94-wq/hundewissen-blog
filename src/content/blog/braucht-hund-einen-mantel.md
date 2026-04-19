@@ -319,7 +319,7 @@ Miss immer im Stehen und mit einem flexiblen Maßband. Zwischen Mantel und Körp
 </div>
 </div>
 
-## Hundemantel anziehen: Schritt-für-Schritt-Anleitung
+## Hundemantel anziehen: Schritt für Schritt Anleitung
 
 Viele Hunde akzeptieren einen Mantel nicht sofort. Mit der richtigen Gewöhnung und Technik wird das Anziehen zur entspannten Routine.
 

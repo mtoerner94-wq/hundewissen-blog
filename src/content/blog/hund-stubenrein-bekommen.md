@@ -1,6 +1,6 @@
 ---
 title: "Hund stubenrein bekommen: Der komplette Guide"
-description: "Hund stubenrein bekommen – Schritt-für-Schritt-Anleitung für Welpen & erwachsene Hunde. Tipps für nachts, Tierschutzhunde & typische Fehler vermeiden."
+description: "Hund stubenrein bekommen – Schritt für Schritt Anleitung für Welpen & erwachsene Hunde. Tipps für nachts, Tierschutzhunde & typische Fehler vermeiden."
 category: "Erziehung & Verhalten"
 categorySlug: "erziehung-verhalten"
 tags: ["hund stubenrein bekommen", "welpe stubenrein bekommen", "stubenrein", "welpen stubenrein bekommen", "hund pinkelt in wohnung", "hund macht in die wohnung", "erwachsenen hund stubenrein bekommen", "stubenreinheit hund"]
@@ -110,7 +110,7 @@ Eine bewährte Faustregel lautet: Alter in Lebensmonaten plus eins ergibt die ma
 </div>
 </div>
 
-## Welpen stubenrein bekommen: Schritt-für-Schritt-Anleitung
+## Welpen stubenrein bekommen: Schritt für Schritt Anleitung
 
 Das Stubenreinheitstraining beginnt idealerweise am ersten Tag im neuen Zuhause. Welpen stubenrein bekommen erfordert Konsequenz, einen festen Zeitplan und vor allem Geduld. Die folgenden Schritte haben sich in der Praxis bewährt und werden auch von Hundetrainern empfohlen.
 

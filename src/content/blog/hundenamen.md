@@ -425,7 +425,7 @@ Manche Hundenamen funktionieren für Rüden und Hündinnen gleichermaßen. Das i
 
 ## Tipps für die endgültige Namenswahl
 
-Bei über 200 Hundenamen kann die Entscheidung schwerfallen. Diese Schritt-für-Schritt-Anleitung hilft dir, den perfekten Hundenamen für deinen Vierbeiner zu finden.
+Bei über 200 Hundenamen kann die Entscheidung schwerfallen. Diese Schritt für Schritt Anleitung hilft dir, den perfekten Hundenamen für deinen Vierbeiner zu finden.
 
 <div class="not-prose steps-grid">
 <div class="step-item">

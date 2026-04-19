@@ -1,6 +1,6 @@
 ---
 title: "Kommandos Hund: Die 7 wichtigsten Hundekommandos mit Anleitung"
-description: "Kommandos für den Hund trainieren: Die 7 wichtigsten Hundekommandos mit Schritt-für-Schritt-Anleitung. Übungen für Welpen & erwachsene Hunde."
+description: "Kommandos für den Hund trainieren: Die 7 wichtigsten Hundekommandos mit Schritt für Schritt Anleitung. Übungen für Welpen & erwachsene Hunde."
 category: "Erziehung & Verhalten"
 categorySlug: "erziehung-verhalten"
 tags: ["Kommandos Hund", "Hundekommandos", "Hund Kommandos beibringen", "Grundkommandos Hund", "7 Grundkommandos Hund", "Kommandos Hund Liste", "Hund Kommandos Liste", "Hundeerziehung Kommandos"]
@@ -139,7 +139,7 @@ Die folgende Kommandos-Hund-Liste zeigt die 7 Grundkommandos, die jeder Hund beh
 
 "Sitz" ist das einfachste und gleichzeitig vielseitigste aller Hundekommandos. Hunde setzen sich von Natur aus häufig hin, weshalb dieses Verhalten leicht mit einem Signalwort verknüpft werden kann. Die meisten Welpen lernen dieses Kommando innerhalb von 5–10 Trainingseinheiten zuverlässig.
 
-### Schritt-für-Schritt-Anleitung: Dem Hund "Sitz" beibringen
+### Schritt für Schritt Anleitung: Dem Hund "Sitz" beibringen
 
 Halte ein Leckerli zwischen Daumen und Zeigefinger direkt vor die Nase deines Hundes. Führe das Leckerli langsam über seinen Kopf nach hinten. Dein Hund wird automatisch den Kopf heben und sich dabei hinsetzen. Sobald sein Hinterteil den Boden berührt, sagst du "Sitz" und gibst die Belohnung sofort -- innerhalb von 1–2 Sekunden.
 

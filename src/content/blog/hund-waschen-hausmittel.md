@@ -1,6 +1,6 @@
 ---
 title: "Hund waschen mit Hausmitteln: 4 natürliche Alternativen"
-description: "Hund waschen mit Hausmitteln: Natron, Aloe Vera, Apfelessig & Haferflocken als Shampoo-Alternative. Mit Rezepten, pH-Wert-Infos und Schritt-für-Schritt-Anleitung."
+description: "Hund waschen mit Hausmitteln: Natron, Aloe Vera, Apfelessig & Haferflocken als Shampoo-Alternative. Mit Rezepten, pH-Wert-Infos und Schritt für Schritt Anleitung."
 category: "Hundepflege"
 categorySlug: "hundepflege"
 tags: ["Hund waschen Hausmittel", "Hundeshampoo Alternative", "Natron Hund", "Aloe Vera Hund", "Trockenshampoo Hund", "Hund stinkt", "Fell Pflege"]
@@ -42,7 +42,7 @@ sources:
 
 Deinen Hund waschen mit Hausmitteln ist eine schonende, natürliche und kostengünstige Alternative zu herkömmlichem Hundeshampoo. Ob dein Hund stinkt, sich im Matsch gewälzt hat oder empfindliche Haut besitzt -- Hausmittel wie Natron, Aloe Vera, Apfelessig und Haferflocken reinigen das Fell sanft, ohne den natürlichen Schutzfilm der Haut zu zerstören.
 
-In diesem Ratgeber erfährst du, welche 4 Hausmittel sich zum Hund waschen eignen, wie du sie richtig anwendest und warum der pH-Wert der Hundehaut so entscheidend ist. Dazu bekommst du einfache Rezepte zum Selbermachen, eine Schritt-für-Schritt-Anleitung und wichtige Sicherheitshinweise.
+In diesem Ratgeber erfährst du, welche 4 Hausmittel sich zum Hund waschen eignen, wie du sie richtig anwendest und warum der pH-Wert der Hundehaut so entscheidend ist. Dazu bekommst du einfache Rezepte zum Selbermachen, eine Schritt für Schritt Anleitung und wichtige Sicherheitshinweise.
 
 ![Hund wird sanft mit natürlichen Hausmitteln in der Badewanne gewaschen](../../assets/images/hund-waschen-hausmittel.webp)
 
