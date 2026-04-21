@@ -1,0 +1,183 @@
+======================================================================
+  KONTROLL-REPORT: Hund Platz beibringen: Schritt-für-Schritt-Anleitung
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hund Platz beibringen: Anleitung in 5 Schritten
+  Title-Laenge:     47 Zeichen (Ziel: <=60)
+  Meta-Description: Hund Platz beibringen leicht gemacht: Mit dieser Schritt-für-Schritt-Anleitung lernt dein Hund das Kommando in wenigen Trainingseinheiten zuverlässig.
+  Desc-Laenge:      150 Zeichen (Ziel: <=160)
+  Slug:             hund-platz-beibringen
+  URL:              https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-platz-beibringen/
+  Kategorie:        Erziehung & Verhalten (erziehung-verhalten)
+  Tags:             hund platz beibringen, platz kommando hund, welpen platz beibringen, hundetraining platz, grundkommandos hund, platz üben hund, hund erziehen
+  Datum:            2026-04-21
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hund platz beibringen
+  Suchvolumen:      800/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $10
+  Traffic Pot.:     450
+
+  Einbau-Check:
+    Vorkommen:      5x
+    Keyword-Dichte: 0.22% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          2x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    36    7800       110x
+  hand                                      24000     2    3900        16x
+  dass                                       9400     7    1000         3x
+  welpen                                     7700     6    7600        13x
+  platz                                      3000    11     400        64x
+  kannst                                     1900     0     100         1x
+  sitz                                       1200     4      40        13x
+  hund platz beibringen                       800     0     450         9x
+  kommando                                    500     4      30        57x
+  beibringen                                  450     0     N/A        16x
+  apportieren beibringen                      350     0     700      FEHLT
+  wie bringe ich meinem hund platz bei        350     0     300         1x
+  solltest                                    200     0      20      FEHLT
+  platz beibringen                            200     0     400        13x
+  platz üben hund                             150     0     500         1x
+  grundkommandos hund                         150     0     800         1x
+  hunde platz                                 100     0      60      FEHLT
+  sitz hund                                   100     0     350      FEHLT
+  hund platz                                  100     0     450        12x
+  ausgestreckte hand                           80     0     N/A      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  hund platz beibringen                            800     0         9x
+  welpen platz beibringen                          150     0         2x
+  hund schnelles platz beibringen                   60     0      FEHLT
+  platz hund beibringen                             60     0      FEHLT
+  hund platz beibringen rütter                      50     0      FEHLT
+  wie viel platz braucht ein hund                   50     0      FEHLT
+  hund platz beibringen martin rütter               40     0      FEHLT
+  erwachsenen hund platz beibringen                 30     0      FEHLT
+  platz beibringen kleiner hund                     30     0      FEHLT
+  hund platz beibringen ohne leckerli               20     0      FEHLT
+  hund platz beibringen video                       20     0      FEHLT
+  dem hund platz beibringen                         20     0      FEHLT
+  wie hund platz beibringen                         20     0      FEHLT
+  hund beibringen auf dem platz zu bleiben          10     0      FEHLT
+  hund platz auf distanz beibringen                 10     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    11
+  Durchschn. Woerter:   464
+  Durchschn. DR:        17.7
+  Unser Wortanzahl:     2276
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.youtube.com/watch?v=IP_SAqQAlfQ&t=259
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://futalis.de/hunderatgeber/welpen/erziehung/kommando-platz
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://frontline.de/grundkommandos-hund
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://futalis.de/hunderatgeber/welpen/erziehung/kommando-platz
+    DR: 59.0, Traffic: 391, Keywords: 16
+  Pos 4: https://doguniversity.de/hunde/hundekommandos/hund-platz-beibringen/
+    DR: 37.0, Traffic: 299, Keywords: 20
+  Pos 5: https://www.youtube.com/watch?v=4zOPIsvvxz4
+    DR: 99.0, Traffic: 92, Keywords: 7
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~26 Woerter):
+
+  https://www.youtube.com/watch?v=IP_SAqQAlfQ&t=259 (~1356 Woerter):
+    - Inhaltsverzeichnis
+    - Hund „Platz“ beibringen – 6 Tipps
+    - Anne zeigt dir im Video, wie du deinen Welpen gesund ernährst:
+    - Expertin für Hundezucht und HundetrainingBeatrice Krist
+    - Was bedeutet „Platz“
+    - Wie bringe ich meinem Hund „Platz“ bei?
+    - „Platz“ üben: Belohne deinen Hund mit unseren gesunden Snacks:
+    - Hund macht kein „Platz“: Häufige Fehler umgehen
+
+  https://futalis.de/hunderatgeber/welpen/erziehung/kommando-platz (~6 Woerter):
+
+  https://frontline.de/grundkommandos-hund (~1356 Woerter):
+    - Inhaltsverzeichnis
+    - Hund „Platz“ beibringen – 6 Tipps
+    - Anne zeigt dir im Video, wie du deinen Welpen gesund ernährst:
+    - Expertin für Hundezucht und HundetrainingBeatrice Krist
+    - Was bedeutet „Platz“
+    - Wie bringe ich meinem Hund „Platz“ bei?
+    - „Platz“ üben: Belohne deinen Hund mit unseren gesunden Snacks:
+    - Hund macht kein „Platz“: Häufige Fehler umgehen
+
+  None (~19 Woerter):
+    - Das Wichtigste in Kürze
+    - Was bedeutet „Platz“?
+    - So bringst du deinem Hund „Platz“ bei (Anleitung)
+    - Kommando „Platz“ richtig auflösen
+    - Schwierigkeitsgrad im Training für „Platz“ erhöhen
+    - Liegenbleiben in Abwesenheit des Besitzers trainieren
+    - Weitere Trainingstipps für das Kommando Platz
+    - Hund macht nicht „Platz“, was tun?
+
+  None (~26 Woerter):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 1
+  Eingebaute Links: 4
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            77/100
+  Status:           BESTANDEN
+  Wortanzahl:       2276 (Ziel: >=2000)
+  H2-Headings:      11
+  Eyecatcher:       9
+  FAQs:             7
+  Quellen:          3
+  Interne Links:    4
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.22% (5x, Ziel: 1-2%)
+    ✗ Haupt-Keyword in keiner H3-Ueberschrift
+    ✗ Text schwer lesbar: Wiener Sachtextformel 12.5 (Ziel: 6-10, max. 12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hund platz beibringen - Ratgeber"  Datei: hund-platz-beibringen.webp
+  Content-Bild:  Alt="hund platz beibringen - Detail"    Datei: hund-platz-beibringen-detail.webp
+  Content-Bild:  Alt="hund platz beibringen - Praxis"    Datei: hund-platz-beibringen-praxis.webp
+
+======================================================================

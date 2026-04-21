@@ -1,36 +1,38 @@
 {
-  "date": "2026-04-17T18:39:33.168901",
+  "date": "2026-04-21T18:14:39.968845",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Welpenerziehung: Der komplette Guide für die ersten Monate",
-      "slug": "welpenerziehung",
+      "title": "Hund Platz beibringen: Schritt-für-Schritt-Anleitung",
+      "slug": "hund-platz-beibringen",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/welpenerziehung.md",
-      "quality_score": 97,
-      "word_count": 2324,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hund-platz-beibringen.md",
+      "quality_score": 77,
+      "word_count": 2276,
       "issues": [
-        "Haupt-Keyword in keiner H3-Ueberschrift"
+        "Keyword-Dichte zu niedrig: 0.22% (5x, Ziel: 1-2%)",
+        "Haupt-Keyword in keiner H3-Ueberschrift",
+        "Text schwer lesbar: Wiener Sachtextformel 12.5 (Ziel: 6-10, max. 12)"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 4905,
-    "claude_output_tokens": 11656,
-    "claude_cache_write_tokens": 18353,
+    "claude_input_tokens": 5860,
+    "claude_output_tokens": 11183,
+    "claude_cache_write_tokens": 23446,
     "claude_cache_read_tokens": 0,
     "ahrefs_requests": 5,
     "image_count": 3,
     "image_cost_usd": 0.201,
-    "total_cost_usd": 0.6316,
+    "total_cost_usd": 0.6564,
     "per_article": [
       {
-        "title": "Welpenerziehung: Der komplette Guide für die ersten Monate",
-        "claude_input": 4905,
-        "claude_output": 11656,
-        "claude_cache_write": 18353,
+        "title": "Hund Platz beibringen: Schritt-für-Schritt-Anleitung",
+        "claude_input": 5860,
+        "claude_output": 11183,
+        "claude_cache_write": 23446,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
         "images": 3
@@ -38,9 +40,9 @@
     ],
     "providers": {
       "anthropic": {
-        "inputTokens": 4905,
-        "outputTokens": 11656,
-        "costUsd": 0.4306
+        "inputTokens": 5860,
+        "outputTokens": 11183,
+        "costUsd": 0.4554
       }
     }
   }
