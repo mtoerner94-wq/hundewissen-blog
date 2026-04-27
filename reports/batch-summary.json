@@ -1,48 +1,84 @@
 {
-  "date": "2026-04-21T18:14:39.968845",
+  "date": "2026-04-27T20:53:58.472809",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Hund Platz beibringen: Schritt-für-Schritt-Anleitung",
-      "slug": "hund-platz-beibringen",
+      "title": "Hundefutter selber kochen — 5 Rezepte für gesunde Mahlzeiten",
+      "slug": "hundefutter-selber-kochen",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hund-platz-beibringen.md",
-      "quality_score": 77,
-      "word_count": 2276,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hundefutter-selber-kochen.md",
+      "quality_score": 87,
+      "word_count": 2280,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.22% (5x, Ziel: 1-2%)",
-        "Haupt-Keyword in keiner H3-Ueberschrift",
+        "Zu wenige Quellen: 2 (min. 3)",
+        "Keine Tabelle gefunden (min. 1)",
         "Text schwer lesbar: Wiener Sachtextformel 12.5 (Ziel: 6-10, max. 12)"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 5860,
-    "claude_output_tokens": 11183,
-    "claude_cache_write_tokens": 23446,
+    "claude_input_tokens": 15233,
+    "claude_output_tokens": 11793,
+    "claude_cache_write_tokens": 16934,
     "claude_cache_read_tokens": 0,
     "ahrefs_requests": 5,
-    "image_count": 3,
-    "image_cost_usd": 0.201,
-    "total_cost_usd": 0.6564,
+    "image_count": 4,
+    "image_cost_usd": 0.268,
+    "total_cost_usd": 0.6879,
     "per_article": [
       {
-        "title": "Hund Platz beibringen: Schritt-für-Schritt-Anleitung",
-        "claude_input": 5860,
-        "claude_output": 11183,
-        "claude_cache_write": 23446,
+        "title": "Hundefutter selber kochen — 5 Rezepte für gesunde Mahlzeiten",
+        "claude_input": 28349,
+        "claude_output": 19705,
+        "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
-        "images": 3
+        "images": 4
       }
     ],
+    "per_agent": {
+      "researcher": {
+        "model": "gemini-3.1-pro-preview",
+        "input_tokens": 6167,
+        "output_tokens": 1998,
+        "cost_usd": 0.0277
+      },
+      "planner": {
+        "model": "gpt-5.4",
+        "input_tokens": 6949,
+        "output_tokens": 5914,
+        "cost_usd": 0.1061
+      },
+      "writer": {
+        "model": "claude-sonnet-4-6",
+        "input_tokens": 5248,
+        "output_tokens": 9550,
+        "cost_usd": 0.2104
+      },
+      "reviewer": {
+        "model": "claude-sonnet-4-6",
+        "input_tokens": 9985,
+        "output_tokens": 2243,
+        "cost_usd": 0.0757
+      }
+    },
     "providers": {
+      "google": {
+        "inputTokens": 6167,
+        "outputTokens": 1998,
+        "costUsd": 0.0277
+      },
+      "openai": {
+        "inputTokens": 6949,
+        "outputTokens": 5914,
+        "costUsd": 0.1061
+      },
       "anthropic": {
-        "inputTokens": 5860,
-        "outputTokens": 11183,
-        "costUsd": 0.4554
+        "inputTokens": 15233,
+        "outputTokens": 11793,
+        "costUsd": 0.2861
       }
     }
   }

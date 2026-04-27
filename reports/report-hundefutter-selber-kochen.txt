@@ -1,0 +1,234 @@
+======================================================================
+  KONTROLL-REPORT: Hundefutter selber kochen — 5 Rezepte für gesunde Mahlzeiten
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hundefutter selber kochen: 5 gesunde Rezepte
+  Title-Laenge:     44 Zeichen (Ziel: <=60)
+  Meta-Description: Hundefutter selber kochen leicht gemacht: 5 gesunde Rezepte, Zutaten, Mengen und Tipps für Hunde. Jetzt ausgewogen kochen und Fehler vermeiden.
+  Desc-Laenge:      143 Zeichen (Ziel: <=160)
+  Slug:             hundefutter-selber-kochen
+  URL:              https://hundewissen-mit-kopf.de/hundeernaehrung/hundefutter-selber-kochen/
+  Kategorie:        Hundeernaehrung (hundeernaehrung)
+  Tags:             hundefutter selber kochen, kochen für hunde, gesundes hundefutter selber machen rezepte, hundefutter selber kochen rezepte, magenschonendes hundefutter selber kochen
+  Datum:            2026-04-27
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hundefutter selber kochen
+  Suchvolumen:      1500/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $10
+  Traffic Pot.:     700
+
+  Einbau-Check:
+    Vorkommen:      17x
+    Keyword-Dichte: 0.75% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          3x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    14    7800       137x
+  gemüse                                    52000     2   16000        17x
+  hunde                                     30000    16    7800       114x
+  hundefutter                               17000    16    9900        51x
+  gibt                                       6000     1     300      FEHLT
+  zutaten                                    3700     5     500        22x
+  müssen                                     3200     7     500      FEHLT
+  futter                                     1800    39     800        80x
+  hundefutter selber kochen                  1500     0     700        26x
+  kochen für hunde                           1400     2    1000         6x
+  rohes fleisch                               800     2     300         4x
+  gesundes hundefutter selber machen rezepte    700     0     300         1x
+  gesundes hundefutter selber machen: rezepte    600     1     400      FEHLT
+  hundefutter selber kochen rezepte           500     0    1000         4x
+  kochen für den hund                         400     1    1400         1x
+  hundefutter selbst kochen                   350     1    1000      FEHLT
+  alte hunde                                  300     0     600      FEHLT
+  ballaststoffe gemüse                        300     1   30000      FEHLT
+  hundefutter selber machen                   300     1    1000         3x
+  rezepte für hunde                           300     0      70      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  hundefutter selber kochen                       1500     0        26x
+  hundefutter selber kochen rezepte                500     0         4x
+  magenschonendes hundefutter selber kochen        200     2         3x
+  hundefutter selber kochen rezepte huhn           200     0      FEHLT
+  hundefutter selber kochen menge                  150     0      FEHLT
+  hundefutter selber kochen rezepte rind           100     0      FEHLT
+  hundefutter selber kochen hackfleisch             60     0      FEHLT
+  welpenfutter selber machen                        50     0         2x
+  hundefutter selber kochen zusammensetzung         40     0      FEHLT
+  welpenfutter selber kochen                        30     0         1x
+  hundefutter selber kochen menge pro tag           30     0      FEHLT
+  rezepte für hundefutter selber kochen             30     0      FEHLT
+  hundefutter selber kochen buch                    30     0      FEHLT
+  hypoallergenes hundefutter selber kochen          20     0      FEHLT
+  hundefutter schonkost selber kochen               20     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    15
+  Durchschn. Woerter:   143
+  Durchschn. DR:        7.1
+  Unser Wortanzahl:     2280
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.meisterbarf.de/barfen/hundefutter-selbst-kochen
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundefutter-selbst-kochen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.anicura.ch/fuer-tierbesitzer/hunde/wissensbank/hundefutter-selbst-kochen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://bellevue.nzz.ch/kochen-geniessen/rezepte/hundefutter-selber-kochen-grundrezept-fuer-eine-hundemahlzeit-ld.1854489
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.houndtoday.com/de/ernahrung-2/selber-kochen-hund-diy-hundefutter-rezept-2/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://vegan4dogs.com/vegane-rezepte-hundefutter-selber-kochen/moehren-kichererbsenbowl
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.meisterbarf.de/barfen/hundefutter-selbst-kochen
+    DR: 34.0, Traffic: 1512, Keywords: 97
+  Pos 5: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundefutter-selbst-kochen/
+    DR: 72.0, Traffic: 433, Keywords: 52
+  Pos 5: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundefutter-selbst-kochen/#hundefutter-selbst-kochen-vor--und-nachteile
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundefutter-selbst-kochen/#hundefutter-selbst-gemacht:-komponenten
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.meisterbarf.de/barfen/hundefutter-selbst-kochen (~37 Woerter):
+    - Hundeernährung: Eine Wissenschaft für sich#
+    - Alleinfuttermittel für Hunde: Besser als ihr Ruf#
+    - Hundefutter selbst kochen? Vor- und Nachteile#
+    - Hundefutter selbst gemacht: Komponenten#
+    - Selbstgemachtes Hundefutter: Welche Mengen benötige ich?#
+    - Ich möchte Hundefutter selbst machen – wie fange ich an?#
+    - Was darf mein Hund nicht fressen?#
+    - Weiteres selbst gemachtes Hundefutter abseits des Alleinfutters#
+
+  https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundefutter-selbst-kochen/ (~31 Woerter):
+    - Hundeernährung: Eine Wissenschaft für sich#
+    - Alleinfuttermittel für Hunde: Besser als ihr Ruf#
+    - Hundefutter selbst kochen? Vor- und Nachteile#
+    - Hundefutter selbst gemacht: Komponenten#
+    - Selbstgemachtes Hundefutter: Welche Mengen benötige ich?#
+    - Ich möchte Hundefutter selbst machen – wie fange ich an?#
+    - Was darf mein Hund nicht fressen?#
+    - Weiteres selbst gemachtes Hundefutter abseits des Alleinfutters#
+
+  https://www.anicura.ch/fuer-tierbesitzer/hunde/wissensbank/hundefutter-selbst-kochen/ (~29 Woerter):
+    - Es kann mit dem Fleisch variiert und statt Karotten Kürbis verwendet werden.
+    - RezeptHundeleckerli mit Karotten
+    - RezeptHundeleckerli mit Kürbis und Käse
+    - Newsletter
+    - Meistgelesen
+    - Hotel-KniggeHunde im Hotelbett und Wettrennen im Speisesaal: Diese ungeschriebenen Gesetze gelten für Hotelgäste
+    - Teileinladung zur Hochzeit: Wie reagiere ich auf Einladungen zweiter Klasse?
+    - Reise-TippsAbseits von Rom und Venedig: Italien hat viele traumhafte, zu Unrecht unbekannte und unterschätzte Städte
+
+  https://bellevue.nzz.ch/kochen-geniessen/rezepte/hundefutter-selber-kochen-grundrezept-fuer-eine-hundemahlzeit-ld.1854489 (~16 Woerter):
+    - Warum Kochen für deinen Hund die richtige Entscheidung für dich sein könnte
+    - Selbst gekochtes Hundefutter wird empfohlen für
+    - Worauf eine selbstgekochte Hundeernährung basieren sollte
+    - Das sind die Zutaten für dein selbst gekochtes Hundefutter Rezept
+    - BARF mit Kohlenhydraten
+    - Wo du die Zutaten für dein selbst gemachtes Hundefutter bekommst
+    - Wie man alle Zutaten für eine schmackhafte, selbstgekochte Mahlzeit für den Hund zusammenstellt
+    - Wie man selbst für Hunde kocht
+
+  https://www.houndtoday.com/de/ernahrung-2/selber-kochen-hund-diy-hundefutter-rezept-2/ (~924 Woerter):
+    - Mit Hummus und Polenta
+    - Zutaten
+    - Zubereitung
+    - Produktempfehlungen
+    - Anmelden
+
+  None (~37 Woerter):
+    - Hundeernährung: Eine Wissenschaft für sich#
+    - Alleinfuttermittel für Hunde: Besser als ihr Ruf#
+    - Hundefutter selbst kochen? Vor- und Nachteile#
+    - Hundefutter selbst gemacht: Komponenten#
+    - Selbstgemachtes Hundefutter: Welche Mengen benötige ich?#
+    - Ich möchte Hundefutter selbst machen – wie fange ich an?#
+    - Was darf mein Hund nicht fressen?#
+    - Weiteres selbst gemachtes Hundefutter abseits des Alleinfutters#
+
+  None (~37 Woerter):
+    - Hundeernährung: Eine Wissenschaft für sich#
+    - Alleinfuttermittel für Hunde: Besser als ihr Ruf#
+    - Hundefutter selbst kochen? Vor- und Nachteile#
+    - Hundefutter selbst gemacht: Komponenten#
+    - Selbstgemachtes Hundefutter: Welche Mengen benötige ich?#
+    - Ich möchte Hundefutter selbst machen – wie fange ich an?#
+    - Was darf mein Hund nicht fressen?#
+    - Weiteres selbst gemachtes Hundefutter abseits des Alleinfutters#
+
+  None (~37 Woerter):
+    - Hundeernährung: Eine Wissenschaft für sich#
+    - Alleinfuttermittel für Hunde: Besser als ihr Ruf#
+    - Hundefutter selbst kochen? Vor- und Nachteile#
+    - Hundefutter selbst gemacht: Komponenten#
+    - Selbstgemachtes Hundefutter: Welche Mengen benötige ich?#
+    - Ich möchte Hundefutter selbst machen – wie fange ich an?#
+    - Was darf mein Hund nicht fressen?#
+    - Weiteres selbst gemachtes Hundefutter abseits des Alleinfutters#
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+  - "gibt" -> https://hundewissen-mit-kopf.de/hunderassen/wie-viele-hunderassen-gibt-es/  [Eingebaut: NEIN]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            87/100
+  Status:           BESTANDEN
+  Wortanzahl:       2280 (Ziel: >=2000)
+  H2-Headings:      7
+  Eyecatcher:       6
+  FAQs:             8
+  Quellen:          2
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Zu wenige Quellen: 2 (min. 3)
+    ✗ Keine Tabelle gefunden (min. 1)
+    ✗ Text schwer lesbar: Wiener Sachtextformel 12.5 (Ziel: 6-10, max. 12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hundefutter selber kochen - Ratgeber"  Datei: hundefutter-selber-kochen.webp
+  Content-Bild:  Alt="hundefutter selber kochen - Detail"    Datei: hundefutter-selber-kochen-detail.webp
+  Content-Bild:  Alt="hundefutter selber kochen - Praxis"    Datei: hundefutter-selber-kochen-praxis.webp
+
+======================================================================
