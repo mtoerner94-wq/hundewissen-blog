@@ -81,7 +81,7 @@ Eine Kombination aus beidem ist für viele Hundehalter ein guter Kompromiss: Fer
 
 Gutes selbstgekochtes Hundefutter besteht aus drei Grundkomponenten: Fleisch als Proteinquelle, Kohlenhydrate als Energielieferant und Gemüse für Ballaststoffe, Vitamine und sekundäre Pflanzenstoffe. Das richtige Verhältnis ist entscheidend.
 
-Die [Ludwig-Maximilians-Universität München](https://www.tierernaehrung.vetmed.uni-muenchen.de/) empfiehlt für eine ausgewogene Ration bei ausgewachsenen Hunden grob folgende Aufteilung in der Frischmasse: etwa 50 bis 60 Prozent Fleisch und Innereien, 20 bis 30 Prozent Kohlenhydrate und 15 bis 20 Prozent Gemüse. Diese Werte variieren je nach Hund, Alter und Gesundheitszustand.
+Für eine ausgewogene Ration bei ausgewachsenen Hunden hat sich grob folgende Aufteilung in der Frischmasse bewährt: etwa 50 bis 60 Prozent Fleisch und Innereien, 20 bis 30 Prozent Kohlenhydrate und 15 bis 20 Prozent Gemüse. Diese Werte variieren je nach Hund, Alter und Gesundheitszustand.
 
 ### Fleisch, Kohlenhydrate und Gemüse sinnvoll kombinieren
 
