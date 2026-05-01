@@ -1,0 +1,171 @@
+======================================================================
+  KONTROLL-REPORT: Hundespielzeug selber machen: Anleitung, Materialien & Tipps
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hundespielzeug selber machen: Ideen & Tipps
+  Title-Laenge:     43 Zeichen (Ziel: <=60)
+  Meta-Description: Hundespielzeug selber machen leicht erklärt: DIY-Ideen, sichere Materialien, Schnüffelteppich, Socken-Spielzeug und Tipps zum Nachbasteln.
+  Desc-Laenge:      138 Zeichen (Ziel: <=160)
+  Slug:             hundespielzeug-selber-machen
+  URL:              https://hundewissen-mit-kopf.de/hundeausstattung/hundespielzeug-selber-machen/
+  Kategorie:        Hundeausstattung (hundeausstattung)
+  Tags:             hundespielzeug selber machen, hundespielzeug, diy, schnüffelteppich, spielzeug hund
+  Datum:            2026-05-01
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hundespielzeug selber machen
+  Suchvolumen:      1300/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $8
+  Traffic Pot.:     200
+
+  Einbau-Check:
+    Vorkommen:      15x
+    Keyword-Dichte: 0.67% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          7x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    15   12000       116x
+  hunde                                     30000     9   12000        91x
+  diy                                       17000    28    3300        10x
+  hundespielzeug                            14000     0    2200        46x
+  socken                                    12000     0    8800        25x
+  streifen                                   2500     0     400        18x
+  kannst                                     2000     0     100         4x
+  selber                                     1700     2      90        30x
+  schnüffelteppich                           1700     0    1300        18x
+  hundespielzeug selber machen               1300     0     200        21x
+  spielzeug hund                              600     0     300         1x
+  fressnapf hundespielzeug                    450     0     600      FEHLT
+  spielzeug für hunde                         450     0     400         1x
+  hunde denkspiele selber machen              400     1     350         2x
+  hund basteln                                350     0     100      FEHLT
+  robustes hundespielzeug selber machen       350     0     200         3x
+  denkspiele für hunde selber machen          250     1     350      FEHLT
+  selber basteln                              200     3     300      FEHLT
+  hundebeschäftigung selber machen            150     1     350      FEHLT
+  intelligentes hundespielzeug selber machen    150     1     350         2x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  hundespielzeug selber machen                    1300     0        21x
+  robustes hundespielzeug selber machen            350     0         3x
+  intelligentes hundespielzeug selber machen       150     1         2x
+  hundespielzeug selber machen aus socken          100     0         5x
+  hundespielzeug selber machen aus stoff            70     0         1x
+  hundespielzeug selber machen knoten               50     0         1x
+  hundespielzeug selber machen karton               40     0      FEHLT
+  hundespielzeug aus seil selber machen             30     0      FEHLT
+  hundespielzeug selber machen aus alten jeans      30     0      FEHLT
+  hundespielzeug selber nähen                       30     0      FEHLT
+  hundespielzeug selber machen flasche              20     0      FEHLT
+  hundespielzeug beschäftigung selber machen        20     0      FEHLT
+  hundespielzeug selber machen anleitung            20     0      FEHLT
+  hundespielzeug selber machen holz                 20     0      FEHLT
+  hundespielzeug intelligenz selber machen          10     1      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    11
+  Durchschn. Woerter:   732
+  Durchschn. DR:        45.0
+  Unser Wortanzahl:     2225
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.youtube.com/watch?v=7z-HbfvSGIE
+    DR: 99.0, Traffic: 53, Keywords: 9
+  Pos 1: https://www.youtube.com/watch?v=TwXNEUxT19c&t=8
+    DR: 99.0, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.fressnapf.de/magazin/hund/sport-spiel/hundespielzeug-selber-machen/
+    DR: 74.0, Traffic: 596, Keywords: 33
+  Pos 2: https://www.josera.de/ratgeber/ratgeber-hunde/hundespielzeug-diy.html
+    DR: 72.0, Traffic: 618, Keywords: 34
+  Pos 3: https://www.fressnapf.de/magazin/hund/sport-spiel/hundespielzeug-selber-machen/
+    DR: 74.0, Traffic: 596, Keywords: 33
+  Pos 4: https://www.peta.de/themen/hundespielzeug-selber-machen/
+    DR: 77.0, Traffic: 486, Keywords: 35
+  Pos 5: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~26 Woerter):
+
+  https://www.youtube.com/watch?v=7z-HbfvSGIE (~26 Woerter):
+
+  https://www.youtube.com/watch?v=TwXNEUxT19c&t=8 (~1438 Woerter):
+    - Welche Spielzeuge mögen Hunde?
+    - Wie kann ich Spielzeug für meinen Hund selber machen?
+    - Welche Materialien eignen sich besonders gut?
+    - DIY-Schnüffelteppich für die Spürnase
+    - Socken-Oktopus zum Werfen und Kuscheln
+    - Um den Socken-Oktopus zu machen, benötigst du:
+    - Snack-Rolle für pfiffige Leckermäuler
+    - Hierfür brauchst du:
+
+  https://www.josera.de/ratgeber/ratgeber-hunde/hundespielzeug-diy.html (~1438 Woerter):
+    - Welche Spielzeuge mögen Hunde?
+    - Wie kann ich Spielzeug für meinen Hund selber machen?
+    - Welche Materialien eignen sich besonders gut?
+    - DIY-Schnüffelteppich für die Spürnase
+    - Socken-Oktopus zum Werfen und Kuscheln
+    - Um den Socken-Oktopus zu machen, benötigst du:
+    - Snack-Rolle für pfiffige Leckermäuler
+    - Hierfür brauchst du:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 3
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+  - "hundespielzeug" -> https://hundewissen-mit-kopf.de/hundeausstattung/hundespielzeug-unkaputtbar/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            97/100
+  Status:           BESTANDEN
+  Wortanzahl:       2225 (Ziel: >=2000)
+  H2-Headings:      8
+  Eyecatcher:       7
+  FAQs:             8
+  Quellen:          3
+  Interne Links:    3
+
+  ISSUES:
+    ✗ Keine Tabelle gefunden (min. 1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hundespielzeug selber machen - Ratgeber"  Datei: hundespielzeug-selber-machen.webp
+  Content-Bild:  Alt="hundespielzeug selber machen - Detail"    Datei: hundespielzeug-selber-machen-detail.webp
+  Content-Bild:  Alt="hundespielzeug selber machen - Praxis"    Datei: hundespielzeug-selber-machen-praxis.webp
+
+======================================================================
