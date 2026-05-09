@@ -400,7 +400,3 @@ Die wichtigsten Punkte zusammengefasst: Hängeohren brauchen häufigere Pflege a
 <p>Mit der richtigen Routine, dem passenden Ohrenreiniger und einem wachsamen Blick bei jeder Kontrolle ist die Ohrenpflege in wenigen Minuten erledigt. Dein Hund wird es dir danken, und du sparst langfristig Tierarztkosten und vermeidest unnötige Schmerzen für deinen Vierbeiner.</p>
 </div>
 </div>
-
-## Häufige Fragen: Ohren reinigen beim Hund (FAQ)
-
-Die häufigsten Fragen rund um das Ohren reinigen beim Hund haben wir hier kurz und klar beantwortet. Ausführliche Antworten findest du in den jeweiligen Abschnitten des Artikels.
