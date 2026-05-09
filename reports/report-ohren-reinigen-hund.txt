@@ -1,0 +1,173 @@
+======================================================================
+  KONTROLL-REPORT: Ohren reinigen Hund: Anleitung, Tipps & Häufige Fehler
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Ohren reinigen Hund: Anleitung & Tipps
+  Title-Laenge:     38 Zeichen (Ziel: <=60)
+  Meta-Description: Hund Ohren reinigen – so geht es richtig! Schritt-für-Schritt-Anleitung, Hausmittel-Check, Produkttipps & häufige Fehler vermeiden. Jetzt lesen!
+  Desc-Laenge:      144 Zeichen (Ziel: <=160)
+  Slug:             ohren-reinigen-hund
+  URL:              https://hundewissen-mit-kopf.de/hundepflege/ohren-reinigen-hund/
+  Kategorie:        Hundepflege (hundepflege)
+  Tags:             ohren reinigen hund, hundeohren reinigen, ohrenreiniger hund, ohrenpflege hund, hund ohren reinigen wie oft
+  Datum:            2026-05-09
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          ohren reinigen hund
+  Suchvolumen:      500/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $10
+  Traffic Pot.:     1800
+
+  Einbau-Check:
+    Vorkommen:      12x
+    Keyword-Dichte: 0.4% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          5x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    34   12000       143x
+  aloe vera                                 45000     9   10000      FEHLT
+  hunde                                     30000    21   12000        65x
+  ohr                                       13000     3    2100       183x
+  ohren reinigen                             9800    31   24000        29x
+  darüber hinaus                             9600     0     450      FEHLT
+  dass                                       9400     7    2300        11x
+  beim                                       4600     0     500        39x
+  ohren                                      3800     0    2100       136x
+  gehörgang                                  1500     0     600        35x
+  reinigen                                   1300     0     100        44x
+  ohrenreiniger hund                          900     0     600         1x
+  hund ohren reinigen                         800     2    2000         4x
+  hundeohren reinigen                         700     2    1900         5x
+  ohren reinigen hund                         500     0    1800         2x
+  hund ohren schwarzer dreck                  500     0     700      FEHLT
+  hunde ohren reinigen                        450     1    1800      FEHLT
+  ohrenschmalz hund                           400     1    1800      FEHLT
+  ohrenpflege hund                            350     0     900         1x
+  ohren säubern hund: hausmittel              300     0     500      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  ohren reinigen hund                              500     0         2x
+  ohren reinigen beim hund                          80     0        12x
+  hund ohren reinigen wattestäbchen                 60     0      FEHLT
+  ohren reinigen bei hunden                         50     0      FEHLT
+  ohren von hund reinigen                           50     1      FEHLT
+  ohren reinigen hund hausmittel                    50     0      FEHLT
+  welpen ohren reinigen                             50     1         2x
+  hund ohren reinigen tierarzt kosten               50     2      FEHLT
+  hund ohren reinigen hausmittel                    40     0      FEHLT
+  wie oft ohren reinigen hund                       40     0      FEHLT
+  wie hundeohren reinigen                           30     2      FEHLT
+  welpen ohren sauber machen                        30     2      FEHLT
+  ohren reinigen hund olivenöl                      30     0      FEHLT
+  hund ohren reinigen kamillentee                   20     0      FEHLT
+  ohren beim hund richtig reinigen                  10     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    11
+  Durchschn. Woerter:   454
+  Durchschn. DR:        20.8
+  Unser Wortanzahl:     2980
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundeohren-reinigen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.allianz.de/gesundheit/hundekrankenversicherung/hund-ohren-reinigen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://tierliebhaber.de/blogs/news/optimale-hygiene-so-kannst-du-deinem-hund-die-ohren-reinigen
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundeohren-reinigen/
+    DR: 72.0, Traffic: 2101, Keywords: 105
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.fressnapf.de/magazin/hund/pflege-hygiene/ohrenpflege/
+    DR: 74.0, Traffic: 1070, Keywords: 129
+  Pos 5: https://www.allianz.de/gesundheit/hundekrankenversicherung/hund-ohren-reinigen/
+    DR: 83.0, Traffic: 425, Keywords: 49
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~37 Woerter):
+    - Darum ist die Ohrenpflege wichtig#
+    - Woran erkenne ich, dass Hundeohren gereinigt werden sollten?#
+    - Hundeohren richtig reinigen – Das gilt es zu beachten#
+    - Womit und wie lassen sich Hundeohren behutsam reinigen?#
+    - Wann sollten Hundeohren vom Tierarzt gereinigt und untersucht werden?#
+    - Fehler
+
+  https://tierliebhaber.de/blogs/news/optimale-hygiene-so-kannst-du-deinem-hund-die-ohren-reinigen (~37 Woerter):
+    - Darum ist die Ohrenpflege wichtig#
+    - Woran erkenne ich, dass Hundeohren gereinigt werden sollten?#
+    - Hundeohren richtig reinigen – Das gilt es zu beachten#
+    - Womit und wie lassen sich Hundeohren behutsam reinigen?#
+    - Wann sollten Hundeohren vom Tierarzt gereinigt und untersucht werden?#
+    - Fehler
+
+  https://www.anicura.de/fuer-tierbesitzer/hund/wissensbank/hundeohren-reinigen/ (~1290 Woerter):
+    - Wissenswertes rund um die Hundeohren
+    - Ohrenkrankheiten beim Hund: Das solltest du wissen
+    - Hunde, die häufiger von Ohrenproblemen betroffen sind:
+    - Ohrenentzündung beim Hund
+    - Achte ferner auf folgende Symptome:
+    - Ursachen von Ohrenkrankheiten des Hundes
+    - Darauf solltest du achten:
+    - Ohren reinigen beim Hund: So machst du es richtig
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            80/100
+  Status:           BESTANDEN
+  Wortanzahl:       2980 (Ziel: >=2000)
+  H2-Headings:      10
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.40% (12x, Ziel: 1-2%)
+    ✗ Title zu kurz: 38 Zeichen (min. 40, Ziel: 50-60)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="ohren reinigen hund - Ratgeber"  Datei: ohren-reinigen-hund.webp
+  Content-Bild:  Alt="ohren reinigen hund - Detail"    Datei: ohren-reinigen-hund-detail.webp
+  Content-Bild:  Alt="ohren reinigen hund - Praxis"    Datei: ohren-reinigen-hund-praxis.webp
+
+======================================================================

@@ -1,35 +1,36 @@
 {
-  "date": "2026-05-01T22:27:41.061074",
+  "date": "2026-05-09T21:48:00.671378",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Hundespielzeug selber machen: Anleitung, Materialien & Tipps",
-      "slug": "hundespielzeug-selber-machen",
+      "title": "Ohren reinigen Hund: Anleitung, Tipps & Häufige Fehler",
+      "slug": "ohren-reinigen-hund",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hundespielzeug-selber-machen.md",
-      "quality_score": 97,
-      "word_count": 2225,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/ohren-reinigen-hund.md",
+      "quality_score": 80,
+      "word_count": 2980,
       "issues": [
-        "Keine Tabelle gefunden (min. 1)"
+        "Keyword-Dichte zu niedrig: 0.40% (12x, Ziel: 1-2%)",
+        "Title zu kurz: 38 Zeichen (min. 40, Ziel: 50-60)"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 14999,
-    "claude_output_tokens": 11397,
-    "claude_cache_write_tokens": 17394,
-    "claude_cache_read_tokens": 0,
+    "claude_input_tokens": 29346,
+    "claude_output_tokens": 23384,
+    "claude_cache_write_tokens": 19519,
+    "claude_cache_read_tokens": 2125,
     "ahrefs_requests": 5,
     "image_count": 4,
     "image_cost_usd": 0.268,
-    "total_cost_usd": 0.68,
+    "total_cost_usd": 0.7806,
     "per_article": [
       {
-        "title": "Hundespielzeug selber machen: Anleitung, Materialien & Tipps",
-        "claude_input": 26792,
-        "claude_output": 19206,
+        "title": "Ohren reinigen Hund: Anleitung, Tipps & Häufige Fehler",
+        "claude_input": 29346,
+        "claude_output": 23384,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -38,45 +39,35 @@
     ],
     "per_agent": {
       "researcher": {
-        "model": "gemini-3.1-pro-preview",
-        "input_tokens": 5066,
-        "output_tokens": 1897,
-        "cost_usd": 0.0253
+        "model": "claude-sonnet-4-6",
+        "input_tokens": 6144,
+        "output_tokens": 3045,
+        "cost_usd": 0.0641
       },
       "planner": {
-        "model": "gpt-5.4",
-        "input_tokens": 6727,
-        "output_tokens": 5912,
-        "cost_usd": 0.1055
+        "model": "claude-sonnet-4-6",
+        "input_tokens": 6502,
+        "output_tokens": 7439,
+        "cost_usd": 0.1397
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 5575,
-        "output_tokens": 8987,
-        "cost_usd": 0.2047
+        "input_tokens": 5265,
+        "output_tokens": 10905,
+        "cost_usd": 0.2325
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 9424,
-        "output_tokens": 2410,
-        "cost_usd": 0.0765
+        "input_tokens": 11435,
+        "output_tokens": 1995,
+        "cost_usd": 0.0763
       }
     },
     "providers": {
-      "google": {
-        "inputTokens": 5066,
-        "outputTokens": 1897,
-        "costUsd": 0.0253
-      },
-      "openai": {
-        "inputTokens": 6727,
-        "outputTokens": 5912,
-        "costUsd": 0.1055
-      },
       "anthropic": {
-        "inputTokens": 14999,
-        "outputTokens": 11397,
-        "costUsd": 0.2812
+        "inputTokens": 29346,
+        "outputTokens": 23384,
+        "costUsd": 0.5126
       }
     }
   }
