@@ -309,8 +309,6 @@ Mehr dazu, wie das Trimmen funktioniert und worauf du achten solltest, erklärt 
 
 ## Wann muss der Hund wegen der Ohren zum Tierarzt?
 
-![Wann muss der Hund wegen der Ohren zum Tierarzt?](../../assets/images/muss-hund-wegen-ohren-tierarzt.webp)
-
 Regelmäßiges Ohren reinigen beim Hund ersetzt keinen Tierarztbesuch bei akuten Symptomen. Bestimmte Zeichen weisen klar darauf hin, dass ein Problem vorliegt, das professionelle Behandlung erfordert.
 
 ### Warnsignale: Diese Symptome erfordern tierärztliche Hilfe
