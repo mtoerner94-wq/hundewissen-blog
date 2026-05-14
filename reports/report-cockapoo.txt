@@ -1,0 +1,176 @@
+======================================================================
+  KONTROLL-REPORT: Cockapoo im Porträt: Pflege, Charakter & Haltung
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Cockapoo: Charakter, Pflege & Haltung
+  Title-Laenge:     37 Zeichen (Ziel: <=60)
+  Meta-Description: Cockapoo: Alles über Charakter, Pflege, Gesundheit & Kosten. Inkl. F1/F2-Generationen, Züchter-Tipps & Tierheim-Option. Jetzt informieren!
+  Desc-Laenge:      138 Zeichen (Ziel: <=160)
+  Slug:             cockapoo
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/cockapoo/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             Cockapoo, Cockerpoo, Cockapoo Welpen, Cockapoo Züchter, Cockapoo kaufen
+  Datum:            2026-05-14
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          cockapoo
+  Suchvolumen:      48000/Monat
+  Keyword Diff:     1/100
+  CPC:              $6
+  Traffic Pot.:     12000
+
+  Einbau-Check:
+    Vorkommen:      65x
+    Keyword-Dichte: 2.39% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          9x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    14   14000        63x
+  cocker spaniel                            51000     4    4500        17x
+  cockapoo                                  48000     1   12000       111x
+  pudel                                     43000     2    9800        37x
+  hunde                                     31000    34   23000        34x
+  golden doodle                             19000     7    6200         2x
+  english cocker spaniel                    12000     2    3600         2x
+  darüber hinaus                             9600     0    1300      FEHLT
+  charakter                                  9000     7    2600         7x
+  stock adobe                                6400     0  131000      FEHLT
+  gibt                                       6000     1     400         5x
+  cockerpoo                                  4300     1   13000         2x
+  cockapoo welpen                            3700     0   13000         3x
+  fell                                       3500    16     150        35x
+  american cocker spaniel                    2400     1     800         3x
+  charakter eigenschaften                    2300     8    4500      FEHLT
+  spaniel                                    2300     1     800        22x
+  cockapoo züchter                           1900    22    2900         3x
+  cockapoo kaufen                            1800     0   19000         2x
+  cocker pudel                               1500     3    6400      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  cockapoo                                       48000     1       111x
+  cockapoo welpen                                 3700     0         3x
+  cockapoo züchter                                1900    22         3x
+  cockapoo kaufen                                 1800     0         2x
+  cockapoo erwachsen                              1300     0      FEHLT
+  cockapoo züchter in der nähe                    1100     0      FEHLT
+  cockapoo tierheim                               1000     0         1x
+  cockapoo größe                                   800     2      FEHLT
+  cockapoo züchter nrw                             700     0         1x
+  cockapoo ausgewachsen                            700     1         1x
+  cockapoo preis                                   600     0      FEHLT
+  cockapoo farben                                  450     0      FEHLT
+  cockapoo schwarz                                 400     0      FEHLT
+  cockapoo temperament                             400     0      FEHLT
+  cockapoo abzugeben                               400     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   605
+  Durchschn. DR:        32.5
+  Unser Wortanzahl:     2714
+
+  Pos 1: https://de.wikipedia.org/wiki/Cockapoo
+    DR: 97.0, Traffic: 12374, Keywords: 73
+  Pos 2: https://www.welpen.de/hunderassen/hunderasse-cockapoo/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.zooplus.de/magazin/hund/hunderassen/cockapoo
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://www.deine-tierwelt.de/kleinanzeigen/cockapoo-c162393/
+    DR: 70.0, Traffic: 12709, Keywords: 129
+  Pos 4: https://www.fressnapf.de/magazin/hund/rassen/cockapoo/
+    DR: 74.0, Traffic: 3096, Keywords: 87
+  Pos 5: https://www.rudel.team/hunderasse/doodles-poos/cockapoo/
+    DR: 19.0, Traffic: 677, Keywords: 31
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.welpen.de/hunderassen/hunderasse-cockapoo/ (~990 Woerter):
+    - Ist ein Cockapoo ein Anfängerhund?
+
+  None (~47 Woerter):
+    - Inhaltsübersicht
+    - Überraschung garantiert: Wie sieht ein Cockapoo aus?
+    - Cockapoo Charakter & Temperament: Liebt Menschen – und die Jagd
+    - Haltung: Zu wem passt ein Cockapoo?
+    - Pflege: Wie stark haaren Cockapoos?
+    - Sport: Wie viel Auslauf braucht ein Cockapoo?
+    - Gesundheit: Sind Cockapoos anfällig für Krankheiten?
+    - Geschichte und Herkunft des Cockapoo
+
+  None (~3 Woerter):
+    - Der Cockapoo
+    - Gemeinsam sorgenfrei unterwegs mit der passenden Tierversicherung
+
+  https://www.zooplus.de/magazin/hund/hunderassen/cockapoo (~1191 Woerter):
+    - Cockapoo: Charakter und Eigenschaften
+    - SteckbriefCockapoo
+    - Erziehung und Haltung von Cockapoos
+    - Pflege von Cockapoos
+    - Farben des Cockapoos
+    - Herkunft und Abstammung des Cockapoos
+    - Besonderheiten des Cockapoos
+    - Andere Hybrid-Hunde mit Pudeln:
+
+  https://www.deine-tierwelt.de/kleinanzeigen/cockapoo-c162393/ (~798 Woerter):
+    - GEZÜCHTET FÜR EINE AUFGABE
+    - ESSENTIALS
+    - HERKUNFT MIT FOLGEN
+    - SO TICKT DIESE HUNDERASSE
+    - PASST ZU DIR, WENN...
+    - UND JETZT WIRD'S KONKRET
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            90/100
+  Status:           BESTANDEN
+  Wortanzahl:       2714 (Ziel: >=2000)
+  H2-Headings:      10
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Title zu kurz: 37 Zeichen (min. 40, Ziel: 50-60)
+    ✗ Text schwer lesbar: Wiener Sachtextformel 12.2 (Ziel: 6-10, max. 12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="cockapoo - Ratgeber"  Datei: cockapoo.webp
+  Content-Bild:  Alt="cockapoo - Detail"    Datei: cockapoo-detail.webp
+  Content-Bild:  Alt="cockapoo - Praxis"    Datei: cockapoo-praxis.webp
+
+======================================================================
