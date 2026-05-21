@@ -1,0 +1,176 @@
+======================================================================
+  KONTROLL-REPORT: Hotel mit Hund. Die 13 schönsten Hotels in Deutschland
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Hotel mit Hund: Die 13 schönsten Hundehotels
+  Title-Laenge:     44 Zeichen (Ziel: <=60)
+  Meta-Description: Hotel mit Hund gesucht? Unsere Top 13 der schönsten Hundehotels in Deutschland – von der Ostsee bis Bayern. Mit Tipps, Preisen & Checkliste.
+  Desc-Laenge:      140 Zeichen (Ziel: <=160)
+  Slug:             hotel-hund
+  URL:              https://hundewissen-mit-kopf.de/reisen/hotel-hund/
+  Kategorie:        Reisen (reisen)
+  Tags:             hotel mit hund, hundehotel, kurzurlaub mit hund, wellnesshotel mit hund, urlaub mit hund hotel
+  Datum:            2026-05-21
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          hotel mit hund
+  Suchvolumen:      2600/Monat
+  Keyword Diff:     2/100
+  CPC:              $30
+  Traffic Pot.:     2700
+
+  Einbau-Check:
+    Vorkommen:      20x
+    Keyword-Dichte: 0.78% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          7x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  booking com                              170000    24  501000      FEHLT
+  hund                                     170000    18    7700       250x
+  all inclusive                             17000     3   16000      FEHLT
+  häuser                                     7200     0   69000        10x
+  wohnungen                                  5800     0   74000      FEHLT
+  kurzurlaub mit hund                        3900    39   42000         4x
+  hotel mit hund                             2600     2    2700        30x
+  hundehotel                                 2400    26    3500        20x
+  wellnesshotel mit hund                     1600     0    1400         6x
+  urlaub mit hund bayern                     1500     0     450         2x
+  villen                                     1200     0    5200      FEHLT
+  wellness mit hund                          1200     0    1800         3x
+  bayerischer wald urlaub                     900    23    4300      FEHLT
+  urlaub im harz mit hund                     800     0    4500         2x
+  hundehotel bayern                           800     7     700         2x
+  hundehotel deutschland                      800     0    1000      FEHLT
+  hunde hotel                                 700    20    2600      FEHLT
+  urlaub mit hund harz                        700     0    3900      FEHLT
+  wolfshof harz                               700     0    1000      FEHLT
+  hundehotel bayerischer wald                 700    12     500      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  hotel mit hund                                  2600     2        30x
+  hotel mit hund ostsee                            500     0         1x
+  außergewöhnliche hotels mit hund                 450     0         3x
+  wellness hotel mit hund                          450     0      FEHLT
+  hotel mit hund nordsee                           400     0         1x
+  hotel mit hund allgäu                            300     0         1x
+  hotel mit hund österreich                        250     0      FEHLT
+  hotel mit hund schwarzwald                       250     0         1x
+  hotel mit hund harz                              200     0      FEHLT
+  hotel gardasee mit hund                          200     0      FEHLT
+  hotel mit hund bodensee                          200     0      FEHLT
+  hotel mit hund berlin                            200     0      FEHLT
+  hotel mit hund bayern                            200     0      FEHLT
+  gardasee hotel mit hund                          200     0      FEHLT
+  hotel mit hund südtirol                          150     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    5
+  Durchschn. Woerter:   726
+  Durchschn. DR:        43.0
+  Unser Wortanzahl:     2568
+
+  Pos 1: https://hundehotel.info/
+    DR: 41.0, Traffic: 3008, Keywords: 147
+  Pos 2: https://www.haus-waldeck-koch.de/hundehotel-in-deutschland
+    DR: 39.0, Traffic: 1125, Keywords: 55
+  Pos 3: https://www.hotelspecials.de/de/thueringen/haustiere-erlaubt
+    DR: 54.0, Traffic: 270, Keywords: 8
+  Pos 4: https://www.hunde-urlaub.net/hotel/
+    DR: 48.0, Traffic: 718, Keywords: 38
+  Pos 5: https://www.urlaub-mit-hund-bayern.eu/
+    DR: 33.0, Traffic: 1846, Keywords: 159
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://hundehotel.info/ (~9 Woerter):
+    - Finde hundefreundliche Urlaubsunterkünfte
+    - Finde hundefreundliche Urlaubsunterkünfte
+    - Kürzlich aktualisierte Hundehotels
+    - Hotel desMonats
+    - Häufig gesuchteLänder
+    - Häufig gesuchteRegionen
+    - Häufig verwendeteSuchfilter
+    - hundehotel.info Award 2026 - die hundefreundlichsten Urlaubsunterkünfte
+
+  https://www.haus-waldeck-koch.de/hundehotel-in-deutschland (~1018 Woerter):
+    - Familienurlaub mit Hund
+    - Hunde-Workshops
+    - Unsere Hundeexperten
+    - Aktivitäten
+    - Vorteile & Ausstattung
+    - Wellness auch für Hunde
+    - Unsere Hundeexperten
+    - Tierheilpraktik
+
+  https://www.hotelspecials.de/de/thueringen/haustiere-erlaubt (~1491 Woerter):
+    - Deine Suche nach:Thüringen
+    - Hundehotels in ThüringenStadt, Region oder Hotel suchenHotels in der NäheWohin geht deine Reise?SuchenFrühere SuchanfragenKürzlich gesuchtBeliebte ReisezieleSuchergebnisseAnreiseAbreise1 Zimmer2 Zimmer3 Zimmer4 Zimmer5 Zimmer6 Zimmer7 Zimmer8 Zimmer9 Zimmer10 Zimmer11 Zimmer12 Zimmer1 Erwachsener2 Erwachsene3 Erwachsene4 Erwachsene5 Erwachsene6 Erwachsene7 Erwachsene8 Erwachsene9 Erwachsene10 Erwachsene11 Erwachsene12 Erwachsene13 Erwachsene14 Erwachsene15 Erwachsene16 Erwachsene17 Erwachsene18 Erwachsene19 Erwachsene20 Erwachsene21 Erwachsene22 Erwachsene23 Erwachsene24 Erwachsene0 Kinder1 Kind2 Kinder3 Kinder4 Kinder5 Kinder6 Kinder7 Kinder8 Kinder9 Kinder10 Kinder11 Kinder12 Kinder13 Kinder14 Kinder15 Kinder16 Kinder17 Kinder18 Kinder19 Kinder20 Kinder21 Kinder22 Kinder23 Kinder24 KinderReisendeErwachseneKinderAlter des Kindes bei der Anreiseages<1123456789101112131415161718ZimmerBestätigenSuchen
+    - 28Hundehotels in Thüringen gefunden
+    - Suchergebnisse filtern
+    - Filter
+    - Suchergebnisse filtern
+    - Filter
+    - Die schönsten Hundehotels in Thüringen
+
+  https://www.hunde-urlaub.net/hotel/ (~840 Woerter):
+    - Dein perfekter Urlaub mit Hund im Hotel & Hundehotel
+    - Finde Deinen Traumurlaub mit Hund
+
+  https://www.urlaub-mit-hund-bayern.eu/ (~273 Woerter):
+    - Geschenkte Zeit vom 12.04. bis 24.04.2026:
+    - Fastenwandern
+    - Gemütlichkeit trifft exklusives Design
+    - Zimmer & Suiten unseres HotelsEntspannung & Wärme genießen
+    - Unser RestaurantGenuss mit allen Sinnen
+    - WellnessAusspannen & Energie tanken
+    - Ein Paradies für Zwei- und VierbeinerUnsere Außenanlage
+    - Stille & Idylle
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 1
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            100/100
+  Status:           BESTANDEN
+  Wortanzahl:       2568 (Ziel: >=2000)
+  H2-Headings:      11
+  Eyecatcher:       6
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  Keine Issues gefunden.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="hotel mit hund - Ratgeber"  Datei: hotel-mit-hund.webp
+  Content-Bild:  Alt="hotel mit hund - Detail"    Datei: hotel-mit-hund-detail.webp
+  Content-Bild:  Alt="hotel mit hund - Praxis"    Datei: hotel-mit-hund-praxis.webp
+
+======================================================================

@@ -1,49 +1,54 @@
 {
-  "date": "2026-05-14T11:40:16.248918",
+  "date": "2026-05-21T21:41:40.008014",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Cockapoo im Porträt: Pflege, Charakter & Haltung",
-      "slug": "cockapoo",
+      "title": "Hotel mit Hund. Die 13 schönsten Hotels in Deutschland",
+      "slug": "hotel-hund",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/cockapoo.md",
-      "quality_score": 90,
-      "word_count": 2714,
-      "issues": [
-        "Title zu kurz: 37 Zeichen (min. 40, Ziel: 50-60)",
-        "Text schwer lesbar: Wiener Sachtextformel 12.2 (Ziel: 6-10, max. 12)"
-      ],
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hotel-hund.md",
+      "quality_score": 100,
+      "word_count": 2568,
+      "issues": [],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-cockapoo.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/cockapoo-portrait-pflege-haltung.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/cockapoo-portrait-pflege-haltung.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/erziehung-haltung-cockapoo-gluecklich.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/erziehung-haltung-cockapoo-gluecklich.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/gesundheit-typische-krankheiten-cockapoo.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/gesundheit-typische-krankheiten-cockapoo.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/herkunft-cocker-spaniel-trifft-pudel.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/herkunft-cocker-spaniel-trifft-pudel.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/cockapoo.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/cockapoo.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-hotel-hund.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/aussergewoehnliche-hotels-hund-besondere-erlebnisse.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/aussergewoehnliche-hotels-hund-besondere-erlebnisse.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-hund-nordsee-hamburg.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-hund-nordsee-hamburg.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-mit-hund-deutschland.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-mit-hund-deutschland.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/unsere-kriterien-13-hotels-ausgewaehlt.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/unsere-kriterien-13-hotels-ausgewaehlt.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hotel-hund.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hotel-hund.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 25780,
-    "claude_output_tokens": 22128,
+    "claude_input_tokens": 26557,
+    "claude_output_tokens": 22313,
     "claude_cache_write_tokens": 21467,
     "claude_cache_read_tokens": 2125,
     "ahrefs_requests": 5,
     "image_count": 4,
-    "image_cost_usd": 0.164,
-    "total_cost_usd": 0.6544,
+    "image_cost_usd": 0.268,
+    "image_provider": "gemini",
+    "image_quality": null,
+    "image_providers": {
+      "gemini": {
+        "count": 4,
+        "costUsd": 0.268
+      }
+    },
+    "total_cost_usd": 0.7635,
     "per_article": [
       {
-        "title": "Cockapoo im Porträt: Pflege, Charakter & Haltung",
-        "claude_input": 25780,
-        "claude_output": 22128,
+        "title": "Hotel mit Hund. Die 13 schönsten Hotels in Deutschland",
+        "claude_input": 26557,
+        "claude_output": 22313,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -53,34 +58,34 @@
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 3950,
-        "output_tokens": 3125,
-        "cost_usd": 0.066
+        "input_tokens": 4588,
+        "output_tokens": 3242,
+        "cost_usd": 0.0697
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 6652,
-        "output_tokens": 7060,
-        "cost_usd": 0.1345
+        "input_tokens": 6858,
+        "output_tokens": 7629,
+        "cost_usd": 0.1436
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 4828,
-        "output_tokens": 9919,
-        "cost_usd": 0.2164
+        "input_tokens": 5252,
+        "output_tokens": 9427,
+        "cost_usd": 0.2103
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 10350,
-        "output_tokens": 2024,
-        "cost_usd": 0.0735
+        "input_tokens": 9859,
+        "output_tokens": 2015,
+        "cost_usd": 0.0719
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 25780,
-        "outputTokens": 22128,
-        "costUsd": 0.4904
+        "inputTokens": 26557,
+        "outputTokens": 22313,
+        "costUsd": 0.4955
       }
     }
   }
