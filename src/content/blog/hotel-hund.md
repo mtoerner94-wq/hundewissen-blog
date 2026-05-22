@@ -356,5 +356,3 @@ Deutschland bietet für jeden Hundehalter das passende hotel mit hund, egal ob d
 Plane den Aufenthalt frühzeitig, kläre Aufpreise und Größenbeschränkungen vorab und frage nach hundefreundlichen Zimmern mit direktem Gartenausgang. Mit der richtigen Vorbereitung wird der kurzurlaub mit hund für Mensch und Tier gleichermaßen entspannend.
 
 Die schönsten Momente entstehen oft dann, wenn Hund und Halter gemeinsam neue Orte entdecken, sei es am Ostseestrand, auf einem Allgäuer Berggipfel oder in einem Baumhaus mitten im Wald.
-
-## Häufige Fragen zum Hotel mit Hund (FAQ)
