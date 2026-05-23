@@ -2,29 +2,15 @@
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
-import rehypeExternalLinks from 'rehype-external-links';
-import { visit } from 'unist-util-visit';
+import { rehypeWrapTables } from '@mit-kopf/astro-blog/rehype/wrap-tables';
+import { createExternalLinksPlugin } from '@mit-kopf/astro-blog/rehype/external-links';
 
-function rehypeWrapTables() {
-  return (tree) => {
-    visit(tree, 'element', (node, index, parent) => {
-      if (node.tagName === 'table' && parent && typeof index === 'number') {
-        const wrapper = {
-          type: 'element',
-          tagName: 'div',
-          properties: { className: ['table-scroll'] },
-          children: [node],
-        };
-        parent.children[index] = wrapper;
-      }
-    });
-  };
-}
+const SITE = 'https://hundewissen-mit-kopf.de';
 
 export default defineConfig({
-  site: 'https://hundewissen-mit-kopf.de',
+  site: SITE,
   build: {
-    inlineStylesheets: 'always'
+    inlineStylesheets: 'always',
   },
   image: {
     layout: 'constrained',
@@ -33,19 +19,13 @@ export default defineConfig({
   markdown: {
     rehypePlugins: [
       rehypeWrapTables,
-      [rehypeExternalLinks, {
-        target: '_blank',
-        rel: ['nofollow', 'noopener', 'noreferrer'],
-        test: (element) => {
-          const href = element.properties?.href;
-          return typeof href === 'string' &&
-            !href.startsWith('https://hundewissen-mit-kopf.de') &&
-            !href.startsWith('/');
-        }
-      }]
-    ]
+      createExternalLinksPlugin(SITE),
+    ],
   },
   vite: {
-    plugins: [tailwindcss()]
-  }
+    plugins: [tailwindcss()],
+    ssr: {
+      noExternal: ['@mit-kopf/astro-blog'],
+    },
+  },
 });

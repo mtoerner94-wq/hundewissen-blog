@@ -1,6 +1,6 @@
 # Hundewissen mit Kopf — Blog
 
-> **Kontext: private** — Vault-Scope: `20-personal/blogs/hundewissen/` (siehe `~/.claude/CLAUDE.md` → "Kontext-Erkennung")
+> **Kontext: private** — Vault-Scope: `20-personal/blogs/hundewissen/` (siehe `~/.Codex/AGENTS.md` → "Kontext-Erkennung")
 
 ## Projekt
 
@@ -12,6 +12,7 @@ Live unter: https://hundewissen-mit-kopf.de
 - **Framework:** Astro 5.17 (Static Site Generator)
 - **Styling:** Tailwind CSS 4.1 + `@tailwindcss/typography`
 - **Hosting:** Cloudflare Pages (auto-deploy bei `git push` auf `main`)
+- **Analytics:** Cloudflare Web Analytics (cookieless, im Pages-Projekt aktivieren)
 - **Domain:** Bei Hetzner registriert, Nameserver zeigen auf Cloudflare
 - **Suche:** Pagefind (statisch, client-side, DSGVO-konform)
 - **Sitemap:** `@astrojs/sitemap` → `/sitemap-index.xml`

@@ -1,0 +1,26 @@
+{
+  "name": "@mit-kopf/astro-blog",
+  "version": "0.1.0",
+  "description": "Shared Astro utilities for Mit-Kopf editorial blogs",
+  "type": "module",
+  "license": "UNLICENSED",
+  "private": true,
+  "exports": {
+    "./rehype/wrap-tables": "./src/rehype/wrap-tables.mjs",
+    "./rehype/external-links": "./src/rehype/external-links.mjs",
+    "./rss": "./src/rss.ts",
+    "./article-markdown": "./src/article-markdown.ts",
+    "./cloudflare/markdown-negotiation": "./src/cloudflare/markdown-negotiation.ts",
+    "./utils/reading-time": "./src/utils/reading-time.ts",
+    "./components/Pagination.astro": "./src/components/Pagination.astro",
+    "./components/AiDisclosure.astro": "./src/components/AiDisclosure.astro"
+  },
+  "dependencies": {
+    "rehype-external-links": "^3.0.0",
+    "unist-util-visit": "^5.0.0"
+  },
+  "peerDependencies": {
+    "@astrojs/rss": "^4.0.0",
+    "astro": "^5.0.0"
+  }
+}

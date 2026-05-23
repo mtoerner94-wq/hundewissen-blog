@@ -9,6 +9,8 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@mit-kopf/astro-blog": "file:./packages/mit-kopf-astro-blog",
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.7.0",
     "@fontsource-variable/playfair-display": "^5.2.8",
     "@tailwindcss/typography": "^0.5.19",
