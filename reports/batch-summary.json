@@ -1,54 +1,57 @@
 {
-  "date": "2026-05-21T21:41:40.008014",
+  "date": "2026-05-30T22:46:09.667183",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Hotel mit Hund. Die 13 schönsten Hotels in Deutschland",
-      "slug": "hotel-hund",
+      "title": "Allergiker Hunde: So findest du die richtige Rasse",
+      "slug": "allergiker-hunde",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hotel-hund.md",
-      "quality_score": 100,
-      "word_count": 2568,
-      "issues": [],
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/allergiker-hunde.md",
+      "quality_score": 75,
+      "word_count": 2863,
+      "issues": [
+        "Keyword-Dichte zu niedrig: 0.42% (12x, Ziel: 1-2%)",
+        "Haupt-Keyword NICHT in den ersten 100 Woertern"
+      ],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-hotel-hund.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/aussergewoehnliche-hotels-hund-besondere-erlebnisse.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/aussergewoehnliche-hotels-hund-besondere-erlebnisse.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-hund-nordsee-hamburg.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-hund-nordsee-hamburg.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-mit-hund-deutschland.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hotel-mit-hund-deutschland.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/unsere-kriterien-13-hotels-ausgewaehlt.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/unsere-kriterien-13-hotels-ausgewaehlt.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hotel-hund.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/hotel-hund.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-allergiker-hunde.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-mittelgross-lagotto-wasserhund.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-mittelgross-lagotto-wasserhund.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-rassen-ueberblick.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-rassen-ueberblick.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hypoallergene-hunde-mythos-wahrheit.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hypoallergene-hunde-mythos-wahrheit.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/weniger-geeignete-rassen-labrador-co-problematisch.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/weniger-geeignete-rassen-labrador-co-problematisch.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/allergiker-hunde.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/allergiker-hunde.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 26557,
-    "claude_output_tokens": 22313,
-    "claude_cache_write_tokens": 21467,
-    "claude_cache_read_tokens": 2125,
+    "claude_input_tokens": 27747,
+    "claude_output_tokens": 21883,
+    "claude_cache_write_tokens": 21833,
+    "claude_cache_read_tokens": 2296,
     "ahrefs_requests": 5,
     "image_count": 4,
-    "image_cost_usd": 0.268,
-    "image_provider": "gemini",
-    "image_quality": null,
+    "image_cost_usd": 0.164,
+    "image_provider": "openai",
+    "image_quality": "medium",
     "image_providers": {
-      "gemini": {
+      "openai": {
         "count": 4,
-        "costUsd": 0.268
+        "costUsd": 0.164
       }
     },
-    "total_cost_usd": 0.7635,
+    "total_cost_usd": 0.658,
     "per_article": [
       {
-        "title": "Hotel mit Hund. Die 13 schönsten Hotels in Deutschland",
-        "claude_input": 26557,
-        "claude_output": 22313,
+        "title": "Allergiker Hunde: So findest du die richtige Rasse",
+        "claude_input": 27747,
+        "claude_output": 21883,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -58,34 +61,34 @@
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 4588,
-        "output_tokens": 3242,
-        "cost_usd": 0.0697
+        "input_tokens": 5605,
+        "output_tokens": 3220,
+        "cost_usd": 0.0724
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 6858,
-        "output_tokens": 7629,
-        "cost_usd": 0.1436
+        "input_tokens": 6822,
+        "output_tokens": 7051,
+        "cost_usd": 0.1355
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 5252,
-        "output_tokens": 9427,
-        "cost_usd": 0.2103
+        "input_tokens": 4924,
+        "output_tokens": 9964,
+        "cost_usd": 0.2181
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 9859,
-        "output_tokens": 2015,
-        "cost_usd": 0.0719
+        "input_tokens": 10396,
+        "output_tokens": 1648,
+        "cost_usd": 0.068
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 26557,
-        "outputTokens": 22313,
-        "costUsd": 0.4955
+        "inputTokens": 27747,
+        "outputTokens": 21883,
+        "costUsd": 0.494
       }
     }
   }

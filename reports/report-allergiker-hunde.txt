@@ -1,0 +1,235 @@
+======================================================================
+  KONTROLL-REPORT: Allergiker Hunde: So findest du die richtige Rasse
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Allergiker Hunde: So findest du die richtige Rasse
+  Title-Laenge:     50 Zeichen (Ziel: <=60)
+  Meta-Description: Allergiker Hunde im Überblick: Welche Hunderassen für Allergiker geeignet sind, was 'hypoallergen' wirklich bedeutet und wie du die richtige Rasse findest.
+  Desc-Laenge:      155 Zeichen (Ziel: <=160)
+  Slug:             allergiker-hunde
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/allergiker-hunde/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             allergiker hunde, hypoallergene hunderassen, anti allergiker hunde, allergiker hunderassen, hunde für allergiker geeignet
+  Datum:            2026-05-30
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          allergiker hunde
+  Suchvolumen:      4400/Monat
+  Keyword Diff:     4/100
+  CPC:              $50
+  Traffic Pot.:     4600
+
+  Einbau-Check:
+    Vorkommen:      12x
+    Keyword-Dichte: 0.42% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          2x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    41   11000       150x
+  hunderassen                               74000     7   19000        16x
+  pudel                                     43000    12   11000        29x
+  hunde                                     31000    37    8100       105x
+  yorkshire terrier                         27000     4    3300         8x
+  labrador retriever                        19000    14   14000         3x
+  lagotto romagnolo                         18000    15    7600         6x
+  bichon frisé                              15000     3    3100        12x
+  portugiesischer wasserhund                14000     2    2500         4x
+  haare                                     12000     3    1000        18x
+  afghanischer windhund                      9800     2    2900         3x
+  allergische reaktion                       9600     4    4200         3x
+  stock adobe                                6400     0  129000      FEHLT
+  gibt                                       5900     0     500         8x
+  allergiker hunde                           4400     4    4600        24x
+  fell                                       3500    21     150        52x
+  allergie hund                              2500     1    1000      FEHLT
+  kerry blue terrier                         1500     1     200      FEHLT
+  hunde für allergiker                       1500     3    5000         3x
+  hundeallergie                              1500     0    1400         2x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  allergiker hunde                                4400     4        24x
+  allergiker hunde die nicht haaren               1000     1      FEHLT
+  anti allergiker hunde                            800     4         1x
+  allergiker hunderassen                           600     4         2x
+  allergiker mittelgroße hunde die nicht haaren    350     1      FEHLT
+  allergiker hundefutter pferd testsieger          200     0      FEHLT
+  allergiker hundefutter pferd                     200     0      FEHLT
+  allergiker hunde die nicht haaren und nicht stinken    200     1      FEHLT
+  allergiker hunde klein                           150     1      FEHLT
+  allergiker freundliche hunde                     150     3      FEHLT
+  allergiker hunde groß                            150     1      FEHLT
+  allergiker hundefutter                           150     0      FEHLT
+  welche hunde sind allergiker geeignet            100     4      FEHLT
+  allergiker hunderassen groß                       90     3      FEHLT
+  allergiker hundebett                              80     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    17
+  Durchschn. Woerter:   1117
+  Durchschn. DR:        7.7
+  Unser Wortanzahl:     2863
+
+  Pos 1: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.zooplus.de/magazin/hund/hundehaltung/hunde-fuer-allergiker
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.tierchenwelt.de/haustiere/haustier-hund/3068-hundehaar-allergie.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.fressnapf.de/magazin/hund/gesundheit/hunde-fuer-allergiker/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.edogs.de/magazin/hunde-fuer-allergiker/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://allergia.at/de/allergien/tierallergie/trotz-hundeallergie-hund
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.irish-pure.de/hunde-fuer-allergiker-allergikerfreundliche-hunderassen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.edogs.de/magazin/hunderassen/nicht-haarende-hunderassen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.chip.de/video/Hunde-fuer-Allergiker-Der-Mythos-aufgedeckt-Video_183711439.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 1: https://www.focus.de/video/lifestyle/experten-decken-auf-helfen-allergie-hunde-wirklich_id_24436825.html
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 2: https://www.zooplus.de/magazin/hund/hundehaltung/hunde-fuer-allergiker
+    DR: 75.0, Traffic: 4580, Keywords: 90
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 3: https://figopet.de/hunderatgeber/hunderassen/antiallergische-hunderassen/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://allergia.at/de/allergien/tierallergie/10-hunderassen-allergiker
+    DR: 14.0, Traffic: 1890, Keywords: 87
+  Pos 5: https://www.wirliebenhunter.de/magazin/hunderassen/result/allergikerfreundliche-hunde/
+    DR: 42.0, Traffic: 640, Keywords: 84
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  None (~58 Woerter):
+    - Inhaltsübersicht
+    - Wahr oder falsch: Gibt es allergikerfreundliche Hunde?
+    - Gibt es eine Hundehaarallergie?
+    - Welche Hunde sind nicht für Allergiker geeignet?
+    - Hunde für Allergiker: Liste der 10 besten Rassen
+    - Fazit: Kann man trotz Hundehaarallergie einen Hund halten?
+
+  https://www.zooplus.de/magazin/hund/hundehaltung/hunde-fuer-allergiker (~689 Woerter):
+    - Gibt es Hunderassen für Allergiker? Hier findest du alle Infos dazu!
+    - Welche Hunderasse bei einer Hundehaar-Allergie?
+    - Was tun bei einer Hundehaar-Allergie?
+    - Die besten Hunderassen für Allergiker:
+
+  https://www.tierchenwelt.de/haustiere/haustier-hund/3068-hundehaar-allergie.html (~2182 Woerter):
+    - Was ist eine Hundeallergie?
+    - Allergene bei Hunden
+    - Symptome einer Tierhaarallergie
+    - Wer kann eine Hundeallergie bekommen?
+    - Wie wird die Hundeallergie festgestellt?
+    - Hundeallergie – was tun?
+    - Trennung vom Tier
+    - Als Allergiker mit Hund leben
+
+  https://www.fressnapf.de/magazin/hund/gesundheit/hunde-fuer-allergiker/ (~2644 Woerter):
+    - Was sind hypoallergene Hunde?
+    - Hunde für Allergiker von A bis Z
+    - Symptome einer Hundehaarallergie
+    - So entsteht eine Hundehaarallergie
+    - Hunde ohne viel Haarverlust und Fellwechsel
+    - Hund halten trotz Allergie
+    - Allergieträger identifizieren und Symptome reduzieren
+    - Hyposensibilisierung als mögliche Lösung
+
+  https://www.edogs.de/magazin/hunde-fuer-allergiker/ (~639 Woerter):
+
+  https://allergia.at/de/allergien/tierallergie/trotz-hundeallergie-hund (~3283 Woerter):
+    - Die 25 besten Hunderassen für Allergiker – ausführlich nach Größe
+    - Klein (bis ca. 10 kg)
+    - Mittelgroß (10–25 kg)
+    - Groß (ab 25 kg)
+    - Warum diese Rassen oft besser funktionieren
+    - So triffst du die richtige Wahl (Checkliste)
+    - Alltag mit Hund trotz Allergie: Maßnahmen, die wirklich helfen
+    - Rassenvergleich auf einen Blick (Auszug)
+
+  https://www.irish-pure.de/hunde-fuer-allergiker-allergikerfreundliche-hunderassen/ (~2092 Woerter):
+    - Was sind nicht haarende Hunderassen?
+    - Unterschiedliches Haaren bei Hunden
+    - Die Top 10 der nicht haarenden Hunderassen mit Bildern
+    - Vorteile von nicht haarenden Hunden
+    - Nicht haarende Hunderassen für Allergiker
+    - Diese Themen können dich auch interessieren
+
+  https://www.focus.de/video/lifestyle/experten-decken-auf-helfen-allergie-hunde-wirklich_id_24436825.html (~58 Woerter):
+    - Inhaltsübersicht
+    - Wahr oder falsch: Gibt es allergikerfreundliche Hunde?
+    - Gibt es eine Hundehaarallergie?
+    - Welche Hunde sind nicht für Allergiker geeignet?
+    - Hunde für Allergiker: Liste der 10 besten Rassen
+    - Fazit: Kann man trotz Hundehaarallergie einen Hund halten?
+
+  https://www.zooplus.de/magazin/hund/hundehaltung/hunde-fuer-allergiker (~7 Woerter):
+    - Ursachen für eine Hundehaarallergie
+    - Was antiallergische Hunderassen auszeichnet
+    - Diese Hunderassen eignen sich für Allergiker
+    - So finden Sie den richtigen Allergikerhund
+    - Tipps für Halter, bei denen eine Hundeallergie entsteht
+    - Das Wichtigste auf einen Blick
+
+  None (~1 Woerter):
+
+  None (~641 Woerter):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 4
+  Eingebaute Links: 5
+
+  - "allergiker hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunderassen" -> https://hundewissen-mit-kopf.de/hunderassen/grosse-hunderassen-langhaar/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hunde-fressen-gras/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            75/100
+  Status:           BESTANDEN
+  Wortanzahl:       2863 (Ziel: >=2000)
+  H2-Headings:      8
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.42% (12x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="allergiker hunde - Ratgeber"  Datei: allergiker-hunde.webp
+  Content-Bild:  Alt="allergiker hunde - Detail"    Datei: allergiker-hunde-detail.webp
+  Content-Bild:  Alt="allergiker hunde - Praxis"    Datei: allergiker-hunde-praxis.webp
+
+======================================================================
