@@ -1,0 +1,179 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund am Meer: Die besten Regionen und Tipps
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund am Meer: Die besten Regionen und Tipps
+  Title-Laenge:     54 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund am Meer: Die schönsten Regionen, hundefreundliche Strände & praktische Tipps zu Unterkunft, Packliste und Salzwasser. Jetzt Traumziel finden!
+  Desc-Laenge:      157 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-meer
+  URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-meer/
+  Kategorie:        Reisen (reisen)
+  Tags:             urlaub mit hund am meer, urlaub am meer mit hund, hundefreundliche Strände, urlaub mit hund nordsee, kurzurlaub mit hund
+  Datum:            2026-06-07
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund am meer
+  Suchvolumen:      3200/Monat
+  Keyword Diff:     3/100
+  CPC:              $40
+  Traffic Pot.:     42000
+
+  Einbau-Check:
+    Vorkommen:      16x
+    Keyword-Dichte: 0.49% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          7x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    39   12000       209x
+  ostsee                                   129000    41   13000        21x
+  timmendorfer strand                       79000    15    7500         5x
+  meer                                      30000    12    2100        59x
+  st peter ording                           29000    21   11000      FEHLT
+  hundeurlaub de                             9600    41   42000      FEHLT
+  gibt                                       5900     0     500         9x
+  ferienwohnung mit hund                     5400    34   42000         4x
+  viele                                      4900     2    1800        16x
+  ferienhaus mit hund                        4500    39   42000         2x
+  kurzurlaub mit hund                        3900    41   42000         4x
+  traumferienwohnung mit hund                3600    37    4000      FEHLT
+  stettiner haff                             3500    12     350         5x
+  urlaub mit hund am meer                    3200     3   42000        21x
+  urlaub mit hund nordsee                    2200     0    1800         2x
+  hundeurlaub.de                             1800    42   43000      FEHLT
+  provinz zeeland                            1700     2    2600      FEHLT
+  urlaub mit hund in der nähe                1600    26      80      FEHLT
+  ferienwohnung nordsee mit hund             1200     0     900      FEHLT
+  nordsee mit hund                           1000     1     500      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  urlaub mit hund am meer                         3200     3        21x
+  urlaub mit hund am see                          2100     0      FEHLT
+  urlaub mit hund holland ferienhaus eingezäunt am meer   1400     0      FEHLT
+  urlaub mit hund niederlande am meer              800     0         1x
+  urlaub mit hund am meer eingezäuntes grundstück    500     0      FEHLT
+  urlaub mit hund am bodensee                      400     0      FEHLT
+  urlaub mit hund ferienhaus eingezäunt am meer    400     0      FEHLT
+  urlaub mit hund am wasser                        300     1      FEHLT
+  urlaub mit hund am gardasee                      250     0      FEHLT
+  urlaub mit hund und kind am meer                 250     1         2x
+  urlaub in dänemark mit hund am meer              250     2      FEHLT
+  urlaub mit hund am meer all inclusive            200     0      FEHLT
+  urlaub mit hund italien am meer                  200     0      FEHLT
+  urlaub mit hund am meer holland                  200     1      FEHLT
+  urlaub mit hund am bodensee eingezäuntes grundstück    200     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    8
+  Durchschn. Woerter:   2031
+  Durchschn. DR:        29.6
+  Unser Wortanzahl:     3248
+
+  Pos 1: https://www.hundeurlaub.de/
+    DR: 70.0, Traffic: 41804, Keywords: 333
+  Pos 2: https://www.strandpfoten.de/
+    DR: 28.0, Traffic: 2737, Keywords: 106
+  Pos 3: https://www.tui.com/urlaub-mit-hund/urlaub-mit-hund-am-meer/
+    DR: 77.0, Traffic: 489, Keywords: 33
+  Pos 4: https://gassi-guide.de/urlaubs-inspiration/top-ziele-fuer-urlaub-mit-hund-am-meer-in-europa/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: None
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.nordseetourismus.de/urlaub-mit-hund
+    DR: 62.0, Traffic: 4018, Keywords: 249
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.hundeurlaub.de/ (~3984 Woerter):
+    - Die beliebtesten Reiseziele mit Hund
+    - Beliebte Regionen für deinen Urlaub mit Hund
+
+  https://www.strandpfoten.de/ (~1068 Woerter):
+    - Natur, Leinenpflicht & Wanderwege - Was Hundebesitzer wissen sollten
+    - Deutschland oder Holland - hundefreundliche Regionen im Überblick
+    - Familienurlaub mit Hund - das sollten Sie beachten
+
+  https://www.tui.com/urlaub-mit-hund/urlaub-mit-hund-am-meer/ (~1235 Woerter):
+    - Strandfeeling, Meeresrauschen und Badespaß: Urlaub mit deinem Hund am Meer
+    - Unsere TOP Angebote für deinen Urlaub mit Hund 2026
+    - Wichtige Informationen für Deinen Urlaub mit Hund
+    - Die beliebtesten Ziele für hundefreundliche Ferien am Meer
+    - Frühbucher oder Last Minute: Dein günstiger Urlaub mit Hund am Meer
+    - Inspiration aus dem TUI Blog für deinen Urlaub mit Hund am Meer
+    - Weitere tolle Urlaubsziele für den Urlaub mit Hund
+    - Häufig gestellte Fragen zu Urlaub mit Hund am Meer
+
+  https://gassi-guide.de/urlaubs-inspiration/top-ziele-fuer-urlaub-mit-hund-am-meer-in-europa/ (~3777 Woerter):
+    - Deutschland, Ost- und Nordsee
+    - Holländische Nordseeküste
+    - Frankreich: Côte d’Opale
+    - Frankreich: Bretagne
+    - Italien, Toskana: Etruskische Riviera
+    - Kroatien/Slowenien: Halbinsel Istrien
+    - Kroatien: Dalmatien
+    - Polen: Ostsee
+
+  None (~92 Woerter):
+    - Mit dem Hund ans Meer
+    - Entdecke hundefreundliche Unterkünfte an der Nordsee
+    - Wähle die Art der Unterkunft
+    - Hundestrände an der Nordsee
+    - Die schönsten Hundestrände an der Nordsee
+    - Wichtige Regeln am Hundestrand
+    - Ausflugstipps für deinen Urlaub mit Hund
+    - So bereitest du dich auf deinen Urlaub mit Hund vor
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "ostsee" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-ostsee/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            85/100
+  Status:           BESTANDEN
+  Wortanzahl:       3248 (Ziel: >=2000)
+  H2-Headings:      10
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.49% (16x, Ziel: 1-2%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund am meer - Ratgeber"  Datei: urlaub-mit-hund-am-meer.webp
+  Content-Bild:  Alt="urlaub mit hund am meer - Detail"    Datei: urlaub-mit-hund-am-meer-detail.webp
+  Content-Bild:  Alt="urlaub mit hund am meer - Praxis"    Datei: urlaub-mit-hund-am-meer-praxis.webp
+
+======================================================================

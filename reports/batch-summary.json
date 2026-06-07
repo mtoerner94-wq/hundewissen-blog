@@ -1,94 +1,91 @@
 {
-  "date": "2026-05-30T22:46:09.667183",
+  "date": "2026-06-07T20:49:22.268648",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Allergiker Hunde: So findest du die richtige Rasse",
-      "slug": "allergiker-hunde",
+      "title": "Urlaub mit Hund am Meer: Die besten Regionen und Tipps",
+      "slug": "urlaub-hund-meer",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/allergiker-hunde.md",
-      "quality_score": 75,
-      "word_count": 2863,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-meer.md",
+      "quality_score": 85,
+      "word_count": 3248,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.42% (12x, Ziel: 1-2%)",
-        "Haupt-Keyword NICHT in den ersten 100 Woertern"
+        "Keyword-Dichte zu niedrig: 0.49% (16x, Ziel: 1-2%)"
       ],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-allergiker-hunde.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-mittelgross-lagotto-wasserhund.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-mittelgross-lagotto-wasserhund.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-rassen-ueberblick.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/allergiker-hunde-rassen-ueberblick.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hypoallergene-hunde-mythos-wahrheit.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hypoallergene-hunde-mythos-wahrheit.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/weniger-geeignete-rassen-labrador-co-problematisch.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/weniger-geeignete-rassen-labrador-co-problematisch.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/allergiker-hunde.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/allergiker-hunde.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-urlaub-hund-meer.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/internationale-geheimtipps-kroatien-italien-mehr.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/internationale-geheimtipps-kroatien-italien-mehr.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/urlaub-mit-hund-am-meer.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/urlaub-mit-hund-am-meer.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/urlaub-mit-hund-ostsee.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/urlaub-mit-hund-ostsee.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-meer.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-meer.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 27747,
-    "claude_output_tokens": 21883,
+    "claude_input_tokens": 41283,
+    "claude_output_tokens": 27527,
     "claude_cache_write_tokens": 21833,
-    "claude_cache_read_tokens": 2296,
+    "claude_cache_read_tokens": 5521,
     "ahrefs_requests": 5,
-    "image_count": 4,
-    "image_cost_usd": 0.164,
+    "image_count": 3,
+    "image_cost_usd": 0.123,
     "image_provider": "openai",
     "image_quality": "medium",
     "image_providers": {
       "openai": {
-        "count": 4,
-        "costUsd": 0.164
+        "count": 3,
+        "costUsd": 0.123
       }
     },
-    "total_cost_usd": 0.658,
+    "total_cost_usd": 0.7433,
     "per_article": [
       {
-        "title": "Allergiker Hunde: So findest du die richtige Rasse",
-        "claude_input": 27747,
-        "claude_output": 21883,
+        "title": "Urlaub mit Hund am Meer: Die besten Regionen und Tipps",
+        "claude_input": 41283,
+        "claude_output": 27527,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
-        "images": 4
+        "images": 3
       }
     ],
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 5605,
-        "output_tokens": 3220,
-        "cost_usd": 0.0724
+        "input_tokens": 4612,
+        "output_tokens": 3403,
+        "cost_usd": 0.0722
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 6822,
-        "output_tokens": 7051,
-        "cost_usd": 0.1355
+        "input_tokens": 7194,
+        "output_tokens": 8310,
+        "cost_usd": 0.1555
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 4924,
-        "output_tokens": 9964,
-        "cost_usd": 0.2181
+        "input_tokens": 5705,
+        "output_tokens": 11252,
+        "cost_usd": 0.2398
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 10396,
-        "output_tokens": 1648,
-        "cost_usd": 0.068
+        "input_tokens": 23772,
+        "output_tokens": 4562,
+        "cost_usd": 0.1528
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 27747,
-        "outputTokens": 21883,
-        "costUsd": 0.494
+        "inputTokens": 41283,
+        "outputTokens": 27527,
+        "costUsd": 0.6203
       }
     }
   }
