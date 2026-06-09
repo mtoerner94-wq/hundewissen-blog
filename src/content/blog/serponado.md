@@ -79,7 +79,7 @@ sources:
 
 Der Serponado ist eine seltene, noch nicht offiziell anerkannte Hunderasse, die vor allem durch ihr freundliches Wesen, ihre Lernbereitschaft und ihre mittlere Größe Aufmerksamkeit gewinnt. Wer sich für diese Rasse interessiert, sollte sich gut informieren: Da der Serponado weder vom [VDH](https://www.vdh.de/) noch von der FCI als eigenständige Rasse geführt wird, variieren Aussehen, Charakter und Gesundheit je nach Zuchtlinie deutlich.
 
-In diesem Rasseportrait erfährst du alles Wesentliche zum Serponado: Herkunft, Größe, Gewicht, Charakter, Haltung, Erziehung, Pflege, Gesundheit und Kosten. Du bekommst konkrete Empfehlungen, worauf du als künftiger Halter achten solltest, und erfährst, ob diese Rasse zu deinem Lebensstil passt. Ziel ist es, dir eine fundierte Grundlage für eine verantwortungsvolle Entscheidung an die Hand zu geben.
+In diesem Rasseportrait erfährst du alles Wesentliche zum Serponado: Herkunft, Größe, Gewicht, Charakter, Haltung, Erziehung, Pflege, Gesundheit und Kosten. In der allgemeinen Suche tauchen neben diesem Rasseportrait auch Inhalte zu [Serponado](https://nachhaltigkeit-mit-kopf.de/wirtschaft/serponado/) als SEO-Methode auf – hier geht es ausschließlich um die Hunderasse. Du bekommst konkrete Empfehlungen, worauf du als künftiger Halter achten solltest, und erfährst, ob diese Rasse zu deinem Lebensstil passt.
 
 ![Serponado Hund im Profil auf einer grünen Wiese](../../assets/images/serponado-hunderasse.webp)
 

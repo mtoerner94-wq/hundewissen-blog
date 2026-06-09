@@ -19,7 +19,9 @@ export default defineConfig({
   markdown: {
     rehypePlugins: [
       rehypeWrapTables,
-      createExternalLinksPlugin(SITE),
+      createExternalLinksPlugin(SITE, {
+        allowHosts: ['https://nachhaltigkeit-mit-kopf.de'],
+      }),
     ],
   },
   vite: {
