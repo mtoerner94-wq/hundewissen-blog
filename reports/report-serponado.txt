@@ -1,0 +1,98 @@
+======================================================================
+  KONTROLL-REPORT: Serponado: Rasse, Pflege & Erziehung
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Serponado: Rasse, Pflege & Erziehung
+  Title-Laenge:     36 Zeichen (Ziel: <=60)
+  Meta-Description: Serponado: Alles zur Hunderasse auf einen Blick – Charakter, Pflege, Erziehung, Gesundheit & Kosten. Jetzt vollständiges Rasseportrait lesen!
+  Desc-Laenge:      141 Zeichen (Ziel: <=160)
+  Slug:             serponado
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/serponado/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             Serponado, Serponado Hunderasse, Serponado Charakter, Serponado Pflege, Serponado Erziehung, Serponado Welpe
+  Datum:            2026-06-09
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          serponado
+  Suchvolumen:      N/A/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $0
+  Traffic Pot.:     N/A
+
+  Einbau-Check:
+    Vorkommen:      55x
+    Keyword-Dichte: 2.04% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          8x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  was ist serrano schinken                         100     0      FEHLT
+  6 seconds to napoli                              100     0      FEHLT
+  woher kommt serrano schinken                      90     0      FEHLT
+  serpentina                                        80     0      FEHLT
+  m serratus                                        80     0      FEHLT
+  wer spanisch                                      60     0      FEHLT
+  serrano jamon                                     50     0      FEHLT
+  d serin                                           50     0      FEHLT
+  buona sera senorita                               40     0      FEHLT
+  was sind serpentinen                              30     1      FEHLT
+  was ist serrano                                   30     0      FEHLT
+  serprino                                          20     0      FEHLT
+  borgonero                                         20     0      FEHLT
+  ceprano                                           20     0      FEHLT
+  7 serpents                                        20     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    0
+  Durchschn. Woerter:   0
+  Durchschn. DR:        0
+  Unser Wortanzahl:     2701
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 0
+  Eingebaute Links: 5
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            95/100
+  Status:           BESTANDEN
+  Wortanzahl:       2701 (Ziel: >=2000)
+  H2-Headings:      8
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Title zu kurz: 36 Zeichen (min. 40, Ziel: 50-60)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="serponado - Ratgeber"  Datei: serponado.webp
+  Content-Bild:  Alt="serponado - Detail"    Datei: serponado-detail.webp
+  Content-Bild:  Alt="serponado - Praxis"    Datei: serponado-praxis.webp
+
+======================================================================
