@@ -1,0 +1,164 @@
+======================================================================
+  KONTROLL-REPORT: Urlaub mit Hund in Österreich: Regeln und Top-Regionen
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Urlaub mit Hund in Österreich: Regeln und Top-Regionen
+  Title-Laenge:     54 Zeichen (Ziel: <=60)
+  Meta-Description: Urlaub mit Hund in Österreich: Einreiseregeln, EU-Heimtierausweis, Leinenpflicht & die schönsten hundefreundlichen Regionen. Jetzt Tipps lesen!
+  Desc-Laenge:      143 Zeichen (Ziel: <=160)
+  Slug:             urlaub-hund-oesterreich
+  URL:              https://hundewissen-mit-kopf.de/reisen/urlaub-hund-oesterreich/
+  Kategorie:        Reisen (reisen)
+  Tags:             urlaub mit hund österreich, österreich urlaub, eu heimtierausweis, ferienhaus österreich mit hund, hundehotel österreich
+  Datum:            2026-06-14
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          urlaub mit hund österreich
+  Suchvolumen:      1300/Monat
+  Keyword Diff:     N/A/100
+  CPC:              $45
+  Traffic Pot.:     900
+
+  Einbau-Check:
+    Vorkommen:      2x
+    Keyword-Dichte: 0.07% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          5x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    38    8000       193x
+  restaurant                                95000    29    4200      FEHLT
+  daten                                     10000     0     900         1x
+  österreich urlaub                          6700     9    1200         6x
+  seefeld tirol                              4300    39    3900         1x
+  ramsau dachstein                           1600    22    2300         1x
+  eu heimtierausweis                         1500     8    2100         1x
+  urlaub mit hund österreich                 1300     0     900         3x
+  tirol österreich                           1200    35    1000         1x
+  ferienhaus österreich mit hund             1000     0     600         3x
+  steiermark österreich                      1000    37    1400         1x
+  hundehotel österreich                       900    29    1400         3x
+  österreich ferienhaus                       700     0    1700         1x
+  österreich urlaub mit hund                  600     0     500         3x
+  urlaub österreich mit hund                  450     0     600      FEHLT
+  ferienwohnung österreich mit hund           400     0    1600      FEHLT
+  urlaub mit hund in österreich               400     0    1100        11x
+  österreich mit hund                         400     0     900         3x
+  erlaubt                                     350     0      60         3x
+  urlaub in österreich mit hund               300     0     600      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  urlaub mit hund österreich                      1300     0         3x
+  urlaub mit hund in österreich                    400     0        11x
+  urlaub mit hund geheimtipp österreich            200     1         1x
+  urlaub mit hund österreich see                   150     0      FEHLT
+  urlaub mit hund in österreich am see             150     0      FEHLT
+  urlaub mit hund österreich ferienhaus            100     0      FEHLT
+  urlaub mit hund österreich hotel                  90     1      FEHLT
+  hund urlaub österreich                            80     0      FEHLT
+  österreich urlaub mit hund am see                 70     0      FEHLT
+  urlaub mit hund österreich halbpension            60     0      FEHLT
+  urlaub mit hund in österreich hotel               60     0      FEHLT
+  urlaub mit hund in österreich ferienhaus          50     0      FEHLT
+  urlaub mit hund österreich günstig                40     0      FEHLT
+  urlaub in österreich mit hund und halbpension     40     0      FEHLT
+  urlaub mit hund österreich hütte                  30     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    5
+  Durchschn. Woerter:   668
+  Durchschn. DR:        25.4
+  Unser Wortanzahl:     2806
+
+  Pos 1: https://www.hunde-urlaub.net/oesterreich/
+    DR: 48.0, Traffic: 877, Keywords: 18
+  Pos 2: https://www.top-hundeurlaub.de/regionen/osterreich
+    DR: 38.0, Traffic: 192, Keywords: 24
+  Pos 3: https://hundehotel.info/hundehotel/%C3%B6sterreich
+    DR: 41.0, Traffic: 536, Keywords: 23
+  Pos 4: https://www.hunde-urlaub.net/einreisebestimmungen/oesterreich/
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 4: https://www.oeamtc.at/thema/techniktipps/tiere-im-strassenverkehr-62257419
+    DR: N/A, Traffic: N/A, Keywords: N/A
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.hunde-urlaub.net/oesterreich/ (~1877 Woerter):
+    - Österreich mit Hund - Abwechslungsreich und hundefreundlich!
+    - Finde Deinen Traumurlaub mit Hund
+    - Erfahrungen Urlaub mit Hund in Österreich
+
+  https://www.top-hundeurlaub.de/regionen/osterreich (~7 Woerter):
+    - Finde dein nächstes Reiseziel für dich und deinen Hund!
+    - Interessante Reisetipps
+
+  https://hundehotel.info/hundehotel/%C3%B6sterreich (~18 Woerter):
+    - 329Hundehotelsin Österreichgefunden(von 811)
+    - Teilen: 329 Hundehotels für den Urlaub mit Hund in Österreich finden
+    - 159 Top Hunde-Hotels in Österreich finden!
+    - Beliebte Artikel undhundehotel.info Empfehlungen
+
+  https://www.hunde-urlaub.net/einreisebestimmungen/oesterreich/ (~218 Woerter):
+
+  https://www.oeamtc.at/thema/techniktipps/tiere-im-strassenverkehr-62257419 (~1223 Woerter):
+    - Transport von Haustieren
+    - Mit Haustieren verreisen
+    - Tipps für den Urlaub mit Hund
+    - Unfall mit einem Haustier
+    - Tipp
+    - Muss der Unfall gemeldet werden?
+    - Unfälle mit Wildtieren
+    - Video
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 5
+
+  - "urlaub mit hund österreich" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-deutschland/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "österreich urlaub" -> https://hundewissen-mit-kopf.de/reisen/urlaub-hund-geheimtipp/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            74/100
+  Status:           BESTANDEN
+  Wortanzahl:       2806 (Ziel: >=2000)
+  H2-Headings:      9
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.07% (2x, Ziel: 1-2%)
+    ✗ TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!
+    ✗ Keine Tabelle gefunden (min. 1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="urlaub mit hund österreich - Ratgeber"  Datei: urlaub-mit-hund-österreich.webp
+  Content-Bild:  Alt="urlaub mit hund österreich - Detail"    Datei: urlaub-mit-hund-österreich-detail.webp
+  Content-Bild:  Alt="urlaub mit hund österreich - Praxis"    Datei: urlaub-mit-hund-österreich-praxis.webp
+
+======================================================================

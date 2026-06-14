@@ -1,54 +1,124 @@
 {
-  "date": "2026-06-09T15:46:30.405531",
-  "total_articles": 1,
-  "successful": 1,
+  "date": "2026-06-14T14:58:13.370165",
+  "total_articles": 3,
+  "successful": 3,
   "failed": 0,
   "results": [
     {
-      "title": "Serponado: Rasse, Pflege & Erziehung",
-      "slug": "serponado",
+      "title": "Trockenfutter für Hunde im Test: Kaufberatung und Vergleich",
+      "slug": "trockenfutter-hund-test",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/serponado.md",
-      "quality_score": 95,
-      "word_count": 2701,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/trockenfutter-hund-test.md",
+      "quality_score": 87,
+      "word_count": 2510,
       "issues": [
-        "Title zu kurz: 36 Zeichen (min. 40, Ziel: 50-60)"
+        "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
+        "Text schwer lesbar: Wiener Sachtextformel 12.6 (Ziel: 6-10, max. 12)"
       ],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-serponado.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/charakter-wesen-serponado.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/charakter-wesen-serponado.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/serponado-hunderasse.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/serponado-hunderasse.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/serponado-pflege-fell-koerper-gesundheitsroutine.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/serponado-pflege-fell-koerper-gesundheitsroutine.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/serponado.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/serponado.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-trockenfutter-hund-test.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-hund-discounter-check.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-hund-discounter-check.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-hund-test-discounter-produkte-lupe.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-hund-test-discounter-produkte-lupe.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-hund-test-kaufberatung.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-hund-test-kaufberatung.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/trockenfutter-hund-test.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/trockenfutter-hund-test.qa.json"
+      ]
+    },
+    {
+      "title": "Ferienhaus mit Hund: Eingezäuntes Grundstück finden",
+      "slug": "ferienhaus-hund-eingezaeuntes-grundstueck",
+      "success": true,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/ferienhaus-hund-eingezaeuntes-grundstueck.md",
+      "quality_score": 61,
+      "word_count": 2794,
+      "issues": [
+        "Keyword-Dichte zu niedrig: 0.04% (1x, Ziel: 1-2%)",
+        "Haupt-Keyword nur in 0 H2 (min. 2)",
+        "Haupt-Keyword in keiner H3-Ueberschrift",
+        "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
+        "Keine Tabelle gefunden (min. 1)",
+        "Text schwer lesbar: Wiener Sachtextformel 12.5 (Ziel: 6-10, max. 12)"
+      ],
+      "generated_files": [
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-ferienhaus-hund-eingezaeuntes-grundstueck.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/ferienhaus-hund-eingezaeuntem-grundstueck-ausland.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/ferienhaus-hund-eingezaeuntem-grundstueck-ausland.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/ferienhaus-hund-eingezaeuntem-grundstueck-ostsee.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/ferienhaus-hund-eingezaeuntem-grundstueck-ostsee.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/ferienhaus-mit-hund-eingezaeuntes-grundstueck.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/ferienhaus-mit-hund-eingezaeuntes-grundstueck.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/ferienhaus-hund-eingezaeuntes-grundstueck.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/ferienhaus-hund-eingezaeuntes-grundstueck.qa.json"
+      ]
+    },
+    {
+      "title": "Urlaub mit Hund in Österreich: Regeln und Top-Regionen",
+      "slug": "urlaub-hund-oesterreich",
+      "success": true,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-oesterreich.md",
+      "quality_score": 74,
+      "word_count": 2806,
+      "issues": [
+        "Keyword-Dichte zu niedrig: 0.07% (2x, Ziel: 1-2%)",
+        "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
+        "Keine Tabelle gefunden (min. 1)"
+      ],
+      "generated_files": [
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-urlaub-hund-oesterreich.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/leinenpflicht-regeln-oesterreich-bundesland.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/leinenpflicht-regeln-oesterreich-bundesland.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/unterkunft-ferienhaus-huette-hundehotel-oesterreich.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/unterkunft-ferienhaus-huette-hundehotel-oesterreich.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/urlaub-mit-hund-oesterreich.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/urlaub-mit-hund-oesterreich.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-oesterreich.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/urlaub-hund-oesterreich.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 13391,
-    "claude_output_tokens": 21304,
-    "claude_cache_write_tokens": 23526,
-    "claude_cache_read_tokens": 2296,
-    "ahrefs_requests": 5,
-    "image_count": 3,
-    "image_cost_usd": 0.123,
+    "claude_input_tokens": 94702,
+    "claude_output_tokens": 73614,
+    "claude_cache_write_tokens": 65499,
+    "claude_cache_read_tokens": 10113,
+    "ahrefs_requests": 15,
+    "image_count": 9,
+    "image_cost_usd": 0.369,
     "image_provider": "openai",
     "image_quality": "medium",
     "image_providers": {
       "openai": {
-        "count": 3,
-        "costUsd": 0.123
+        "count": 9,
+        "costUsd": 0.369
       }
     },
-    "total_cost_usd": 0.7584,
+    "total_cost_usd": 2.006,
     "per_article": [
       {
-        "title": "Serponado: Rasse, Pflege & Erziehung",
-        "claude_input": 13391,
-        "claude_output": 21304,
+        "title": "Trockenfutter für Hunde im Test: Kaufberatung und Vergleich",
+        "claude_input": 37061,
+        "claude_output": 24392,
+        "claude_cache_write": 0,
+        "claude_cache_read": 0,
+        "ahrefs_requests": 5,
+        "images": 3
+      },
+      {
+        "title": "Ferienhaus mit Hund: Eingezäuntes Grundstück finden",
+        "claude_input": 30037,
+        "claude_output": 25561,
+        "claude_cache_write": 0,
+        "claude_cache_read": 0,
+        "ahrefs_requests": 5,
+        "images": 3
+      },
+      {
+        "title": "Urlaub mit Hund in Österreich: Regeln und Top-Regionen",
+        "claude_input": 27604,
+        "claude_output": 23661,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -58,28 +128,34 @@
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 2784,
-        "output_tokens": 2445,
-        "cost_usd": 0.0523
+        "input_tokens": 13512,
+        "output_tokens": 10350,
+        "cost_usd": 0.2177
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 5274,
-        "output_tokens": 6069,
-        "cost_usd": 0.1162
+        "input_tokens": 21878,
+        "output_tokens": 23292,
+        "cost_usd": 0.4429
       },
       "writer": {
-        "model": "claude-opus-4-7",
-        "input_tokens": 5333,
-        "output_tokens": 12790,
-        "cost_usd": 0.4669
+        "model": "claude-sonnet-4-6",
+        "input_tokens": 16727,
+        "output_tokens": 30636,
+        "cost_usd": 0.6713
+      },
+      "reviewer": {
+        "model": "claude-sonnet-4-6",
+        "input_tokens": 42585,
+        "output_tokens": 9336,
+        "cost_usd": 0.305
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 13391,
-        "outputTokens": 21304,
-        "costUsd": 0.6354
+        "inputTokens": 94702,
+        "outputTokens": 73614,
+        "costUsd": 1.637
       }
     }
   }
