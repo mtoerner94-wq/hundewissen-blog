@@ -1,0 +1,148 @@
+======================================================================
+  KONTROLL-REPORT: Getreidefreies Hundefutter: Wann es sinnvoll ist
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Getreidefreies Hundefutter: Wann es sinnvoll ist
+  Title-Laenge:     48 Zeichen (Ziel: <=60)
+  Meta-Description: Getreidefreies Hundefutter – wann es wirklich sinnvoll ist, für wen es sich eignet und worauf du bei den Zutaten achten solltest.
+  Desc-Laenge:      129 Zeichen (Ziel: <=160)
+  Slug:             getreidefreies-hundefutter
+  URL:              https://hundewissen-mit-kopf.de/hundeernaehrung/getreidefreies-hundefutter/
+  Kategorie:        Hundeernaehrung (hundeernaehrung)
+  Tags:             getreidefreies hundefutter, hundefutter ohne getreide, hundefutter getreidefrei, getreidefreies hundefutter mit hohem fleischanteil, kaltgepresstes getreidefreies hundefutter
+  Datum:            2026-06-19
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          getreidefreies hundefutter
+  Suchvolumen:      1700/Monat
+  Keyword Diff:     1/100
+  CPC:              $80
+  Traffic Pot.:     1600
+
+  Einbau-Check:
+    Vorkommen:      25x
+    Keyword-Dichte: 1.06% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          5x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     170000    21    8000       133x
+  hunde                                     31000     0    3400       117x
+  hundefutter                               17000    24    7400        60x
+  getreide                                  11000     1    4300       109x
+  belcando                                  10000     0   14000      FEHLT
+  qualität                                  10000    10    2200        11x
+  darüber hinaus                             9600     0    2900      FEHLT
+  dass                                       9400     5    2200         9x
+  belcando hundefutter                       5600     0   13000      FEHLT
+  zutaten                                    3800     2     N/A        25x
+  ausgewogene ernährung                      3400    46    2900         3x
+  belcando trockenfutter                     3200     0    3300      FEHLT
+  hundefutter ohne getreide                  1800     0     600         4x
+  hundefutter getreidefrei                   1800     1    1400         3x
+  getreidefreies hundefutter                 1700     1    1600        37x
+  fressnapf hundefutter                      1600     1     600      FEHLT
+  belcando futter                            1500     0   13000      FEHLT
+  aktuelle trends                             800    41     800      FEHLT
+  trockenfutter hund getreidefrei             600     0     250      FEHLT
+  josera hundefutter getreidefrei             500     0      50      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  getreidefreies hundefutter                      1700     1        37x
+  getreidefreies hundefutter mit hohem fleischanteil    250     0         2x
+  getreidefreies hundefutter testsieger            150     0      FEHLT
+  getreidefreies hundefutter günstig                70     0      FEHLT
+  warum getreidefreies hundefutter                  70     0         1x
+  trockenfutter getreidefreies hundefutter          60     0      FEHLT
+  getreidefreies hundefutter trocken                50     0      FEHLT
+  günstiges getreidefreies hundefutter              50     0      FEHLT
+  getreidefreies hundefutter nass                   50     0         1x
+  getreidefreies hundefutter günstig 15 kg          50     0      FEHLT
+  getreidefreies hundefutter test                   50     2      FEHLT
+  getreidefreies hundefutter senior                 40     0      FEHLT
+  getreidefreies senior hundefutter                 40     0      FEHLT
+  ist getreidefreies hundefutter besser             30     0      FEHLT
+  josera getreidefreies hundefutter                 30     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    3
+  Durchschn. Woerter:   321
+  Durchschn. DR:        68.0
+  Unser Wortanzahl:     2353
+
+  Pos 1: https://www.belcando.de/produkte/trockenfutter/getreidefrei
+    DR: 68.0, Traffic: 2055, Keywords: 82
+  Pos 3: https://www.futterhaus.de/r/getreidefreies-hundefutter/
+    DR: 65.0, Traffic: 306, Keywords: 26
+  Pos 4: https://www.josera.de/hundefutter/getreidefrei.html
+    DR: 71.0, Traffic: 2021, Keywords: 46
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.belcando.de/produkte/trockenfutter/getreidefrei (~64 Woerter):
+    - Produkte filtern
+    - Wann sollte ich Hundefutter ohne Getreide füttern?
+    - Warum gibt es Hundefutter mit Getreide?
+    - Was hat Getreide überhaupt im Hundefutter verloren?
+    - Getreidefrei = kohlenhydratfrei?
+    - Getreidefrei = glutenfrei?
+
+  https://www.futterhaus.de/r/getreidefreies-hundefutter/ (~578 Woerter):
+    - Verträgliche Hundenahrung mit geringem Allergiepotenzial
+    - Wann macht der Einsatz von getreidefreier Hundenahrung Sinn?
+    - Wann ist eine Umstellung auf getreidefreies Hundefutter sinnvoll?
+    - Ist getreidefreies Hundefutter besser für Hunde?
+    - Weitere Ratgeber zur Hundeernährung
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 5
+
+  - "getreidefreies hundefutter" -> https://hundewissen-mit-kopf.de/hundeernaehrung/hundefutter-selber-kochen/  [Eingebaut: JA]
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            84/100
+  Status:           BESTANDEN
+  Wortanzahl:       2353 (Ziel: >=2000)
+  H2-Headings:      8
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          3
+  Interne Links:    5
+
+  ISSUES:
+    ✗ TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!
+    ✗ Keine Tabelle gefunden (min. 1)
+    ✗ Text schwer lesbar: Wiener Sachtextformel 12.3 (Ziel: 6-10, max. 12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="getreidefreies hundefutter - Ratgeber"  Datei: getreidefreies-hundefutter.webp
+  Content-Bild:  Alt="getreidefreies hundefutter - Detail"    Datei: getreidefreies-hundefutter-detail.webp
+  Content-Bild:  Alt="getreidefreies hundefutter - Praxis"    Datei: getreidefreies-hundefutter-praxis.webp
+
+======================================================================
