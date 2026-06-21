@@ -1,0 +1,160 @@
+======================================================================
+  KONTROLL-REPORT: Bestes Hundefutter: Kriterien und Empfehlungen
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Bestes Hundefutter: Kriterien und Empfehlungen
+  Title-Laenge:     46 Zeichen (Ziel: <=60)
+  Meta-Description: Welches ist das beste Hundefutter? Wir erklären Kriterien, vergleichen Futterarten und geben Empfehlungen für Welpen, Senioren & Spezialdiäten. Jetzt lesen!
+  Desc-Laenge:      156 Zeichen (Ziel: <=160)
+  Slug:             bestes-hundefutter
+  URL:              https://hundewissen-mit-kopf.de/hundeernaehrung/bestes-hundefutter/
+  Kategorie:        Hundeernaehrung (hundeernaehrung)
+  Tags:             bestes hundefutter, gutes hundefutter, hundefutter test, trockenfutter hund test, bestes hundefutter nass
+  Datum:            2026-06-21
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          bestes hundefutter
+  Suchvolumen:      1500/Monat
+  Keyword Diff:     3/100
+  CPC:              $140
+  Traffic Pot.:     1800
+
+  Einbau-Check:
+    Vorkommen:      13x
+    Keyword-Dichte: 0.47% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          2x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hundefutter                               17000    24    7400        77x
+  fresco hundefutter                        11000     0    1000      FEHLT
+  hundefutter test                           6700    12   16000         8x
+  rinti nassfutter                           6100     0    1500      FEHLT
+  rinti                                      5300     0    3600      FEHLT
+  rinti hundefutter                          4900     0     300      FEHLT
+  rinti trockenfutter                        4800     0    1100      FEHLT
+  trockenfutter hund test                    2800     1   16000         1x
+  fressnapf hundefutter                      1600     1     600      FEHLT
+  gutes hundefutter                          1600     4    4700         7x
+  bestes hundefutter                         1500     3    1800        18x
+  hundefutter testsieger                     1400    13   16000         3x
+  bestes trockenfutter hunde stiftung warentest   1400     0   15000      FEHLT
+  edgard cooper hundefutter                  1300     0     700      FEHLT
+  bestes trockenfutter hund                  1300     0   16000         1x
+  nassfutter hund test                       1200     2    2900      FEHLT
+  bestes nassfutter hund                     1100     1   11000      FEHLT
+  hunde trockenfutter test                   1000     1   15000      FEHLT
+  hundetrockenfutter test                    1000     1   15000      FEHLT
+  hundefutter bestellen                      1000    12    5600      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  bestes hundefutter                              1500     3        18x
+  bestes hundefutter nass                          700     3         1x
+  bestes hundefutter trocken                       700     6      FEHLT
+  bestes hundefutter bei pankreatitis              250     0         2x
+  bestes hypoallergenes hundefutter                200     0         2x
+  bestes hundefutter für ältere hunde              200     0         2x
+  dein bestes hundefutter                          150     0      FEHLT
+  bestes hundefutter für wählerische hunde         100     0      FEHLT
+  bestes hundefutter für welpen                     90     0         2x
+  bestes kaltgepresstes hundefutter                 90     2         1x
+  bestes hundefutter getreidefrei                   80     0      FEHLT
+  bestes hundefutter test                           70    15      FEHLT
+  bestes hypoallergenes hundefutter trocken         60     0      FEHLT
+  bestes hundefutter für herzkranke hunde           60     0      FEHLT
+  bestes hypoallergenes hundefutter nass            50     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    3
+  Durchschn. Woerter:   3478
+  Durchschn. DR:        45.7
+  Unser Wortanzahl:     2782
+
+  Pos 3: https://www.fresco.dog/hundefutter-test
+    DR: 46.0, Traffic: 1706, Keywords: 89
+  Pos 4: https://www.bestesfutter-deutschland.de/hundefutter
+    DR: 17.0, Traffic: 241, Keywords: 19
+  Pos 5: https://www.fressnapf.de/magazin/hund/ernaehrung/hundefutter/
+    DR: 74.0, Traffic: 5520, Keywords: 416
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.fresco.dog/hundefutter-test (~6592 Woerter):
+    - Hundefutter im Test
+    - Hundefutter im Test
+    - Warum FRESCO das beste Hundefutter ist:
+    - Warum FRESCO das beste Hundefutter ist:
+    - Alle Produkte Deiner Lieblings-Proteinquelle mit nur einem Klick:
+    - Die Vielfalt von FRESCO Hundefutter:
+    - Die Vielfalt von FRESCO Hundefutter:
+    - Teste FRESCO – das beste Hundefutter:
+
+  https://www.bestesfutter-deutschland.de/hundefutter (~2635 Woerter):
+    - Hochwertiges Hundefutter online bei Bestesfutter
+    - Unsere Hunde, Nachfahren des Wolfes
+    - Bestes Hundefutter für den gesunden Hund
+    - Tipps für die Hundeernährung
+
+  https://www.fressnapf.de/magazin/hund/ernaehrung/hundefutter/ (~1209 Woerter):
+    - Welches ist das beste Futter für Hunde?
+    - Was gibt es für Fütterungsarten?
+    - Hundefuttertest: Wie bewerten Stiftung Warentest und Co.?
+    - Trockenfutter für ältere Hunde
+    - Trockenfutter für Welpen
+    - Empfehlenswertes halbfeuchtes Hundefutter
+    - Weitere Beiträge, die dich auch interessieren könnten
+    - Weitere Themen im Überblick
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 6
+
+  - "bestes hundefutter" -> https://hundewissen-mit-kopf.de/hundeernaehrung/getreidefreies-hundefutter/  [Eingebaut: JA]
+  - "hundefutter" -> https://hundewissen-mit-kopf.de/hundeernaehrung/hundefutter-selber-kochen/  [Eingebaut: JA]
+  - "hundefutter test" -> https://hundewissen-mit-kopf.de/hundeernaehrung/nassfutter-hund-test/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            62/100
+  Status:           BESTANDEN
+  Wortanzahl:       2782 (Ziel: >=2000)
+  H2-Headings:      9
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    6
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.47% (13x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+    ✗ TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!
+    ✗ Text schwer lesbar: Wiener Sachtextformel 13.0 (Ziel: 6-10, max. 12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="bestes hundefutter - Ratgeber"  Datei: bestes-hundefutter.webp
+  Content-Bild:  Alt="bestes hundefutter - Detail"    Datei: bestes-hundefutter-detail.webp
+  Content-Bild:  Alt="bestes hundefutter - Praxis"    Datei: bestes-hundefutter-praxis.webp
+
+======================================================================

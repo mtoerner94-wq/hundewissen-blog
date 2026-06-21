@@ -1,88 +1,57 @@
 {
-  "date": "2026-06-19T23:45:17.298850",
-  "total_articles": 2,
-  "successful": 2,
+  "date": "2026-06-21T11:32:15.114177",
+  "total_articles": 1,
+  "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Getreidefreies Hundefutter: Wann es sinnvoll ist",
-      "slug": "getreidefreies-hundefutter",
+      "title": "Bestes Hundefutter: Kriterien und Empfehlungen",
+      "slug": "bestes-hundefutter",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/getreidefreies-hundefutter.md",
-      "quality_score": 84,
-      "word_count": 2353,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/bestes-hundefutter.md",
+      "quality_score": 62,
+      "word_count": 2782,
       "issues": [
+        "Keyword-Dichte zu niedrig: 0.47% (13x, Ziel: 1-2%)",
+        "Haupt-Keyword NICHT in den ersten 100 Woertern",
         "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
-        "Keine Tabelle gefunden (min. 1)",
-        "Text schwer lesbar: Wiener Sachtextformel 12.3 (Ziel: 6-10, max. 12)"
+        "Text schwer lesbar: Wiener Sachtextformel 13.0 (Ziel: 6-10, max. 12)"
       ],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-getreidefreies-hundefutter.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/getreide-hundefutter-fluch-fuellstoff.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/getreide-hundefutter-fluch-fuellstoff.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/getreidefreies-hundefutter-wann-sinnvoll.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/getreidefreies-hundefutter-wann-sinnvoll.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-nassfutter-getreidefreie-varianten-ueberblick.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/trockenfutter-nassfutter-getreidefreie-varianten-ueberblick.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/getreidefreies-hundefutter.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/getreidefreies-hundefutter.qa.json"
-      ]
-    },
-    {
-      "title": "Nassfutter für Hunde im Test: Qualität erkennen",
-      "slug": "nassfutter-hund-test",
-      "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/nassfutter-hund-test.md",
-      "quality_score": 87,
-      "word_count": 2906,
-      "issues": [
-        "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
-        "Text schwer lesbar: Wiener Sachtextformel 12.6 (Ziel: 6-10, max. 12)"
-      ],
-      "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-nassfutter-hund-test.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/nassfutter-besondere-beduerfnisse-test.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/nassfutter-besondere-beduerfnisse-test.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/nassfutter-hund-test-bewerten-qualitaet.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/nassfutter-hund-test-bewerten-qualitaet.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/nassfutter-hund-test.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/nassfutter-hund-test.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/nassfutter-hund-test.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/nassfutter-hund-test.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-bestes-hundefutter.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-kriterien-empfehlungen.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-kriterien-empfehlungen.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-lebensphase-welpe-adult-senior.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-lebensphase-welpe-adult-senior.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/futterarten-vergleich-nass-trocken-barf-kaltgepresst.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/futterarten-vergleich-nass-trocken-barf-kaltgepresst.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/bestes-hundefutter.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/bestes-hundefutter.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 66634,
-    "claude_output_tokens": 49113,
-    "claude_cache_write_tokens": 43666,
-    "claude_cache_read_tokens": 7817,
-    "ahrefs_requests": 10,
-    "image_count": 6,
-    "image_cost_usd": 0.246,
+    "claude_input_tokens": 28062,
+    "claude_output_tokens": 23834,
+    "claude_cache_write_tokens": 21833,
+    "claude_cache_read_tokens": 2296,
+    "ahrefs_requests": 5,
+    "image_count": 3,
+    "image_cost_usd": 0.123,
     "image_provider": "openai",
     "image_quality": "medium",
     "image_providers": {
       "openai": {
-        "count": 6,
-        "costUsd": 0.246
+        "count": 3,
+        "costUsd": 0.123
       }
     },
-    "total_cost_usd": 1.3487,
+    "total_cost_usd": 0.6473,
     "per_article": [
       {
-        "title": "Getreidefreies Hundefutter: Wann es sinnvoll ist",
-        "claude_input": 25980,
-        "claude_output": 22290,
-        "claude_cache_write": 0,
-        "claude_cache_read": 0,
-        "ahrefs_requests": 5,
-        "images": 3
-      },
-      {
-        "title": "Nassfutter für Hunde im Test: Qualität erkennen",
-        "claude_input": 40654,
-        "claude_output": 26823,
+        "title": "Bestes Hundefutter: Kriterien und Empfehlungen",
+        "claude_input": 28062,
+        "claude_output": 23834,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -92,34 +61,34 @@
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 8928,
-        "output_tokens": 6321,
-        "cost_usd": 0.1362
+        "input_tokens": 4385,
+        "output_tokens": 3358,
+        "cost_usd": 0.0708
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 13436,
-        "output_tokens": 14580,
-        "cost_usd": 0.2776
+        "input_tokens": 7100,
+        "output_tokens": 7567,
+        "cost_usd": 0.1441
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 10124,
-        "output_tokens": 21147,
-        "cost_usd": 0.4553
+        "input_tokens": 5309,
+        "output_tokens": 10835,
+        "cost_usd": 0.2323
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 34146,
-        "output_tokens": 7065,
-        "cost_usd": 0.2336
+        "input_tokens": 11268,
+        "output_tokens": 2074,
+        "cost_usd": 0.077
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 66634,
-        "outputTokens": 49113,
-        "costUsd": 1.1027
+        "inputTokens": 28062,
+        "outputTokens": 23834,
+        "costUsd": 0.5243
       }
     }
   }
