@@ -1,0 +1,160 @@
+======================================================================
+  KONTROLL-REPORT: BARF-Rechner für Hunde: Rationen planen und kalkulieren
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        BARF-Rechner für Hunde: Rationen planen und kalkulieren
+  Title-Laenge:     55 Zeichen (Ziel: <=60)
+  Meta-Description: Mit dem BARF-Rechner für Hunde die tägliche Ration einfach berechnen. Alle Sonderfälle, Prozentwerte & häufige Fehler – jetzt Ration planen!
+  Desc-Laenge:      140 Zeichen (Ziel: <=160)
+  Slug:             barf-rechner-hund
+  URL:              https://hundewissen-mit-kopf.de/hundeernaehrung/barf-rechner-hund/
+  Kategorie:        Hundeernaehrung (hundeernaehrung)
+  Tags:             barf rechner hund, barf rechner, barfen, barf, fettrechner barf
+  Datum:            2026-06-23
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          barf rechner hund
+  Suchvolumen:      2500/Monat
+  Keyword Diff:     5/100
+  CPC:              $15
+  Traffic Pot.:     6100
+
+  Einbau-Check:
+    Vorkommen:      4x
+    Keyword-Dichte: 0.15% (Ziel: 1-2%)
+    In ersten 100W: NEIN
+    In H2:          1x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  rechner                                  905000    36  420000        41x
+  hund                                     170000    21    8000       105x
+  gemüse                                    52000    20    2300         8x
+  hunde                                     31000     0    3400        78x
+  kg                                        12000     1    5500        16x
+  dass                                       9400     2    2100         3x
+  knochen                                    9300     5    3300        26x
+  barf                                       7900    30     350        96x
+  barfen                                     5000     3    3100        12x
+  ausgewogene ernährung                      3400    46    2900         3x
+  barf rechner                               3100     4    6100         2x
+  barf rechner hund                          2500     5    6100         1x
+  barfgold                                   1700     0    1200         4x
+  barf check                                  500    17     800         4x
+  fettrechner barf                            400     0     400         2x
+  barfen hunde                                400     5    4400      FEHLT
+  barfrechner                                 350     5    6100      FEHLT
+  barf complete                               300     0     250      FEHLT
+  barf rechner welpe                          250     0     350      FEHLT
+  barfen hund rechner                         250     6    6100      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  barf rechner hund                               2500     5         1x
+  barf rechner senior hund                          50     0      FEHLT
+  wie viel barf pro tag hund                        50     0      FEHLT
+  barf rechner hund kostenlos                       50     4      FEHLT
+  welpen barf rechner                               40     0      FEHLT
+  wie viel barf braucht mein hund                   40     0         1x
+  barf rechner für hunde                            20     4      FEHLT
+  barf rechner hund leberdiät                       20     0      FEHLT
+  barf rechner kastrierter hund                     20     0      FEHLT
+  barf rechner hund senior                          10     0      FEHLT
+  barf rechner hund welpe                           10     0      FEHLT
+  barf rechner hund abnehmen                        10     0      FEHLT
+  barf rechner welpe kostenlos                      10     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    5
+  Durchschn. Woerter:   1025
+  Durchschn. DR:        29.2
+  Unser Wortanzahl:     2667
+
+  Pos 1: https://www.barf-check.de/kostenloser-barf-rechner/
+    DR: 32.0, Traffic: 5529, Keywords: 94
+  Pos 2: https://barfgold.com/pages/barfrechner-fuer-hund
+    DR: 40.0, Traffic: 1423, Keywords: 43
+  Pos 3: https://www.futter-fundgrube.de/barf-rechner-hund/
+    DR: 42.0, Traffic: 2099, Keywords: 82
+  Pos 4: https://www.meisterbarf.de/barfen/barf-menge-hund
+    DR: N/A, Traffic: N/A, Keywords: N/A
+  Pos 5: https://www.futtermacher.de/barf-rechner/
+    DR: 32.0, Traffic: 425, Keywords: 52
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.barf-check.de/kostenloser-barf-rechner/ (~1623 Woerter):
+    - Was ist ein BARF-Rechner?
+    - Wie funktioniert der BARF-Rechner?
+
+  https://barfgold.com/pages/barfrechner-fuer-hund (~423 Woerter):
+    - Dein Warenkorb ist leer
+    - Warenkorb
+    - Kostenloser BARF-Rechner für Hunde
+    - Futterpyramide
+    - Du möchstest noch einen detaillierteren Plan?
+
+  https://www.futter-fundgrube.de/barf-rechner-hund/ (~1895 Woerter):
+    - Dein Hund
+    - Gesamtfuttermenge
+    - Barfen beim Hund
+    - Barfen: Rechner für die richtige Futtermenge
+    - Wie funktioniert ein Barf-Rechner für den Hund?
+    - Barf-Menge berechnen: Gründe für etwaige Neukalkulation
+    - Ideale Nährstoffversorgung mit Barf-Rechner für den Hund
+    - FAQs: Barf-Rechner Hund
+
+  https://www.futtermacher.de/barf-rechner/ (~162 Woerter):
+    - Unsere Empfehlung
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 2
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            57/100
+  Status:           NACHBESSERN
+  Wortanzahl:       2667 (Ziel: >=2000)
+  H2-Headings:      8
+  Eyecatcher:       6
+  FAQs:             7
+  Quellen:          4
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.15% (4x, Ziel: 1-2%)
+    ✗ Haupt-Keyword NICHT in den ersten 100 Woertern
+    ✗ Haupt-Keyword nur in 1 H2 (min. 2)
+    ✗ TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!
+    ✗ Text schwer lesbar: Wiener Sachtextformel 12.4 (Ziel: 6-10, max. 12)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="barf rechner hund - Ratgeber"  Datei: barf-rechner-hund.webp
+  Content-Bild:  Alt="barf rechner hund - Detail"    Datei: barf-rechner-hund-detail.webp
+  Content-Bild:  Alt="barf rechner hund - Praxis"    Datei: barf-rechner-hund-praxis.webp
+
+======================================================================

@@ -1,38 +1,39 @@
 {
-  "date": "2026-06-21T11:32:15.114177",
+  "date": "2026-06-23T09:06:36.549786",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "Bestes Hundefutter: Kriterien und Empfehlungen",
-      "slug": "bestes-hundefutter",
+      "title": "BARF-Rechner für Hunde: Rationen planen und kalkulieren",
+      "slug": "barf-rechner-hund",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/bestes-hundefutter.md",
-      "quality_score": 62,
-      "word_count": 2782,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/barf-rechner-hund.md",
+      "quality_score": 57,
+      "word_count": 2667,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.47% (13x, Ziel: 1-2%)",
+        "Keyword-Dichte zu niedrig: 0.15% (4x, Ziel: 1-2%)",
         "Haupt-Keyword NICHT in den ersten 100 Woertern",
+        "Haupt-Keyword nur in 1 H2 (min. 2)",
         "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
-        "Text schwer lesbar: Wiener Sachtextformel 13.0 (Ziel: 6-10, max. 12)"
+        "Text schwer lesbar: Wiener Sachtextformel 12.4 (Ziel: 6-10, max. 12)"
       ],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-bestes-hundefutter.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-kriterien-empfehlungen.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-kriterien-empfehlungen.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-lebensphase-welpe-adult-senior.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/bestes-hundefutter-lebensphase-welpe-adult-senior.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/futterarten-vergleich-nass-trocken-barf-kaltgepresst.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/futterarten-vergleich-nass-trocken-barf-kaltgepresst.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/bestes-hundefutter.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/bestes-hundefutter.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-barf-rechner-hund.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-futterpyramide-zusammensetzung-konkreten-prozentwerten.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-futterpyramide-zusammensetzung-konkreten-prozentwerten.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-hund.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-hund.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-sonderfaelle-welpen-senioren-kastrierte-hunde.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-sonderfaelle-welpen-senioren-kastrierte-hunde.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/barf-rechner-hund.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/barf-rechner-hund.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 28062,
-    "claude_output_tokens": 23834,
+    "claude_input_tokens": 26978,
+    "claude_output_tokens": 22920,
     "claude_cache_write_tokens": 21833,
     "claude_cache_read_tokens": 2296,
     "ahrefs_requests": 5,
@@ -46,12 +47,12 @@
         "costUsd": 0.123
       }
     },
-    "total_cost_usd": 0.6473,
+    "total_cost_usd": 0.6303,
     "per_article": [
       {
-        "title": "Bestes Hundefutter: Kriterien und Empfehlungen",
-        "claude_input": 28062,
-        "claude_output": 23834,
+        "title": "BARF-Rechner für Hunde: Rationen planen und kalkulieren",
+        "claude_input": 26978,
+        "claude_output": 22920,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -61,34 +62,34 @@
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 4385,
-        "output_tokens": 3358,
-        "cost_usd": 0.0708
+        "input_tokens": 4381,
+        "output_tokens": 3189,
+        "cost_usd": 0.0683
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 7100,
-        "output_tokens": 7567,
-        "cost_usd": 0.1441
+        "input_tokens": 6780,
+        "output_tokens": 7353,
+        "cost_usd": 0.1399
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 5309,
-        "output_tokens": 10835,
-        "cost_usd": 0.2323
+        "input_tokens": 5151,
+        "output_tokens": 10136,
+        "cost_usd": 0.2214
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 11268,
-        "output_tokens": 2074,
-        "cost_usd": 0.077
+        "input_tokens": 10666,
+        "output_tokens": 2242,
+        "cost_usd": 0.0777
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 28062,
-        "outputTokens": 23834,
-        "costUsd": 0.5243
+        "inputTokens": 26978,
+        "outputTokens": 22920,
+        "costUsd": 0.5073
       }
     }
   }
