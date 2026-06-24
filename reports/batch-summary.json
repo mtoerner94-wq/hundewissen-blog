@@ -1,39 +1,37 @@
 {
-  "date": "2026-06-23T09:06:36.549786",
+  "date": "2026-06-24T14:38:49.324968",
   "total_articles": 1,
   "successful": 1,
   "failed": 0,
   "results": [
     {
-      "title": "BARF-Rechner für Hunde: Rationen planen und kalkulieren",
-      "slug": "barf-rechner-hund",
+      "title": "Welcher Hund passt zu mir? Der komplette Ratgeber",
+      "slug": "welcher-hund-passt-mir",
       "success": true,
-      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/barf-rechner-hund.md",
-      "quality_score": 57,
-      "word_count": 2667,
+      "filepath": "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/welcher-hund-passt-mir.md",
+      "quality_score": 74,
+      "word_count": 2786,
       "issues": [
-        "Keyword-Dichte zu niedrig: 0.15% (4x, Ziel: 1-2%)",
-        "Haupt-Keyword NICHT in den ersten 100 Woertern",
-        "Haupt-Keyword nur in 1 H2 (min. 2)",
+        "Keyword-Dichte zu niedrig: 0.32% (9x, Ziel: 1-2%)",
         "TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!",
-        "Text schwer lesbar: Wiener Sachtextformel 12.4 (Ziel: 6-10, max. 12)"
+        "Keine Tabelle gefunden (min. 1)"
       ],
       "generated_files": [
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-barf-rechner-hund.txt",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-futterpyramide-zusammensetzung-konkreten-prozentwerten.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-futterpyramide-zusammensetzung-konkreten-prozentwerten.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-hund.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-hund.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-sonderfaelle-welpen-senioren-kastrierte-hunde.webp",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/barf-rechner-sonderfaelle-welpen-senioren-kastrierte-hunde.webp.hash",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/barf-rechner-hund.md",
-        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/barf-rechner-hund.qa.json"
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/reports/report-welcher-hund-passt-mir.txt",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hund-leine-stadtpark.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/hund-leine-stadtpark.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/labrador-golden-retriever-wiese.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/labrador-golden-retriever-wiese.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/welcher-hund-passt-zu-mir.webp",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/assets/images/welcher-hund-passt-zu-mir.webp.hash",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/welcher-hund-passt-mir.md",
+        "/Users/michaeltorner/Projekte/Websites/hundewissen-blog/src/content/blog/welcher-hund-passt-mir.qa.json"
       ]
     }
   ],
   "costs": {
-    "claude_input_tokens": 26978,
-    "claude_output_tokens": 22920,
+    "claude_input_tokens": 27840,
+    "claude_output_tokens": 22978,
     "claude_cache_write_tokens": 21833,
     "claude_cache_read_tokens": 2296,
     "ahrefs_requests": 5,
@@ -47,12 +45,12 @@
         "costUsd": 0.123
       }
     },
-    "total_cost_usd": 0.6303,
+    "total_cost_usd": 0.6338,
     "per_article": [
       {
-        "title": "BARF-Rechner für Hunde: Rationen planen und kalkulieren",
-        "claude_input": 26978,
-        "claude_output": 22920,
+        "title": "Welcher Hund passt zu mir? Der komplette Ratgeber",
+        "claude_input": 27840,
+        "claude_output": 22978,
         "claude_cache_write": 0,
         "claude_cache_read": 0,
         "ahrefs_requests": 5,
@@ -62,34 +60,34 @@
     "per_agent": {
       "researcher": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 4381,
-        "output_tokens": 3189,
-        "cost_usd": 0.0683
+        "input_tokens": 4882,
+        "output_tokens": 3383,
+        "cost_usd": 0.0727
       },
       "planner": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 6780,
-        "output_tokens": 7353,
-        "cost_usd": 0.1399
+        "input_tokens": 7158,
+        "output_tokens": 6937,
+        "cost_usd": 0.1348
       },
       "writer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 5151,
-        "output_tokens": 10136,
-        "cost_usd": 0.2214
+        "input_tokens": 5214,
+        "output_tokens": 10054,
+        "cost_usd": 0.2203
       },
       "reviewer": {
         "model": "claude-sonnet-4-6",
-        "input_tokens": 10666,
-        "output_tokens": 2242,
-        "cost_usd": 0.0777
+        "input_tokens": 10586,
+        "output_tokens": 2604,
+        "cost_usd": 0.0829
       }
     },
     "providers": {
       "anthropic": {
-        "inputTokens": 26978,
-        "outputTokens": 22920,
-        "costUsd": 0.5073
+        "inputTokens": 27840,
+        "outputTokens": 22978,
+        "costUsd": 0.5108
       }
     }
   }

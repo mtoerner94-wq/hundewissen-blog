@@ -1,0 +1,166 @@
+======================================================================
+  KONTROLL-REPORT: Welcher Hund passt zu mir? Der komplette Ratgeber
+======================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+1. META-DATEN
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  SEO-Title:        Welcher Hund passt zu mir? Der komplette Ratgeber
+  Title-Laenge:     49 Zeichen (Ziel: <=60)
+  Meta-Description: Welcher Hund passt zu mir? Unser Ratgeber hilft dir mit Test, Rassenübersicht & Kosten-Check, die perfekte Hunderasse für dein Leben zu finden. Jetzt lesen!
+  Desc-Laenge:      156 Zeichen (Ziel: <=160)
+  Slug:             welcher-hund-passt-mir
+  URL:              https://hundewissen-mit-kopf.de/hunderassen/welcher-hund-passt-mir/
+  Kategorie:        Hunderassen (hunderassen)
+  Tags:             welcher hund passt zu mir, hunderassen, hunderasse für anfänger, welcher hund passt zu mir test, kleine hunderassen
+  Datum:            2026-06-24
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. HAUPT-KEYWORD (Ahrefs-Daten)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword:          welcher hund passt zu mir
+  Suchvolumen:      8800/Monat
+  Keyword Diff:     6/100
+  CPC:              $6
+  Traffic Pot.:     15000
+
+  Einbau-Check:
+    Vorkommen:      9x
+    Keyword-Dichte: 0.32% (Ziel: 1-2%)
+    In ersten 100W: JA
+    In H2:          3x (Ziel: >=2)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. NEBENKEYWORDS (Ahrefs Related Terms)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                     Vol  Diff      TP  Eingebaut
+  ──────────────────────────────────────── ────── ───── ───────  ─────────
+  hund                                     187000    40    6600       132x
+  golden retriever                         114000     8   10000        14x
+  hunderassen                               74000    12   19000        19x
+  französische bulldogge                    55000     8    5500         3x
+  hunde                                     31000     0    3400        84x
+  jack russell terrier                      24000     4    6400         4x
+  labrador retriever                        19000     7   14000        10x
+  king charles                              18000     9   22000         9x
+  kg                                        12000     1    5500      FEHLT
+  jack russell                              11000    17    6400         4x
+  hunderasse                                11000     3   18000        27x
+  welcher hund passt zu mir                  8800     6   15000        15x
+  king charles spaniel                       8800     3     800         9x
+  große hunde                                6800     1    7100         4x
+  finden                                     6700     4    1500         4x
+  welche hunderasse passt zu mir             3900     4   15000      FEHLT
+  passt                                      2900     0     200        21x
+  rasse                                      1900     4    1500       112x
+  cavalier king charles                      1800     3    4800         9x
+  welcher hund passt zu mir test             1800     7   15000         1x
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. SEARCH SUGGESTIONS (Ahrefs)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Keyword                                          Vol  Diff  Eingebaut
+  ───────────────────────────────────────────── ────── ─────  ─────────
+  welcher hund passt zu mir                       8800     6        15x
+  welcher hund passt zu mir test                  1800     7         1x
+  welcher hund passt zu mir rütter                 400     7      FEHLT
+  welcher hund passt zu mir teste dich             300     8      FEHLT
+  welcher hund passt zu mir test vdh               200    21      FEHLT
+  welcher hund passt zu mir quiz                   200     5      FEHLT
+  hundetest welcher hund passt zu mir              150     5      FEHLT
+  welcher hund passt zu mir test kostenlos         100     8      FEHLT
+  welcher hund passt zu mir bild                    80     0      FEHLT
+  welcher hund passt zu mir anfänger                70     5      FEHLT
+  welcher hund passt am besten zu mir               70     5      FEHLT
+  welcher hund passt zu mir ausführlicher test      50     5      FEHLT
+  hunderassen test welcher hund passt zu mir        50     5      FEHLT
+  fressnapf welcher hund passt zu mir               50     9      FEHLT
+  welcher hund passt zu mir großer test             50     0      FEHLT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. SERP-ANALYSE (Top-Ergebnisse)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Anzahl analysiert:    5
+  Durchschn. Woerter:   853
+  Durchschn. DR:        62.6
+  Unser Wortanzahl:     2786
+
+  Pos 1: https://www.dasgesundetier.de/magazin/rassen/welcher-hund
+    DR: 55.0, Traffic: 15228, Keywords: 124
+  Pos 2: https://www.fressnapf.de/magazin/hund/rassen/welcherhund/
+    DR: 74.0, Traffic: 6964, Keywords: 140
+  Pos 3: https://www.purina.de/wahl-eines-haustieres/hunderassen/welcher-hund-passt-zu-mir
+    DR: 62.0, Traffic: 3606, Keywords: 143
+  Pos 4: https://www.mera-petfood.com/de/hund/welcher-hund-passt-zu-mir/
+    DR: 58.0, Traffic: 1086, Keywords: 78
+  Pos 5: https://www.agila.de/agila-magazin/quiz-deine-hunderasse-finden
+    DR: 64.0, Traffic: 648, Keywords: 51
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+6. H2-THEMEN DER KONKURRENZ
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  https://www.dasgesundetier.de/magazin/rassen/welcher-hund (~1803 Woerter):
+    - Finde Deinen perfekten Vierbeiner mit unserem Test
+    - Warum ist es wichtig, die richtige Hunderasse zu wählen?
+    - Warum der richtige Hund den Unterschied macht
+    - Welche Hunderasse passt zu Deinem Lebensstil?
+    - Tipps für zukünftige Hundehalter– So bereitest Du Dich optimal vor
+    - Ein Hund zieht bald bei Dir ein?
+
+  https://www.fressnapf.de/magazin/hund/rassen/welcherhund/ (~1594 Woerter):
+    - Du möchtest dir einen Hund anschaffen und ziehst schon eine bestimmte Hunderasse in Betracht oder möchtest erfahren, welche Hunderasse am besten zu dir passt?
+    - Einige Gedanken zur Frage: Welcher Hund passt zu mir?
+    - Welches Wesen wünscht du dir von deinem Hund?
+    - Wo wohnst du und wie viel Platz steht dem Hund zur Verfügung?
+    - Wie viel Erfahrungen hast du bereits in Hundeerziehung?
+    - Wie viel Zeit kannst du deinem Hund widmen?
+    - Wie ist der Hund während deiner Abwesenheit versorgt?
+    - Mit welchen Kosten ist mit einem Hund zu rechnen?
+
+  https://www.mera-petfood.com/de/hund/welcher-hund-passt-zu-mir/ (~17 Woerter):
+    - Lachs & Reis
+    - Lamm & Reis
+    - Insect protein
+    - Seidenraupe & Kartoffel
+    - Rind & Kartoffel
+    - Hering & Kartoffel
+    - Unser Newsletter
+
+  https://www.agila.de/agila-magazin/quiz-deine-hunderasse-finden (~0 Woerter):
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+7. INTERNE VERLINKUNG
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Empfohlene Links: 3
+  Eingebaute Links: 5
+
+  - "hund" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/hund-bellt-staendig/  [Eingebaut: JA]
+  - "hunderassen" -> https://hundewissen-mit-kopf.de/hunderassen/grosse-hunderassen-langhaar/  [Eingebaut: JA]
+  - "hunde" -> https://hundewissen-mit-kopf.de/erziehung-verhalten/fressen-hunde-kot/  [Eingebaut: JA]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+8. QUALITY-CHECK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Score:            74/100
+  Status:           BESTANDEN
+  Wortanzahl:       2786 (Ziel: >=2000)
+  H2-Headings:      9
+  Eyecatcher:       7
+  FAQs:             7
+  Quellen:          5
+  Interne Links:    5
+
+  ISSUES:
+    ✗ Keyword-Dichte zu niedrig: 0.32% (9x, Ziel: 1-2%)
+    ✗ TL;DR-Box steht nach erstem H2 (gehoert direkt nach Einleitung)!
+    ✗ Keine Tabelle gefunden (min. 1)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+9. BILDVORSCHLAEGE + ALT-TAGS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Beitragsbild:  Alt="welcher hund passt zu mir - Ratgeber"  Datei: welcher-hund-passt-zu-mir.webp
+  Content-Bild:  Alt="welcher hund passt zu mir - Detail"    Datei: welcher-hund-passt-zu-mir-detail.webp
+  Content-Bild:  Alt="welcher hund passt zu mir - Praxis"    Datei: welcher-hund-passt-zu-mir-praxis.webp
+
+======================================================================
